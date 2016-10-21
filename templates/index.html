@@ -1,0 +1,26 @@
+{% from "_formhelpers.html" import render_field %}
+<html>
+<head>
+<title>WTForms</title>
+</head>
+<body>
+	<div><font face="candara" color="blue" size = "5"><b>Given Top Rating Movies To Given User:</b></font></div>
+	<form method="POST" action="/">
+	   <dl>
+	    {{ form.csrf_token }}
+	    {{ render_field(form.user_id) }}
+	    {{ render_field(form.count) }}
+	    <input type="submit" value="Submit">
+	    </dl>
+	</form>
+	<div><font face="candara" color="blue" size = "5"><b>Indvidual Movie Rating For Given User: </b></font></div>
+	<form method="POST" action="/">
+	   <dl>
+	    {{ formIndv.csrf_token }}
+	    {{ render_field(formIndv.user_id) }}
+	    {{ render_field(formIndv.movie_id) }}
+	    <input type="submit" value="Submit">
+	    </dl>
+	</form>
+</body>
+</html>

@@ -7,7 +7,7 @@ from wtforms import StringField, SubmitField
 from wtforms.validators import InputRequired
 
 import json
-from engine import RecommendationEngine
+from engine import RecEngine
  
 import logging
 logging.basicConfig(level=logging.INFO)
@@ -58,7 +58,7 @@ def movie_ratings(user_id, movie_id):
 def create_app(spark_context):
     global recommendation_engine 
 
-    recommendation_engine = RecommendationEngine(spark_context)    
+    recommendation_engine = RecEngine(spark_context)    
     
     #app = Flask(__name__)
     #app.register_blueprint(main)

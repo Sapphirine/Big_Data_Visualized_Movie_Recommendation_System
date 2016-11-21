@@ -11,7 +11,7 @@ def counts(rating_entry):
     return rating_entry[0], (num_ratings, float(sum(x for x in rating_entry[1]))/num_ratings)
 
 
-class RecommendationEngine:
+class RecEngine:
     def __predict_ratings(self, user_and_movie_RDD):
         """Gets predictions for a given (userID, movieID) formatted RDD
         Returns: an RDD with format (movieTitle, movieRating, numRatings)
@@ -28,7 +28,6 @@ class RecommendationEngine:
         """Given a user_id and a list of movie_ids, predict ratings for them 
         """
         requested_movies_RDD = self.sc.parallelize(movie_ids).map(lambda x: (user_id, x))
-        # Get predicted ratings
         ratings = self.__predict_ratings(requested_movies_RDD).collect()
         return ratings
     
@@ -49,7 +48,7 @@ class RecommendationEngine:
 
 	self.sc = spark_content
 	logger.info("Start to Read ratings.csv ... ")
-	raw_ratings = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/movie_service/datasets/ml-latest-small/ratings.csv")
+	raw_ratings = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/ratings.csv")
 	#entry[0]: User ID; entry[1]: Movie ID; entry[2]: ratings
 	first_line = raw_ratings.take(1)[0]
 	self.ratings = raw_ratings.filter(lambda temp: temp != first_line)\
@@ -57,7 +56,7 @@ class RecommendationEngine:
 			.map(lambda entry: (int(entry[0]), int(entry[1]), float(entry[2]))).cache()
 
 	logger.info("Start to Read movies.csv ... ")
-	raw_movies = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/movie_service/datasets/ml-latest-small/movies.csv")
+	raw_movies = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
 	#entry[0]: Movie ID; entry[1]: Title; entry[2]: Genere
 	first_line = raw_movies.take(1)[0]
 	self.movies = raw_movies.filter(lambda temp: temp != first_line)\
@@ -67,7 +66,7 @@ class RecommendationEngine:
 	logger.info("Start to Count Movie ratings ...")
 	self.ratings_count = self.ratings.map(lambda entry:(entry[1], entry[2])).groupByKey().map(counts).map(lambda x: (x[0], x[1][0]))
 
-        logger.info("Train the ALS model...")
+        logger.info("Train the ALS model ...")
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
         logger.info("Successfully build ALS model!")
 

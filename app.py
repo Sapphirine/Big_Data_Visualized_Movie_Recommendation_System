@@ -40,7 +40,7 @@ def index():
 @main.route("/<int:user_id>/ratings/top/<int:count>", methods=["GET"])
 def top_ratings(user_id, count):
     logger.debug("User %s TOP ratings requested", user_id)
-    top_ratings = recommendation_engine.get_top_ratings(user_id,count)
+    top_ratings = recommendation_engine.recommend_top_movies(user_id,count)
     list = json.dumps(top_ratings)
     #return json.dumps(top_ratings)
     return render_template('top_rating.html', **locals())
@@ -50,7 +50,7 @@ def movie_ratings(user_id, movie_id):
 
     #logger.debug("User %s rating requested for movie %s", user_id, movie_id)
     logger.info("User %s rating requested for movie %s", user_id, movie_id);
-    ratings = recommendation_engine.get_ratings_for_movie_ids(user_id, [movie_id])
+    ratings = recommendation_engine.target_user_movies_ratings(user_id, [movie_id])
     value = json.dumps(ratings)
     return render_template('select_movie.html', value=value, user_id=user_id, movie_id=movie_id)
     #return json.dumps(ratings)

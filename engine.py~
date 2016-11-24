@@ -54,6 +54,8 @@ class RecEngine:
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
         logger.info("Successfully build ALS model!")
 
+	movieVectors = self.model.userFeatures.map(lambda (id, factor): id, Vectors.dense(factor))
+	userVectors = self.model.productFeatures.map(lambda (id, factor): id, Vectors.dense(factor))
 
 
 

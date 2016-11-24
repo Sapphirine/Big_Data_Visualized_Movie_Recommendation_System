@@ -1,4 +1,4 @@
-import os
+import pyspark.mllib
 from pyspark.mllib.recommendation import ALS
 
 import logging
@@ -50,10 +50,14 @@ class RecEngine:
 
 	logger.info("Start to Count Movie ratings ...")
 	self.ratings_count = self.ratings.map(lambda entry:(entry[1], entry[2])).groupByKey().map(counts).map(lambda x: (x[0], x[1][0]))
-
         logger.info("Train the ALS model ...")
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
         logger.info("Successfully build ALS model!")
+
+	movieVectors = self.model.userFeatures.map(lambda (id, factor): (id, Vectors.dense(factor)))
+	userVectors = self.model.productFeatures.map(lambda (id, factor): (id, Vectors.dense(factor)))
+
+
 
 
 

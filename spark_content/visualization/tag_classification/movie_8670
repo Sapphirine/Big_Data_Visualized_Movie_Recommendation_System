@@ -1,0 +1,100 @@
+criterion:0.99425
+allegory:0.9785
+tense:0.95
+stylized:0.938
+germany:0.90025
+bleak:0.8775
+imdb top 250:0.86675
+insanity:0.8665
+silent:0.86625
+visual:0.857
+crime:0.8565
+masterpiece:0.84675
+black and white:0.83875
+complex:0.834
+eerie:0.82925
+enigmatic:0.82475
+cerebral:0.82425
+german:0.823
+noir:0.81225
+creepy:0.8035
+ominous:0.795
+claustrophobic:0.78125
+talky:0.77675
+censorship:0.775
+hit men:0.77025
+weird:0.75175
+storytelling:0.75125
+suspenseful:0.74775
+assassination:0.73775
+surreal:0.73025
+mystery:0.726
+nazis:0.716
+film noir:0.7095
+forceful:0.70425
+police investigation:0.70175
+thriller:0.699
+atmospheric:0.697
+greed:0.696
+classic:0.6845
+original:0.68425
+psychological:0.68275
+grim:0.682
+suspense:0.6785
+reflective:0.6725
+great ending:0.67025
+unusual plot structure:0.663
+obsession:0.65325
+melancholy:0.6495
+golden palm:0.6405
+1930s:0.64
+nocturnal:0.6385
+paranoid:0.63425
+chase:0.632
+harsh:0.63125
+psychology:0.63125
+dark:0.61325
+cinematography:0.59425
+oscar (best foreign language film):0.594
+visually appealing:0.59175
+runaway:0.59125
+corruption:0.59
+visceral:0.58475
+downbeat:0.58225
+foreign:0.5785
+disturbing:0.57675
+intimate:0.57675
+detective:0.57125
+mental hospital:0.5705
+organized crime:0.57
+twists & turns:0.56875
+noir thriller:0.5575
+betrayal:0.55375
+conspiracy:0.54575
+investigation:0.53875
+gunfight:0.53825
+breathtaking:0.53575
+meditative:0.53575
+social commentary:0.523
+suprisingly clever:0.5205
+dialogue:0.5175
+berlin:0.516
+nazi:0.51275
+manipulation:0.509
+movielens top pick:0.502
+melancholic:0.4975
+dreamlike:0.49675
+light:0.49375
+political:0.4865
+based on a book:0.48575
+non-linear:0.48325
+powerful ending:0.483
+affectionate:0.4805
+spying:0.4805
+mentor:0.47925
+strange:0.47875
+existentialism:0.47725
+crime gone awry:0.47225
+macabre:0.46725
+culture clash:0.46725
+brutality:0.46625

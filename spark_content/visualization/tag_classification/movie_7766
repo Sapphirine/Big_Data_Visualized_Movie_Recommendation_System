@@ -1,0 +1,100 @@
+criterion:0.997
+kurosawa:0.9945
+japan:0.98775
+imdb top 250:0.97875
+masterpiece:0.97075
+bleak:0.96625
+stylized:0.96325
+shakespeare:0.94975
+black and white:0.9145
+forceful:0.90575
+grim:0.9005
+samurai:0.88875
+atmospheric:0.88225
+japanese:0.87
+greed:0.868
+visceral:0.8645
+enigmatic:0.8455
+tragedy:0.83825
+meditative:0.83725
+cinematography:0.8325
+betrayal:0.824
+visual:0.81825
+original:0.8045
+golden palm:0.79875
+storytelling:0.7955
+melancholy:0.7815
+character study:0.78125
+oscar (best directing):0.77875
+talky:0.76125
+drama:0.75975
+oscar (best actress):0.75825
+dark:0.75675
+dramatic:0.74375
+great acting:0.74175
+adaptation:0.7365
+cerebral:0.73525
+tense:0.73225
+breathtaking:0.7235
+corruption:0.7165
+visually appealing:0.71625
+downbeat:0.71425
+intimate:0.706
+runaway:0.693
+visually stunning:0.69175
+guilt:0.69025
+reflective:0.68325
+classic:0.678
+eerie:0.67025
+social commentary:0.66575
+tokyo:0.6615
+dialogue driven:0.6585
+melancholic:0.652
+police investigation:0.65075
+movielens top pick:0.6455
+ghosts:0.6405
+harsh:0.63675
+stunning:0.62975
+oscar (best foreign language film):0.62625
+dialogue:0.62575
+stylish:0.61925
+photography:0.61475
+amazing cinematography:0.612
+great:0.61075
+great movie:0.60925
+unusual plot structure:0.608
+noir:0.60675
+macabre:0.59675
+story:0.59375
+murder:0.59225
+culture clash:0.58925
+affectionate:0.5885
+childhood:0.5885
+gunfight:0.5875
+complex:0.58525
+great ending:0.579
+suprisingly clever:0.5755
+oscar (best supporting actress):0.565
+medieval:0.56
+transformation:0.5595
+insanity:0.558
+poignant:0.5575
+foreign:0.5555
+psychological:0.5515
+francis ford copolla:0.54725
+adapted from:book:0.5465
+based on a play:0.54225
+paranoid:0.5405
+weird:0.54025
+bloody:0.5395
+narrated:0.53575
+intense:0.532
+witches:0.527
+violent:0.52675
+brutality:0.52275
+dreamlike:0.52225
+amazing photography:0.521
+rebellion:0.52025
+assassination:0.518
+light:0.51725
+crime gone awry:0.5135

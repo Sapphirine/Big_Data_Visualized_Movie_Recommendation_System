@@ -1,0 +1,100 @@
+criterion:0.95625
+classic:0.90375
+comedy:0.888
+chase:0.8475
+imdb top 250:0.845
+irreverent:0.784
+original:0.75375
+sarcasm:0.7345
+hilarious:0.7305
+talky:0.73
+oscar (best actress):0.7285
+oscar (best directing):0.721
+drinking:0.7105
+great:0.69025
+funny:0.687
+dialogue:0.68125
+classic car:0.67675
+bank robbery:0.663
+great movie:0.65225
+runaway:0.63925
+suprisingly clever:0.6355
+very funny:0.631
+affectionate:0.62925
+oscar (best supporting actress):0.6275
+masterpiece:0.6255
+silent:0.62375
+humorous:0.61975
+quotable:0.61275
+storytelling:0.60075
+dysfunctional family:0.6
+dramatic:0.591
+culture clash:0.578
+adapted from:book:0.5745
+humor:0.5605
+highly quotable:0.55925
+funniest movies:0.559
+social commentary:0.546
+farce:0.54475
+absurd:0.54125
+clever:0.53475
+story:0.52875
+slapstick:0.52725
+great acting:0.52525
+family:0.51625
+secrets:0.51175
+melancholy:0.508
+exceptional acting:0.50675
+forceful:0.50625
+witty:0.506
+fun movie:0.50575
+great ending:0.501
+atmospheric:0.49725
+mentor:0.4965
+movielens top pick:0.49575
+oscar (best supporting actor):0.49225
+enigmatic:0.491
+golden palm:0.48025
+satire:0.4795
+childhood:0.4785
+good:0.47325
+black and white:0.4685
+marx brothers:0.446
+unusual plot structure:0.44525
+melancholic:0.44425
+afi 100 (movie quotes):0.44275
+family drama:0.4415
+entirely dialogue:0.43875
+catastrophe:0.43575
+off-beat comedy:0.42775
+artistic:0.42725
+adaptation:0.4255
+transformation:0.423
+cerebral:0.422
+reflective:0.42075
+alter ego:0.4185
+life & death:0.416
+downbeat:0.415
+crime gone awry:0.41475
+police investigation:0.414
+surreal:0.40425
+good soundtrack:0.4025
+redemption:0.40075
+anti-hero:0.397
+good dialogue:0.39475
+murder:0.394
+visually appealing:0.39375
+visual:0.39325
+comic:0.3905
+stylized:0.38825
+segregation:0.387
+genius:0.386
+existentialism:0.38525
+light:0.378
+satirical:0.37675
+radio:0.37525
+fighting the system:0.37475
+afi 100 (laughs):0.3725
+brothers:0.36875
+hotel:0.36775
+excellent script:0.36325

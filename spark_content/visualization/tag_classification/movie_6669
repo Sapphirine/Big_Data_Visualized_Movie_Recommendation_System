@@ -1,0 +1,100 @@
+criterion:0.9975
+kurosawa:0.99
+japan:0.988
+meditative:0.984
+cancer:0.97575
+masterpiece:0.96675
+tokyo:0.9635
+poignant:0.96175
+terminal illness:0.94425
+life & death:0.934
+death:0.91375
+imdb top 250:0.91125
+life:0.9105
+loneliness:0.90125
+storytelling:0.8915
+existentialism:0.887
+melancholy:0.8835
+reflective:0.867
+black and white:0.85825
+bleak:0.85375
+intimate:0.845
+melancholic:0.83625
+bittersweet:0.8315
+enigmatic:0.82825
+lyrical:0.81675
+compassionate:0.81325
+golden palm:0.8045
+beautifully filmed:0.80425
+social commentary:0.799
+samurai:0.794
+cinematography:0.77075
+drinking:0.7625
+childhood:0.76
+oscar (best foreign language film):0.75825
+mentor:0.75225
+oscar (best directing):0.746
+downbeat:0.7415
+talky:0.7375
+philosophical:0.736
+touching:0.735
+sentimental:0.72975
+oscar (best actress):0.721
+cerebral:0.7205
+philosophy:0.706
+forceful:0.7045
+stylized:0.69925
+character study:0.69475
+earnest:0.69425
+tragedy:0.689
+breathtaking:0.68825
+original:0.68775
+movielens top pick:0.6865
+heartbreaking:0.68175
+visually appealing:0.6805
+emotional:0.6775
+great acting:0.674
+runaway:0.66075
+transformation:0.65975
+passionate:0.65875
+dramatic:0.656
+grim:0.6555
+japanese:0.6545
+good soundtrack:0.64675
+life philosophy:0.634
+atmospheric:0.6315
+foreign:0.6185
+redemption:0.61825
+culture clash:0.60775
+honest:0.6055
+depression:0.60375
+mental illness:0.60075
+classic:0.5935
+sacrifice:0.588
+affectionate:0.5865
+suprisingly clever:0.58275
+wistful:0.57525
+stunning:0.57025
+unusual plot structure:0.56525
+narrated:0.5565
+weird:0.549
+courage:0.54875
+greed:0.53575
+feel-good:0.5285
+slow paced:0.51875
+cathartic:0.51575
+self discovery:0.51325
+artistic:0.51025
+harsh:0.5075
+story:0.506
+thought-provoking:0.503
+dreams:0.50225
+humanity:0.501
+great:0.5
+cynical:0.4945
+aging:0.493
+ironic:0.493
+sad:0.49125
+suicide attempt:0.49125
+beautiful:0.4905
+visceral:0.48725

@@ -1,0 +1,100 @@
+criterion:0.97875
+bank robbery:0.9425
+oscar (best foreign language film):0.91825
+prostitution:0.87275
+intimate:0.836
+redemption:0.7725
+art house:0.768
+psychological:0.73825
+slow paced:0.7315
+guilt:0.7245
+enigmatic:0.723
+bleak:0.71425
+talky:0.708
+cinematography:0.701
+weird:0.6995
+golden palm:0.691
+revenge:0.6725
+melancholic:0.6395
+drama:0.63875
+vengeance:0.634
+corruption:0.63125
+obsession:0.625
+original:0.61875
+social commentary:0.61125
+independent film:0.59975
+character study:0.5855
+hitman:0.577
+visually stunning:0.5765
+psychology:0.56375
+life & death:0.562
+harsh:0.56
+cerebral:0.55725
+death:0.557
+morality:0.54925
+unusual plot structure:0.548
+culture clash:0.544
+slow:0.543
+loneliness:0.52025
+crime gone awry:0.512
+twists & turns:0.50625
+dialogue:0.49525
+allegory:0.49425
+suspenseful:0.481
+thriller:0.479
+hotel:0.476
+humanity:0.4725
+mentor:0.4695
+absurd:0.4685
+visually appealing:0.46725
+relationships:0.4665
+adultery:0.465
+gritty:0.45875
+entirely dialogue:0.452
+great ending:0.45025
+bad ending:0.43325
+suprisingly clever:0.43175
+meditative:0.4285
+first contact:0.4235
+tense:0.4235
+stoner movie:0.42175
+assassination:0.42175
+greed:0.4185
+visceral:0.41725
+realistic action:0.41675
+pornography:0.41625
+reflective:0.4155
+oscar:0.41525
+writers:0.40525
+unfunny:0.404
+not funny:0.3995
+realistic:0.3985
+catastrophe:0.39725
+cathartic:0.39625
+paranoid:0.39525
+photography:0.395
+storytelling:0.39475
+artistic:0.391
+solitude:0.38575
+noir:0.38475
+atmospheric:0.38325
+story:0.3785
+police investigation:0.37425
+police corruption:0.374
+neo-noir:0.3715
+betrayal:0.3705
+classic car:0.36725
+visual:0.3665
+dramatic:0.366
+male nudity:0.36575
+intense:0.36475
+justice:0.354
+nudity (full frontal - brief):0.35075
+masterpiece:0.3485
+kidnapping:0.34525
+insanity:0.33925
+grim:0.33875
+movielens top pick:0.33775
+existentialism:0.337
+vienna:0.33125
+stylized:0.331

@@ -1,0 +1,100 @@
+criterion:0.9745
+satirical:0.93575
+england:0.92525
+satire:0.91625
+insanity:0.9065
+psychiatry:0.89825
+jesus:0.8805
+irreverent:0.88025
+dark humor:0.87875
+black comedy:0.86975
+original:0.8515
+witty:0.79875
+stylized:0.7625
+british:0.7325
+eccentricity:0.73075
+biting:0.7175
+talky:0.71075
+dark fantasy:0.7095
+god:0.70925
+social commentary:0.708
+quirky:0.70425
+culture clash:0.70175
+dark comedy:0.69025
+disturbing:0.66725
+oscar (best actress):0.66625
+farce:0.66325
+off-beat comedy:0.6625
+british comedy:0.66125
+absurd:0.66075
+unusual plot structure:0.66
+affectionate:0.6565
+great ending:0.651
+macabre:0.64275
+based on a play:0.64
+dialogue:0.639
+adultery:0.63675
+dramatic:0.62575
+cynical:0.6055
+sexualized violence:0.603
+surreal:0.59525
+political:0.5895
+humorous:0.58525
+dark:0.58425
+very funny:0.5665
+adaptation:0.56225
+oscar (best supporting actress):0.56225
+hilarious:0.556
+golden palm:0.5535
+paranoid:0.553
+dysfunctional family:0.548
+oscar (best directing):0.546
+weird:0.5395
+imdb top 250:0.53825
+whimsical:0.5345
+melancholy:0.53175
+twists & turns:0.53
+ironic:0.52625
+adapted from:book:0.526
+manipulation:0.52275
+religion:0.5205
+greed:0.5205
+loneliness:0.5155
+good soundtrack:0.51425
+brutality:0.51075
+intimate:0.50525
+violent:0.50125
+movielens top pick:0.498
+narrated:0.493
+comedy:0.49225
+politics:0.492
+obsession:0.4845
+visually stunning:0.4815
+hallucinatory:0.4805
+forceful:0.473
+suprisingly clever:0.4665
+violence:0.46625
+atmospheric:0.46475
+grim:0.4635
+exceptional acting:0.4625
+surrealism:0.45525
+mentor:0.45525
+drinking:0.45375
+controversial:0.4525
+family:0.45075
+psychological:0.44875
+classic:0.442
+drama:0.44075
+runaway:0.43975
+clever:0.43925
+betrayal:0.43875
+enigmatic:0.4385
+censorship:0.43175
+brutal:0.4305
+fighting the system:0.4295
+visually appealing:0.42675
+catastrophe:0.419
+nocturnal:0.4185
+storytelling:0.4155
+entirely dialogue:0.4155
+cult classic:0.4155

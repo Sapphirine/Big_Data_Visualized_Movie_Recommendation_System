@@ -1,0 +1,100 @@
+criterion:0.997
+adultery:0.95075
+divorce:0.9455
+italian:0.8945
+italy:0.88925
+masterpiece:0.87025
+light:0.853
+imdb top 250:0.8495
+oscar (best foreign language film):0.84225
+18th century:0.83675
+oscar (best directing):0.833
+satirical:0.8295
+enigmatic:0.826
+affectionate:0.8185
+love:0.813
+talky:0.8055
+foreign:0.79875
+original:0.787
+golden palm:0.782
+women:0.774
+cheating:0.7725
+oscar (best actress):0.75975
+secrets:0.756
+cynical:0.753
+humorous:0.74625
+murder:0.74325
+brutality:0.74125
+witty:0.7385
+intimate:0.73775
+visually appealing:0.7295
+tragedy:0.7255
+satire:0.72
+great movie:0.7185
+melancholic:0.714
+biting:0.7135
+passionate:0.70625
+culture clash:0.70225
+obsession:0.697
+sweet:0.693
+clever:0.69175
+drama:0.6845
+interesting:0.6795
+cinematography:0.67725
+excellent script:0.67225
+farce:0.66925
+breathtaking:0.656
+oscar (best supporting actress):0.65375
+gunfight:0.653
+atmospheric:0.64225
+black and white:0.641
+movielens top pick:0.64075
+reflective:0.637
+fun movie:0.6315
+bittersweet:0.62525
+romantic:0.622
+marriage:0.6095
+classic:0.6095
+manipulation:0.60325
+downbeat:0.59375
+cerebral:0.59225
+great:0.591
+suprisingly clever:0.5905
+nostalgic:0.58525
+violent:0.583
+narrated:0.58075
+great acting:0.58025
+police investigation:0.57725
+idealism:0.57575
+stylized:0.56875
+melancholy:0.566
+sacrifice:0.55925
+runaway:0.55925
+childhood:0.558
+mob:0.55725
+art:0.557
+catastrophe:0.55425
+macabre:0.55175
+unusual plot structure:0.544
+creepy:0.537
+destiny:0.5365
+erotic:0.53425
+adapted from:book:0.532
+deadpan:0.53125
+multiple storylines:0.51975
+beautiful scenery:0.51925
+social commentary:0.518
+whimsical:0.5145
+dialogue:0.514
+complex:0.51075
+relationships:0.50925
+absurd:0.50775
+off-beat comedy:0.50775
+hotel:0.50775
+oscar winner:0.50775
+fighting the system:0.50725
+very funny:0.503
+oscar:0.5005
+brutal:0.49875
+sexy:0.497
+spanish:0.4955

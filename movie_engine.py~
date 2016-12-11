@@ -432,8 +432,8 @@ class RecEngine:
 	#uncomment to do the kmeans clusters for movies and users
 	#self.kmeans_result(raw_ratings,raw_movies)
 	#Uncomment the following to do some test of new added ratings. 
-	#name = "file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/new_user"
-	#self.ratings_new_user(name)
+	name = "file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/new_user"
+	self.ratings_new_user(name)
 
 
 

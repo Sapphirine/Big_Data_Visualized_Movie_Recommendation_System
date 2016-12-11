@@ -3,7 +3,7 @@
 <head>
 <title>WTForms</title>
 </head>
-<body><center>
+<body bottommargin="0" leftmargin="0" bottommargin="0" background = "images/background.jpg"><center>
 	<div><font face="candara" color="blue" size = "5"><b>Given Top Rating Movies To Given User:</b></font></div>
 	<form method="POST" action="/">
 	   <dl>

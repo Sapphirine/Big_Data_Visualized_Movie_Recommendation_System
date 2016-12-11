@@ -1,0 +1,9 @@
+<html lang="en">
+<form action="http://www.wordle.net/compose" method="POST" >
+	<textarea name="wordcounts" id="wordcounts"  style="display:none">
+		{{ value }}
+	</textarea>	
+    <input type="submit">
+</form>
+
+</html>

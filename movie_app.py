@@ -1,3 +1,4 @@
+import sys
 from flask import Blueprint
 from flask import Flask, request, render_template, url_for, redirect
 main = Flask(__name__)
@@ -21,11 +22,14 @@ class indvForm(Form):
     user_id = StringField('User Id:', validators=[InputRequired()])
     movie_id = StringField('Movie Id:', validators=[InputRequired()])
     
+class tagForm(Form):
+    movie_id = StringField('Movie Id:', validators=[InputRequired()])
 
 @main.route("/", methods = ["GET", "POST"])
 def index():
     form = topForm()
     formIndv = indvForm()
+    formTag = tagForm()
     if form.validate_on_submit():
 	#return "successful!"
 	tuser_id = form.user_id.data
@@ -35,6 +39,9 @@ def index():
 	indv_user = formIndv.user_id.data
         indv_mov = formIndv.movie_id.data
 	return redirect(url_for('movie_ratings', user_id = indv_user, movie_id = indv_mov))
+    if formTag.validate_on_submit():
+   	tag_mov = formTag.movie_id.data
+	return redirect(url_for('movie_tags', movie_id = tag_mov))
     return render_template('index.html', **locals())
  
 @main.route("/<int:user_id>/ratings/top/<int:count>", methods=["GET"])
@@ -53,17 +60,20 @@ def movie_ratings(user_id, movie_id):
     ratings = recommendation_engine.target_user_movies_ratings(user_id, [movie_id])
     value = json.dumps(ratings)
     return render_template('select_movie.html', value=value, user_id=user_id, movie_id=movie_id)
-    #return json.dumps(ratings)
 
- 
-    return json.dumps(ratings)
+@main.route("/<int:movie_id>", methods=["GET"])
+def movie_tags(movie_id):
+    logger.info("Get Visualizaton of the tags of the selected movie")
+    path="./spark_content/visualization/tag_classification/movie_"+str(movie_id)	
+    f=open(path)
+    value=f.read()
+    return render_template('tag_movie.html', value=value, movie_id=movie_id)
+
  
 def create_app(spark_context):
     global recommendation_engine 
 
     recommendation_engine = RecEngine(spark_context)    
     
-    #app = Flask(__name__)
-    #app.register_blueprint(main)
-    #return app
     return main 
+

@@ -403,7 +403,7 @@ class RecEngine:
 	raw_ratings = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/ratings.csv")
 	#raw_ratings = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/ratings.csv")
 	#entry[0]: User ID; entry[1]: Movie ID; entry[2]: ratings
-	first_line = raw_ratings.take(1)[0]
+	first_line = raw_ratings.first()
 	self.ratings = raw_ratings.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[0]), int(entry[1]), float(entry[2]))).cache()
@@ -412,7 +412,7 @@ class RecEngine:
 	raw_movies = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
 	#raw_movies = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/movies.csv")
 	#entry[0]: Movie ID; entry[1]: Title; entry[2]: Genere
-	first_line = raw_movies.take(1)[0]
+	first_line = raw_movies.first()
 	self.movies = raw_movies.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[0]), entry[1], entry[2])).cache()

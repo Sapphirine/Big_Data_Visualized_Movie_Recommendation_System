@@ -136,7 +136,7 @@ class RecEngine:
         movies_rdd= self.sc.parallelize(selected_movies).map(lambda item: (target_user, item))	
         ratings_final = self.model.predictAll(movies_rdd).map(lambda item: (item.product, item.rating))\
 							 .join(self.movies).join(self.ratings_count)\
-							 .map(lambda m: (m[1][0][1], m[1][0][0], m[0])).collect()
+							 .map(lambda m: (m[1][0][1], m[1][0][0], m[1][1])).collect()
         return ratings_final
     
     def recommend_top_movies(self, target_user, number):
@@ -144,7 +144,7 @@ class RecEngine:
                                                  .map(lambda x: (target_user, x[1])).distinct()
 	ratings_final = self.model.predictAll(raw_movies).map(lambda item: (item.product, item.rating))\
 						   .join(self.movies).join(self.ratings_count)\
-						   .map(lambda m: (m[1][0][1], m[1][0][0], m[0]))\
+						   .map(lambda m: (m[1][0][1], m[1][0][0], m[1][1]))\
 						   .filter(lambda r: r[2]>=25).takeOrdered(number, key=lambda x: -x[1])
         return ratings_final
 	

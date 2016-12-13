@@ -1,0 +1,41 @@
+{% from "_formhelpers.html" import render_field %}
+<html>
+<head>
+	 <title>WTForms</title>
+	 <meta charset="utf-8">
+	 <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+	 <script src="{{ url_for('static', filename='js/bootstrap.js') }}"></script>
+	 <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+	 <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.css') }}" type="text/css" />
+	 <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" type="text/css" />
+	 <link rel="stylesheet" href="{{ url_for('static', filename='css/landing-page.css') }}" type="text/css" />
+</head>
+<body><center>
+	<div><font face="candara" color="blue" size = "5"><b>Given Top Rating Movies To Given User:</b></font></div>
+	<form method="POST" action="/">
+	   <dl>
+	    {{ form.csrf_token }}
+	    {{ render_field(form.user_id) }}
+	    {{ render_field(form.count) }}
+	    <input type="submit" value="Submit">
+	    </dl>
+	</form>
+	<div><font face="candara" color="blue" size = "5"><b>Indvidual Movie Rating For Given User: </b></font></div>
+	<form method="POST" action="/">
+	   <dl>
+	    {{ formIndv.csrf_token }}
+	    {{ render_field(formIndv.user_id) }}
+	    {{ render_field(formIndv.movie_id) }}
+	    <input type="submit" value="Submit">
+	    </dl>
+	</form>
+	<div><font face="candara" color="blue" size = "5"><b>Enter The Movie ID for Visualization: </b></font></div>
+	<form method="POST" action="/">
+	   <dl>
+	    {{ formTag.csrf_token }}
+	    {{ render_field(formTag.movie_id) }}
+	    <input type="submit" value="Submit">
+	    </dl>
+	</form>
+</center></body>
+</html>

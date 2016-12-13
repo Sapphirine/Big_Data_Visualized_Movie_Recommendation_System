@@ -133,7 +133,9 @@ class RecEngine:
 	f.write("horror&thiller movies average: " + str(horror_average) + "\n") 
 	
     def target_user_movies_ratings(self, target_user, selected_movies):
+	#get loaded the movie rdd and parallelize them
         movies_rdd= self.sc.parallelize(selected_movies).map(lambda item: (target_user, item))	
+	#predict all to get the list we need
         ratings_final = self.model.predictAll(movies_rdd).map(lambda item: (item.product, item.rating))\
 							.join(self.movies)\
 							.map(lambda m: (m[1][1], m[1][0], m[0])).collect()
@@ -146,7 +148,6 @@ class RecEngine:
 						   .join(self.movies)\
 						   .map(lambda m: (m[1][1], m[1][0], m[0]))\
 						   .takeOrdered(number, key=lambda x: -x[1])
-	#.filter(lambda r: r[2]>=25).
         return ratings_final
 	
     def ratings_new_user(self, file):

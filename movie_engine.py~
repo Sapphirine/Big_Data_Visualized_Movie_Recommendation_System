@@ -135,17 +135,18 @@ class RecEngine:
     def target_user_movies_ratings(self, target_user, selected_movies):
         movies_rdd= self.sc.parallelize(selected_movies).map(lambda item: (target_user, item))	
         ratings_final = self.model.predictAll(movies_rdd).map(lambda item: (item.product, item.rating))\
-							 .join(self.movies).join(self.ratings_count)\
-							 .map(lambda m: (m[1][0][1], m[1][0][0], m[1][1])).collect()
+							.join(self.movies)\
+							.map(lambda m: (m[1][1], m[1][0], m[0])).collect()
         return ratings_final
     
     def recommend_top_movies(self, target_user, number):
         raw_movies = self.ratings.filter(lambda rating: not rating[0] == target_user)\
                                                  .map(lambda x: (target_user, x[1])).distinct()
 	ratings_final = self.model.predictAll(raw_movies).map(lambda item: (item.product, item.rating))\
-						   .join(self.movies).join(self.ratings_count)\
-						   .map(lambda m: (m[1][0][1], m[1][0][0], m[1][1]))\
-						   .filter(lambda r: r[2]>=25).takeOrdered(number, key=lambda x: -x[1])
+						   .join(self.movies)\
+						   .map(lambda m: (m[1][1], m[1][0], m[0]))\
+						   .takeOrdered(number, key=lambda x: -x[1])
+	#.filter(lambda r: r[2]>=25).
         return ratings_final
 	
     def ratings_new_user(self, file):
@@ -418,7 +419,6 @@ class RecEngine:
 
 	logger.info("Start to Count Movie ratings ...")
 	self.aver_ratings = self.ratings.map(lambda entry:(entry[1], entry[2])).groupByKey().map(counts)
-	self.ratings_count=self.aver_ratings.map(lambda x: (x[0], x[1][0]))
 	self.aver_ratings = self.aver_ratings.map(lambda x: (x[0], x[1][1]))
 
 	#self.get_movie_sort()

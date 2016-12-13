@@ -321,33 +321,29 @@ class RecEngine:
 		.map(lambda temp: temp.split(","))\
 		.map(lambda entry: (int(entry[0]), (entry[1]+","+ entry[2]))).cache()
 	ratings_cluster = ratings_cluster.join(moviesForCluster)
-	movie_factors = self.model.productFeatures().map(lambda (id,factor): (id,Vectors.dense(factor)))
-	#print 'movie_factors first data:',movie_factors.first()
-	movie_vectors = movie_factors.map(lambda (id,vec):vec)
+	facMov = self.model.productFeatures().map(lambda (id,factor): (id,Vectors.dense(factor)))
+	vecMov = facMov.map(lambda (id,vec):vec)
 
 	user_factors = self.model.userFeatures().map(lambda (id,factor):(id,Vectors.dense(factor)))
-	#print 'user_factors first data:',user_factors.first()
-	user_vectors = user_factors.map(lambda (id, vec):vec)
+	vecUser = user_factors.map(lambda (id, vec):vec)
 
 	logger.info("Train the KMeans Movie model ...")
-	movie_cluster_model = KMeans.train(movie_vectors,5, 20, 3)
+	model_mov_clu = KMeans.train(vecMov,5, 20, 3)
 	logger.info("Successfully build the KMeans Movie model ...")
 	logger.info("Train the KMeans User model ...")
-	#movie_cluster_model_coverged = KMeans.train(movie_vectors,num_clusters,100)
-	user_cluster_model = KMeans.train(user_vectors,5,20, 3)
+	user_cluster_model = KMeans.train(vecUser,5,20, 3)
 	logger.info("Successfully build the KMeans User model ...")
-	predictions = movie_cluster_model.predict(movie_vectors)
 
-	titles_factors = moviesForCluster.join(movie_factors)
+	titFac = moviesForCluster.join(facMov)
 	def conv2(rdd):
    		id,(name_genres,vec) = rdd
-   	 	pred = movie_cluster_model.predict(vec)
-   	 	cluster_center = movie_cluster_model.clusterCenters[pred]
+   	 	pred = model_mov_clu.predict(vec)
+   	 	cluster_center = model_mov_clu.clusterCenters[pred]
    	 	cluster_center_vec = Vectors.dense(cluster_center)
   	 	dist = vec.squared_distance(cluster_center_vec)
  	  	return str(pred), str(id), name_genres, dist
 	
-	self.movie_assigned = titles_factors.map(conv2).groupBy(lambda x:x[0])
+	self.movie_assigned = titFac.map(conv2).groupBy(lambda x:x[0])
 	reload(sys)
 	sys.setdefaultencoding("utf8") 
 	
@@ -430,7 +426,7 @@ class RecEngine:
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
         logger.info("Successfully build ALS model!")
 	#uncomment to do the kmeans clusters for movies and users
-	#self.kmeans_result(raw_ratings,raw_movies)
+	self.kmeans_result(raw_ratings,raw_movies)
 	#Uncomment the following to do some test of new added ratings. 
 	#name = "file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/new_user"
 	#self.ratings_new_user(name)

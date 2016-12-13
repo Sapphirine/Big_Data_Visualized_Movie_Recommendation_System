@@ -18,38 +18,38 @@ class RecEngine:
     def cluster_ratings(self):
 	reload(sys)
 	sys.setdefaultencoding("utf8")
-	rdd_action = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Action")
-	rdd_comedy = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Comedy")
-	rdd_drama = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Drama")
-	rdd_docmen = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Documentary&Adventure")
-	rdd_horror = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Horror&Thriller")
-	rdd_ratings = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/averge_ratings_sorted")
-	first_line = rdd_ratings.take(1)[0]
+	rdd_action = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Action")
+	rdd_comedy = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Comedy")
+	rdd_drama = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Drama")
+	rdd_docmen = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Documentary&Adventure")
+	rdd_horror = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/Horror&Thriller")
+	rdd_ratings = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/averge_ratings_sorted")
+	first_line = rdd_ratings.first()
 	ratings = rdd_ratings.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[0]), float(entry[2]))).cache()
 
-	first_line = rdd_action.take(1)[0]
+	first_line = rdd_action.first()
 	action = rdd_action.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[0]), entry[1])).cache()
 
-	first_line = rdd_comedy.take(1)[0]
+	first_line = rdd_comedy.first()
 	comedy = rdd_comedy.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[0]), entry[1])).cache()
 
-	first_line = rdd_drama.take(1)[0]
+	first_line = rdd_drama.first()
 	drama = rdd_drama.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[0]), entry[1])).cache()
 
-	first_line = rdd_docmen.take(1)[0]
+	first_line = rdd_docmen.first()
 	docmen = rdd_docmen.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[0]), entry[1])).cache()
 
-	first_line = rdd_horror.take(1)[0]
+	first_line = rdd_horror.first()
 	horror = rdd_horror.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[0]), entry[1])).cache()
@@ -267,13 +267,13 @@ class RecEngine:
 	#self.sc = spark_content
 	#self.cluster_ratings()
 	raw_scores = self.sc.textFile("/Users/zhuyunxuan/Downloads/ml-latest/genome-scores.csv")
-	first_line = raw_scores.take(1)[0]
+	first_line = raw_scores.first()
 	self.scores = raw_scores.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[1]), int(entry[0]), float(entry[2]))).cache()
 	
 	raw_tags = self.sc.textFile("/Users/zhuyunxuan/Downloads/ml-latest/genome-tags.csv")
-	first_line = raw_tags.take(1)[0]
+	first_line = raw_tags.first()
 	#tages: tagid, tag
 	self.tags = raw_tags.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
@@ -302,7 +302,7 @@ class RecEngine:
 		print(tempRdd.first())
 		temp=tempRdd.takeOrdered(100, key=lambda x:-x[1][1])
 		name = "movie_"+str(key)
-		f=file("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/spark_content/visualization/tag_classification/"+name, "w+")
+		f=file("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/spark_content/visualization/tag_classification/"+name, "w+")
 		#f.write(str(temp))
 		
 		for x in temp:
@@ -313,12 +313,12 @@ class RecEngine:
 		print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 	
     def kmeans_result(self, raw_ratings, raw_movies):
-	first_line = raw_ratings.take(1)[0]
+	first_line = raw_ratings.first()
 	ratings_cluster = raw_ratings.filter(lambda temp: temp != first_line)\
 		.map(lambda temp: temp.split(","))\
 		.map(lambda entry: (int(entry[1]), int(entry[0]))).cache()
 		#print(self.movies.first())
-	first_line = raw_movies.take(1)[0]
+	first_line = raw_movies.first()
 	moviesForCluster = raw_movies.filter(lambda temp: temp != first_line)\
 		.map(lambda temp: temp.split(","))\
 		.map(lambda entry: (int(entry[0]), (entry[1]+","+ entry[2]))).cache()
@@ -359,7 +359,7 @@ class RecEngine:
 		temp.sort(key=lambda x:x[3])
 		#write into a file
 		name = "Cluster_" + key
-		f=file("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/" + name, "w+")
+		f=file("/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/movie_cluster/" + name, "w+")
 		f.write("movieId,title,genres,distance\n")
 		for x in temp:
 			f.write(str(x[1])+","+str(x[2])+","+str(x[3])+"\n")
@@ -400,8 +400,8 @@ class RecEngine:
 	#uncomment this function to get tag_classification folder
 	#self.genme_process()
 	logger.info("Start to Read ratings.csv ... ")
-	raw_ratings = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/ratings.csv")
-	#raw_ratings = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/ratings.csv")
+	raw_ratings = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/ratings.csv")
+	#raw_ratings = self.sc.textFile("file://///home/bjt/Downloads/ml-latest/ratings.csv")
 	#entry[0]: User ID; entry[1]: Movie ID; entry[2]: ratings
 	first_line = raw_ratings.first()
 	self.ratings = raw_ratings.filter(lambda temp: temp != first_line)\
@@ -409,7 +409,7 @@ class RecEngine:
 			.map(lambda entry: (int(entry[0]), int(entry[1]), float(entry[2]))).cache()
 
 	logger.info("Start to Read movies.csv ... ")
-	raw_movies = self.sc.textFile("file:/home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
+	raw_movies = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
 	#raw_movies = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/movies.csv")
 	#entry[0]: Movie ID; entry[1]: Title; entry[2]: Genere
 	first_line = raw_movies.first()
@@ -427,7 +427,7 @@ class RecEngine:
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
         logger.info("Successfully build ALS model!")
 	#uncomment to do the kmeans clusters for movies and users
-	#self.kmeans_result(raw_ratings,raw_movies)
+	self.kmeans_result(raw_ratings,raw_movies)
 	#Uncomment the following to do some test of new added ratings. 
 	#name = "file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/new_user"
 	#self.ratings_new_user(name)

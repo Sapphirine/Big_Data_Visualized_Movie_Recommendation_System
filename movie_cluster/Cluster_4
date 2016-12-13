@@ -1,0 +1,2620 @@
+movieId,title,genres,distance
+164,Devil in a Blue Dress (1995),Crime|Film-Noir|Mystery|Thriller,0.0666298049183
+27904,Scanner Darkly. A (2006),Animation|Drama|Mystery|Sci-Fi|Thriller,0.0863601118857
+32825,Sexmission (Seksmisja) (1984),Adventure|Comedy|Sci-Fi,0.0938600337377
+242,Farinelli: il castrato (1994),Drama|Musical,0.0943654826306
+303,Quick and the Dead. The (1995),Action|Thriller|Western,0.0959204364672
+4440,Big Boss. The (Fists of Fury) (Tang shan da xiong) (1971),Action|Thriller,0.0978523739432
+2174,Beetlejuice (1988),Comedy|Fantasy,0.110419762905
+16,Casino (1995),Crime|Drama,0.110664132108
+1844,Live Flesh (Carne trémula) (1997),Drama|Romance,0.113165342862
+2401,Pale Rider (1985),Western,0.113418317545
+5489,Nosferatu the Vampyre (Nosferatu: Phantom der Nacht) (1979),Horror,0.118271340234
+80862,Catfish (2010),Documentary|Mystery,0.121574104492
+83134,Tucker & Dale vs Evil (2010),Comedy|Horror,0.124723916757
+4811,Quadrophenia (1979),Drama|Musical,0.131548919615
+1114,Funeral. The (1996),Crime|Drama,0.134424274841
+26052,Pickpocket (1959),Crime|Drama,0.13838123221
+68952,Drag Me to Hell (2009),Comedy|Horror,0.138520904597
+60760,X-Files: I Want to Believe. The (2008),Drama|Mystery|Sci-Fi|Thriller,0.147551583014
+113252,Housebound (2014),Comedy|Horror|Thriller,0.147789225848
+100159,Sightseers (2012),Comedy,0.147789225848
+26012,Samurai III: Duel on Ganryu Island (a.k.a. Bushido) (Miyamoto Musashi kanketsuhen: kettô Ganryûjima) (1956),Action|Adventure|Drama,0.147939079285
+26005,Samurai II: Duel at Ichijoji Temple (Zoku Miyamoto Musashi: Ichijôji no kettô) (1955),Action|Adventure|Drama,0.147939079285
+72630,Sleep Dealer (2008),Sci-Fi,0.147939079285
+25995,Samurai I: Musashi Miyamoto (Miyamoto Musashi) (1954),Action|Adventure|Drama,0.147939079285
+66427,My Name Is Bruce (2007),Comedy|Horror,0.147939079285
+59935,Flesh Gordon (1974),Adventure|Comedy|Sci-Fi,0.147939079285
+6991,Greystoke: The Legend of Tarzan. Lord of the Apes (1984),Adventure|Drama|Romance,0.147939079285
+7234,Strada. La (1954),Drama,0.148397405724
+3560,Empire of Passion (a.k.a. In the Realm of Passion) (a.k.a. Phantom Love) (Ai No Borei) (1978),Crime|Drama|Romance,0.152670272823
+68872,Paisan (Paisà) (1946),Drama|War,0.152670272823
+96020,Sidewalls (Medianeras) (2011),Drama,0.152670272823
+59805,Antonio das Mortes (O Dragão da Maldade contra o Santo Guerreiro) (1969),Drama|Western,0.152670272823
+112062,Camille Claudel 1915 (2013),Drama,0.152670272823
+112070,Maps to the Stars (2014),Drama,0.152670272823
+50842,Boss of It All. The (Direktøren for det hele) (2006),Comedy|Drama,0.152670272823
+131830,Samba (2014),Comedy|Drama,0.152670272823
+86626,Socialism (Film socialisme) (2010),Drama,0.152670272823
+26574,Ginger and Fred (Ginger e Fred) (1986),Comedy|Drama,0.152670272823
+49299,Luna de Avellaneda (2004),Drama|Romance,0.152670272823
+129191,The Clowns (1970),Comedy|Drama|Fantasy|Sci-Fi,0.152670272823
+92163,Fados (2007),Documentary|Musical,0.152670272823
+72683,Limit (Limite) (1931),Drama,0.152670272823
+86345,Louis C.K.: Hilarious (2010),Comedy,0.154839385738
+235,Ed Wood (1994),Comedy|Drama,0.15594993194
+72169,Good Hair (2009),Comedy|Documentary,0.157035957568
+5139,Bad News Bears. The (1976),Comedy,0.162032977224
+61729,Ghost Town (2008),Comedy|Fantasy|Romance,0.164047090183
+67252,Ong-Bak 2: The Beginning (Ong Bak 2) (2008),Action,0.16675896258
+65126,Choke (2008),Comedy|Drama,0.168089689927
+27266,2046 (2004),Drama|Fantasy|Romance|Sci-Fi,0.170800175361
+555,True Romance (1993),Crime|Thriller,0.17342131916
+58301,Funny Games U.S. (2007),Drama|Thriller,0.175371047015
+3267,Mariachi. El (1992),Action|Crime|Thriller|Western,0.175730155835
+79720,Animal Kingdom (2010),Crime|Drama,0.175794487924
+26842,Tai Chi Master (Twin Warriors) (Tai ji: Zhang San Feng) (1993),Action|Adventure|Comedy|Drama,0.177592412537
+25827,Mr. Deeds Goes to Town (1936),Comedy|Romance,0.178300073494
+5780,Polyester (1981),Comedy,0.179115678346
+5954,25th Hour (2002),Crime|Drama,0.179254313942
+75983,North Face (Nordwand) (2008),Adventure|Drama,0.179797362799
+33903,Edukators. The (Die Fetten Jahre sind vorbei) (2004),Comedy|Crime|Drama|Romance,0.184960321466
+3169,The Falcon and the Snowman (1985),Crime|Drama|Thriller,0.186862565175
+64321,Friend of Mine. A (Ein Freund von mir) (2006),Comedy|Drama,0.191030011733
+121491,Off Beat (2004),Drama|Romance,0.191030011733
+42725,Grandma's Boy (2006),Comedy,0.192071383992
+5076,Adventures of Huck Finn. The (1993),Adventure|Children|Comedy|Drama,0.192299275758
+8930,Five Obstructions. The (Fem benspænd. De) (2003),Documentary,0.193033759205
+7934,Zelig (1983),Comedy,0.193042429113
+50912,Paris. I Love You (Paris. je t'aime) (2006),Romance,0.194369874762
+5560,À nous la liberté (Freedom for Us) (1931),Comedy|Musical,0.196495487094
+130980,The Day That Lasted 21 Years (2012),Documentary,0.196495487094
+42677,Cutting Edge: The Magic of Movie Editing. The (2004),Documentary,0.196495487094
+71433,Black God. White Devil (Deus e o Diabo na Terra do Sol) (1964),Adventure|Crime|Drama|Western,0.196495487094
+100106,Pervert's Guide to Ideology. The (2012),Documentary,0.196495487094
+85394,Cave of Forgotten Dreams (2010),Documentary,0.196495487094
+138698,El vals de los inútiles (2014),Documentary,0.196495487094
+90863,George Harrison: Living in the Material World (2011),Documentary,0.196495487094
+63179,Tokyo! (2008),Drama,0.196495487094
+7976,Ken Park (2002),Drama,0.196903909673
+1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,0.197692342322
+6344,101 Reykjavik (101 Reykjavík) (2000),Comedy|Drama|Romance,0.19851489249
+7193,Adventures of Ford Fairlane. The (1990),Action|Comedy,0.19851489249
+5302,Breakout (1975),Action|Adventure,0.19851489249
+44204,Tsotsi (2005),Crime|Drama,0.200472993327
+6093,Last Unicorn. The (1982),Animation|Children|Fantasy,0.2010461941
+66090,Eden Lake (2008),Horror|Thriller,0.202532688757
+89039,Another Earth (2011),Drama|Romance|Sci-Fi,0.202779357533
+3970,Beyond. The (E tu vivrai nel terrore - L'aldilà) (1981),Horror,0.202847944459
+6898,Sweet Sixteen (2002),Drama,0.203797987098
+51709,Host. The (Gwoemul) (2006),Comedy|Drama|Horror|Sci-Fi|Thriller,0.203855963359
+3499,Misery (1990),Drama|Horror|Thriller,0.204234501518
+4826,Big Red One. The (1980),Action|Adventure|Drama|War,0.207151500213
+101285,Spring Breakers (2013),Comedy|Crime|Drama,0.207442547234
+5137,Scratch (2001),Documentary,0.207562845183
+103980,Blue Jasmine (2013),Drama,0.20800369516
+1785,King of New York (1990),Crime|Thriller,0.208411397131
+68237,Moon (2009),Drama|Mystery|Sci-Fi|Thriller,0.208609342934
+7056,Public Enemy. The (1931),Action|Crime|Drama,0.208693833446
+841,Eyes Without a Face (Yeux sans visage. Les) (1959),Horror,0.208799306342
+3723,Hamlet (1990),Drama,0.210873532112
+5613,8 Women (2002),Comedy|Crime|Musical|Mystery,0.211834154934
+71106,Frequently Asked Questions About Time Travel (2009),Comedy|Sci-Fi,0.21376804386
+7720,Four Musketeers. The (1974),Action|Adventure|Comedy|Romance,0.213939231559
+5867,Thief (1981),Crime|Drama|Thriller,0.214262144414
+27800,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003),Adventure|Animation|Fantasy|Musical|Sci-Fi,0.214708715018
+778,Trainspotting (1996),Comedy|Crime|Drama,0.215175148782
+81083,Kaboom (2010),Comedy|Sci-Fi,0.215735011393
+6989,Gorky Park (1983),Crime|Drama|Thriller,0.217748431295
+27544,Waterboys (2001),Comedy,0.21827540137
+94,Beautiful Girls (1996),Comedy|Drama|Romance,0.218499141103
+2451,Gate. The (1987),Horror,0.219618391254
+43832,Call of Cthulhu. The (2005),Horror|Thriller,0.219619606502
+27441,Blood: The Last Vampire (2000),Action|Animation|Horror,0.219619606502
+4541,Serpent and the Rainbow. The (1988),Horror,0.219619606502
+5041,Fire and Ice (1983),Animation|Fantasy,0.219619606502
+42946,Project A ('A' gai waak) (1983),Action|Comedy,0.219619606502
+26886,Defender. The (a.k.a. Bodyguard from Beijing. The) (Zhong Nan Hai bao biao) (1994),Action,0.219619606502
+32395,Attack of the Mushroom People (Matango) (1963),Fantasy|Horror|Sci-Fi|Thriller,0.219619606502
+5433,Silver Bullet (Stephen King's Silver Bullet) (1985),Adventure|Drama|Horror|Mystery|Thriller,0.21992019754
+103299,American Mary (2012),Horror|Thriller,0.22067828122
+2075,Mephisto (1981),Drama|War,0.220845848898
+1395,Tin Men (1987),Comedy|Drama,0.221372670094
+71518,Whip It (2009),Comedy|Drama,0.221642144754
+4262,Scarface (1983),Action|Crime|Drama,0.222881553168
+865,Small Faces (1996),Drama,0.224227177497
+757,Ashes of Time (Dung che sai duk) (1994),Drama,0.224227177497
+8600,Angels with Dirty Faces (1938),Crime|Drama|Film-Noir|Thriller,0.224334815345
+31284,Star Is Born. A (1976),Drama|Musical|Romance,0.224731464965
+84506,Silent Souls (Ovsyanki) (2010),Drama,0.224731464965
+89000,Carancho (2010),Crime|Drama|Romance,0.226199558717
+89356,Chinese Take-Out (Chinese Take-Away) (Un cuento chino) (2011),Comedy,0.226199558717
+108873,Same Love. Same Rain (El mismo amor. la misma lluvia) (1999),Comedy|Drama|Romance,0.226199558717
+103210,Fullmetal Alchemist: The Sacred Star of Milos (2011),Action|Adventure|Animation,0.226199558717
+111235,Jodorowsky's Dune (2013),Documentary|Sci-Fi,0.226199558717
+6722,Once Upon a Time in China II (Wong Fei-hung Ji Yi: Naam yi dong ji keung) (1992),Action|Romance,0.226729708837
+6935,Revolution Will Not Be Televised. The (a.k.a. Chavez: Inside the Coup) (2003),Documentary,0.227789601931
+5768,Modern Problems (1981),Comedy|Fantasy,0.228299903144
+1213,Goodfellas (1990),Crime|Drama,0.228989202432
+2784,Masque of the Red Death. The (1964),Horror,0.229070909731
+2630,Besieged (a.k.a. L' Assedio) (1998),Drama,0.229299019118
+7748,Pierrot le fou (1965),Crime|Drama,0.231229332705
+7308,King Solomon's Mines (1985),Adventure|Comedy,0.231384251229
+71520,Invention of Lying. The (2009),Comedy,0.231916403092
+7743,Explorers (1985),Adventure|Children|Sci-Fi,0.232120147317
+7206,Mon Oncle (My Uncle) (1958),Comedy,0.232302554211
+7947,Under the Volcano (1984),Drama,0.232302554211
+106873,Evangelion: 3.0 You Can (Not) Redo (2012),Action|Animation|Drama,0.233313834722
+1249,Femme Nikita. La (Nikita) (1990),Action|Crime|Romance|Thriller,0.233537986538
+103042,Man of Steel (2013),Action|Adventure|Fantasy|Sci-Fi|IMAX,0.233769295174
+4251,Chopper (2000),Drama|Thriller,0.234064704339
+107314,Oldboy (2013),Action|Drama|Mystery,0.234738402321
+507,Perfect World. A (1993),Crime|Drama|Thriller,0.235390171342
+27369,Daria: Is It Fall Yet? (2000),Animation|Comedy,0.23554791767
+7001,Invasion of the Body Snatchers (1978),Horror|Mystery|Sci-Fi|Thriller,0.236114659256
+26413,Snake in the Eagle's Shadow (Se ying diu sau) (1978),Action|Comedy,0.237074200229
+68486,Red Cliff Part II (Chi Bi Xia: Jue Zhan Tian Xia) (2009),Action|Drama|War,0.237074200229
+26702,Reflecting Skin. The (1990),Drama|Horror|Thriller,0.237074200229
+61026,Red Cliff (Chi bi) (2008),Action|Adventure|Drama|War,0.237074200229
+7307,Flesh & Blood (1985),Action|Adventure|Drama|War,0.237074200229
+81786,Certified Copy (Copie conforme) (2010),Drama,0.237857798753
+2395,Rushmore (1998),Comedy|Drama,0.238005496011
+111384,Blue Ruin (2013),Thriller,0.238938972805
+4800,King Solomon's Mines (1937),Action|Adventure|Drama|Romance|Thriller,0.239087487741
+96432,Lawless (2012),Crime|Drama,0.241299728705
+69951,Imaginarium of Doctor Parnassus. The (2009),Drama|Fantasy,0.241433770536
+3556,Virgin Suicides. The (1999),Drama|Romance,0.241472256099
+107069,Lone Survivor (2013),Action|Drama|Thriller|War,0.241576628754
+7038,Things You Can Tell Just by Looking at Her (2000),Drama|Romance,0.242195222369
+943,Ghost and Mrs. Muir. The (1947),Drama|Fantasy|Romance,0.242879877041
+6711,Lost in Translation (2003),Comedy|Drama|Romance,0.243039657743
+3002,My Best Fiend (Mein liebster Feind) (1999),Documentary,0.244661809461
+31150,Wizards (1977),Animation|Fantasy|Sci-Fi|War,0.244954095634
+8700,Destination Tokyo (1943),Adventure|War,0.24503245366
+73572,My Son. My Son. What Have Ye Done (2009),Drama|Horror,0.24503245366
+6148,White Dog (1982),Drama|Horror|Thriller,0.24503245366
+6408,Animals are Beautiful People (1974),Comedy|Documentary,0.24503245366
+72176,Big Fan (2009),Comedy|Crime|Drama,0.24503245366
+59832,Where the Sidewalk Ends (1950),Crime|Drama|Film-Noir,0.24503245366
+7196,Men. The (1950),Drama,0.24503245366
+73276,Age of Stupid. The (2009),Documentary,0.24503245366
+8257,Battleground (1949),Action|Drama|War,0.24503245366
+71525,A-Haunting We Will Go (1942),Comedy,0.24503245366
+37785,Anderson Tapes. The (1971),Crime|Drama|Thriller,0.24503245366
+78829,Betrayal. The (Nerakhoon) (2008),Documentary,0.24503245366
+36553,In Old Chicago (1937),Action|Drama|Musical|War,0.24503245366
+6513,Made for Each Other (1939),Comedy|Drama|Romance,0.24503245366
+7897,Ballad of Cable Hogue. The (1970),Comedy|Western,0.24503245366
+82934,Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers. The (2009),Documentary,0.24503245366
+26850,71 Fragments of a Chronology of Chance (71 Fragmente einer Chronologie des Zufalls) (1994),Drama,0.24503245366
+31770,Night and the City (1950),Film-Noir|Thriller,0.24503245366
+4998,Defiant Ones. The (1958),Adventure|Crime|Drama|Thriller,0.24503245366
+72626,Billy Blazes. Esq. (1919),Comedy|Western,0.24503245366
+48198,Streamers (1983),Drama|War,0.24503245366
+47714,Blithe Spirit (1945),Comedy|Drama|Fantasy|Romance,0.24503245366
+81910,Art of the Steal. The (2009),Documentary,0.24503245366
+2035,Blackbeard's Ghost (1968),Children|Comedy,0.24503245366
+77359,Red Riding: 1983 (2009),Crime|Drama|Mystery,0.24503245366
+44671,Wild Blue Yonder. The (2005),Sci-Fi,0.24503245366
+54419,Czech Dream (Ceský sen) (2004),Documentary,0.24503245366
+55071,No End in Sight (2007),Documentary,0.24503245366
+34583,Prime Cut (1972),Action|Crime|Drama,0.24503245366
+55687,My Kid Could Paint That (2007),Documentary,0.24503245366
+6579,One. Two. Three (1961),Comedy,0.24503245366
+7939,Through a Glass Darkly (Såsom i en spegel) (1961),Drama,0.24503245366
+8423,Kid Brother. The (1927),Children|Comedy|Romance,0.24503245366
+70927,To Each His Own Cinema (Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence) (2007),Comedy|Drama,0.24503245366
+5304,Rome. Open City (a.k.a. Open City) (Roma. città aperta) (1945),Drama|War,0.245363780363
+6502,28 Days Later (2002),Action|Horror|Sci-Fi,0.246426917926
+63072,Road. The (2009),Adventure|Drama|Thriller,0.246454971481
+26494,Suburbia (1984),Drama,0.247217743939
+95780,Dragon Ball Z: Bio-Broly (Doragon bôru Z 11: Sûpâ senshi gekiha! Katsu no wa ore da) (1994),Action|Adventure|Animation,0.248653691025
+111624,Kelly & Cal (2014),Comedy|Drama,0.248653691025
+76272,Five Minutes of Heaven (2009),Crime|Drama|Thriller,0.248653691025
+7984,From Beyond (1986),Horror|Sci-Fi,0.248653691025
+5205,Motel Hell (1980),Comedy|Horror,0.248653691025
+54745,Rocket Science (2007),Comedy|Drama,0.248653691025
+115877,Simpsons: The Longest Daycare. The (2012),Animation|Comedy,0.248653691025
+95473,Dragon Ball Z: The Return of Cooler (Doragon bôru Z 6: Gekitotsu! Hyakuoku pawâ no senshi) (1992),Action|Adventure|Animation,0.248653691025
+156726,Hush (2016),Thriller,0.248653691025
+95782,Dragon Ball Z: Fusion Reborn (Doragon bôru Z 12: Fukkatsu no fyushon!! Gokû to Bejîta) (1995),Action|Adventure|Animation,0.248653691025
+108090,Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi) (1996),Action|Adventure|Animation|Children,0.248653691025
+27778,Ginger Snaps Back: The Beginning (2004),Fantasy|Horror,0.248653691025
+126006,Rudolph the Red-Nosed Reindeer (1948),Animation|Children|Fantasy,0.248653691025
+8854,Night of the Demons (1988),Horror,0.248653691025
+118082,The Voices (2014),Comedy|Crime|Thriller,0.248653691025
+5210,Burial Ground (a.k.a. Zombie Horror) (a.k.a. Zombie 3) (Notti del Terrore. Le) (1981),Horror,0.248653691025
+43838,Troll (1986),Comedy|Fantasy|Horror,0.248653691025
+141718,Deathgasm (2015),Comedy|Horror,0.248653691025
+130642,Backcountry (2014),Drama|Horror|Thriller,0.248653691025
+130682,Muck (2015),Horror,0.248653691025
+7915,Samurai Fiction (SF: Episode One) (1998),Action|Adventure|Comedy,0.248653691025
+7987,Dolls (1987),Horror,0.248653691025
+3687,Light Years (Gandahar) (1988),Adventure|Animation|Fantasy|Sci-Fi,0.248653691025
+4415,Cheech & Chong's Nice Dreams (1981),Comedy,0.248653691025
+80083,Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989),Action|Adventure|Animation|Fantasy|Sci-Fi,0.248653691025
+95147,Dragon Ball: Sleeping Princess in Devil's Castle (Doragon bôru: Majinjô no nemuri hime) (1987),Action|Adventure|Animation|Children,0.248653691025
+95963,Dragon Ball Z: Wrath of the Dragon (Doragon bôru Z 13: Ryûken bakuhatsu!! Gokû ga yaraneba dare ga yaru) (1995),Action|Adventure|Animation,0.248653691025
+107999,Dragon ball Z 04: Lord Slug (1991),Animation|Children,0.248653691025
+96007,Dragon Ball GT: A Hero's Legacy (Doragon bôru GT: Gokû gaiden! Yûki no akashi wa sû-shin-chû) (1997),Action|Adventure|Animation,0.248653691025
+7156,Fog of War: Eleven Lessons from the Life of Robert S. McNamara. The (2003),Documentary|War,0.249471693111
+1274,Akira (1988),Action|Adventure|Animation|Sci-Fi,0.249618188225
+5434,Sorry. Wrong Number (1948),Drama|Film-Noir|Thriller,0.24980159197
+1357,Shine (1996),Drama|Romance,0.250945248924
+3481,High Fidelity (2000),Comedy|Drama|Romance,0.251096952845
+1317,I'm Not Rappaport (1996),Comedy,0.251204188574
+8973,Bad Education (La mala educación) (2004),Drama|Thriller,0.251722211475
+139385,The Revenant (2015),Adventure|Drama,0.252558598566
+1617,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller,0.25270429546
+6796,Boyz N the Hood (1991),Crime|Drama,0.25319901033
+78517,Joan Rivers: A Piece of Work (2010),Documentary,0.254034517003
+2728,Spartacus (1960),Action|Drama|Romance|War,0.254341798559
+6961,Damage (Fatale) (1992),Drama,0.254371222574
+152844,Demons (1971),Horror,0.25604085165
+26704,State of Grace (1990),Crime|Drama|Thriller,0.25604085165
+26736,Riki-Oh: The Story of Ricky (Lik Wong) (1991),Action|Crime|Thriller,0.25604085165
+96004,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,0.25604085165
+110348,Wetlands (Feuchtgebiete) (2013),Comedy|Drama,0.25604085165
+64900,Chinese Ghost Story II. A (Sien nui yau wan II yan gaan do) (1990),Action|Adventure|Fantasy|Horror|Romance,0.25604085165
+98829,Evil Cult. The (Lord of the Wu Tang) (Yi tian tu long ji: Zhi mo jiao jiao zhu) (1993),Action|Fantasy,0.25604085165
+60609,Death Note (2006),Adventure|Crime|Drama|Horror|Mystery,0.25604085165
+62801,Lone Wolf and Cub: Baby Cart to Hades (Kozure Ôkami: Shinikazeni mukau ubaguruma) (1972),Action|Drama,0.25604085165
+44245,Leprechaun in the Hood (2000),Action|Comedy|Horror,0.25604085165
+70465,Jerusalema (Gangster's Paradise: Jerusalema) (2008),Action|Crime|Drama,0.25604085165
+49817,Plague Dogs. The (1982),Adventure|Animation|Drama,0.25604085165
+25962,King Solomon's Mines (1950),Action|Adventure|Romance,0.25604085165
+109074,Four. The (Si da ming bu) (2012),Action|Crime|Fantasy,0.25604085165
+88118,Perfect Host. The (2010),Crime|Drama|Thriller,0.25604085165
+106022,Toy Story of Terror (2013),Animation|Children|Comedy,0.25604085165
+45506,Twelve and Holding (2005),Drama,0.25604085165
+141866,Green Room (2015),(no genres listed),0.25604085165
+139130,Afro Samurai (2007),Action|Adventure|Animation|Drama|Fantasy,0.25604085165
+27555,Fubar (2002),Comedy,0.25604085165
+55207,Cashback (2004),Comedy|Drama,0.25604085165
+73759,Hellsing Ultimate OVA Series (2006),Action|Animation|Horror,0.25604085165
+32387,Sword of Doom. The (Dai-bosatsu tôge) (1966),Action|Drama,0.25604085165
+6559,Little Giants (1994),Children|Comedy,0.25604085165
+51931,Reign Over Me (2007),Drama,0.25604085165
+6803,Phenomena (a.k.a. Creepers) (1985),Horror|Mystery|Thriller,0.25604085165
+3148,Cider House Rules. The (1999),Drama,0.256648287802
+3640,King in New York. A (1957),Comedy|Drama,0.256793603275
+109895,Bad Words (2013),Comedy,0.257965538155
+1120,People vs. Larry Flynt. The (1996),Comedy|Drama,0.258030254091
+307,Three Colors: Blue (Trois couleurs: Bleu) (1993),Drama,0.258980433561
+101525,Place Beyond the Pines. The (2012),Crime|Drama,0.259130015415
+102716,Fast & Furious 6 (Fast and the Furious 6. The) (2013),Action|Crime|Thriller|IMAX,0.259721406909
+5292,Slap Shot (1977),Comedy,0.260308140274
+1265,Groundhog Day (1993),Comedy|Fantasy|Romance,0.261106285986
+62336,FLCL (2000),Animation|Comedy|Fantasy|Sci-Fi,0.261145766144
+7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,0.261493360171
+4878,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,0.262438657077
+54331,You Kill Me (2007),Comedy|Crime|Thriller,0.262533871999
+5180,Great Rock 'n' Roll Swindle. The (1980),Documentary,0.262967925606
+6997,Hoffa (1992),Crime|Drama,0.262967925606
+5003,Nine Lives of Fritz the Cat. The (1974),Animation,0.262967925606
+1321,American Werewolf in London. An (1981),Comedy|Horror|Thriller,0.263533300906
+3363,American Graffiti (1973),Comedy|Drama,0.264077339616
+3681,For a Few Dollars More (Per qualche dollaro in più) (1965),Action|Drama|Thriller|Western,0.264210496347
+2291,Edward Scissorhands (1990),Drama|Fantasy|Romance,0.264245481539
+46322,Jet Li's Fearless (Huo Yuan Jia) (2006),Action|Drama,0.264546593327
+27899,What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?) (2004),Comedy|Documentary|Drama,0.265696515871
+541,Blade Runner (1982),Action|Sci-Fi|Thriller,0.266167481504
+5682,Grey Zone. The (2001),Drama,0.266485883961
+4837,Cruising (1980),Crime|Drama|Thriller,0.266943200819
+1080,Monty Python's Life of Brian (1979),Comedy,0.266953702673
+55290,Gone Baby Gone (2007),Crime|Drama|Mystery,0.267946698867
+4226,Memento (2000),Mystery|Thriller,0.268405369758
+5650,Strange Brew (1983),Comedy,0.268694302686
+8582,Manufacturing Consent: Noam Chomsky and the Media (1992),Documentary|War,0.270712608706
+6025,CB4 - The Movie (1993),Comedy,0.271123350983
+25788,Scarface (1932),Crime|Drama,0.27271941842
+152,Addiction. The (1995),Drama|Horror,0.273033441364
+5348,Hollywood Ending (2002),Comedy|Drama,0.273226745944
+6404,White Sheik. The (Sceicco bianco. Lo) (1952),Comedy|Romance,0.273226745944
+5599,Tabu: A Story of the South Seas (1931),Drama|Romance,0.273226745944
+6599,Accattone (1961),Drama,0.273226745944
+58376,Zeitgeist: The Movie (2007),Documentary|War,0.273881035384
+81417,Paranormal Activity 2 (2010),Horror|IMAX,0.273881035384
+5222,Kissing Jessica Stein (2001),Comedy|Romance,0.273952777991
+37720,Exorcism of Emily Rose. The (2005),Crime|Drama|Horror|Thriller,0.274201559032
+3626,8 ½ Women (a.k.a. 8 1/2 Women) (a.k.a. Eight and a Half Women) (1999),Comedy,0.275755384142
+4438,Fist of Fury (Chinese Connection. The) (Jing wu men) (1972),Action|Drama|Romance|Thriller,0.276898909841
+1222,Full Metal Jacket (1987),Drama|War,0.277145712384
+5690,Grave of the Fireflies (Hotaru no haka) (1988),Animation|Drama|War,0.277167575636
+4902,Devil's Backbone. The (Espinazo del diablo. El) (2001),Drama|Fantasy|Horror|Thriller|War,0.277498197515
+49822,Good Shepherd. The (2006),Drama|Thriller,0.277622993523
+64501,Che: Part Two (2008),Drama|War,0.277697810406
+64499,Che: Part One (2008),Drama|War,0.277697810406
+34542,Grizzly Man (2005),Documentary,0.277798459126
+105954,All Is Lost (2013),Action|Adventure|Drama,0.277882190016
+105246,Mood Indigo (L'écume des jours) (2013),Drama|Fantasy,0.27854712527
+96811,End of Watch (2012),Crime|Drama|Thriller,0.27936225234
+115680,Time Lapse (2014),Crime|Drama|Sci-Fi|Thriller,0.280120723175
+64197,Hunger (2008),Drama,0.281037719538
+71108,White Ribbon. The (Das weiße Band) (2009),Drama|Mystery,0.281759190002
+2692,Run Lola Run (Lola rennt) (1998),Action|Crime,0.281846639139
+95309,Seeking a Friend for the End of the World (2012),Comedy|Drama|Romance,0.282800785409
+3671,Blazing Saddles (1974),Comedy|Western,0.283358090623
+963,Inspector General. The (1949),Musical,0.283402488273
+4721,American Outlaws (2001),Action|Comedy|Western,0.285139225618
+33124,Before the Fall (NaPolA - Elite für den Führer) (2004),Drama|War,0.285344554764
+8713,New Adventures of Pippi Longstocking. The (1988),Adventure|Children|Fantasy|Musical,0.285344554764
+8070,Grill Point (Halbe Treppe) (2002),Drama,0.285344554764
+1671,Deceiver (1997),Crime|Drama|Thriller,0.285344554764
+7079,Hunchback of Notre Dame. The (1939),Drama,0.286629312454
+3949,Requiem for a Dream (2000),Drama,0.286677841084
+8800,Code 46 (2003),Romance|Sci-Fi,0.287908491274
+80219,Machete (2010),Action|Adventure|Comedy|Crime|Thriller,0.288596502052
+5570,Thesis (Tesis) (1996),Drama|Horror|Thriller,0.290757344865
+74152,Zach Galifianakis: Live at the Purple Onion (2006),Comedy|Documentary,0.291408416935
+105731,Carrie (2013),Drama|Horror,0.292471455802
+8195,Avventura. L' (Adventure. The) (1960),Drama|Mystery|Romance,0.29312104805
+8620,Exterminating Angel. The (Ángel exterminador. El) (1962),Comedy|Drama|Fantasy|Mystery,0.293774081509
+71429,World's Greatest Dad (2009),Comedy|Drama,0.29428185402
+26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),Adventure|Animation|Children|Drama|Fantasy,0.294629763058
+4479,Bird (1988),Drama|Musical,0.294878274902
+2883,Mumford (1999),Comedy|Drama,0.296397677632
+1982,Halloween (1978),Horror,0.296777722241
+661,James and the Giant Peach (1996),Adventure|Animation|Children|Fantasy|Musical,0.296813806081
+70488,Wings of Hope (Julianes Sturz in den Dschungel) (2000),Adventure|Documentary,0.297097262957
+8336,Major and the Minor. The (1942),Comedy|Romance,0.297097262957
+46664,Fallen Idol. The (1948),Drama|Mystery|Thriller,0.297097262957
+33380,25 Watts (2001),Comedy|Drama,0.297097262957
+83096,Haunted House. The (1921),Comedy,0.297097262957
+30892,In the Realms of the Unreal (2004),Animation|Documentary,0.297097262957
+32160,Twentieth Century (1934),Comedy,0.297097262957
+49225,Street Fight (2005),Documentary,0.297097262957
+83361,Paleface. The (1922),Comedy,0.297097262957
+42681,49th Parallel (1941),Adventure|Drama|Thriller|War,0.297097262957
+5001,Sahara (1943),Action|Drama|War,0.297097262957
+27334,Sound and Fury (2000),Documentary,0.297097262957
+26414,Wedding. A (1978),Comedy|Drama,0.297097262957
+26302,Scarecrow (1973),Drama,0.297097262957
+54426,12:08 East of Bucharest (A fost sau n-a fost?) (2006),Comedy|Drama,0.297097262957
+6198,American Heart (1992),Crime|Drama,0.297097262957
+26122,Onibaba (1964),Drama|Horror|War,0.297097262957
+59846,Iron Mask. The (1929),Adventure|Drama|Romance,0.297097262957
+8267,Signs of Life (Lebenszeichen) (1968),Drama,0.297097262957
+7195,Enforcer. The (1951),Crime|Drama|Film-Noir,0.297097262957
+47287,Compulsion (1959),Crime|Drama|Thriller,0.297097262957
+83603,Fern flowers (Fleur de fougère) (1949),Animation,0.297097262957
+62383,20.000 Leagues Under the Sea (1916),Action|Adventure|Sci-Fi,0.297097262957
+25755,Phantom of the Opera. The (1925),Drama|Horror,0.297097262957
+25839,Nothing Sacred (1937),Comedy|Drama|Romance,0.297097262957
+107771,Only Lovers Left Alive (2013),Drama|Horror|Romance,0.297117594237
+2580,Go (1999),Comedy|Crime,0.298268109471
+8927,Cannonball (1976),Action|Comedy|Drama,0.29897128376
+7256,Touching the Void (2003),Adventure|Documentary,0.301235574451
+65665,Hamlet (2000),Drama,0.301587682983
+42351,Threads (1984),Drama|Sci-Fi|War,0.301587682983
+34326,Last Days (2005),Drama,0.30213369401
+62437,W. (2008),Drama,0.302472297635
+53318,Cashback (2006),Comedy|Drama|Romance,0.303303350096
+48165,Seventh Continent. The (Der siebente Kontinent) (1989),Drama,0.303959898512
+7352,Wilbur Wants to Kill Himself (2002),Comedy|Drama|Romance,0.304452599069
+5054,Brainstorm (1983),Sci-Fi|Thriller,0.305014738104
+117444,Song of the Sea (2014),Animation|Children|Fantasy,0.305100359714
+808,Alaska (1996),Adventure|Children,0.305562010072
+88129,Drive (2011),Crime|Drama|Film-Noir|Thriller,0.306157542527
+5202,Mon oncle d'Amérique (1980),Drama,0.306383038184
+103341,World's End. The (2013),Action|Comedy|Sci-Fi,0.30663042588
+372,Reality Bites (1994),Comedy|Drama|Romance,0.307647704705
+1762,Deep Rising (1998),Action|Horror|Sci-Fi,0.308005079346
+8477,Jetée. La (1962),Romance|Sci-Fi,0.308239341579
+86190,Hanna (2011),Action|Adventure|Mystery|Thriller,0.309098328059
+87234,Submarine (2010),Comedy|Drama|Romance,0.309103574538
+2184,Trouble with Harry. The (1955),Comedy|Mystery,0.309232598211
+74944,Brooklyn's Finest (2010),Crime|Drama|Thriller,0.310262817034
+7936,Shame (Skammen) (1968),Drama|War,0.310455816169
+105769,Congress. The (2013),Animation|Sci-Fi,0.310455816169
+110586,Calvary (2014),Comedy|Drama,0.310455816169
+100843,Oh Boy (A Coffee in Berlin) (2012),Comedy|Drama,0.310455816169
+6807,Monty Python's The Meaning of Life (1983),Comedy,0.310470853917
+6303,Andromeda Strain. The (1971),Mystery|Sci-Fi,0.310678726665
+223,Clerks (1994),Comedy,0.310985442784
+6790,Avalon (2001),Drama|Fantasy|Sci-Fi,0.311104432008
+67267,Sunshine Cleaning (2008),Comedy|Drama,0.311187929553
+1788,Men with Guns (1997),Action|Drama,0.311411134834
+108709,Generation Kill (2008),Drama|War,0.311620861134
+61013,Absolute Giganten (1999),Action|Comedy|Drama|Romance,0.311620861134
+31413,White Sound. The (Das weiße Rauschen) (2001),Drama,0.311620861134
+126430,The Pacific (2010),Action|Adventure|Drama|War,0.311620861134
+80463,Social Network. The (2010),Drama,0.312127653633
+7396,Scenes From a Marriage (Scener ur ett äktenskap) (1973),Drama,0.312614048594
+3539,Filth and the Fury. The (2000),Documentary,0.312804523101
+47152,Cria Cuervos (1976),Drama,0.312825427204
+7043,Vivre sa vie: Film en douze tableaux (My Life to Live) (1962),Drama,0.312825427204
+293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,0.313147122022
+2664,Invasion of the Body Snatchers (1956),Horror|Sci-Fi|Thriller,0.313771850877
+26680,Cry-Baby (1990),Comedy|Musical|Romance,0.314069533055
+67197,Knowing (2009),Action|Drama|Mystery|Sci-Fi|Thriller,0.314571589123
+74416,Fish Tank (2009),Drama,0.314679814829
+104944,Short Term 12 (2013),Drama,0.314679814829
+8042,Mean Streets (1973),Crime|Drama,0.315116357347
+4719,Osmosis Jones (2001),Action|Animation|Comedy|Crime|Drama|Romance|Thriller,0.315423804389
+4970,Blue Angel. The (Blaue Engel. Der) (1930),Drama,0.315699971955
+39869,Manderlay (2005),Drama,0.316127559458
+5607,Son of the Bride (Hijo de la novia. El) (2001),Comedy|Drama,0.316222272102
+1079,Fish Called Wanda. A (1988),Comedy|Crime,0.316866101608
+86347,Louis C.K.: Chewed Up (2008),Comedy,0.316874289076
+89343,Red State (2011),Action|Crime|Horror|Thriller,0.317126905016
+2900,Monkey Shines (1988),Horror|Sci-Fi,0.317374341312
+1278,Young Frankenstein (1974),Comedy|Fantasy,0.317587125473
+1384,Substance of Fire. The (1996),Drama,0.317762758414
+3329,The Year My Voice Broke (1987),Drama|Romance,0.317762758414
+2219,Murder! (1930),Mystery|Thriller,0.317762758414
+2227,Lodger: A Story of the London Fog. The (1927),Crime|Drama|Thriller,0.317762758414
+69516,Limits of Control. The (2009),Crime|Drama|Film-Noir,0.318047837986
+55118,Eastern Promises (2007),Crime|Drama|Thriller,0.318240251982
+32743,Ringu 0: Bâsudei (2000),Drama|Horror|Thriller,0.318792059218
+7151,Girl with a Pearl Earring (2003),Drama|Romance,0.318894795291
+95761,Killer Joe (2011),Crime|Thriller,0.31932035259
+104881,Out of the Furnace (Dust to Dust) (Low Dweller. The) (2013),Drama|Thriller,0.31932035259
+6286,Man Without a Past. The (Mies vailla menneisyyttä) (2002),Comedy|Crime|Drama,0.320526661219
+32892,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,0.321875916221
+31101,Stander (2003),Action|Crime|Drama,0.321875916221
+7210,My Darling Clementine (1946),Western,0.323276590035
+3735,Serpico (1973),Crime|Drama,0.323540607987
+85,Angels and Insects (1995),Drama|Romance,0.323585419057
+60766,Man on Wire (2008),Documentary,0.324019913149
+3588,King of Marvin Gardens. The (1972),Crime|Drama,0.326758532614
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,0.326771943867
+5165,Zombie (a.k.a. Zombie 2: The Dead Are Among Us) (Zombi 2) (1979),Horror,0.326781314538
+61394,Onion Movie. The (2008),Comedy,0.327370122011
+38992,Two for the Money (2005),Drama,0.327654680121
+6985,Passion of Joan of Arc. The (Passion de Jeanne d'Arc. La) (1928),Drama,0.327816396197
+42163,Richard Pryor: Live in Concert (1979),Comedy|Documentary,0.328115519058
+3507,Odd Couple. The (1968),Comedy,0.32955899214
+4682,Warlock (1989),Action|Horror,0.329968391369
+1259,Stand by Me (1986),Adventure|Drama,0.330018129838
+6710,Dummy (2002),Comedy|Drama|Romance,0.331089623194
+8958,Ray (2004),Drama,0.331919976624
+3306,Circus. The (1928),Comedy,0.332330833744
+82667,I Saw the Devil (Akmareul boatda) (2010),Crime|Thriller,0.332419062351
+97866,Imposter. The (2012),Documentary,0.334188103147
+6643,Tokyo Story (Tôkyô monogatari) (1953),Drama,0.334707714843
+7979,Monterey Pop (1968),Documentary|Musical,0.335156958392
+2205,Mr. & Mrs. Smith (1941),Comedy|Romance,0.33548669829
+98124,Batman: The Dark Knight Returns. Part 1 (2012),Action|Animation|Sci-Fi,0.335681378655
+6638,Valley Girl (1983),Comedy|Romance,0.336577529673
+2858,American Beauty (1999),Drama|Romance,0.336604051376
+102800,Frances Ha (2012),Comedy|Drama,0.336810698231
+8798,Collateral (2004),Action|Crime|Drama|Thriller,0.33728303828
+2329,American History X (1998),Crime|Drama,0.337551959819
+4444,Way of the Dragon. The (a.k.a. Return of the Dragon) (Meng long guo jiang) (1972),Action|Crime,0.337892374996
+80864,You Will Meet a Tall Dark Stranger (2010),Comedy|Romance,0.338046586186
+4475,Beast of War. The (Beast. The) (1988),Drama|War,0.338104011055
+4478,Biloxi Blues (1988),Comedy|Drama,0.338192424965
+84847,Emma (2009),Comedy|Drama|Romance,0.338496242648
+49394,Simon of the Desert (Simón del desierto) (1965),Drama,0.339555863479
+6400,Murder on a Sunday Morning (Un coupable idéal) (2001),Documentary,0.339868979531
+4515,Imagine: John Lennon (1988),Documentary,0.339868979531
+82242,Rare Exports: A Christmas Tale (Rare Exports) (2010),Action|Comedy,0.339923637386
+76091,Mother (Madeo) (2009),Crime|Drama|Mystery|Thriller,0.339923637386
+933,To Catch a Thief (1955),Crime|Mystery|Romance|Thriller,0.340199994413
+6780,Brief History of Time. A (1991),Documentary,0.340240602448
+8327,Dolls (2002),Drama|Romance,0.340440677122
+1732,Big Lebowski. The (1998),Comedy|Crime,0.341379926396
+67997,In the Loop (2009),Comedy,0.341726404072
+34437,Broken Flowers (2005),Comedy|Drama,0.34214888852
+75813,Leaves of Grass (2009),Comedy|Crime|Drama|Thriller,0.342525395195
+114,Margaret's Museum (1995),Drama,0.343314854037
+122924,X-Men: Apocalypse (2016),Action|Adventure|Fantasy|Sci-Fi,0.343400675066
+49284,10 Items or Less (2006),Comedy|Drama|Romance,0.34406595437
+84160,Wishful Drinking (2010),Documentary,0.34406595437
+89072,Stake Land (2010),Horror,0.34406595437
+100450,Battlestar Galactica: Blood & Chrome (2012),Sci-Fi,0.34406595437
+92694,Perfect Sense (2011),Drama|Romance|Sci-Fi,0.34406595437
+8871,Last Shot. The (2004),Comedy,0.34406595437
+8931,Born Rich (2003),Documentary,0.34406595437
+78703,TiMER (2009),Comedy|Drama|Fantasy|Romance,0.34406595437
+89047,Hesher (2010),Drama,0.34406595437
+50658,49 Up (2005),Documentary,0.344168969538
+7586,Soldier of Orange (a.k.a. Survival Run) (Soldaat van Oranje) (1977),Drama|Thriller|War,0.345645283561
+194,Smoke (1995),Comedy|Drama,0.346110176644
+1285,Heathers (1989),Comedy,0.346170157868
+753,Month by the Lake. A (1995),Comedy|Drama|Romance,0.348158465241
+48516,Departed. The (2006),Crime|Drama|Thriller,0.348815000147
+63876,Milk (2008),Drama,0.349014112152
+2247,Married to the Mob (1988),Comedy,0.349525699053
+43921,Running Scared (2006),Action|Crime|Thriller,0.349704378004
+224,Don Juan DeMarco (1995),Comedy|Drama|Romance,0.349733708936
+7386,Ten Commandments. The (1956),Adventure|Drama,0.350566728383
+3105,Awakenings (1990),Drama|Mystery,0.350838242396
+72386,Broken Embraces (Los abrazos rotos) (2009),Drama|Romance|Thriller,0.351025666944
+50740,Seven Up! (1964),Documentary,0.351621516835
+50742,7 Plus Seven (1970),Documentary,0.351621516835
+6039,Woman in Red. The (1984),Comedy|Romance,0.351920843617
+2729,Lolita (1962),Drama|Romance,0.35250037283
+3544,Shakes the Clown (1992),Comedy,0.352893726112
+74275,I Love You Phillip Morris (2009),Comedy|Drama|Romance,0.353327355814
+140711,American Ultra (2015),Action|Comedy|Sci-Fi|Thriller,0.353840102066
+4833,Changeling. The (1980),Horror|Mystery|Thriller,0.35424648773
+4105,Evil Dead. The (1981),Fantasy|Horror|Thriller,0.355225616733
+6016,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,0.355774266925
+3097,Shop Around the Corner. The (1940),Comedy|Drama|Romance,0.35609789882
+76251,Kick-Ass (2010),Action|Comedy,0.356825776555
+7355,Mr. Toad's Wild Ride (a.k.a. The Wind in the Willows) (1996),Adventure|Animation|Comedy,0.357296748286
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi,0.35767531373
+138696,Hands in the Air (2010),Comedy|Drama|Romance,0.35767531373
+31973,Germany Year Zero (Germania anno zero) (Deutschland im Jahre Null) (1948),Drama|War,0.35767531373
+56869,Drained (O cheiro do Ralo) (2006),Comedy,0.35767531373
+64278,Pervert's Guide to Cinema. The (2006),Documentary,0.35767531373
+702,Faces (1968),Drama,0.35767531373
+97230,Side by Side (2012),Documentary,0.35767531373
+26094,Eclisse. L' (Eclipse) (1962),Drama,0.35767531373
+57038,To the Left of the Father (Lavoura Arcaica) (2001),Drama,0.35767531373
+71755,Earth Entranced (Terra em Transe) (1967),Drama,0.35767531373
+98963,Neighbouring Sounds (O som ao redor) (2012),Drama|Thriller,0.35767531373
+96821,Perks of Being a Wallflower. The (2012),Drama|Romance,0.35819622532
+86892,The Man from Nowhere (2010),Action|Crime|Thriller,0.358383028982
+55684,City of Violence. The (Jjakpae) (2006),Action|Crime|Drama,0.358383028982
+47937,Severance (2006),Comedy|Horror|Thriller,0.358383028982
+32078,Godzilla vs. Mechagodzilla II (Gojira VS Mekagojira) (1993),Action|Drama|Sci-Fi,0.358383028982
+6211,Ten (2002),Drama,0.358796412271
+43556,Annapolis (2006),Drama,0.359044109769
+1482,Van. The (1996),Comedy|Drama,0.359108581568
+2140,Dark Crystal. The (1982),Adventure|Fantasy,0.359359226314
+3396,Muppet Movie. The (1979),Adventure|Children|Comedy|Musical,0.360283285261
+48385,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),Comedy,0.360413463797
+29,City of Lost Children. The (Cité des enfants perdus. La) (1995),Adventure|Drama|Fantasy|Mystery|Sci-Fi,0.360474178593
+5388,Insomnia (2002),Action|Crime|Drama|Mystery|Thriller,0.360517727999
+32444,Carmen (1983),Drama|Musical|Romance,0.360647720153
+7071,Woman Under the Influence. A (1974),Drama,0.360647720153
+37384,Waiting... (2005),Comedy,0.360858462819
+966,A Walk in the Sun (1945),Drama|War,0.361343065211
+608,Fargo (1996),Comedy|Crime|Drama|Thriller,0.361531054147
+78836,Enter the Void (2009),Drama,0.361610182815
+3498,Midnight Express (1978),Drama,0.362294041684
+3204,Boys from Brazil. The (1978),Action|Mystery|Thriller,0.363224557973
+5528,One Hour Photo (2002),Drama|Thriller,0.363354950544
+2104,Tex (1982),Drama,0.363450384772
+148168,Pek Yakında (2014),Action|Comedy|Drama,0.365833509996
+139620,Everything's Gonna Be Great (1998),Adventure|Children|Comedy|Drama,0.365833509996
+81132,Rubber (2010),Action|Adventure|Comedy|Crime|Drama|Film-Noir|Horror|Mystery|Thriller|Western,0.365833509996
+147010,Thou Gild'st the Even (2013),Drama|Fantasy|Romance,0.365833509996
+55820,No Country for Old Men (2007),Crime|Drama,0.36607004087
+3608,Pee-wee's Big Adventure (1985),Adventure|Comedy,0.366254858228
+5608,Das Experiment (Experiment. The) (2001),Drama|Thriller,0.366527894453
+114060,The Drop (2014),Crime|Drama|Thriller,0.366638508178
+582,Métisse (Café au Lait) (1993),Comedy|Drama,0.367429899797
+3060,Commitments. The (1991),Comedy|Drama|Musical,0.367501217394
+92954,Prayers for Bobby (2009),Drama,0.367728188784
+5377,About a Boy (2002),Comedy|Drama|Romance,0.36812429801
+147426,İtirazım Var (2014),Action|Crime|Drama,0.368497792574
+114707,Horns (2014),Horror|Mystery,0.368497792574
+39231,Elizabethtown (2005),Comedy|Drama|Romance,0.36868480795
+32882,Big Store. The (1941),Comedy|Musical,0.36887910402
+4546,Vanishing. The (Spoorloos) (1988),Drama|Thriller,0.369227113812
+85342,Elite Squad: The Enemy Within (Tropa de Elite 2 - O Inimigo Agora É Outro) (2010),Action|Crime|Drama,0.369674619125
+6476,Shattered (1991),Mystery|Thriller,0.369909107468
+50,Usual Suspects. The (1995),Crime|Mystery|Thriller,0.370161157673
+5096,Baby's Day Out (1994),Comedy,0.370797233293
+37736,Oliver Twist (2005),Drama,0.370797233293
+7942,Summer with Monika (Sommaren med Monika) (1953),Drama|Romance,0.370797233293
+3692,Class of Nuke 'Em High (1986),Comedy|Horror,0.37116581119
+47274,Murmur of the Heart (Le souffle au coeur) (1971),Drama,0.37189100766
+109742,Cheap Thrills (2013),Comedy|Thriller,0.372001914253
+62331,Dead Leaves (2004),Action|Adventure|Animation|Comedy|Sci-Fi,0.372001914253
+8641,Anchorman: The Legend of Ron Burgundy (2004),Comedy,0.37267753112
+6405,Treasure Island (1950),Adventure|Children,0.372806316856
+7340,Just One of the Guys (1985),Comedy,0.37285550016
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,0.373121724456
+70344,Cold Souls (2009),Comedy|Drama,0.373658595051
+2959,Fight Club (1999),Action|Crime|Drama|Thriller,0.37376054591
+2897,And the Ship Sails On (E la nave va) (1983),Comedy|War,0.373954313558
+8254,Arizona Dream (1993),Comedy|Drama|Fantasy|Romance,0.373954313558
+2657,Rocky Horror Picture Show. The (1975),Comedy|Horror|Musical|Sci-Fi,0.373999942611
+7147,Big Fish (2003),Drama|Fantasy|Romance,0.374758900505
+56788,Charlie Wilson's War (2007),Comedy|Drama|War,0.375519811624
+3683,Blood Simple (1984),Crime|Drama|Film-Noir,0.376698895587
+7482,Enter the Dragon (1973),Action|Crime,0.377026652554
+41997,Munich (2005),Action|Crime|Drama|Thriller,0.377550888836
+85788,Insidious (2010),Fantasy|Horror|Thriller,0.377929942033
+86142,13 Assassins (Jûsan-nin no shikaku) (2010),Action,0.377971932464
+68444,Great Buck Howard. The (2008),Comedy,0.378048194228
+26480,Raiders of Atlantis. The (1983),Action|Mystery|Sci-Fi,0.378048194228
+32352,Thief and the Cobbler. The (a.k.a. Arabian Knight) (1995),Adventure|Animation|Comedy|Fantasy,0.378048194228
+69685,Daria: Is It College Yet? (2002),Animation|Comedy,0.378048194228
+95165,Dragon Ball Z the Movie: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon bôru Z: Kono yo de ichiban tsuyoi yatsu) (1990),Action|Adventure|Animation|Sci-Fi|Thriller,0.378048194228
+71533,Next Day Air (2009),Action|Comedy|Crime,0.378048194228
+7845,Tremors II: Aftershocks (1996),Comedy|Horror|Sci-Fi,0.378048194228
+113573,Sin City: A Dame to Kill For (2014),Action|Crime|Thriller,0.378048194228
+98,Shopping (1994),Action|Thriller,0.378048194228
+95182,Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen) (1990),Action|Adventure|Animation|Sci-Fi,0.378048194228
+161594,Kingsglaive: Final Fantasy XV (2016),Action|Adventure|Animation|Drama|Fantasy|Sci-Fi,0.378048194228
+159462,The Video Dead (1987),Horror,0.378048194228
+40574,Get Rich or Die Tryin' (2005),Action|Crime|Drama,0.378048194228
+65310,Poultrygeist: Night of the Chicken Dead (2006),Comedy|Horror|Musical,0.378048194228
+63826,Splinter (2008),Action|Horror|Thriller,0.378048194228
+117123,Dear White People (2014),Comedy|Drama,0.378048194228
+152091,The Brothers Grimsby (2016),Comedy,0.378048194228
+4987,Spacehunter: Adventures in the Forbidden Zone (1983),Action|Adventure|Sci-Fi,0.378048194228
+50651,Kenny (2006),Comedy,0.378048194228
+72603,Merry Madagascar (2009),Animation,0.378048194228
+2577,Metroland (1997),Comedy|Drama,0.378457225736
+7045,Witches. The (1990),Children|Fantasy,0.379397793091
+27032,Who Am I? (Wo shi shei) (1998),Action|Adventure|Comedy|Sci-Fi|Thriller,0.379742874287
+117533,Citizenfour (2014),Documentary,0.380070101354
+4084,Beverly Hills Cop II (1987),Action|Comedy|Crime|Thriller,0.381546664556
+3629,Gold Rush. The (1925),Adventure|Comedy|Romance,0.381804089893
+57274,[REC] (2007),Drama|Horror|Thriller,0.3826315216
+102033,Pain & Gain (2013),Action|Comedy|Crime,0.383295998979
+7379,The Alamo (2004),Drama|War|Western,0.383328073505
+3950,Tigerland (2000),Drama,0.385191487783
+7792,Parallax View. The (1974),Thriller,0.385394655562
+84152,Limitless (2011),Sci-Fi|Thriller,0.385992780783
+34536,The Great Raid (2005),Action|Drama|War,0.386620747822
+55116,Hunting Party. The (2007),Action|Adventure|Comedy|Drama|Thriller,0.386620747822
+27912,Outfoxed: Rupert Murdoch's War on Journalism (2004),Documentary,0.386620747822
+51088,Reno 911!: Miami (2007),Comedy,0.386620747822
+26812,Barbarians at the Gate (1993),Drama,0.386620747822
+72308,Battlestar Galactica: The Plan (2009),Action|Adventure|Drama|Sci-Fi,0.386620747822
+81516,Black Death (2010),Adventure|Drama|Horror|Mystery,0.386620747822
+85213,Sunset Limited. The (2011),Drama,0.386620747822
+33826,Saint Ralph (2004),Comedy|Drama,0.386620747822
+93498,Game Change (2012),Drama,0.386620747822
+84154,Transcendent Man (2009),Documentary,0.386620747822
+40946,Sarah Silverman: Jesus Is Magic (2005),Comedy|Musical,0.386620747822
+51091,Black Snake Moan (2006),Drama,0.386620747822
+94799,Sound of My Voice (2011),Drama|Mystery|Sci-Fi,0.386620747822
+39444,Weather Man. The (2005),Comedy|Drama,0.387546374281
+74677,Yes Men Fix the World. The (2009),Documentary,0.387656244423
+8012,Kikujiro (Kikujirô no natsu) (1999),Comedy|Drama,0.387921950505
+8840,Who's That Knocking at My Door? (1967),Drama,0.387928961254
+80572,I'm Still Here (2010),Comedy|Drama,0.387928961254
+27816,Saints and Soldiers (2003),Action|Adventure|Drama|War,0.387928961254
+25916,They Were Expendable (1945),Drama|War,0.387928961254
+69241,Berlin Alexanderplatz (1980),Drama,0.387928961254
+25993,Magnificent Obsession (1954),Drama|Romance,0.387928961254
+3314,Big Trees. The (1952),Action|Drama,0.387928961254
+30818,Beyond the Sea (2004),Drama|Musical,0.387928961254
+7407,Africa Screams (1949),Adventure|Comedy,0.387928961254
+6739,At War with the Army (1950),Comedy|Musical|Romance,0.387928961254
+4267,One Night at McCool's (2001),Comedy,0.38849266224
+7766,Throne of Blood (Kumonosu jô) (1957),Action|Drama|Thriller|War,0.388988923355
+99114,Django Unchained (2012),Action|Drama|Western,0.389567387863
+26712,35 Up (1991),Documentary,0.389818825409
+101142,Croods. The (2013),Adventure|Animation|Comedy,0.390092747758
+5735,Faces of Death (1978),Documentary|Horror,0.390146126686
+5989,Catch Me If You Can (2002),Crime|Drama,0.39043898627
+27846,Corporation. The (2003),Documentary,0.390484874847
+51277,36th Chamber of Shaolin. The (Shao Lin san shi liu fang) (Master Killer) (1978),Action|Adventure,0.390877402153
+2686,Red Violin. The (Violon rouge. Le) (1998),Drama|Mystery,0.391622527502
+92309,Innkeepers. The (2011),Horror|Thriller,0.391930969845
+4589,Eddie and the Cruisers (1983),Drama|Musical|Mystery,0.39243667912
+4237,Gleaners & I. The (Les glaneurs et la glaneuse) (2000),Documentary,0.392783226148
+3203,Dead Calm (1989),Thriller,0.393323556473
+7090,Hero (Ying xiong) (2002),Action|Adventure|Drama,0.395093734263
+58351,City of Men (Cidade dos Homens) (2007),Drama,0.395489892788
+30812,Aviator. The (2004),Drama,0.396383223386
+4235,Amores Perros (Love's a Bitch) (2000),Drama|Thriller,0.396423864595
+6983,Jane Eyre (1944),Drama|Romance,0.397444628013
+1682,Truman Show. The (1998),Comedy|Drama|Sci-Fi,0.39830678469
+2288,Thing. The (1982),Action|Horror|Sci-Fi|Thriller,0.398721358077
+2843,Black Cat. White Cat (Crna macka. beli macor) (1998),Comedy|Romance,0.398940417014
+8950,The Machinist (2004),Drama|Mystery|Thriller,0.399162400615
+45440,Art School Confidential (2006),Comedy|Drama,0.39924262895
+1073,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical,0.400155273082
+46723,Babel (2006),Drama|Thriller,0.400168101472
+1846,Nil By Mouth (1997),Drama,0.400176086787
+102252,Legendary Weapons of China (1982),Action|Adventure,0.400209778952
+162376,Stranger Things,Drama,0.400209778952
+2305,Slam (1998),Drama,0.400209778952
+89085,Debt. The (2011),Drama|Thriller,0.400209778952
+95965,Dragon Ball Z: Bardock - The Father of Goku (Doragon bôru Z: Tatta hitori no saishuu kessen - Furiiza ni itonda Z senshi Kakarotto no chichi) (1990),Action|Adventure|Animation,0.400209778952
+27646,Soldier's Girl (2003),Drama,0.400209778952
+5746,Galaxy of Terror (Quest) (1981),Action|Horror|Mystery|Sci-Fi,0.400209778952
+95475,Dragon Ball Z: Cooler's Revenge (Doragon bôru Z 5: Tobikkiri no saikyô tai saikyô) (1991),Action|Adventure|Animation,0.400209778952
+95499,Dragon Ball Z: Broly - The Legendary Super Saiyan (Doragon bôru Z 8: Moetsukiro!! Nessen retsusen-chô gekisen) (1993),Action|Adventure|Animation,0.400209778952
+2301,History of the World: Part I (1981),Comedy|Musical,0.400649940582
+33154,Enron: The Smartest Guys in the Room (2005),Documentary,0.401014960088
+81932,Fighter. The (2010),Drama,0.40106534812
+4553,They Live (1988),Action|Sci-Fi|Thriller,0.40126863888
+64701,I've Loved You So Long (Il y a longtemps que je t'aime) (2008),Drama|Mystery,0.401531171447
+5147,Wild Strawberries (Smultronstället) (1957),Drama,0.401825904078
+79008,South Park: Imaginationland (2008),Animation|Comedy|Fantasy,0.402894429065
+7334,Front. The (1976),Comedy|Drama,0.403020402668
+53447,Paranoid Park (2007),Crime|Drama,0.403464722681
+77,Nico Icon (1995),Documentary,0.403491697926
+7834,After the Thin Man (1936),Comedy|Crime|Mystery|Romance,0.404419530655
+3996,Crouching Tiger. Hidden Dragon (Wo hu cang long) (2000),Action|Drama|Romance,0.404556768737
+27876,Schultze Gets the Blues (2003),Comedy|Drama,0.404638055112
+48560,Running With Scissors (2006),Comedy|Drama,0.405237614086
+837,Matilda (1996),Children|Comedy|Fantasy,0.40571784176
+36535,Everything Is Illuminated (2005),Comedy|Drama,0.405764402455
+6862,Out of Time (2003),Crime|Drama|Thriller,0.406586285132
+1653,Gattaca (1997),Drama|Sci-Fi|Thriller,0.406928626706
+1965,Repo Man (1984),Comedy|Sci-Fi,0.407122769756
+1350,Omen. The (1976),Horror|Mystery|Thriller,0.407512097055
+55721,Elite Squad (Tropa de Elite) (2007),Action|Crime|Drama|Thriller,0.407513588887
+7177,Osama (2003),Drama,0.407798918849
+4135,Monster Squad. The (1987),Adventure|Comedy|Horror,0.407917052947
+101070,Wadjda (2012),Drama,0.408024652796
+115216,Salvation. The (2014),Drama|Western,0.408082120595
+1006,Chamber. The (1996),Drama,0.408475973446
+6987,Cabinet of Dr. Caligari. The (Cabinet des Dr. Caligari.. Das) (1920),Crime|Fantasy|Horror,0.408510807326
+70599,Time Traveler's Wife. The (2009),Drama|Romance|Sci-Fi,0.409181469178
+5483,Kid Stays in the Picture. The (2002),Documentary,0.409752789512
+2212,Man Who Knew Too Much. The (1934),Drama|Thriller,0.410660036271
+3217,Star Is Born. A (1937),Drama,0.410660036271
+939,Reluctant Debutante. The (1958),Comedy|Drama,0.410660036271
+3423,School Daze (1988),Drama,0.410660036271
+5940,Eating Raoul (1982),Comedy,0.411271486539
+128360,The Hateful Eight (2015),Western,0.412064514473
+233,Exotica (1994),Drama,0.413295621102
+27741,Twilight Samurai. The (Tasogare Seibei) (2002),Drama|Romance,0.413337122984
+538,Six Degrees of Separation (1993),Drama,0.41385042731
+1673,Boogie Nights (1997),Drama,0.414307871047
+7920,Desperate Living (1977),Comedy|Crime,0.414831215484
+61240,Let the Right One In (Låt den rätte komma in) (2008),Drama|Fantasy|Horror|Romance,0.415270502779
+102481,Internship. The (2013),Comedy,0.416480761861
+44717,Lisbela e o Prisioneiro (Lisbela and the Prisoner) (2003),Comedy|Romance,0.417083388039
+1193,One Flew Over the Cuckoo's Nest (1975),Drama,0.418062853525
+4011,Snatch (2000),Comedy|Crime|Thriller,0.418069727738
+42728,Tristan & Isolde (2006),Drama|Romance,0.418111812555
+42730,Glory Road (2006),Drama,0.418111812555
+74740,Fermat's Room (La habitación de Fermat) (2007),Mystery|Thriller,0.419313260147
+2967,Bad Seed. The (1956),Drama|Thriller,0.419356939021
+26326,Holy Mountain. The (Montaña sagrada. La) (1973),Drama,0.419692933037
+63808,Class. The (Entre les murs) (2008),Drama,0.419881439622
+928,Rebecca (1940),Drama|Mystery|Romance|Thriller,0.420232325979
+52462,Aqua Teen Hunger Force Colon Movie Film for Theaters (2007),Action|Adventure|Animation|Comedy|Fantasy|Mystery|Sci-Fi,0.420359151695
+4220,Longest Yard. The (1974),Comedy,0.420449154311
+2918,Ferris Bueller's Day Off (1986),Comedy,0.421584627541
+471,Hudsucker Proxy. The (1994),Comedy,0.422277029023
+3783,Croupier (1998),Crime|Drama,0.422842290678
+3087,Scrooged (1988),Comedy|Fantasy|Romance,0.423040854718
+5288,Atomic Cafe. The (1982),Documentary|War,0.424016251864
+56885,Great Debaters. The (2007),Drama,0.424103562436
+114670,Tusk (2014),Comedy|Drama|Horror,0.424723678683
+71466,City Island (2009),Comedy|Drama,0.424979998815
+1968,Breakfast Club. The (1985),Comedy|Drama,0.425048693031
+64575,Doubt (2008),Drama|Mystery,0.425481824893
+27803,Sea Inside. The (Mar adentro) (2004),Drama,0.425754306788
+26462,Bad Boys (1983),Crime|Drama|Thriller,0.425783337128
+3224,Woman in the Dunes (Suna no onna) (1964),Drama,0.425788023444
+3210,Fast Times at Ridgemont High (1982),Comedy|Drama|Romance,0.42626832045
+2707,Arlington Road (1999),Thriller,0.427375913345
+1248,Touch of Evil (1958),Crime|Film-Noir|Thriller,0.427694310035
+8093,Shiri (Swiri) (1999),Action|Drama|Romance|Thriller,0.427787905167
+6215,Laurel Canyon (2002),Drama,0.428631893701
+1299,Killing Fields. The (1984),Drama|War,0.428786404777
+3081,Sleepy Hollow (1999),Fantasy|Horror|Mystery|Romance,0.428985264292
+6370,Spanish Apartment. The (L'auberge espagnole) (2002),Comedy|Drama|Romance,0.428986700618
+4372,Crazy/Beautiful (2001),Drama|Romance,0.429164906996
+48783,Flags of Our Fathers (2006),Drama|War,0.429519865757
+2313,Elephant Man. The (1980),Drama,0.429678681886
+31878,Kung Fu Hustle (Gong fu) (2004),Action|Comedy,0.429893670957
+48817,Sleeping Dogs Lie (a.k.a. Stay) (2006),Comedy|Drama|Romance,0.430382020197
+91947,Revenant. The (2009),Comedy|Horror,0.430382020197
+27186,Kirikou and the Sorceress (Kirikou et la sorcière) (1998),Adventure|Animation|Children|Fantasy,0.430920142453
+5663,Below (2002),Horror,0.431082139257
+6953,21 Grams (2003),Crime|Drama|Mystery|Romance|Thriller,0.431171556439
+6584,What's Up. Tiger Lily? (1966),Adventure|Comedy|Crime|Thriller,0.431820304494
+1283,High Noon (1952),Drama|Western,0.431878387369
+2176,Rope (1948),Crime|Drama|Thriller,0.432328175087
+82459,True Grit (2010),Western,0.432516039411
+47999,Jesus Camp (2006),Documentary|Drama,0.432784542665
+6864,Concert for George. The (2003),Documentary|Musical,0.432937560015
+1437,Cement Garden. The (1993),Drama,0.433332548287
+57243,Band's Visit. The (Bikur Ha-Tizmoret) (2007),Comedy|Drama,0.433682889369
+8207,Day of the Jackal. The (1973),Crime|Thriller,0.433989550052
+7065,Birth of a Nation. The (1915),Drama|War,0.434193433267
+3897,Almost Famous (2000),Drama,0.434462751923
+26524,Times of Harvey Milk. The (1984),Documentary,0.435175925681
+64993,5 Centimeters per Second (Byôsoku 5 senchimêtoru) (2007),Animation|Drama|Romance,0.435417804264
+79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,0.436151761931
+105844,12 Years a Slave (2013),Drama,0.436623452044
+1129,Escape from New York (1981),Action|Adventure|Sci-Fi|Thriller,0.436995675108
+4024,House of Mirth. The (2000),Romance,0.437999735519
+320,Suture (1993),Film-Noir|Thriller,0.438166104122
+48394,Pan's Labyrinth (Laberinto del fauno. El) (2006),Drama|Fantasy|Thriller,0.438721471894
+3467,Hud (1963),Drama|Western,0.439648871803
+5670,Comedian (2002),Comedy|Documentary,0.439947116287
+3076,Irma la Douce (1963),Comedy,0.439960876449
+456,Fresh (1994),Crime|Drama|Thriller,0.440465128907
+112421,Frank (2014),Comedy|Drama|Mystery,0.441506893018
+76111,About Elly (Darbareye Elly) (2009),Drama|Mystery,0.442513468191
+2144,Sixteen Candles (1984),Comedy|Romance,0.443132195692
+5179,Gloria (1980),Drama|Thriller,0.443132504274
+3441,Red Dawn (1984),Action|Drama|War,0.443275891807
+74668,District 13: Ultimatum (Banlieue 13 - Ultimatum) (2009),Action|Sci-Fi,0.443677142077
+98369,Halo 4: Forward Unto Dawn (2012),Action|Sci-Fi|Thriller,0.443677142077
+2681,Free Enterprise (1998),Comedy|Romance|Sci-Fi,0.443677142077
+80917,Monsters (2010),Drama|Sci-Fi,0.443677142077
+82534,Company Men. The (2010),Drama,0.443677142077
+39398,C.S.A.: The Confederate States of America (2004),Comedy|Drama,0.443677142077
+1272,Patton (1970),Drama|War,0.44387156363
+4378,Sexy Beast (2000),Crime|Drama,0.444707795156
+2648,Frankenstein (1931),Drama|Horror|Sci-Fi,0.446386741529
+25753,Greed (1924),Drama,0.446510502189
+33138,Palindromes (2004),Adventure|Comedy|Drama,0.446875913482
+27397,Joint Security Area (Gongdong gyeongbi guyeok JSA) (2000),Crime|Drama|Mystery|Thriller|War,0.446900025637
+5826,Rio Grande (1950),Romance|Western,0.446900025637
+8142,Dead or Alive: Hanzaisha (1999),Action|Crime,0.446900025637
+1090,Platoon (1986),Drama|War,0.447191244266
+1219,Psycho (1960),Crime|Horror,0.447198926196
+31437,Nobody Knows (Dare mo shiranai) (2004),Drama,0.448534425306
+2439,Affliction (1997),Drama,0.448816973821
+32587,Sin City (2005),Action|Crime|Film-Noir|Mystery|Thriller,0.449496193122
+52666,Benny's Video (1992),Drama|Horror,0.449533183329
+6296,Mighty Wind. A (2003),Comedy|Musical,0.449636741643
+5649,Horror of Dracula (Dracula) (1958),Horror,0.449755634601
+5992,Hours. The (2002),Drama|Romance,0.449881069125
+1756,Prophecy II. The (1998),Horror,0.45020127959
+3732,Fury. The (1978),Horror,0.450516002923
+84952,Confessions (Kokuhaku) (2010),Drama|Horror,0.450652754319
+4880,Life as a House (2001),Drama,0.450818575819
+2726,Killing. The (1956),Crime|Film-Noir,0.452125573016
+6870,Mystic River (2003),Crime|Drama|Mystery,0.452664490354
+7566,28 Up (1985),Documentary,0.453976484749
+6291,Lilya 4-Ever (Lilja 4-ever) (2002),Crime|Drama,0.453988730341
+3424,Do the Right Thing (1989),Drama,0.45446687486
+1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,0.455278762143
+7938,Winter Light (Nattvardsgästerna) (1963),Drama,0.456322176019
+140265,George Carlin: Jammin' in New York (1992),Comedy,0.456476547317
+5101,Richard Pryor Here and Now (1983),Comedy|Documentary,0.456476547317
+120805,Robin Williams: Weapons of Self Destruction (2009),Comedy,0.456476547317
+102217,Bill Hicks: Revelations (1993),Comedy,0.456476547317
+136445,George Carlin: Back in Town (1996),Comedy,0.456476547317
+128846,An Evening with Robin Williams (1982),Comedy,0.456476547317
+118890,Bill Hicks: Relentless (1992),Comedy,0.456476547317
+129514,George Carlin: It's Bad for Ya! (2008),Comedy,0.456476547317
+7302,Thief of Bagdad. The (1924),Action|Adventure|Fantasy,0.456476547317
+130970,George Carlin: Life Is Worth Losing (2005),Comedy,0.456476547317
+136447,George Carlin: You Are All Diseased (1999),Comedy,0.456476547317
+4577,Casualties of War (1989),Drama|War,0.456953751844
+2997,Being John Malkovich (1999),Comedy|Drama|Fantasy,0.458253176621
+26585,Better Tomorrow. A (Ying hung boon sik) (1986),Crime|Drama|Thriller,0.458901801741
+8874,Shaun of the Dead (2004),Comedy|Horror,0.46020759648
+5540,Clash of the Titans (1981),Action|Adventure|Fantasy|Romance,0.46030505054
+4035,Claim. The (2000),Romance|Western,0.460470475353
+4391,Vertical Ray of the Sun. The (Mua he chieu thang dung) (2000),Drama,0.460470475353
+1415,Thieves (Voleurs. Les) (1996),Crime|Drama|Romance,0.46106949537
+6384,Love the Hard Way (2001),Crime|Drama|Romance,0.462179762475
+32298,Guess Who (2005),Comedy|Romance,0.462179762475
+1529,Nowhere (1997),Comedy|Drama,0.462480315417
+80693,It's Kind of a Funny Story (2010),Comedy|Drama,0.462740845681
+7323,Good bye. Lenin! (2003),Comedy|Drama,0.462845547124
+1208,Apocalypse Now (1979),Action|Drama|War,0.463128558592
+4614,Kickboxer (1989),Action,0.463554342636
+2921,High Plains Drifter (1973),Western,0.463633597291
+8589,Winter War (Talvisota) (1989),Drama|War,0.463842637788
+5971,My Neighbor Totoro (Tonari no Totoro) (1988),Animation|Children|Drama|Fantasy,0.463874954076
+2985,RoboCop (1987),Action|Crime|Drama|Sci-Fi|Thriller,0.465019088864
+163,Desperado (1995),Action|Romance|Western,0.466712898359
+2847,Only Angels Have Wings (1939),Adventure|Drama|Romance,0.467002325177
+968,Night of the Living Dead (1968),Horror|Sci-Fi|Thriller,0.467362212925
+79251,Serbian Film. A (Srpski film) (2010),Horror|Thriller,0.46767370914
+4321,City Slickers (1991),Comedy|Western,0.467682626972
+1206,Clockwork Orange. A (1971),Crime|Drama|Sci-Fi|Thriller,0.4677759023
+41716,Matador. The (2005),Comedy|Drama|Thriller,0.467964786272
+62203,Martyrs (2008),Horror,0.468128722301
+135861,Ted 2 (2015),Comedy,0.468291671855
+2673,Eternity and a Day (Mia aoniotita kai mia mera) (1998),Drama,0.469920064927
+25777,Monkey Business (1931),Comedy,0.470390128614
+68157,Inglourious Basterds (2009),Action|Drama|War,0.470486818964
+1076,Innocents. The (1961),Drama|Horror|Thriller,0.470996541997
+46559,Road to Guantanamo. The (2006),Drama|War,0.471317451126
+70728,Bronson (2009),Action|Comedy|Drama|Thriller,0.472294072851
+2474,Color of Money. The (1986),Drama,0.472392860575
+3852,Tao of Steve. The (2000),Comedy,0.472587236864
+26172,Point Blank (1967),Action|Crime|Drama|Thriller,0.473387181009
+158238,The Nice Guys (2016),Crime|Mystery|Thriller,0.473751045403
+2300,Producers. The (1968),Comedy,0.473898781693
+908,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller,0.474454728291
+4519,Land Before Time. The (1988),Adventure|Animation|Children|Fantasy,0.475059508171
+96737,Dredd (2012),Action|Sci-Fi,0.475069424428
+3911,Best in Show (2000),Comedy,0.478917219691
+53883,Power of Nightmares. The: The Rise of the Politics of Fear (2004),Documentary,0.480403059235
+904,Rear Window (1954),Mystery|Thriller,0.480813874431
+1730,Kundun (1997),Drama,0.480990852189
+4034,Traffic (2000),Crime|Drama|Thriller,0.481255542545
+422,Blink (1994),Thriller,0.482697689994
+68347,Sin Nombre (2009),Crime|Drama|Thriller,0.482702498064
+30749,Hotel Rwanda (2004),Drama|War,0.482899084336
+6868,Wonderland (2003),Crime|Drama|Mystery|Thriller,0.482990739782
+3742,Battleship Potemkin (1925),Drama|War,0.483962716063
+1921,Pi (1998),Drama|Sci-Fi|Thriller,0.484334579673
+4761,Diamond Men (2001),Drama,0.48449248026
+1931,Mutiny on the Bounty (1935),Adventure|Drama,0.484509574629
+917,Little Princess. The (1939),Children|Drama,0.485963236347
+107953,Dragon Ball Z: Battle of Gods (2013),Action|Animation|Fantasy|IMAX,0.486222647588
+111,Taxi Driver (1976),Crime|Drama|Thriller,0.486272113105
+1500,Grosse Pointe Blank (1997),Comedy|Crime|Romance,0.486495423251
+2857,Yellow Submarine (1968),Adventure|Animation|Comedy|Fantasy|Musical,0.486754547113
+1019,20.000 Leagues Under the Sea (1954),Adventure|Drama|Sci-Fi,0.486788579217
+4101,Dogs in Space (1987),Drama,0.487025048743
+5500,Top Secret! (1984),Comedy,0.487215717
+3929,Bank Dick. The (1940),Comedy,0.487915531785
+47404,Mind Game (2004),Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi,0.488391976065
+56908,Dedication (2007),Comedy|Drama|Romance,0.488391976065
+27713,Bukowski: Born into This (2003),Documentary,0.488391976065
+79029,Kurt Cobain About a Son (2006),Documentary|Musical,0.488391976065
+32562,Harvie Krumpet (2003),Animation|Comedy|Drama,0.488391976065
+60291,Gonzo: The Life and Work of Dr. Hunter S. Thompson (2008),Documentary,0.488391976065
+30867,Kamikaze Girls (Shimotsuma monogatari) (2004),Comedy,0.488391976065
+70159,Orphan (2009),Drama|Horror|Mystery|Thriller,0.488391976065
+6887,Radio (2003),Drama,0.488804366002
+26313,California Split (1974),Comedy|Drama,0.489306332855
+98607,Redline (2009),Action|Animation|Sci-Fi,0.490493001293
+57669,In Bruges (2008),Comedy|Crime|Drama|Thriller,0.491264842218
+5605,Ratcatcher (1999),Drama,0.492249043677
+48501,G.O.R.A. (2004),Adventure|Comedy|Sci-Fi,0.493158016854
+50851,Cocaine Cowboys (2006),Documentary,0.49328537425
+52767,21 Up (1977),Documentary,0.493884667904
+56286,I'm Not There (2007),Drama,0.49405312542
+5655,Fan. The (1981),Drama|Thriller,0.495786627527
+106782,Wolf of Wall Street. The (2013),Comedy|Crime|Drama,0.495867383897
+47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,0.496410321928
+8225,Night of the Living Dead (1990),Horror,0.496574199308
+2289,Player. The (1992),Comedy|Crime|Drama,0.496579117097
+59022,Harold & Kumar Escape from Guantanamo Bay (2008),Adventure|Comedy,0.498250612179
+1466,Donnie Brasco (1997),Crime|Drama,0.498522117583
+4190,Elmer Gantry (1960),Drama,0.499125553489
+97,Hate (Haine. La) (1995),Crime|Drama,0.499199622468
+3543,Diner (1982),Comedy|Drama,0.499377160371
+59118,Happy-Go-Lucky (2008),Comedy|Drama,0.499732864358
+27660,Animatrix. The (2003),Action|Animation|Drama|Sci-Fi,0.500127849173
+108548,Big Bang Theory. The (2007-),Comedy,0.501150741041
+149572,A.R.O.G. (2008),Comedy|Fantasy,0.501150741041
+147006,Bana Masal Anlatma (2015),Comedy|Drama,0.501150741041
+117871,Water Diviner. The (2014),Action|Drama|War,0.501150741041
+62644,Wave. The (Welle. Die) (2008),Drama,0.501536332769
+8019,Dark Water (Honogurai mizu no soko kara) (2002),Drama|Horror|Mystery|Thriller,0.501611265091
+8910,I Heart Huckabees (2004),Comedy,0.502138941109
+80241,Going the Distance (2010),Comedy|Romance,0.502439193482
+1935,How Green Was My Valley (1941),Drama|Musical|Romance,0.502517783976
+51380,Canterbury Tales. The (I racconti di Canterbury) (1972),Comedy|Drama,0.502828182917
+8892,Basket Case 3: The Progeny (1992),Comedy|Horror,0.502828182917
+92424,Dottie Gets Spanked (1993),Drama,0.502828182917
+72880,Flaming Creatures (1963),Drama,0.502828182917
+26164,Fando and Lis (Fando y Lis) (1968),Adventure|Fantasy,0.502828182917
+54785,Halloween (2007),Horror,0.502828182917
+1137,Hustler White (1996),Romance,0.502828182917
+72109,Vampire Girl vs. Frankenstein Girl (Kyûketsu Shôjo tai Shôjo Furanken) (2009),Action|Comedy|Horror|Romance,0.502828182917
+8189,Zazie dans le métro (1960),Comedy,0.502828182917
+71494,Haunted World of El Superbeasto. The (2009),Action|Animation|Comedy|Horror|Thriller,0.502828182917
+49902,Decameron. The (Decameron. Il) (1971),Comedy|Drama,0.502828182917
+32735,Arabian Nights (Il fiore delle mille e una notte) (1974),Comedy|Drama|Fantasy,0.502828182917
+4863,Female Trouble (1975),Comedy|Crime,0.502828182917
+52831,Maniac Cop (1988),Action|Crime|Horror|Thriller,0.502828182917
+73531,Last of England. The (1988),Drama,0.502828182917
+6140,Tenebre (1982),Horror|Mystery|Thriller,0.503281959179
+86377,Louis C.K.: Shameless (2007),Comedy,0.505397250929
+4407,Salvador (1986),Drama|Thriller|War,0.50556061564
+30850,Merchant of Venice. The (2004),Drama,0.506239598876
+115122,What We Do in the Shadows (2014),Comedy|Horror,0.506666586842
+61236,Waltz with Bashir (Vals im Bashir) (2008),Animation|Documentary|Drama|War,0.507503737636
+3494,True Grit (1969),Adventure|Drama|Western,0.507729705032
+1175,Delicatessen (1991),Comedy|Drama|Romance,0.508493666179
+8923,Tess (1979),Drama|Romance,0.508728392794
+92535,Louis C.K.: Live at the Beacon Theater (2011),Comedy,0.508934078545
+28,Persuasion (1995),Drama|Romance,0.509236122639
+8341,Oliver Twist (1948),Adventure|Crime|Drama,0.510098348272
+1305,Paris. Texas (1984),Drama|Romance,0.510115109283
+5177,Magnificent Ambersons. The (1942),Drama|Romance,0.510362624742
+26684,Frankenhooker (1990),Comedy|Horror,0.512045872376
+6602,Brain Damage (1988),Comedy|Horror,0.512045872376
+492,Manhattan Murder Mystery (1993),Comedy|Mystery,0.512225022124
+288,Natural Born Killers (1994),Action|Crime|Thriller,0.51237963338
+369,Mrs. Parker and the Vicious Circle (1994),Drama,0.512589230762
+8596,Revenge of the Pink Panther (1978),Comedy|Crime,0.512909660225
+86882,Midnight in Paris (2011),Comedy|Fantasy|Romance,0.515696242052
+63276,Crows Zero (Kurôzu zero) (2007),Action,0.516042446717
+68848,Brothers Bloom. The (2008),Adventure|Comedy|Crime|Romance,0.516485962543
+1250,Bridge on the River Kwai. The (1957),Adventure|Drama|War,0.516518419934
+3245,I Am Cuba (Soy Cuba/Ya Kuba) (1964),Drama,0.516744600155
+6611,Umberto D. (1952),Drama,0.516744600155
+3253,Wayne's World (1992),Comedy,0.516938826745
+3037,Little Big Man (1970),Western,0.517225134918
+68954,Up (2009),Adventure|Animation|Children|Drama,0.518900908339
+6123,Sunless (Sans Soleil) (1983),Documentary,0.52008370119
+4036,Shadow of the Vampire (2000),Drama|Horror,0.520258038308
+1994,Poltergeist (1982),Horror|Thriller,0.520759995043
+87869,Horrible Bosses (2011),Comedy|Crime,0.522278770209
+86504,Voices from the List (2004),Documentary,0.522603328479
+8827,Bill Cosby. Himself (1983),Comedy|Documentary,0.523043918339
+7025,Midnight Clear. A (1992),Drama|War,0.523127599101
+2930,Return with Honor (1998),Documentary,0.523127599101
+1333,Birds. The (1963),Horror|Thriller,0.523203623296
+7265,Dreamers. The (2003),Drama,0.523666316633
+2716,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi,0.524147307339
+1345,Carrie (1976),Drama|Fantasy|Horror|Thriller,0.524242622277
+3679,Decline of Western Civilization. The (1981),Documentary|Musical,0.524454670034
+2502,Office Space (1999),Comedy|Crime,0.52461554326
+6460,Trial. The (Procès. Le) (1962),Drama,0.524755228935
+1258,Shining. The (1980),Horror,0.526564901225
+7802,Warriors. The (1979),Action|Adventure|Crime|Thriller,0.527235524688
+30820,Woodsman. The (2004),Drama,0.528388167223
+49272,Casino Royale (2006),Action|Adventure|Thriller,0.528646713916
+121,Boys of St. Vincent. The (1992),Drama,0.528767757546
+43396,World's Fastest Indian. The (2005),Drama,0.529686470076
+254,Jefferson in Paris (1995),Drama,0.529945935877
+4733,Curse of the Jade Scorpion. The (2001),Comedy,0.531015660469
+71180,Padre padrone (1977),Drama,0.531537981036
+102753,Past. The (Le passé) (2013),Drama|Mystery|Romance,0.531537981036
+69761,Through the Olive Trees (Zire darakhatan zeyton) (1994),Drama,0.531537981036
+4114,Good Morning. Babylon (1987),Drama,0.531537981036
+97826,Patience Stone. The (2012),Drama|War,0.531537981036
+48682,Offside (2006),Comedy|Drama,0.531537981036
+98587,Caesar Must Die (Cesare deve morire) (2012),Drama,0.531537981036
+107555,Fireworks Wednesday (Chaharshanbe-soori) (2006),Drama|Mystery|Romance,0.531537981036
+6107,Night of the Shooting Stars (Notte di San Lorenzo. La) (1982),Drama|War,0.531537981036
+59447,Fiorile (1993),Drama,0.531537981036
+962,They Made Me a Criminal (1939),Crime|Drama,0.531994110816
+44840,Benchwarmers. The (2006),Comedy,0.532815232517
+45442,Poseidon (2006),Action|Adventure|Thriller|IMAX,0.532815232517
+6760,In This World (2002),Adventure|Drama,0.533264786808
+249,Immortal Beloved (1994),Drama|Romance,0.533300781037
+69849,Roots (1977),Drama|War,0.533447327203
+8376,Napoleon Dynamite (2004),Comedy,0.535301591919
+330,Tales from the Hood (1995),Action|Crime|Horror,0.535412121969
+6235,Europa Europa (Hitlerjunge Salomon) (1990),Drama|War,0.535611238953
+26241,The Devils (1971),Drama,0.535643846693
+639,Girl 6 (1996),Comedy|Drama,0.536787908201
+6818,Come and See (Idi i smotri) (1985),Drama|War,0.536832460651
+1799,Suicide Kings (1997),Comedy|Crime|Drama|Mystery|Thriller,0.536988634732
+2201,Paradine Case. The (1947),Drama,0.537234378183
+3657,Pandora and the Flying Dutchman (1951),Drama,0.537234378183
+45880,Marie Antoinette (2006),Drama|Romance,0.538039685497
+2987,Who Framed Roger Rabbit? (1988),Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery,0.538498413244
+3459,Gothic (1986),Drama|Horror,0.538708942375
+4144,In the Mood For Love (Fa yeung nin wa) (2000),Drama|Romance,0.538763687836
+1197,Princess Bride. The (1987),Action|Adventure|Comedy|Fantasy|Romance,0.539491491293
+4977,Kandahar (Safar e Ghandehar) (2001),Drama,0.540760685156
+8340,Escape from Alcatraz (1979),Drama|Thriller,0.541205520505
+71464,Serious Man. A (2009),Comedy|Drama,0.54125474161
+2064,Roger & Me (1989),Documentary,0.541255834286
+6650,Kind Hearts and Coronets (1949),Comedy|Drama,0.541281375113
+1943,Greatest Show on Earth. The (1952),Drama,0.541832378072
+281,Nobody's Fool (1994),Comedy|Drama|Romance,0.542138735477
+3200,Last Detail. The (1973),Comedy|Drama,0.542320941019
+36276,Hidden (a.k.a. Cache) (Caché) (2005),Drama|Mystery|Thriller,0.542669413104
+1237,Seventh Seal. The (Sjunde inseglet. Det) (1957),Drama,0.542844757214
+858,Godfather. The (1972),Crime|Drama,0.543163353473
+1214,Alien (1979),Horror|Sci-Fi,0.543674900011
+8684,Man Escaped. A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut) (1956),Adventure|Drama,0.544123486596
+3140,Three Ages (1923),Comedy,0.544123486596
+51044,Magical Mystery Tour (1967),Comedy|Musical,0.544123486596
+3232,Seven Chances (1925),Comedy,0.544123486596
+33312,Cocoanuts. The (1929),Comedy|Musical,0.544123486596
+57972,Deep Water (2006),Documentary,0.544123486596
+5604,Man in the White Suit. The (1951),Comedy|Sci-Fi,0.544123486596
+25752,Freshman. The (1925),Comedy,0.544123486596
+2221,Blackmail (1929),Drama|Thriller,0.544123486596
+31549,Fata Morgana (1971),Documentary|Drama|Sci-Fi,0.544123486596
+7309,Black Pirate. The (1926),Action|Adventure,0.544123486596
+48301,Private Life of Henry VIII. The (1933),Comedy|Drama,0.544123486596
+65638,Aspen (1991),Documentary,0.544123486596
+83322,Boat. The (1921),Comedy,0.544123486596
+2210,Sabotage (1936),Thriller,0.544123486596
+7238,Ashes and Diamonds (Popiól i diament) (1958),Drama|War,0.544123486596
+71650,Werner Herzog Eats His Shoe (1980),Documentary,0.544123486596
+7914,Berlin: Symphony of a Great City (Berlin: Die Sinfonie der Großstadt) (1927),Documentary,0.544123486596
+8235,Safety Last! (1923),Action|Comedy|Romance,0.544123486596
+50259,Old Joy (2006),Drama,0.544123486596
+30723,Vincent & Theo (1990),Drama,0.544123486596
+26509,Electric Dreams (1984),Comedy|Drama|Romance|Sci-Fi,0.544372760245
+26915,Tromeo and Juliet (1996),Comedy|Drama,0.544372760245
+56921,Battlestar Galactica: Razor (2007),Action|Drama|Sci-Fi|Thriller,0.545095562658
+2862,Caligula (1979),Drama,0.54509733106
+5339,Husbands and Wives (1992),Comedy|Drama,0.545927519184
+44974,Hard Candy (2005),Drama|Thriller,0.546035909246
+62378,Magicians (2007),Comedy,0.546438162698
+901,Funny Face (1957),Comedy|Musical,0.546772810617
+3655,Blow-Out (La grande bouffe) (1973),Drama,0.547198104262
+1060,Swingers (1996),Comedy|Drama,0.547379580282
+106100,Dallas Buyers Club (2013),Drama,0.547880678125
+4214,Revenge of the Nerds (1984),Comedy,0.548512267865
+7089,Amarcord (1973),Comedy|Drama,0.549661558908
+6440,Barton Fink (1991),Drama|Thriller,0.55095179053
+74458,Shutter Island (2010),Drama|Mystery|Thriller,0.551511930358
+103801,Drinking Buddies (2013),Comedy|Drama|Romance,0.551712939237
+3860,Opportunists. The (2000),Comedy|Crime|Drama,0.551773214369
+1145,Snowriders (1996),Documentary,0.551773214369
+1501,Keys to Tulsa (1997),Crime,0.551773214369
+2437,Wilde (1997),Drama,0.551773214369
+4961,Pornstar: The Legend of Ron Jeremy (2001),Documentary,0.551773214369
+2674,Loss of Sexual Innocence. The (1999),Drama|Fantasy,0.551773214369
+987,Bliss (1997),Drama|Romance,0.551773214369
+3590,Lords of Flatbush. The (1974),Comedy|Drama,0.552215798802
+4776,Training Day (2001),Crime|Drama|Thriller,0.553058913797
+1446,Kolya (Kolja) (1996),Comedy|Drama,0.553203735313
+3761,Blood In. Blood Out (1993),Action|Crime|Drama|Thriller,0.554679772889
+51255,Hot Fuzz (2007),Action|Comedy|Crime|Mystery,0.554987632072
+8872,Dirty Shame. A (2004),Comedy,0.555711457518
+87884,Savage Messiah (1972),Drama,0.555711457518
+6132,New York Ripper. The (Squartatore di New York. Lo) (1982),Crime|Horror|Mystery|Thriller,0.555711457518
+33021,Dark Habits (Entre tinieblas) (1983),Comedy|Drama,0.555711457518
+47465,Tideland (2005),Drama|Fantasy|Thriller,0.555711457518
+45521,Wassup Rockers (2005),Comedy|Drama,0.555711457518
+82150,Bunny and the Bull (2009),Adventure|Comedy|Drama,0.555711457518
+27322,Paragraph 175 (2000),Documentary,0.555711457518
+88106,Mahler (1974),Drama,0.555711457518
+6114,Permanent Vacation (1982),Drama,0.555711457518
+6730,Convoy (1978),Action|Comedy|Drama,0.555711457518
+70994,Halloween II (2009),Horror|Thriller,0.555711457518
+39659,Teorema (1968),Drama,0.555711457518
+59731,Bigger. Stronger. Faster* (2008),Documentary,0.555804238651
+3943,Bamboozled (2000),Comedy,0.556003717548
+6852,In Cold Blood (1967),Crime|Drama,0.556058805591
+73808,Chaser. The (Chugyeogja) (2008),Crime|Drama|Thriller,0.556510936726
+59814,Ex Drummer (2007),Comedy|Crime|Drama|Horror,0.556510936726
+7152,Statement. The (2003),Drama|Thriller,0.557962702112
+7135,Shoot the Piano Player (Tirez sur le pianiste) (1960),Crime|Drama|Romance|Thriller,0.559042430539
+37729,Corpse Bride (2005),Animation|Comedy|Fantasy|Musical|Romance,0.559611890751
+4017,Pollock (2000),Drama,0.559795659553
+60069,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi,0.560007915468
+62764,Black Moon (1975),Fantasy|Mystery|Sci-Fi|War,0.560692523119
+46544,Edward II (1991),Drama,0.560692523119
+95752,Terminal USA (1993),Comedy,0.560692523119
+58520,Mala Noche (1985),Drama,0.560692523119
+4500,Drowning by Numbers (1988),Comedy|Drama,0.560692523119
+25744,Haxan: Witchcraft Through the Ages (a.k.a. The Witches) (1922),Documentary|Horror,0.560692523119
+32797,Satan's Brew (Satansbraten) (1976),Comedy|Drama,0.560692523119
+8893,Basket Case 2 (1990),Comedy|Horror,0.560692523119
+26809,Baby of Mâcon. The (a.k.a. The Baby of Macon) (1993),Drama,0.560692523119
+6121,Querelle (1982),Drama,0.560692523119
+6465,Jubilee (1977),Drama,0.560692523119
+80217,Hated (1994),Documentary,0.560692523119
+83829,Scorpio Rising (1964),(no genres listed),0.560692523119
+7889,Pat Garrett and Billy the Kid (1973),Western,0.560692523119
+79686,All Tomorrow's Parties (2009),Documentary|Musical,0.560692523119
+31682,Nomi Song. The (2004),Documentary|Musical,0.560692523119
+7878,Straight to Hell (1987),Comedy|Crime|Western,0.560692523119
+8126,Shock Corridor (1963),Drama,0.560692523119
+50011,Bothersome Man. The (Brysomme mannen. Den) (2006),Comedy|Drama|Fantasy|Mystery,0.560692523119
+95115,Inauguration of the Pleasure Dome (1954),Fantasy,0.560692523119
+59339,Mister Lonely (2007),Comedy|Drama,0.560692523119
+26655,Common Threads: Stories from the Quilt (1989),Documentary,0.560692523119
+75823,Combat Shock (1986),Drama|Horror|War,0.560692523119
+79203,Nightwatching (2007),Drama|Mystery,0.560692523119
+5853,Scanners (1981),Horror|Sci-Fi|Thriller,0.560791909377
+3201,Five Easy Pieces (1970),Drama,0.561981396888
+54995,Planet Terror (2007),Action|Horror|Sci-Fi,0.562057327486
+954,Mr. Smith Goes to Washington (1939),Drama,0.562144828218
+1199,Brazil (1985),Fantasy|Sci-Fi,0.562572432581
+5275,Boxcar Bertha (1972),Drama,0.562580215704
+5632,Bloody Sunday (2002),Drama,0.562775897559
+3880,Ballad of Ramblin' Jack. The (2000),Documentary,0.563467727048
+5868,This Is Elvis (1981),Documentary|Drama|Musical,0.563467727048
+889,1-900 (06) (1994),Drama|Romance,0.563467727048
+1910,I Went Down (1997),Comedy|Crime|Drama,0.563467727048
+3302,Beautiful People (1999),Comedy,0.563467727048
+5258,George Washington (2000),Drama,0.563467727048
+6306,I Am Trying to Break Your Heart (2002),Documentary,0.563467727048
+6279,Good Thief. The (2002),Crime|Drama,0.563467727048
+3095,Grapes of Wrath. The (1940),Drama,0.563948203839
+4915,Beastmaster. The (1982),Action|Adventure|Fantasy,0.56465062932
+4981,Clockwise (1986),Comedy,0.565004654196
+2908,Boys Don't Cry (1999),Drama,0.565197293685
+431,Carlito's Way (1993),Crime|Drama,0.565349943135
+26547,Police Story (Ging chaat goo si) (1985),Action|Comedy|Crime|Thriller,0.565611752296
+2374,Gung Ho (1986),Comedy|Drama,0.565760245242
+2928,Razor's Edge. The (1984),Drama,0.565929856593
+4292,Norma Rae (1979),Drama,0.565983760816
+48738,Last King of Scotland. The (2006),Drama|Thriller,0.566799340926
+31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Adventure|Animation|Fantasy|Romance,0.566993846568
+1201,Good. the Bad and the Ugly. The (Buono. il brutto. il cattivo. Il) (1966),Action|Adventure|Western,0.567184510343
+96610,Looper (2012),Action|Crime|Sci-Fi,0.568066564854
+308,Three Colors: White (Trzy kolory: Bialy) (1994),Comedy|Drama,0.568375666299
+1925,Wings (1927),Action|Drama|Romance|War,0.568599908932
+1266,Unforgiven (1992),Drama|Western,0.56924389502
+1267,Manchurian Candidate. The (1962),Crime|Thriller|War,0.570025685209
+1183,English Patient. The (1996),Drama|Romance|War,0.570402900927
+80026,Tekken (2010),Action|Sci-Fi,0.57054529901
+2138,Watership Down (1978),Adventure|Animation|Children|Drama|Fantasy,0.570953801477
+105593,Filth (2013),Comedy|Crime|Drama,0.571289083509
+87660,Too Big to Fail (2011),Drama,0.571341696186
+75440,Will Ferrell: You're Welcome America - A Final Night with George W Bush (2009),Comedy,0.571341696186
+55031,Evening with Kevin Smith. An (2002),Comedy|Documentary,0.571341696186
+82041,Loved Ones. The (2009),Horror,0.571812503607
+760,Stalingrad (1993),Drama|War,0.57205732211
+1077,Sleeper (1973),Comedy|Sci-Fi,0.573144143432
+1084,Bonnie and Clyde (1967),Crime|Drama,0.573474878881
+551,Nightmare Before Christmas. The (1993),Animation|Children|Fantasy|Musical,0.57371294127
+87192,Attack the Block (2011),Action|Comedy|Sci-Fi,0.573884965943
+61323,Burn After Reading (2008),Comedy|Crime|Drama,0.574113175483
+109487,Interstellar (2014),Sci-Fi|IMAX,0.574705444371
+4403,Fall of the House of Usher. The (House of Usher) (1960),Horror,0.575791382715
+32632,Electra Glide in Blue (1973),Action|Crime,0.576339036545
+4197,Real Life (1979),Comedy,0.576339036545
+5825,Life and Death of Colonel Blimp. The (1943),Drama|Romance|War,0.576339036545
+4698,Orphans (1997),Comedy|Drama,0.576339036545
+5022,Servant. The (1963),Drama,0.576339036545
+6042,Blind Spot: Hitler's Secretary (Im toten Winkel - Hitlers Sekretärin) (2002),Documentary,0.576339036545
+2390,Little Voice (1998),Comedy,0.576428356569
+3702,Mad Max (1979),Action|Adventure|Sci-Fi,0.576595655349
+3359,Breaking Away (1979),Comedy|Drama,0.576639179217
+32840,Vincent (1982),Animation,0.576986479688
+6612,Brother's Keeper (1992),Documentary,0.577338646362
+3244,Goodbye Girl. The (1977),Comedy|Romance,0.57764037243
+5633,Heaven (2002),Drama,0.577951778041
+131724,The Jinx: The Life and Deaths of Robert Durst (2015),Documentary,0.578530583683
+1748,Dark City (1998),Adventure|Film-Noir|Sci-Fi|Thriller,0.578916586841
+3913,Barenaked in America (1999),Documentary,0.579588298438
+1276,Cool Hand Luke (1967),Drama,0.579840955623
+3524,Arthur (1981),Comedy|Romance,0.58047468582
+7136,Stolen Kisses (Baisers volés) (1968),Comedy|Drama|Romance,0.580621417284
+2871,Deliverance (1972),Adventure|Drama|Thriller,0.580824281471
+79553,Ip Man 2 (2010),Action,0.581595817549
+3010,Rosetta (1999),Drama,0.581616263283
+127052,Operation 'Y' & Other Shurik's Adventures (1965),Comedy|Crime|Romance,0.581669839369
+118468,Mei and the Kittenbus (2002),Animation|Fantasy,0.581669839369
+107412,Kidnapping. Caucasian Style (Kavkazskaya plennitsa) (1967),Comedy|Romance,0.581669839369
+32460,Knockin' on Heaven's Door (1997),Action|Comedy|Crime|Drama,0.581669839369
+136449,Ghost in the Shell 2.0 (2008),Action|Animation|Sci-Fi,0.581669839369
+121126,The Car (1977),Horror|Mystery|Thriller,0.581669839369
+102666,Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu) (1973),Adventure|Comedy,0.581669839369
+98615,Burn Up! (1991),Action|Animation,0.581669839369
+62115,Six Shooter (2004),Comedy|Drama,0.581669839369
+5447,Sunshine State (2002),Drama,0.582103839007
+103688,Conjuring. The (2013),Horror|Thriller,0.582245970519
+5391,Thirteen Conversations About One Thing (a.k.a. 13 Conversations) (2001),Drama,0.583298163511
+7899,Master of the Flying Guillotine (Du bi quan wang da po xue di zi) (1975),Action,0.583347044191
+64839,Wrestler. The (2008),Drama,0.583666511569
+93838,The Raid: Redemption (2011),Action|Crime,0.583770493285
+3643,Fighting Seabees. The (1944),Action|Drama|War,0.584422569477
+215,Before Sunrise (1995),Drama|Romance,0.584818293932
+92008,Haywire (2011),Action|Thriller,0.585144037335
+1517,Austin Powers: International Man of Mystery (1997),Action|Adventure|Comedy,0.585370380676
+3000,Princess Mononoke (Mononoke-hime) (1997),Action|Adventure|Animation|Drama|Fantasy,0.58558701686
+3902,Goya in Bordeaux (Goya en Burdeos) (1999),Drama,0.585642821473
+8158,Rush (1991),Crime|Drama,0.586071199393
+5226,All the Right Moves (1983),Drama|Romance,0.586670362638
+112183,Birdman: Or (The Unexpected Virtue of Ignorance) (2014),Comedy|Drama,0.587983560684
+7894,Duck. You Sucker (1971),Action|Western,0.588887001941
+7738,That's The Way I Like It (a.k.a. Forever Fever) (1998),Comedy|Drama|Romance,0.589089717597
+54999,Shoot 'Em Up (2007),Action|Comedy|Crime,0.589570095754
+3698,Running Man. The (1987),Action|Sci-Fi,0.590705040558
+1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,0.590789893166
+2009,Soylent Green (1973),Drama|Mystery|Sci-Fi|Thriller,0.591469803797
+5121,Stroszek (1977),Comedy|Drama,0.591557911656
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,0.591724474987
+145,Bad Boys (1995),Action|Comedy|Crime|Drama|Thriller,0.591792242027
+1284,Big Sleep. The (1946),Crime|Film-Noir|Mystery,0.591796272512
+67957,Superstar: The Karen Carpenter Story (1988),Drama|Musical,0.592771912597
+50641,House (Hausu) (1977),Comedy|Fantasy|Horror,0.593618617419
+785,Kingpin (1996),Comedy,0.594211038579
+5298,Human Nature (2001),Comedy|Romance,0.594827427654
+4973,Amelie (Fabuleux destin d'Amélie Poulain. Le) (2001),Comedy|Romance,0.595349083388
+5995,Pianist. The (2002),Drama|War,0.59549716783
+94024,Louis Theroux: The Most Hated Family in America in Crisis (2011),Documentary,0.59599216268
+79136,Thirst (2008),Drama,0.59599216268
+97744,Ambassador. The (Ambassadøren) (2011),Documentary,0.59599216268
+7924,Stray Dog (Nora inu) (1949),Drama|Film-Noir|Thriller,0.59599216268
+72781,Red Chapel (Røde kapel) (2006),Comedy|Documentary,0.59599216268
+94939,Sound of Noise (2010),Comedy|Crime|Musical,0.59599216268
+77907,Red Chapel. The (Røde kapel. Det) (2009),Comedy|Documentary,0.59599216268
+99795,Whores' Glory (2011),Documentary,0.59599216268
+2853,Alice. Sweet Alice (a.k.a. Communion) (a.k.a. Holy Terror) (1976),Horror|Mystery,0.596596105636
+1279,Night on Earth (1991),Comedy|Drama,0.596619955868
+481,Kalifornia (1993),Drama|Thriller,0.596835401269
+44195,Thank You for Smoking (2006),Comedy|Drama,0.597272946596
+44633,Devil and Daniel Johnston. The (2005),Documentary,0.597555453396
+1904,Henry Fool (1997),Comedy|Drama,0.597929367773
+5568,Johnny Dangerously (1984),Comedy,0.59828874224
+6774,Videodrome (1983),Fantasy|Horror|Sci-Fi|Thriller,0.598320903177
+5772,My Dinner with André (1981),Drama,0.598411103405
+417,Barcelona (1994),Comedy|Romance,0.598558817325
+947,My Man Godfrey (1936),Comedy|Romance,0.598636515662
+2562,Bandits (1997),Drama,0.598962464448
+342,Muriel's Wedding (1994),Comedy,0.599089091703
+26776,Porco Rosso (Crimson Pig) (Kurenai no buta) (1992),Adventure|Animation|Comedy|Fantasy|Romance,0.599571922422
+2248,Say Anything... (1989),Comedy|Drama|Romance,0.599828788771
+506,Orlando (1992),Drama|Fantasy|Romance,0.600755124867
+160438,Jason Bourne (2016),Action,0.601152161297
+1059,William Shakespeare's Romeo + Juliet (1996),Drama|Romance,0.601687850603
+1420,Message to Love: The Isle of Wight Festival (1996),Documentary,0.602924975715
+55765,American Gangster (2007),Crime|Drama|Thriller,0.603077893083
+6874,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,0.604075391481
+101947,From the Sky Down (2011),Documentary,0.60457319363
+1387,Jaws (1975),Action|Horror,0.605941621091
+1212,Third Man. The (1949),Film-Noir|Mystery|Thriller,0.605979167414
+2892,New Rose Hotel (1998),Action|Drama,0.6064139003
+2440,Another Day in Paradise (1998),Drama,0.606555248817
+27790,Millions (2004),Children|Comedy|Crime|Drama|Fantasy,0.60688499199
+1564,For Roseanna (Roseanna's Grave) (1997),Comedy|Drama|Romance,0.607620862938
+8584,Leave Her to Heaven (1945),Drama|Film-Noir,0.607769767484
+1240,Terminator. The (1984),Action|Sci-Fi|Thriller,0.609222146519
+44191,V for Vendetta (2006),Action|Sci-Fi|Thriller|IMAX,0.610738300384
+4278,Triumph of the Will (Triumph des Willens) (1934),Documentary,0.611072757633
+1063,Johns (1996),Drama,0.611130959738
+4441,Game of Death (1978),Action,0.611264383744
+2660,Thing from Another World. The (1951),Horror|Sci-Fi,0.611684376499
+4769,Into the Arms of Strangers: Stories of the Kindertransport (2000),Documentary,0.612136708269
+71156,Men Who Stare at Goats. The (2009),Action|Comedy|Drama,0.613233497163
+37733,History of Violence. A (2005),Action|Crime|Drama|Thriller,0.613302609566
+4195,Abominable Dr. Phibes. The (1971),Horror|Mystery,0.613522120478
+48304,Apocalypto (2006),Adventure|Drama|Thriller,0.614391394943
+2115,Indiana Jones and the Temple of Doom (1984),Action|Adventure|Fantasy,0.614633701564
+2693,Trekkies (1997),Documentary,0.614663469628
+56367,Juno (2007),Comedy|Drama|Romance,0.616567871861
+2472,Tough Guys (1986),Comedy,0.616655354854
+4223,Enemy at the Gates (2001),Drama|War,0.616803998398
+1883,Bulworth (1998),Comedy|Drama|Romance,0.617128523841
+5083,Rare Birds (2001),Comedy|Drama,0.617505873417
+3192,Terrorist. The (a.k.a. Malli) (Theeviravaathi) (1998),Drama,0.617858935298
+2893,Plunkett & MaCleane (1999),Action|Adventure|Drama,0.617858935298
+2569,Among Giants (1998),Comedy|Drama|Romance,0.617858935298
+1795,Callejón de los milagros. El (1995),Drama,0.617858935298
+7036,Teen Wolf (1985),Comedy|Fantasy,0.618202265692
+8338,Black Narcissus (1947),Drama,0.618259962816
+5505,Good Girl. The (2002),Comedy|Drama,0.618359329694
+104283,Wind Rises. The (Kaze tachinu) (2013),Animation|Drama|Romance,0.618917119419
+1220,Blues Brothers. The (1980),Action|Comedy|Musical,0.619160330682
+2425,General. The (1998),Crime,0.619971470391
+7484,Gimme Shelter (1970),Documentary,0.620092338026
+46948,Monster House (2006),Animation|Children|Fantasy|Mystery,0.620448712866
+5878,Talk to Her (Hable con Ella) (2002),Drama|Romance,0.620729819944
+46850,Wordplay (2006),Documentary,0.620804538075
+1944,From Here to Eternity (1953),Drama|Romance|War,0.621054010863
+337,What's Eating Gilbert Grape (1993),Drama,0.622612192913
+4660,Scenes from the Class Struggle in Beverly Hills (1989),Comedy,0.623548839164
+115713,Ex Machina (2015),Drama|Sci-Fi|Thriller,0.62522544007
+1347,Nightmare on Elm Street. A (1984),Horror|Thriller,0.625242119182
+33437,Unleashed (Danny the Dog) (2005),Action|Crime|Drama|Thriller,0.62568002266
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,0.627052066853
+2481,My Name Is Joe (1998),Drama|Romance,0.627052895048
+2618,Castle. The (1997),Comedy,0.627304363771
+1885,Opposite of Sex. The (1998),Comedy|Drama|Romance,0.628190591324
+3062,Longest Day. The (1962),Action|Drama|War,0.629382740577
+26865,Fist of Legend (Jing wu ying xiong) (1994),Action|Drama,0.630414889919
+1228,Raging Bull (1980),Drama,0.630612467574
+5603,Lavender Hill Mob. The (1951),Comedy|Crime,0.631101543106
+3506,North Dallas Forty (1979),Comedy|Drama,0.633715231513
+36529,Lord of War (2005),Action|Crime|Drama|Thriller|War,0.634447058221
+903,Vertigo (1958),Drama|Mystery|Romance|Thriller,0.635884137903
+6979,WarGames (1983),Drama|Sci-Fi|Thriller,0.636760181464
+3551,Marathon Man (1976),Crime|Drama|Thriller,0.636958899432
+589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,0.637530624517
+2932,Days of Heaven (1978),Drama,0.637728126505
+27156,Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo. kimi ni) (1997),Action|Animation|Drama|Fantasy|Sci-Fi,0.637780958509
+3089,Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,0.638433373247
+71438,Still Walking (Aruitemo aruitemo) (2008),Drama,0.638761051933
+7786,Genghis Blues (1999),Documentary,0.638761051933
+84187,Evangelion: 2.0 You Can (Not) Advance (Evangerion shin gekijôban: Ha) (2009),Action|Animation|Drama|Sci-Fi,0.639285439009
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),Action|Adventure|Animation|Children|Fantasy|Sci-Fi,0.639349189352
+3504,Network (1976),Comedy|Drama,0.640109066912
+2116,Lord of the Rings. The (1978),Adventure|Animation|Children|Fantasy,0.640930928968
+593,Silence of the Lambs. The (1991),Crime|Horror|Thriller,0.642819573178
+2204,Saboteur (1942),Mystery|Thriller,0.643456004773
+62049,1984 (1956),Drama|Sci-Fi,0.643459606782
+26242,Duel (1971),Action|Mystery|Thriller,0.644592750496
+534,Shadowlands (1993),Drama|Romance,0.645027482776
+110873,Centenarian Who Climbed Out the Window and Vanished. The (Hundraåringen som klev ut genom fönstret och försvann) (2013),Adventure|Comedy|Drama,0.645104371731
+92210,Disappearance of Haruhi Suzumiya. The (Suzumiya Haruhi no shôshitsu) (2010),Adventure|Animation|Drama|Mystery|Sci-Fi,0.645104371731
+1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi,0.645746345233
+2131,Autumn Sonata (Höstsonaten) (1978),Drama,0.645980972795
+60333,Encounters at the End of the World (2008),Documentary,0.647061820273
+5932,Burden of Dreams (1982),Documentary,0.647227014291
+2250,Men Don't Leave (1990),Drama,0.647327771391
+2762,Sixth Sense. The (1999),Drama|Horror|Mystery,0.647359045174
+3604,Gypsy (1962),Musical,0.64741094504
+106491,47 Ronin (2013),Action|Adventure|Fantasy,0.647460286698
+3429,Creature Comforts (1989),Animation|Comedy,0.647511758744
+53189,Eagle vs Shark (2007),Comedy,0.647572182385
+56274,Margot at the Wedding (2007),Drama,0.647572182385
+27727,Head-On (Gegen die Wand) (2004),Drama|Romance,0.647572182385
+42935,Riding Alone for Thousands of Miles (Qian li zou dan qi) (2005),Drama,0.647572182385
+6571,Mondays in the Sun (Lunes al sol. Los) (2002),Drama,0.647572182385
+7117,Leprechaun (1993),Comedy|Horror,0.648746644551
+864,Wife. The (1995),Comedy|Drama,0.649015683789
+8132,Gladiator (1992),Action|Drama,0.649288746027
+3983,You Can Count on Me (2000),Drama|Romance,0.649365474276
+52952,This Is England (2006),Drama,0.649620017543
+6122,Richard Pryor Live on the Sunset Strip (1982),Comedy|Documentary,0.649919678138
+65982,Outlander (2008),Action|Adventure|Sci-Fi,0.649995974354
+3635,Spy Who Loved Me. The (1977),Action|Adventure|Thriller,0.651283390453
+26318,Phantom of Liberty. The (Fantôme de la liberté. Le) (1974),Comedy|Drama,0.651904483506
+53519,Death Proof (2007),Action|Adventure|Crime|Horror|Thriller,0.652136981864
+2951,Fistful of Dollars. A (Per un pugno di dollari) (1964),Action|Western,0.652539999402
+7941,Smiles of a Summer Night (Sommarnattens leende) (1955),Comedy|Romance,0.652626240358
+2599,Election (1999),Comedy,0.65285641903
+69481,Hurt Locker. The (2008),Action|Drama|Thriller|War,0.653320933831
+70286,District 9 (2009),Mystery|Sci-Fi|Thriller,0.65334450056
+5009,Ali (2001),Drama,0.653995530728
+7587,Samouraï. Le (Godson. The) (1967),Crime|Drama|Thriller,0.654529064053
+27783,Lost Embrace (Abrazo partido. El) (2004),Comedy|Drama,0.655131654892
+3456,Color of Paradise. The (Rang-e khoda) (1999),Drama,0.655551773121
+144976,Bone Tomahawk (2015),Horror|Western,0.656196751388
+38499,Angels in America (2003),Drama|Fantasy,0.656989439078
+4008,Born on the Fourth of July (1989),Drama|War,0.658084800402
+83976,Trip. The (2010),Comedy|Drama,0.65818308538
+52885,Paprika (Papurika) (2006),Animation|Mystery|Sci-Fi,0.658183284372
+1654,FairyTale: A True Story (1997),Children|Drama|Fantasy,0.658267021343
+2005,Goonies. The (1985),Action|Adventure|Children|Comedy|Fantasy,0.659300197316
+68,French Twist (Gazon maudit) (1995),Comedy|Romance,0.660211720446
+2167,Blade (1998),Action|Horror|Thriller,0.661356077024
+72393,Fourth Kind. The (2009),Horror|Mystery|Sci-Fi|Thriller,0.661850047133
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,0.66253955739
+4720,Others. The (2001),Drama|Horror|Mystery|Thriller,0.662867218019
+2874,Pajama Game. The (1957),Comedy|Musical|Romance,0.662951520402
+108981,Nymphomaniac: Volume II (2013),Drama|Mystery,0.663159974861
+2682,Limbo (1999),Drama,0.663310222601
+628,Primal Fear (1996),Crime|Drama|Mystery|Thriller,0.663538553112
+3168,Easy Rider (1969),Adventure|Drama,0.663583934528
+944,Lost Horizon (1937),Drama,0.664099509902
+64620,Frost/Nixon (2008),Drama,0.667586502412
+2971,All That Jazz (1979),Drama|Fantasy|Musical,0.668223808001
+1336,Body Parts (1991),Horror|Thriller,0.669579248458
+3285,Beach. The (2000),Adventure|Drama,0.669606064534
+1504,Hollow Reed (1996),Drama,0.669712231447
+7115,Deep Red (Profondo rosso) (1975),Horror|Mystery|Thriller,0.670495801491
+103883,2 Guns (2013),Action|Comedy|Crime,0.671428180818
+4782,Sidewalks of New York (2001),Comedy|Romance,0.672091439803
+930,Notorious (1946),Film-Noir|Romance|Thriller,0.673865548625
+5679,Ring. The (2002),Horror|Mystery|Thriller,0.674098325221
+3435,Double Indemnity (1944),Crime|Drama|Film-Noir,0.674205928346
+354,Cobb (1994),Drama,0.675407948451
+54503,Superbad (2007),Comedy,0.675839870107
+6380,Capturing the Friedmans (2003),Documentary,0.676220932503
+3758,Communion (1989),Drama|Sci-Fi|Thriller,0.677327237425
+7728,Postman Always Rings Twice. The (1946),Crime|Drama|Film-Noir|Thriller,0.678518808292
+5428,Cheech & Chong's The Corsican Brothers (1984),Comedy,0.679319233053
+4007,Wall Street (1987),Drama,0.679335063922
+319,Shallow Grave (1994),Comedy|Drama|Thriller,0.679341936116
+211,Browning Version. The (1994),Drama,0.679455042713
+1087,Madame Butterfly (1995),Musical,0.679560420776
+90719,J. Edgar (2011),Drama,0.680153571878
+1203,12 Angry Men (1957),Drama,0.680440060656
+27317,Audition (Ôdishon) (1999),Drama|Horror|Mystery|Romance|Thriller,0.680825073973
+93320,Trailer Park Boys (1999),Comedy|Crime,0.681160435231
+5244,Shogun Assassin (1980),Action|Adventure,0.681160435231
+1999,Exorcist III. The (1990),Horror,0.681216020565
+4888,Tape (2001),Drama,0.681268685614
+2160,Rosemary's Baby (1968),Drama|Horror|Thriller,0.682071622049
+3221,Draughtsman's Contract. The (1982),Drama,0.682345789648
+34198,Russian Dolls (Les poupées russes) (2005),Comedy|Romance,0.683005460696
+2108,L.A. Story (1991),Comedy|Romance,0.683646717691
+66130,Chocolate (2008),Action|Drama,0.683716278683
+8730,To End All Wars (2001),Action|Drama|War,0.683749672902
+896,Wild Reeds (Les roseaux sauvages) (1994),Drama,0.68389546373
+446,Farewell My Concubine (Ba wang bie ji) (1993),Drama|Romance,0.684877088304
+1936,Mrs. Miniver (1942),Drama|War,0.685188659141
+6755,Bubba Ho-tep (2002),Comedy|Horror,0.68564010644
+6368,Cinemania (2002),Documentary,0.686287666649
+1310,Hype! (1996),Documentary,0.686287666649
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy,0.686988889658
+4273,Under the Sand (2000),Drama,0.687536180832
+26228,Swedish Love Story. A (Kärlekshistoria. En) (1970),Drama|Romance,0.688135478904
+52528,Tristana (1970),Drama,0.688135478904
+7820,Virgin Spring. The (Jungfrukällan) (1960),Crime|Drama,0.688135478904
+31524,Bitter Tears of Petra von Kant. The (bitteren Tränen der Petra von Kant. Die) (1972),Drama,0.688135478904
+7172,Distant (Uzak) (2002),Drama,0.688135478904
+45000,Chinoise. La (1967),Comedy|Drama,0.688135478904
+8485,Samsara (2001),Adventure|Drama|Romance,0.688135478904
+3637,Vagabond (Sans toit ni loi) (1985),Drama,0.688135478904
+6509,Ali: Fear Eats the Soul (Angst essen Seele auf) (1974),Drama|Romance,0.688135478904
+81054,Love Is Colder Than Death (Liebe ist kälter als der Tod) (1969),Comedy|Crime|Romance,0.688135478904
+31930,Masculin Féminin (1966),Drama,0.688135478904
+68967,Summer Hours (Heure d'été. L') (2008),Drama,0.688135478904
+272,Madness of King George. The (1994),Comedy|Drama,0.689438914457
+59594,War. Inc. (2008),Comedy|Crime|Thriller,0.689584510574
+3219,Pacific Heights (1990),Mystery|Thriller,0.689791029983
+55247,Into the Wild (2007),Action|Adventure|Drama,0.690753982323
+57792,Caramel (Sukkar banat) (2007),Comedy,0.690969434309
+86548,Water for Elephants (2011),Drama|Romance,0.691158760767
+55830,Be Kind Rewind (2008),Comedy,0.691308317572
+27850,Yes Men. The (2003),Documentary,0.692177702118
+1419,Walkabout (1971),Adventure|Drama,0.693018281092
+869,Kansas City (1996),Crime|Drama|Musical|Thriller,0.693740276451
+1095,Glengarry Glen Ross (1992),Drama,0.693845491308
+3160,Magnolia (1999),Drama,0.69501165252
+4326,Mississippi Burning (1988),Crime|Drama|Thriller,0.69723882158
+52604,Fracture (2007),Crime|Drama|Mystery|Thriller,0.697481583106
+4752,Maniac (1980),Horror,0.697566894926
+7700,Wages of Fear. The (Salaire de la peur. Le) (1953),Action|Adventure|Drama|Thriller,0.698228396677
+3039,Trading Places (1983),Comedy,0.698439531349
+5081,Birthday Girl (2001),Drama|Romance,0.699140094938
+5602,Ladykillers. The (1955),Comedy|Crime,0.700963538101
+3598,Hamlet (2000),Crime|Drama|Romance|Thriller,0.701178662124
+7209,M. Hulot’s Holiday (Mr. Hulot's Holiday) (Vacances de Monsieur Hulot. Les) (1953),Comedy,0.70297869866
+6909,Eye. The (Gin gwai) (Jian gui) (2002),Thriller,0.703871472805
+97306,Seven Psychopaths (2012),Comedy|Crime,0.704579397383
+56156,Hitman (2007),Action|Crime|Thriller,0.70533083758
+2366,King Kong (1933),Action|Adventure|Fantasy|Horror,0.705486550269
+3476,Jacob's Ladder (1990),Horror|Mystery,0.705726918777
+84236,White Stripes Under Great White Northern Lights. The (2009),Documentary,0.705802178113
+902,Breakfast at Tiffany's (1961),Drama|Romance,0.707506818317
+127198,Dope (2015),Comedy|Drama,0.707887894234
+8014,Spring. Summer. Fall. Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003),Drama,0.708381864844
+26003,Night and Fog (Nuit et brouillard) (1955),Crime|Documentary|War,0.709704425264
+1260,M (1931),Crime|Film-Noir|Thriller,0.709820133398
+58839,Leatherheads (2008),Comedy|Drama|Romance,0.710053549208
+1365,Ridicule (1996),Drama,0.7111101975
+2123,All Dogs Go to Heaven (1989),Animation|Children|Comedy|Drama|Fantasy,0.71129651436
+1933,Life of Emile Zola. The (1937),Drama,0.71204399554
+2981,Brother. Can You Spare a Dime? (1975),Documentary,0.71204399554
+3737,Lonely Are the Brave (1962),Drama|Western,0.71204399554
+5866,They All Laughed (1981),Comedy,0.71204399554
+2837,Bedrooms & Hallways (1998),Comedy|Romance,0.712370319979
+4612,Jesus of Montreal (Jésus de Montréal) (1989),Drama,0.712371509538
+4964,Baran (2001),Adventure|Drama|Romance,0.712463568923
+39768,Life is a Miracle (Zivot je cudo) (2004),Comedy|Drama|Musical|Romance|War,0.712463568923
+7349,Broken Wings (Knafayim Shvurot) (2002),Drama,0.712463568923
+936,Ninotchka (1939),Comedy|Romance,0.71303580561
+1061,Sleepers (1996),Thriller,0.713122827785
+106236,Somm (2012),Documentary,0.713420031004
+102905,Lovelace (2013),Drama,0.713420031004
+32914,Carrie (2002),Drama|Horror|Thriller,0.713420031004
+110110,Starred Up (2013),Drama,0.713420031004
+145775,Rubble Kings (2015),Documentary,0.713420031004
+1041,Secrets & Lies (1996),Drama,0.714324233721
+6918,Unvanquished. The (Aparajito) (1957),Drama,0.715037768897
+2620,This Is My Father (1998),Drama|Romance,0.71520995398
+3521,Mystery Train (1989),Comedy|Drama,0.715420221621
+2249,My Blue Heaven (1990),Comedy,0.715546092245
+51127,loudQUIETloud: A Film About the Pixies (2006),Documentary,0.715753155298
+7069,Macbeth (a.k.a. Tragedy of Macbeth. The) (1971),Drama,0.716024093386
+4679,Uncle Buck (1989),Comedy,0.716778127667
+535,Short Cuts (1993),Drama,0.717200357363
+3135,Great Santini. The (1979),Drama,0.717479294088
+352,Crooklyn (1994),Comedy|Drama,0.717754773454
+2495,Fantastic Planet. The (Planète sauvage. La) (1973),Animation|Sci-Fi,0.718094185014
+5828,Blackrock (1997),Drama|Thriller,0.718459494546
+3863,Cell. The (2000),Drama|Horror|Thriller,0.719038432493
+46578,Little Miss Sunshine (2006),Adventure|Comedy|Drama,0.720161172978
+67508,Baader Meinhof Komplex. Der (2008),Action|Crime|Drama|Thriller,0.720689004171
+33166,Crash (2004),Crime|Drama,0.722690935012
+43899,Tony Takitani (2004),Drama,0.722732669203
+562,Welcome to the Dollhouse (1995),Comedy|Drama,0.722757744192
+5365,Lady and the Duke. The (Anglaise et le duc. L') (2001),Drama|Romance,0.723897244915
+8754,Prime of Miss Jean Brodie. The (1969),Drama,0.726016363365
+93855,God Bless America (2011),Comedy|Drama,0.726044751481
+265,Like Water for Chocolate (Como agua para chocolate) (1992),Drama|Fantasy|Romance,0.726267487771
+5782,Professional. The (Le professionnel) (1981),Action|Drama|Thriller,0.727924441462
+1187,Passion Fish (1992),Drama,0.728660164922
+8240,Totally F***ed Up (1993),Drama,0.729304748437
+60384,Z Channel: A Magnificent Obsession (2004),Documentary,0.729304748437
+27792,Saddest Music in the World. The (2003),Comedy|Drama|Fantasy|Musical|Romance,0.729304748437
+42900,Cul-de-sac (1966),Comedy|Crime|Drama|Thriller,0.729304748437
+63836,Manson Family. The (2003),Crime|Drama|Horror,0.729304748437
+26749,Prospero's Books (1991),Drama|Fantasy,0.729304748437
+5473,Fox and His Friends (Faustrecht der Freiheit) (1975),Drama,0.729304748437
+95113,Eaux d'artifice (1953),Fantasy,0.729304748437
+80553,Howl (2010),Drama,0.729304748437
+71390,Not Quite Hollywood: The Wild. Untold Story of Ozploitation! (2008),Documentary,0.729304748437
+40226,Wild Zero (2000),Action|Comedy|Horror|Romance|Sci-Fi,0.729304748437
+77291,Aria (1987),Comedy|Drama,0.729304748437
+32515,Walker (1987),Adventure|Drama|War|Western,0.729304748437
+6975,Funny Games (1997),Drama|Horror|Thriller,0.730007839422
+8938,Tarnation (2003),Documentary,0.730560067794
+90430,Carnage (2011),Comedy|Drama,0.732156335211
+2142,American Tail: Fievel Goes West. An (1991),Adventure|Animation|Children|Musical|Western,0.732190276899
+3033,Spaceballs (1987),Comedy|Sci-Fi,0.732458635659
+56782,There Will Be Blood (2007),Drama|Western,0.732696439213
+76210,Defendor (2009),Comedy|Crime|Drama,0.733428138633
+2542,Lock. Stock & Two Smoking Barrels (1998),Comedy|Crime|Thriller,0.73485672473
+115170,Judge. The (2014),Drama,0.735482442633
+678,Some Folks Call It a Sling Blade (1993),Drama|Thriller,0.736261788724
+3052,Dogma (1999),Adventure|Comedy|Fantasy,0.736398235643
+7024,Salo. or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma) (1976),Drama,0.73665823167
+3814,Love and Death (1975),Comedy,0.739752117502
+4037,House of Games (1987),Crime|Film-Noir|Mystery|Thriller,0.739842535223
+1292,Being There (1979),Comedy|Drama,0.741303778983
+1449,Waiting for Guffman (1996),Comedy,0.742254385219
+764,Heavy (1995),Drama|Romance,0.743417378006
+1161,Tin Drum. The (Blechtrommel. Die) (1979),Drama|War,0.743577366597
+94833,Pirates! Band of Misfits. The (2012),Adventure|Animation|Children|Comedy,0.745272842669
+3040,Meatballs (1979),Comedy,0.745959942771
+99813,Batman: The Dark Knight Returns. Part 2 (2013),Action|Animation,0.746103060549
+664,Faithful (1996),Comedy,0.746397414822
+1759,Four Days in September (O Que É Isso. Companheiro?) (1997),Drama,0.747504411983
+3795,Five Senses. The (1999),Drama,0.748013021096
+31270,Shivers (They Came from Within) (1975),Drama|Horror|Sci-Fi,0.748714486037
+8239,Viridiana (1961),Comedy|Drama,0.748725483136
+3074,Jeremiah Johnson (1972),Western,0.748997590664
+1611,My Own Private Idaho (1991),Drama|Romance,0.749891580446
+924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,0.750282242797
+26810,Bad Boy Bubby (1993),Drama,0.752573751194
+26,Othello (1995),Drama,0.754518241916
+4103,Empire of the Sun (1987),Action|Adventure|Drama|War,0.755118014465
+112818,Purge: Anarchy. The (2014),Action|Horror|Thriller,0.755351367953
+67695,Observe and Report (2009),Action|Comedy,0.755351367953
+1012,Old Yeller (1957),Children|Drama,0.755971929558
+122890,Warcraft (2016),Action|Adventure|Fantasy,0.75613946441
+127098,Louis C.K.: Live at The Comedy Store (2015),Comedy,0.756694717703
+991,Michael Collins (1996),Drama,0.75753319741
+2919,Year of Living Dangerously. The (1982),Drama|Romance|War,0.757822011469
+117,Young Poisoner's Handbook. The (1995),Crime|Drama,0.757824422617
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,0.75984983433
+8899,Hardcore (1979),Drama,0.760180589996
+2571,Matrix. The (1999),Action|Sci-Fi|Thriller,0.760321818054
+3788,Blow-Up (Blowup) (1966),Drama|Mystery,0.76061641453
+3618,Small Time Crooks (2000),Comedy|Crime,0.763328661389
+101741,Trance (2013),Crime|Thriller,0.763411008799
+3188,Life and Times of Hank Greenberg. The (1998),Documentary,0.763758170925
+112552,Whiplash (2014),Drama,0.764026570402
+40148,Revolver (2005),Crime|Drama|Thriller,0.765815923449
+5099,Heidi (1937),Children|Drama,0.765865137007
+1950,In the Heat of the Night (1967),Drama|Mystery,0.76630687203
+8125,Sunrise: A Song of Two Humans (1927),Drama|Romance,0.766874874514
+1639,Chasing Amy (1997),Comedy|Drama|Romance,0.766966835311
+931,Spellbound (1945),Mystery|Romance|Thriller,0.767452886123
+6283,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),Action|Animation|Sci-Fi|Thriller,0.767683262281
+5949,Intact (Intacto) (2001),Thriller,0.768572213534
+8937,Friday Night Lights (2004),Action|Drama,0.769415083308
+800,Lone Star (1996),Drama|Mystery|Western,0.770861052935
+5291,Rashomon (Rashômon) (1950),Crime|Drama|Mystery,0.771020801895
+2434,Down in the Delta (1998),Drama,0.771139938161
+59126,Religulous (2008),Comedy|Documentary,0.771181103705
+1339,Dracula (Bram Stoker's Dracula) (1992),Fantasy|Horror|Romance|Thriller,0.77275384083
+140174,Room (2015),Drama,0.773377256705
+6978,Slacker (1991),Comedy|Drama,0.774218110015
+37741,Capote (2005),Crime|Drama,0.7751996218
+1104,Streetcar Named Desire. A (1951),Drama,0.775868072979
+77307,Dogtooth (Kynodontas) (2009),Drama,0.775913553568
+162,Crumb (1994),Documentary,0.776083753058
+115210,Fury (2014),Action|Drama|War,0.776715023124
+48856,Guide to Recognizing Your Saints. A (2006),Crime|Drama,0.777311944502
+6690,Don't Tempt Me (Sin noticias de Dios) (2001),Comedy|Fantasy|Mystery,0.777311944502
+7011,Bullfighter. The (Matador) (1986),Comedy|Crime|Drama,0.777311944502
+6091,Labyrinth of Passion (Laberinto de Pasiones) (1982),Comedy,0.777311944502
+6679,Revolution OS (2001),Documentary,0.777311944502
+247,Heavenly Creatures (1994),Crime|Drama,0.777400185268
+89759,Separation. A (Jodaeiye Nader az Simin) (2011),Drama,0.777428098525
+568,Bhaji on the Beach (1993),Comedy|Drama,0.777463908449
+1176,Double Life of Veronique. The (Double Vie de Véronique. La) (1991),Drama|Fantasy|Romance,0.779391054389
+1860,Character (Karakter) (1997),Drama,0.781564254555
+97860,Killing Them Softly (2012),Crime|Drama|Thriller,0.78208248585
+2920,Children of Paradise (Les enfants du paradis) (1945),Drama|Romance,0.782846495718
+4857,Fiddler on the Roof (1971),Drama|Musical,0.785024903653
+7223,D.O.A. (1950),Drama|Film-Noir|Mystery,0.786596358585
+2099,Song of the South (1946),Adventure|Animation|Children|Musical,0.786660430993
+2072,'burbs. The (1989),Comedy,0.786975547774
+1247,Graduate. The (1967),Comedy|Drama|Romance,0.788905328477
+98604,From Up on Poppy Hill (Kokuriko-zaka kara) (2011),Animation|Drama|Romance,0.789288007645
+115927,Doctor Strange (2007),Action|Animation|Children|Fantasy|Sci-Fi,0.789288007645
+951,His Girl Friday (1940),Comedy|Romance,0.78958432855
+43267,On Probation (Tiempo de Valientes) (2005),Action|Comedy,0.790587919366
+4349,Catch-22 (1970),Comedy|War,0.790734918338
+40,Cry. the Beloved Country (1995),Drama,0.790743110733
+464,Hard Target (1993),Action|Adventure|Crime|Thriller,0.790820941423
+1221,Godfather: Part II. The (1974),Crime|Drama,0.791067553377
+44788,This Film Is Not Yet Rated (2006),Documentary,0.792469112132
+7771,Zorba the Greek (Alexis Zorbas) (1964),Adventure|Drama,0.793530894522
+7925,Hidden Fortress. The (Kakushi-toride no san-akunin) (1958),Action|Adventure,0.793851472661
+126106,Beastie Boys: Sabotage (1994),(no genres listed),0.794005109476
+3265,Hard-Boiled (Lat sau san taam) (1992),Action|Crime|Drama|Thriller,0.795198440403
+59810,Recount (2008),Drama,0.795559106844
+55069,4 Months. 3 Weeks and 2 Days (4 luni. 3 saptamâni si 2 zile) (2007),Drama,0.795687534451
+72226,Fantastic Mr. Fox (2009),Adventure|Animation|Children|Comedy|Crime,0.796428183127
+5049,48 Hrs. (1982),Action|Comedy|Crime|Drama,0.797629393193
+3053,Messenger: The Story of Joan of Arc. The (1999),Drama|War,0.797865910993
+3953,Dr. T and the Women (2000),Comedy|Romance,0.797914813022
+65261,Ponyo (Gake no ue no Ponyo) (2008),Adventure|Animation|Children|Fantasy,0.79817271974
+72733,Invictus (2009),Drama,0.799023220144
+268,Little Odessa (1994),Crime|Drama,0.799621822669
+2264,We're No Angels (1989),Comedy|Crime,0.79962931535
+53550,Rescue Dawn (2006),Action|Adventure|Drama|War,0.799859036854
+7007,Last Boy Scout. The (1991),Action|Comedy|Crime|Drama|Thriller,0.804105821105
+1941,Hamlet (1948),Drama,0.805307102187
+4450,Bully (2001),Crime|Drama|Thriller,0.806983945706
+7438,Kill Bill: Vol. 2 (2004),Action|Drama|Thriller,0.807270109997
+1391,Mars Attacks! (1996),Action|Comedy|Sci-Fi,0.808039740703
+2019,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama,0.808507907547
+108727,Nymphomaniac: Volume I (2013),Drama,0.809516645947
+110501,The Raid 2: Berandal (2014),Action|Crime|Thriller,0.8095246512
+620,Scream of Stone (Cerro Torre: Schrei aus Stein) (1991),Drama,0.809665776524
+1262,Great Escape. The (1963),Action|Adventure|Drama|War,0.809722104953
+2863,Hard Day's Night. A (1964),Adventure|Comedy|Musical,0.810155854304
+4128,Lost Boys. The (1987),Comedy|Horror|Thriller,0.810239274305
+3030,Yojimbo (1961),Action|Adventure,0.812480314802
+2917,Body Heat (1981),Crime|Thriller,0.81370806018
+7044,Wild at Heart (1990),Crime|Drama|Mystery|Romance|Thriller,0.813840282275
+3016,Creepshow (1982),Horror,0.81448172039
+7843,Lammbock (2001),Comedy,0.81624206024
+79357,Mr. Nobody (2009),Drama|Fantasy|Romance|Sci-Fi,0.816263902668
+8638,Before Sunset (2004),Drama|Romance,0.816900738888
+6806,Time and Tide (Seunlau Ngaklau) (2000),Action|Crime|Thriller,0.816938331874
+74486,$9.99 (2008),Animation,0.817277093251
+27022,Thursday (1998),Action|Crime|Thriller,0.817390580965
+4329,Rio Bravo (1959),Western,0.817461592895
+1235,Harold and Maude (1971),Comedy|Drama|Romance,0.817861376995
+33880,Me and You and Everyone We Know (2005),Comedy|Drama,0.818289155757
+1516,Children of the Revolution (1996),Comedy,0.818523020029
+50923,Astronaut Farmer. The (2007),Drama,0.819068687717
+3959,Time Machine. The (1960),Action|Adventure|Sci-Fi,0.819430692149
+4383,Crimson Rivers. The (Rivières pourpres. Les) (2000),Crime|Drama|Mystery|Thriller,0.820490262729
+5010,Black Hawk Down (2001),Action|Drama|War,0.821437968892
+73344,Prophet. A (Un Prophète) (2009),Crime|Drama,0.821600144268
+3386,JFK (1991),Drama|Mystery|Thriller,0.822183323151
+8917,Team America: World Police (2004),Action|Adventure|Animation|Comedy,0.822441238151
+1290,Some Kind of Wonderful (1987),Drama|Romance,0.822550805279
+7139,In America (2002),Drama|Romance,0.823083395992
+214,Before the Rain (Pred dozhdot) (1994),Drama|War,0.823180279876
+2528,Logan's Run (1976),Action|Adventure|Sci-Fi,0.82343723967
+61024,Pineapple Express (2008),Action|Comedy|Crime,0.823720790083
+2091,Return from Witch Mountain (1978),Children|Sci-Fi,0.825419167421
+3298,Boiler Room (2000),Crime|Drama|Thriller,0.826125918653
+69,Friday (1995),Comedy,0.827307955711
+1217,Ran (1985),Drama|War,0.827430815833
+1178,Paths of Glory (1957),Drama|War,0.827609570745
+1125,Return of the Pink Panther. The (1975),Comedy|Crime,0.828273245816
+48774,Children of Men (2006),Action|Adventure|Drama|Sci-Fi|Thriller,0.828291029557
+101,Bottle Rocket (1996),Adventure|Comedy|Crime|Romance,0.829428704755
+53956,Death at a Funeral (2007),Comedy,0.830361087718
+2662,War of the Worlds. The (1953),Action|Drama|Sci-Fi,0.830774061701
+8981,Closer (2004),Drama|Romance,0.831034975671
+5945,About Schmidt (2002),Comedy|Drama,0.83114388054
+55280,Lars and the Real Girl (2007),Comedy|Drama,0.831722444783
+4021,Before Night Falls (2000),Drama,0.831842374506
+97188,Sinister (2012),Horror|Thriller,0.832199911627
+4334,Yi Yi (2000),Drama,0.833047570035
+3729,Shaft (1971),Action|Crime|Drama|Thriller,0.833758082477
+5686,Russian Ark (Russkiy Kovcheg) (2002),Drama|Fantasy|War,0.834152867549
+209,White Man's Burden (1995),Drama,0.836359259229
+4989,How High (2001),Comedy,0.836875619241
+58998,Forgetting Sarah Marshall (2008),Comedy|Romance,0.83867243265
+1922,Whatever (1998),Drama,0.838989410787
+8157,Jin Roh: The Wolf Brigade (Jin-Rô) (1998),Animation|Fantasy|Thriller,0.839252818365
+80906,Inside Job (2010),Documentary,0.839376705408
+104913,Rush (2013),Action|Drama,0.839627520281
+81788,Next Three Days. The (2010),Crime|Drama|Romance|Thriller,0.839763328687
+41336,Nazarin (Nazarín) (1959),Drama,0.839864528464
+3223,Zed & Two Noughts. A (1985),Drama,0.841942111013
+34271,Hustle & Flow (2005),Crime|Drama,0.842922878598
+2467,Name of the Rose. The (Name der Rose. Der) (1986),Crime|Drama|Mystery|Thriller,0.843458078543
+76077,Hot Tub Time Machine (2010),Comedy|Sci-Fi,0.844433239037
+7456,Valentin (Valentín) (2002),Drama,0.844957425838
+4151,Taste of Others. The (Le goût des autres) (2000),Comedy|Drama|Romance,0.844957425838
+3093,McCabe & Mrs. Miller (1971),Drama|Western,0.847425058763
+45172,23 (23 - Nichts ist so wie es scheint) (1998),Drama|Thriller,0.847720953522
+3011,They Shoot Horses. Don't They? (1969),Drama,0.849140625958
+1407,Scream (1996),Comedy|Horror|Mystery|Thriller,0.849588791236
+77455,Exit Through the Gift Shop (2010),Comedy|Documentary,0.849889143544
+103444,Woody Allen: A Documentary (2012),Documentary,0.85012934716
+1684,Mrs. Dalloway (1997),Drama|Romance,0.853132089574
+27416,Jalla! Jalla! (2000),Comedy|Drama|Romance,0.853420949239
+140152,Dreamcatcher (2015),Children|Crime|Documentary,0.853420949239
+92004,Chill Out! (Descongélate!) (2003),Comedy|Drama,0.853420949239
+128616,As We Were Dreaming (2015),(no genres listed),0.853420949239
+6884,Veronica Guerin (2003),Crime|Drama|Thriller,0.853420949239
+48032,Tiger and the Snow. The (La tigre e la neve) (2005),Comedy|Drama|Romance|War,0.853420949239
+8577,Comandante (2003),Documentary,0.853420949239
+8273,Tale of Ham and Passion. A (Jamón. Jamón) (1992),Comedy|Drama|Romance,0.853420949239
+49265,Shooting Dogs (a.k.a. Beyond the Gates) (2005),Documentary|Drama|War,0.853420949239
+58029,It's a Free World... (2007),Drama,0.853420949239
+98913,Violeta Went to Heaven (Violeta se fue a los cielos) (2011),Drama,0.853420949239
+93693,Casa de mi Padre (2012),Comedy,0.853420949239
+73101,Looking for Eric (2009),Comedy|Drama|Fantasy,0.853420949239
+48593,Man of the Year (2006),Comedy|Thriller,0.853420949239
+61646,DarkBlueAlmostBlack (Azuloscurocasinegro) (2006),Drama|Romance,0.853420949239
+5818,Crime of Father Amaro. The (Crimen del padre Amaro. El) (2002),Drama|Romance,0.853420949239
+33750,Innocent Voices (Voces inocentes) (2004),Drama|War,0.853420949239
+6022,American Me (1992),Drama,0.853420949239
+77810,Diary of a Nymphomaniac (Diario de una Ninfómana) (2008),Drama,0.853420949239
+99675,Eat Sleep Die (Äta sova dö) (2012),Drama,0.853420949239
+27875,Redemption: The Stan Tookie Williams Story (2004),Crime|Documentary|Drama,0.853420949239
+155611,Life Is Sacred (2014),Documentary,0.853420949239
+65259,Involuntary (De ofrivilliga) (2008),Drama,0.853420949239
+81819,Biutiful (2010),Drama,0.853420949239
+7387,Dawn of the Dead (1978),Action|Drama|Horror,0.854058473869
+27329,Paradise Lost 2: Revelations (2000),Documentary,0.854288654458
+2718,Drop Dead Gorgeous (1999),Comedy,0.855988944353
+1236,Trust (1990),Comedy|Drama|Romance,0.856366360446
+2327,Tales from the Darkside: The Movie (1990),Fantasy|Horror|Thriller,0.856515620999
+53129,Mr. Brooks (2007),Crime|Drama|Thriller,0.856925945689
+6003,Confessions of a Dangerous Mind (2002),Comedy|Crime|Drama|Thriller,0.856945844583
+8784,Garden State (2004),Comedy|Drama|Romance,0.857726507619
+8955,Undertow (2004),Crime|Drama|Thriller,0.857832996854
+3720,Sunshine (1999),Drama,0.859204655944
+97752,Cloud Atlas (2012),Drama|Sci-Fi|IMAX,0.859765608256
+2609,King of Masks. The (Bian Lian) (1996),Drama,0.860207082609
+70862,It Might Get Loud (2008),Documentary,0.860237977363
+3734,Prince of the City (1981),Drama,0.861304715589
+1211,Wings of Desire (Himmel über Berlin. Der) (1987),Drama|Fantasy|Romance,0.863527378205
+495,In the Realm of the Senses (Ai no corrida) (1976),Drama,0.864181820143
+55442,Persepolis (2007),Animation|Drama,0.864358320363
+44828,Slither (2006),Comedy|Horror|Sci-Fi,0.865560277236
+5693,Saturday Night Fever (1977),Comedy|Drama|Romance,0.866361764542
+52,Mighty Aphrodite (1995),Comedy|Drama|Romance,0.866933776895
+306,Three Colors: Red (Trois couleurs: Rouge) (1994),Drama,0.866964526132
+96829,Hunt. The (Jagten) (2012),Drama,0.868530797277
+113741,Coherence (2013),Drama|Mystery|Sci-Fi|Thriller,0.868985363921
+63062,Changeling (2008),Crime|Drama|Mystery,0.869023955042
+6816,Three O'Clock High (1987),Comedy,0.870162083632
+58425,Heima (2007),Documentary,0.8708561347
+61206,In the City of Sylvia (En la ciudad de Sylvia) (2007),Drama,0.8708561347
+4470,Ariel (1988),Drama,0.8708561347
+40491,Match Factory Girl. The (Tulitikkutehtaan tyttö) (1990),Comedy|Drama,0.8708561347
+43904,When a Stranger Calls (2006),Horror|Thriller,0.872001861048
+37477,Man. The (2005),Action|Comedy|Crime,0.872001861048
+5558,Love and a Bullet (2002),Action|Crime,0.872001861048
+4895,Wash. The (2001),Comedy,0.872001861048
+3721,Trixie (2000),Comedy|Crime|Mystery,0.872141902201
+1912,Out of Sight (1998),Comedy|Crime|Drama|Romance|Thriller,0.874372641636
+2068,Fanny and Alexander (Fanny och Alexander) (1982),Drama|Fantasy|Mystery,0.874379190007
+5902,Adaptation (2002),Comedy|Drama|Romance,0.875274919518
+27592,Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002),Crime|Drama,0.877658486053
+53,Lamerica (1994),Adventure|Drama,0.879159560991
+117176,The Theory of Everything (2014),Drama|Romance,0.879308861629
+6863,School of Rock (2003),Comedy|Musical,0.87982229249
+8933,Decline of the American Empire. The (Déclin de l'empire américain. Le) (1986),Comedy|Drama,0.880550703184
+104841,Gravity (2013),Action|Sci-Fi|IMAX,0.881432253288
+108932,The Lego Movie (2014),Action|Adventure|Animation|Children|Comedy|Fantasy,0.88293715501
+8228,Maltese Falcon. The (a.k.a. Dangerous Female) (1931),Mystery,0.884079230736
+5662,Wrong Guy. The (1997),Comedy|Romance|Thriller,0.884851584567
+6932,Shattered Glass (2003),Crime|Drama,0.884912546109
+6461,Unforgiven. The (1960),Drama|Western,0.885544975715
+55555,Edge of Heaven. The (Auf der anderen Seite) (2007),Drama,0.885643785815
+5522,Rollerball (1975),Action|Drama|Sci-Fi,0.885945407484
+1215,Army of Darkness (1993),Action|Adventure|Comedy|Fantasy|Horror,0.886201370006
+3981,Red Planet (2000),Action|Sci-Fi|Thriller,0.886830906182
+8751,Gun Crazy (a.k.a. Deadly Is the Female) (1949),Crime|Drama|Film-Noir,0.88688199386
+4322,Eight Men Out (1988),Drama,0.887916214846
+8906,Cannibal Holocaust (1980),Horror,0.8879682162
+6598,Step Into Liquid (2002),Documentary,0.88911427745
+3580,Up at the Villa (2000),Drama,0.889192889858
+3656,Lured (1947),Crime|Film-Noir|Mystery|Thriller,0.889192889858
+3581,Human Traffic (1999),Comedy,0.889483712765
+2983,Ipcress File. The (1965),Thriller,0.889672827501
+6669,Ikiru (1952),Drama,0.8904510344
+2025,Lolita (1997),Drama|Romance,0.890605029102
+2795,National Lampoon's Vacation (1983),Comedy,0.890638847327
+4881,Man Who Wasn't There. The (2001),Crime|Drama,0.89205611974
+26649,Lonesome Dove (1989),Adventure|Drama|Western,0.894773229906
+52973,Knocked Up (2007),Comedy|Drama|Romance,0.895545512625
+1086,Dial M for Murder (1954),Crime|Mystery|Thriller,0.895835681539
+6395,Crazies. The (a.k.a. Code Name: Trixie) (1973),Action|Drama|Horror|Sci-Fi|Thriller,0.895894279244
+6,Heat (1995),Action|Crime|Thriller,0.899387281847
+1264,Diva (1981),Action|Drama|Mystery|Romance|Thriller,0.89977914627
+4822,Max Keeble's Big Move (2001),Children|Comedy,0.901143229933
+3736,Ace in the Hole (Big Carnival. The) (1951),Drama,0.901249729026
+3811,Breaker Morant (1980),Drama|War,0.901821649657
+1245,Miller's Crossing (1990),Crime|Drama|Film-Noir|Thriller,0.90188742104
+2066,Out of the Past (1947),Film-Noir,0.901999745018
+31184,Appleseed (Appurushîdo) (2004),Action|Animation|Fantasy|Sci-Fi,0.902525765095
+44665,Lucky Number Slevin (2006),Crime|Drama|Mystery,0.903423914149
+74948,Harry Brown (2009),Crime|Drama|Thriller,0.903519651482
+30803,3-Iron (Bin-jip) (2004),Drama|Romance,0.903759061823
+50872,Ratatouille (2007),Animation|Children|Drama,0.903805396279
+3309,Dog's Life. A (1918),Comedy,0.905388245953
+8576,Kopps (2003),Action|Comedy,0.905923831304
+5646,Valmont (1989),Drama|Romance,0.907161010185
+45928,Who Killed the Electric Car? (2006),Documentary,0.909683825278
+78,Crossing Guard. The (1995),Action|Crime|Drama|Thriller,0.91053132471
+3496,Madame Sousatzka (1988),Drama,0.911221554849
+3018,Re-Animator (1985),Comedy|Horror|Sci-Fi,0.911443440039
+2924,Drunken Master (Jui kuen) (1978),Action|Comedy,0.911778629397
+7034,Show Me Love (Fucking Åmål) (1998),Drama|Romance,0.912632234832
+937,Love in the Afternoon (1957),Comedy|Romance,0.913674514478
+96079,Skyfall (2012),Action|Adventure|Thriller|IMAX,0.914853122345
+89470,Contagion (2011),Sci-Fi|Thriller|IMAX,0.91585582935
+35836,40-Year-Old Virgin. The (2005),Comedy|Romance,0.916242393573
+2627,Endurance (1999),Documentary|Drama,0.916516446133
+3947,Get Carter (1971),Action|Crime|Drama|Thriller,0.916516446133
+4711,Theremin: An Electronic Odyssey (1993),Documentary,0.916516446133
+3310,Kid. The (1921),Comedy|Drama,0.916694401016
+6620,American Splendor (2003),Comedy|Drama,0.916914357553
+78499,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,0.916969932038
+2734,Mosquito Coast. The (1986),Adventure|Drama|Thriller,0.917271404088
+51705,Priceless (Hors de prix) (2006),Comedy|Romance,0.91859337541
+1227,Once Upon a Time in America (1984),Crime|Drama,0.918777405752
+4641,Ghost World (2001),Comedy|Drama,0.9223993761
+3462,Modern Times (1936),Comedy|Drama|Romance,0.924053347279
+1297,Real Genius (1985),Comedy,0.924321184347
+5060,M*A*S*H (a.k.a. MASH) (1970),Comedy|Drama|War,0.925690968487
+27423,O Auto da Compadecida (Dog's Will. A) (2000),Adventure|Comedy,0.925953834785
+668,Song of the Little Road (Pather Panchali) (1955),Drama,0.926772889117
+35,Carrington (1995),Drama|Romance,0.927719255854
+81591,Black Swan (2010),Drama|Thriller,0.927785573633
+98056,Amour (2012),Drama|Romance,0.928981922459
+6051,Harder They Come. The (1973),Action|Crime|Drama,0.929722588048
+1480,Smilla's Sense of Snow (1997),Drama|Thriller,0.930440828492
+5508,24 Hour Party People (2002),Comedy|Drama|Musical,0.93177218031
+71248,Extract (2009),Comedy,0.933215150052
+6920,Cercle Rouge. Le (Red Circle. The) (1970),Crime|Thriller,0.934092882553
+5440,She Wore a Yellow Ribbon (1949),Western,0.934092882553
+8670,Testament of Dr. Mabuse. The (Das Testament des Dr. Mabuse) (1933),Crime|Horror|Mystery|Thriller,0.934092882553
+7211,People Will Talk (1951),Comedy|Romance,0.934092882553
+4102,Eddie Murphy Raw (1987),Comedy|Documentary,0.936651749759
+65514,Ip Man (2008),Action|Drama|War,0.937353924425
+56715,Wristcutters: A Love Story (2006),Drama|Fantasy|Romance,0.937372316955
+2010,Metropolis (1927),Drama|Sci-Fi,0.93870790319
+2488,Peeping Tom (1960),Drama|Horror|Thriller,0.939617929445
+4688,Black Robe (1991),Adventure|Drama,0.939995193472
+26176,Titicut Follies (1967),Documentary|Drama,0.941723386171
+58964,Inside (À l'intérieur) (2007),Horror|Thriller,0.941723386171
+6000,House on the Edge of the Park. The (Casa sperduta nel parco. La) (1980),Horror|Thriller,0.941723386171
+55652,Scum (1979),Crime|Drama,0.941723386171
+6748,Brood. The (1979),Horror,0.941723386171
+113780,As Above. So Below (2014),Horror|Thriller,0.941723386171
+7492,Martin (1977),Drama|Horror,0.941723386171
+113565,Sacrament. The (2013),Horror|Thriller,0.941723386171
+152173,Michael Jackson's Thriller (1983),Horror,0.941723386171
+3205,Black Sunday (La maschera del demonio) (1960),Horror,0.941723386171
+107057,Dead Set (2008),Comedy|Drama|Horror,0.941723386171
+4893,When a Stranger Calls (1979),Horror|Thriller,0.941723386171
+5153,Trouble Every Day (2001),Drama|Horror|Thriller,0.941723386171
+117121,Dorothy Mills (2008),Drama|Horror|Mystery|Thriller,0.941723386171
+7029,Rabid (1977),Horror|Thriller,0.941723386171
+74370,House of the Devil. The (2009),Horror|Thriller,0.941723386171
+132146,The Harvest (2013),Drama|Thriller,0.941723386171
+7110,Blind Beast (Môjuu) (1969),Drama|Thriller,0.941723386171
+4390,Rape Me (Baise-moi) (2000),Crime|Drama|Thriller,0.941723386171
+7650,Witchfinder General (Conquerer Worm. The) (1968),Horror,0.941723386171
+106870,Grave Encounters 2 (2012),Horror,0.941723386171
+25774,Golden Age. The (Âge d'Or. L') (1930),Comedy|Drama|Romance,0.941723386171
+32686,Blood on Satan's Claw (a.k.a. Satan's Skin) (1971),Horror|Thriller,0.941723386171
+2783,Tomb of Ligeia. The (1965),Horror,0.941723386171
+3847,Ilsa. She Wolf of the SS (1974),Horror,0.941723386171
+5891,I Spit on Your Grave (Day of the Woman) (1978),Horror|Thriller,0.941723386171
+26631,Alice (Neco z Alenky) (1988),Animation|Fantasy|Mystery,0.941723386171
+105763,Bloodsucking Freaks (1976),Horror,0.941723386171
+30783,Blood and Black Lace (Sei donne per l'assassino) (1964),Horror|Thriller,0.941723386171
+76303,Mark of the Devil (Hexen bis aufs Blut gequält) (1970),Drama|Horror,0.941723386171
+25807,Black Cat. The (1934),Adventure|Crime|Horror|Thriller,0.941723386171
+96815,V/H/S (2012),Horror|Thriller,0.941723386171
+3006,Insider. The (1999),Drama|Thriller,0.946653957428
+5834,Fingers (1978),Drama,0.947151869462
+4527,Night in the Life of Jimmy Reardon. A (1988),Comedy|Romance,0.947151869462
+424,Blue Chips (1994),Drama,0.950155627327
+2557,I Stand Alone (Seul contre tous) (1998),Drama|Thriller,0.950379027131
+69640,Public Enemies (2009),Crime|Drama|Thriller,0.952090351153
+73587,Soul Kitchen (2009),Comedy,0.953085525919
+44694,Volver (2006),Comedy|Drama,0.953371485873
+5819,Interview with the Assassin (2002),Drama,0.953842409328
+66665,Away We Go (2009),Comedy|Drama|Romance,0.954418745552
+2940,Gilda (1946),Drama|Film-Noir|Mystery|Romance,0.954984952453
+3020,Falling Down (1993),Action|Drama,0.955707028681
+7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),Adventure|Animation|Drama|Fantasy|Sci-Fi,0.957762174182
+3083,All About My Mother (Todo sobre mi madre) (1999),Drama,0.957830835359
+2550,Haunting. The (1963),Horror|Thriller,0.95898373826
+2117,1984 (Nineteen Eighty-Four) (1984),Drama|Sci-Fi,0.95940723268
+2166,Return to Paradise (1998),Crime|Drama|Romance|Thriller,0.959498782431
+1649,Fast. Cheap & Out of Control (1997),Documentary,0.959529986767
+26425,In-Laws. The (1979),Action|Comedy,0.959874429023
+2363,Godzilla (Gojira) (1954),Drama|Horror|Sci-Fi,0.960328801602
+6776,Lagaan: Once Upon a Time in India (2001),Comedy|Drama|Musical|Romance,0.960870624184
+68159,State of Play (2009),Crime|Drama|Thriller,0.964062868604
+152077,10 Cloverfield Lane (2016),Thriller,0.964561574473
+6757,Demonlover (2002),Crime|Drama|Mystery|Thriller,0.964854915502
+741,Ghost in the Shell (Kôkaku kidôtai) (1995),Animation|Sci-Fi,0.965185543356
+7459,Carandiru (2003),Crime|Drama,0.966059396408
+7981,Infernal Affairs (Mou gaan dou) (2002),Crime|Drama|Thriller,0.968068342232
+2712,Eyes Wide Shut (1999),Drama|Mystery|Thriller,0.970003306332
+2023,Godfather: Part III. The (1990),Crime|Drama|Mystery|Thriller,0.970118493598
+8511,Immigrant. The (1917),Comedy,0.97307399223
+60684,Watchmen (2009),Action|Drama|Mystery|Sci-Fi|Thriller|IMAX,0.974268312031
+8199,Ugetsu (Ugetsu monogatari) (1953),Drama|Thriller,0.975714932287
+41527,Paradise Now (2005),Crime|Drama|Thriller|War,0.976604764931
+31435,Rory O'Shea Was Here (Inside I'm Dancing) (2004),Drama,0.976927777583
+3129,Sweet and Lowdown (1999),Comedy|Drama,0.977289929627
+27838,Mean Creek (2004),Drama|Thriller,0.977882499694
+3072,Moonstruck (1987),Comedy|Romance,0.978724072039
+106332,Muscle Shoals (2013),Documentary,0.979151559728
+79702,Scott Pilgrim vs. the World (2010),Action|Comedy|Fantasy|Musical|Romance,0.979860712707
+1623,Wishmaster (1997),Horror,0.980358600658
+3008,Last Night (1998),Drama|Sci-Fi,0.980873828057
+72171,Black Dynamite (2009),Action|Comedy,0.982053575652
+51080,Breach (2007),Drama|Thriller,0.982100947401
+839,Crow: City of Angels. The (1996),Action|Thriller,0.982464170976
+2553,Village of the Damned (1960),Horror|Sci-Fi|Thriller,0.983589054291
+85414,Source Code (2011),Action|Drama|Mystery|Sci-Fi|Thriller,0.983831279277
+26391,New York. New York (1977),Drama|Musical|Romance,0.984896987462
+7831,Another Thin Man (1939),Comedy|Crime|Drama|Mystery|Romance,0.984980246525
+3013,Bride of Re-Animator (1990),Comedy|Horror,0.985024889682
+99764,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,0.985124287556
+26400,Gates of Heaven (1978),Documentary,0.986111020484
+25764,Cameraman. The (1928),Comedy|Drama|Romance,0.986111020484
+8609,Our Hospitality (1923),Comedy,0.986111020484
+8797,Salesman (1969),Documentary,0.986111020484
+4405,Last Laugh. The (Letzte Mann. Der) (1924),Drama,0.986111020484
+7074,Navigator. The (1924),Comedy,0.986111020484
+5059,Little Dieter Needs to Fly (1997),Documentary,0.986111020484
+80599,Buster Keaton: A Hard Act to Follow (1987),Documentary,0.986111020484
+31547,Lessons of Darkness (Lektionen in Finsternis) (1992),Documentary|War,0.986111020484
+72647,Zorn's Lemma (1970),Drama,0.986111020484
+4304,Startup.com (2001),Documentary,0.987191469393
+3007,American Movie (1999),Documentary,0.987541678077
+4975,Vanilla Sky (2001),Mystery|Romance|Sci-Fi|Thriller,0.98817192957
+3869,Naked Gun 2 1/2: The Smell of Fear. The (1991),Comedy,0.989502535086
+1342,Candyman (1992),Horror|Thriller,0.989571590577
+7063,Aguirre: The Wrath of God (Aguirre. der Zorn Gottes) (1972),Adventure|Drama,0.989827755141
+1034,Freeway (1996),Comedy|Crime|Drama|Thriller,0.989954918102
+3176,Talented Mr. Ripley. The (1999),Drama|Mystery|Thriller,0.990318324829
+309,Red Firecracker. Green Firecracker (Pao Da Shuang Deng) (1994),Drama,0.991590420216
+1884,Fear and Loathing in Las Vegas (1998),Adventure|Comedy|Drama,0.992703458731
+680,Alphaville (Alphaville. une étrange aventure de Lemmy Caution) (1965),Drama|Mystery|Romance|Sci-Fi|Thriller,0.993101741703
+6954,Barbarian Invasions. The (Les invasions barbares) (2003),Comedy|Crime|Drama|Mystery|Romance,0.995043186622
+3628,Flying Tigers (1942),Action|Drama|Romance|War,0.995249406937
+4370,A.I. Artificial Intelligence (2001),Adventure|Drama|Sci-Fi,0.997055175708
+5577,Igby Goes Down (2002),Comedy|Drama,0.997109348047
+976,Farewell to Arms. A (1932),Romance|War,0.998091673477
+55274,Elizabeth: The Golden Age (2007),Drama,0.998513508911
+4509,Great Outdoors. The (1988),Comedy,0.999505432984
+6269,Stevie (2002),Documentary,1.0003601611
+3198,Papillon (1973),Crime|Drama,1.0009552728
+2325,Orgazmo (1997),Comedy,1.00189319516
+1257,Better Off Dead... (1985),Comedy|Romance,1.00586724166
+2161,NeverEnding Story. The (1984),Adventure|Children|Fantasy,1.00676741265
+3868,Naked Gun: From the Files of Police Squad!. The (1988),Action|Comedy|Crime|Romance,1.00678090744
+2723,Mystery Men (1999),Action|Comedy|Fantasy,1.00918750994
+3703,Road Warrior. The (Mad Max 2) (1981),Action|Adventure|Sci-Fi|Thriller,1.01080247414
+1858,Mr. Nice Guy (Yat goh ho yan) (1997),Action|Comedy,1.01313415205
+2232,Cube (1997),Horror|Mystery|Sci-Fi|Thriller,1.01481294452
+7003,Kafka (1991),Comedy|Drama|Mystery|Sci-Fi|Thriller,1.01505387104
+57,Home for the Holidays (1995),Drama,1.01641837465
+58559,Dark Knight. The (2008),Action|Crime|Drama|IMAX,1.01659667458
+48997,Perfume: The Story of a Murderer (2006),Crime|Drama|Thriller,1.01736682765
+67734,Adventureland (2009),Comedy|Drama,1.01978983078
+6666,Discreet Charm of the Bourgeoisie. The (Charme discret de la bourgeoisie. Le) (1972),Comedy|Drama|Fantasy,1.02082324708
+1253,Day the Earth Stood Still. The (1951),Drama|Sci-Fi|Thriller,1.02132496135
+47997,Idiocracy (2006),Adventure|Comedy|Sci-Fi|Thriller,1.02252026388
+2330,Hands on a Hard Body (1996),Comedy|Documentary,1.02496759373
+31410,Downfall (Untergang. Der) (2004),Drama|War,1.02648672038
+4448,Score. The (2001),Action|Drama,1.02670437974
+1341,Burnt Offerings (1976),Horror,1.03178042076
+3535,American Psycho (2000),Crime|Horror|Mystery|Thriller,1.03402223113
+27664,Brown Bunny. The (2003),Drama,1.03411644396
+8370,Blind Swordsman: Zatoichi. The (Zatôichi) (2003),Action|Comedy|Crime|Drama,1.03497204596
+4855,Dirty Harry (1971),Action|Crime|Thriller,1.03716057442
+3547,Prick Up Your Ears (1987),Comedy|Drama,1.03865934934
+6188,Old School (2003),Comedy,1.04326805202
+3972,Legend of Drunken Master. The (Jui kuen II) (1994),Action|Comedy,1.04334795591
+104419,Justice League: Crisis on Two Earths (2010),Action|Animation|Sci-Fi,1.0437923992
+95441,Ted (2012),Comedy|Fantasy,1.04617100889
+1298,Pink Floyd: The Wall (1982),Drama|Musical,1.04678229364
+787,Gate of Heavenly Peace. The (1995),Documentary,1.04739068643
+48780,Prestige. The (2006),Drama|Mystery|Sci-Fi|Thriller,1.04931788089
+892,Twelfth Night (1996),Comedy|Drama|Romance,1.0500977738
+3508,Outlaw Josey Wales. The (1976),Action|Adventure|Drama|Thriller|Western,1.05013539881
+1281,Great Dictator. The (1940),Comedy|Drama|War,1.05013635814
+8188,Sansho the Bailiff (Sanshô dayû) (1954),Drama,1.05104914657
+115149,John Wick (2014),Action|Thriller,1.05245193157
+3330,Splendor in the Grass (1961),Drama|Romance,1.05417450939
+102684,Only God Forgives (2013),Drama|Thriller,1.05539582754
+3096,My Man Godfrey (1957),Comedy,1.05572284364
+7616,Body Double (1984),Mystery|Thriller,1.05712958595
+3479,Ladyhawke (1985),Adventure|Fantasy|Romance,1.05798087155
+322,Swimming with Sharks (1995),Comedy|Drama,1.05941637262
+38886,Squid and the Whale. The (2005),Comedy|Drama,1.06198194673
+1188,Strictly Ballroom (1992),Comedy|Romance,1.06380145238
+41912,Slim Susie (Smala Sussie) (2003),Comedy|Crime|Mystery,1.06461143062
+71640,Burma VJ: Reporting from a Closed Country (Burma VJ: Reporter i et lukket land) (2008),Documentary,1.06461143062
+57845,Joe Strummer: The Future Is Unwritten (2007),Documentary,1.06461143062
+4741,Together (Tillsammans) (2000),Comedy|Drama|Romance,1.06461143062
+26947,Pusher (1996),Crime|Thriller,1.06461143062
+25750,Sherlock Jr. (1924),Comedy|Fantasy|Romance,1.06474532535
+1827,Big One. The (1997),Comedy|Documentary,1.06552767798
+2702,Summer of Sam (1999),Drama,1.06563926673
+3344,Blood Feast (1963),Horror,1.0656928678
+5980,Black Christmas (1974),Horror|Mystery|Thriller,1.0656928678
+6256,House with Laughing Windows. The (Casa dalle finestre che ridono. La) (1976),Horror|Mystery|Thriller,1.0656928678
+26125,Spider Baby or. The Maddest Story Ever Told (Spider Baby) (1968),Comedy|Horror,1.0656928678
+3621,Possession (1981),Drama|Horror,1.0656928678
+104457,You're Next (2011),Horror|Thriller,1.0656928678
+97593,Tony (2009),Drama|Horror|Thriller,1.0656928678
+48231,Taxidermia (2006),Comedy|Drama|Horror,1.0656928678
+32211,Thriller: A Cruel Picture (Thriller - en grym film) (1974),Action|Crime|Drama|Thriller,1.0656928678
+7022,Battle Royale (Batoru rowaiaru) (2000),Action|Drama|Horror|Thriller,1.06658802183
+2677,Buena Vista Social Club (1999),Documentary|Musical,1.06711938606
+2905,Sanjuro (Tsubaki Sanjûrô) (1962),Action|Adventure|Drama,1.06863337455
+25,Leaving Las Vegas (1995),Drama|Romance,1.06888453149
+147,Basketball Diaries. The (1995),Drama,1.06987933096
+106766,Inside Llewyn Davis (2013),Drama,1.07028754753
+2964,Julien Donkey-Boy (1999),Drama,1.07134844462
+37240,Why We Fight (2005),Documentary,1.07317320597
+388,Boys Life (1995),Drama,1.07398045007
+2824,On the Ropes (1999),Documentary|Drama,1.07525997107
+3718,American Pimp (1999),Documentary,1.07525997107
+4562,Without a Clue (1988),Comedy|Mystery,1.07525997107
+118,If Lucy Fell (1996),Comedy|Romance,1.0757011464
+71135,Pandorum (2009),Horror|Sci-Fi|Thriller,1.07648336762
+66097,Coraline (2009),Animation|Fantasy|Thriller,1.0767467158
+56003,Southland Tales (2006),Comedy|Drama|Sci-Fi|Thriller,1.07745455306
+26231,Performance (1970),Crime|Drama|Thriller,1.0779773575
+3213,Batman: Mask of the Phantasm (1993),Animation|Children,1.07843986089
+100745,TPB AFK: The Pirate Bay Away from Keyboard (2013),Documentary,1.07910714749
+4645,Cure (1997),Crime|Horror|Thriller,1.08238961764
+4725,Session 9 (2001),Horror|Thriller,1.08238961764
+27834,Return. The (Vozvrashcheniye) (2003),Drama,1.08238961764
+8367,Time of the Wolf. The (Le temps du loup) (2003),Drama,1.08338376713
+7235,Ichi the Killer (Koroshiya 1) (2001),Action|Comedy|Crime|Drama|Horror|Thriller,1.08462402517
+1897,High Art (1998),Drama|Romance,1.08487947195
+104374,About Time (2013),Drama|Fantasy|Romance,1.08497690831
+59684,Lake of Fire (2006),Documentary,1.08651926156
+65037,Ben X (2007),Drama,1.08651926156
+1900,Children of Heaven. The (Bacheha-Ye Aseman) (1997),Comedy|Drama,1.08683202293
+96606,Samsara (2011),Documentary,1.08773120865
+34534,Four Brothers (2005),Action|Crime|Drama,1.08779617217
+103,Unforgettable (1996),Mystery|Sci-Fi|Thriller,1.08859139866
+1619,Seven Years in Tibet (1997),Adventure|Drama|War,1.08922162104
+1405,Beavis and Butt-Head Do America (1996),Adventure|Animation|Comedy|Crime,1.09095353681
+232,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance,1.09188016921
+4181,Tapeheads (1988),Comedy,1.09270665998
+146656,Creed (2015),Drama,1.09372327315
+3620,Myth of Fingerprints. The (1997),Comedy|Drama,1.09378235626
+4333,Throw Momma from the Train (1987),Comedy|Crime,1.09478193366
+3384,Taking of Pelham One Two Three. The (1974),Action|Crime,1.09544882489
+3843,Sleepaway Camp (1983),Horror,1.09761026921
+3961,Ghoulies (1985),Horror,1.09985299175
+326,To Live (Huozhe) (1994),Drama,1.10689418812
+1280,Raise the Red Lantern (Da hong deng long gao gao gua) (1991),Drama,1.10804549175
+1498,Inventing the Abbotts (1997),Drama|Romance,1.10808834304
+6375,Gigantic (A Tale of Two Johns) (2002),Documentary,1.11010234074
+3418,Thelma & Louise (1991),Adventure|Crime|Drama,1.11142718637
+93840,Cabin in the Woods. The (2012),Comedy|Horror|Sci-Fi|Thriller,1.11154008935
+3633,On Her Majesty's Secret Service (1969),Action|Adventure|Romance|Thriller,1.11201786008
+4768,Dr. Mabuse: The Gambler (Dr. Mabuse. der Spieler) (1922),Crime|Mystery|Thriller,1.11209916579
+27109,Lady Snowblood (Shurayukihime) (1973),Action|Crime|Drama|Thriller,1.1131053399
+52281,Grindhouse (2007),Action|Crime|Horror|Sci-Fi|Thriller,1.11320157261
+2177,Family Plot (1976),Comedy|Thriller,1.11444960765
+1361,Paradise Lost: The Child Murders at Robin Hood Hills (1996),Documentary,1.11462298972
+55444,Control (2007),Drama,1.11605266769
+567,Kika (1993),Comedy|Drama,1.11877743315
+2976,Bringing Out the Dead (1999),Drama,1.11889403628
+1301,Forbidden Planet (1956),Drama|Sci-Fi,1.11977566324
+3917,Hellraiser (1987),Horror,1.12029509928
+2371,Fletch (1985),Comedy|Crime|Mystery,1.12105302122
+1261,Evil Dead II (Dead by Dawn) (1987),Action|Comedy|Fantasy|Horror,1.12648388857
+36527,Proof (2005),Drama,1.12683058176
+3405,Night to Remember. A (1958),Action|Drama,1.12714092782
+5611,Four Feathers. The (2002),Adventure|War,1.12963755929
+49957,History Boys. The (2006),Comedy|Drama,1.13075795499
+4846,Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau) (1993),Action|Comedy,1.13092674495
+4454,More (1998),Animation|Drama|Sci-Fi|IMAX,1.13443220718
+3196,Stalag 17 (1953),Drama|War,1.13664574364
+4979,Royal Tenenbaums. The (2001),Comedy|Drama,1.13787950987
+7327,Persona (1966),Drama,1.13803410664
+6062,Lost in La Mancha (2002),Documentary,1.14356493788
+1046,Beautiful Thing (1996),Drama|Romance,1.1448526259
+1503,8 Heads in a Duffel Bag (1997),Comedy,1.14537835655
+4945,Enforcer. The (1976),Crime,1.15099050935
+4466,Above the Law (1988),Action|Crime|Drama,1.15099050935
+1349,Vampire in Venice (Nosferatu a Venezia) (Nosferatu in Venice) (1986),Horror,1.15114365252
+5909,Visitor Q (Bizita Q) (2001),Comedy|Drama|Horror,1.15229957534
+116797,The Imitation Game (2014),Drama|Thriller|War,1.15373742716
+6436,This Boy's Life (1993),Drama,1.15545048709
+2022,Last Temptation of Christ. The (1988),Drama,1.15641152704
+176,Living in Oblivion (1995),Comedy,1.15783143475
+2360,Celebration. The (Festen) (1998),Drama,1.1587922402
+50068,Letters from Iwo Jima (2006),Drama|War,1.15941014866
+1204,Lawrence of Arabia (1962),Adventure|Drama|War,1.16097909413
+5498,Red Beard (Akahige) (1965),Drama,1.16424586367
+104241,Kick-Ass 2 (2013),Action|Comedy|Crime,1.1664628091
+3746,Butterfly (La lengua de las mariposas) (1999),Drama,1.17062528989
+4552,Tetsuo. the Ironman (Tetsuo) (1988),Action|Horror|Sci-Fi|Thriller,1.17224060382
+65130,Revolutionary Road (2008),Drama|Romance,1.17248404367
+1344,Cape Fear (1962),Crime|Drama|Thriller,1.17343017711
+4642,Hedwig and the Angry Inch (2000),Comedy|Drama|Musical,1.17765863375
+32554,Memories (Memorîzu) (1995),Animation|Fantasy|Sci-Fi|Thriller,1.17984125566
+6339,Man on the Train (Homme du train. L') (2002),Comedy|Drama,1.18009626247
+94959,Moonrise Kingdom (2012),Comedy|Drama|Romance,1.18054517902
+449,Fear of a Black Hat (1994),Comedy,1.18162080551
+3550,The Hunger (1983),Horror,1.18273162006
+3627,Carnival of Souls (1962),Horror|Thriller,1.18315577413
+100383,Side Effects (2013),Crime|Drama|Mystery|Thriller,1.18394010604
+33085,Amityville Horror. The (2005),Horror|Thriller,1.1844158827
+872,Vive L'Amour (Ai qing wan sui) (1994),Drama,1.18692294502
+7564,Kwaidan (Kaidan) (1964),Horror,1.18692294502
+52617,Woman on the Beach (Haebyeonui yeoin) (2006),Comedy|Drama,1.18692294502
+26150,Andrei Rublev (Andrey Rublyov) (1969),Drama|War,1.18692294502
+26578,Sacrifice. The (Offret - Sacraficatio) (1986),Drama,1.18692294502
+7574,Maborosi (Maboroshi no hikari) (1995),Drama,1.18692294502
+25769,Steamboat Bill. Jr. (1928),Comedy|Romance,1.18722793094
+3150,War Zone. The (1999),Drama|Thriller,1.1892042897
+2551,Dead Ringers (1988),Drama|Horror|Thriller,1.19052592471
+26171,Play Time (a.k.a. Playtime) (1967),Comedy,1.19052705495
+110591,Oculus (2013),Horror,1.19133594581
+365,Little Buddha (1993),Drama,1.19227934889
+1016,Shaggy Dog. The (1959),Children|Comedy,1.1930555234
+80727,Middle Men (2009),Comedy|Crime|Drama,1.19349919625
+4437,Suspiria (1977),Horror,1.19590398742
+7040,To Live and Die in L.A. (1985),Action|Crime|Drama|Thriller,1.19766095848
+897,For Whom the Bell Tolls (1943),Adventure|Drama|Romance|War,1.19814099883
+8499,Pretty Baby (1978),Drama,1.19836157409
+30810,Life Aquatic with Steve Zissou. The (2004),Adventure|Comedy|Fantasy,1.19888256743
+116897,Wild Tales (2014),Comedy|Drama|Thriller,1.19930235338
+55052,Atonement (2007),Drama|Romance|War,1.19980593371
+3540,Passion of Mind (2000),Drama|Mystery|Romance,1.20172568623
+98126,Capital (Le capital) (2012),Drama,1.20545069994
+78903,State of Siege (État de siège) (1972),Drama|Thriller,1.20545069994
+44555,Lives of Others. The (Das leben der Anderen) (2006),Drama|Romance|Thriller,1.20566548134
+54881,King of Kong. The (2007),Documentary,1.20762580541
+3300,Pitch Black (2000),Horror|Sci-Fi|Thriller,1.20795493697
+7123,Naked Lunch (1991),Drama|Fantasy|Mystery|Sci-Fi,1.20844298378
+55282,30 Days of Night (2007),Horror|Thriller,1.20995382278
+41285,Match Point (2005),Crime|Drama|Romance,1.21106092486
+6731,Day of the Dead (1985),Horror|Sci-Fi|Thriller,1.211643311
+1889,Insomnia (1997),Drama|Mystery|Thriller,1.21392033695
+1966,Metropolitan (1990),Comedy,1.21413867237
+6993,Hannah and Her Sisters (1986),Comedy|Drama|Romance,1.21533266346
+3036,Quest for Fire (Guerre du feu. La) (1981),Adventure|Drama,1.21792938961
+4275,Krull (1983),Action|Adventure|Fantasy|Sci-Fi,1.21969749473
+142488,Spotlight (2015),Thriller,1.21973134331
+6971,Europa (Zentropa) (1991),Drama|Thriller,1.22233330477
+7068,Last Year at Marienbad (L'Année dernière à Marienbad) (1961),Drama|Mystery|Romance,1.22544694538
+153584,The Last Days of Emma Blank (2009),Comedy,1.226429799
+64660,Waiter (Ober) (2006),Comedy,1.226429799
+148372,Schneider vs. Bax (2015),Comedy|Thriller,1.226429799
+107649,Borgman (2013),Thriller,1.226429799
+79469,Northerners. The (De noorderlingen) (1992),Comedy,1.226429799
+129313,Reality (2014),Comedy,1.226429799
+80717,Voyeur (Abel) (1986),Comedy,1.226429799
+99030,Wrong (2012),Comedy|Drama,1.226429799
+3202,Even Dwarfs Started Small (Auch Zwerge haben klein angefangen) (1971),Drama|Horror,1.226429799
+141886,The Dress (1996),Comedy|Drama,1.226429799
+107447,Wrong Cops (2013),Comedy|Crime,1.226429799
+956,Penny Serenade (1941),Drama|Romance,1.23028643971
+8873,Motorcycle Diaries. The (Diarios de motocicleta) (2004),Adventure|Drama,1.23113590083
+2513,Pet Sematary (1989),Horror,1.23204622968
+55094,In the Valley of Elah (2007),Drama|Mystery,1.23409913308
+824,Kaspar Hauser (1993),Drama|Mystery,1.23528090117
+1218,Killer. The (Die xue shuang xiong) (1989),Action|Crime|Drama|Thriller,1.23998475337
+4696,Zorro. the Gay Blade (1981),Comedy,1.24015094304
+111921,The Fault in Our Stars (2014),Drama|Romance,1.24055553155
+426,Body Snatchers (1993),Horror|Sci-Fi|Thriller,1.24386755411
+2178,Frenzy (1972),Thriller,1.24486042092
+7826,Secret Life of Walter Mitty. The (1947),Comedy|Romance|Thriller,1.2454524274
+671,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi,1.24607939995
+2073,Fandango (1985),Comedy,1.24786668706
+7502,Band of Brothers (2001),Action|Drama|War,1.24938838429
+48744,Shortbus (2006),Comedy|Drama|Romance,1.24987533931
+4312,Himalaya (Himalaya - l'enfance d'un chef) (1999),Adventure|Drama,1.25288922971
+5051,Italian for Beginners (Italiensk for begyndere) (2000),Comedy|Drama|Romance,1.25515181249
+633,Denise Calls Up (1995),Comedy,1.25569053371
+57353,Flawless (2007),Crime|Drama,1.26134401384
+27815,Chorus. The (Choristes. Les) (2004),Drama,1.26246175245
+26840,Sonatine (Sonachine) (1993),Action|Comedy|Crime|Drama,1.2627122978
+1273,Down by Law (1986),Comedy|Drama|Film-Noir,1.26356937567
+66246,Numbskull Emptybrook (Uuno Turhapuro) (1973),Comedy,1.26787382391
+111529,Normal Heart. The (2014),Drama,1.26841602911
+2284,Bandit Queen (1994),Drama,1.26877471841
+7713,Cat People (1942),Drama|Horror|Romance|Thriller,1.2699480989
+262,Little Princess. A (1995),Children|Drama,1.27130559905
+77800,Four Lions (2010),Comedy|Drama,1.27209712404
+4658,Santa Sangre (1989),Drama|Horror|Mystery|Thriller,1.27451041153
+42734,Hoodwinked! (2005),Animation|Children|Comedy,1.27596967299
+1392,Citizen Ruth (1996),Comedy|Drama,1.27721961383
+2436,Tea with Mussolini (1999),Comedy|Drama|War,1.27849153012
+2318,Happiness (1998),Comedy|Drama,1.27888678042
+54732,Balls of Fury (2007),Comedy,1.28162702958
+156,Blue in the Face (1995),Comedy|Drama,1.28292265727
+5225,And Your Mother Too (Y tu mamá también) (2001),Drama|Romance,1.28900425729
+632,Land and Freedom (Tierra y libertad) (1995),Drama|War,1.28928792185
+71282,Food. Inc. (2008),Documentary,1.28998164937
+3728,One False Move (1992),Crime|Drama|Film-Noir|Thriller,1.30275331286
+140715,Straight Outta Compton (2015),Drama,1.30313316254
+100556,Act of Killing. The (2012),Documentary,1.3058303845
+3075,Repulsion (1965),Drama|Horror,1.30757422864
+850,Cyclo (Xich lo) (1995),Crime|Drama,1.30911712124
+5062,Seconds (1966),Mystery|Sci-Fi|Thriller,1.31109798736
+3552,Caddyshack (1980),Comedy,1.31122888202
+4928,That Obscure Object of Desire (Cet obscur objet du désir) (1977),Drama,1.31173043815
+77658,Cosmos (1980),Documentary,1.3125508812
+5013,Gosford Park (2001),Comedy|Drama|Mystery,1.31277230134
+4848,Mulholland Drive (2001),Crime|Drama|Film-Noir|Mystery|Thriller,1.31465402393
+6063,May (2002),Drama|Horror,1.32337555997
+6787,All the President's Men (1976),Drama|Thriller,1.3264999395
+2159,Henry: Portrait of a Serial Killer (1986),Crime|Horror|Thriller,1.32792877037
+574,Spanking the Monkey (1994),Comedy|Drama,1.33008755991
+5914,Vernon. Florida (1981),Documentary,1.33458992249
+3091,Kagemusha (1980),Drama|War,1.33527277268
+3685,Prizzi's Honor (1985),Comedy|Drama|Romance,1.3364361298
+5820,Standing in the Shadows of Motown (2002),Documentary|Musical,1.33876382645
+8914,Primer (2004),Drama|Sci-Fi,1.33899620167
+2132,Who's Afraid of Virginia Woolf? (1966),Drama,1.34282338054
+7070,Red River (1948),Action|Adventure|Western,1.34463378274
+6254,Awful Truth. The (1937),Comedy|Romance,1.35186592916
+6184,Man Who Fell to Earth. The (1976),Drama|Sci-Fi,1.35385442458
+60950,Vicky Cristina Barcelona (2008),Comedy|Drama|Romance,1.35536975022
+139757,Best of Enemies (2015),Documentary,1.35664001335
+7841,Children of Dune (2003),Fantasy|Sci-Fi,1.36549996517
+2745,Mission. The (1986),Drama,1.36805307988
+13,Balto (1995),Adventure|Animation|Children,1.36879505662
+2579,Following (1998),Crime|Mystery|Thriller,1.36936621348
+2867,Fright Night (1985),Comedy|Horror|Thriller,1.37004806608
+108192,Hotel Chevalier (Part 1 of 'The Darjeeling Limited') (2007),Drama,1.37199214981
+118880,Girl Walks Home Alone at Night. A (2014),Horror|Romance|Thriller,1.37199214981
+6940,In My Skin (Dans ma Peau) (2002),Drama,1.37199214981
+90357,Tyrannosaur (2011),Drama,1.37199214981
+5105,Don't Look Now (1973),Drama|Horror|Thriller,1.37619146714
+909,Apartment. The (1960),Comedy|Drama|Romance,1.37788771938
+2600,eXistenZ (1999),Action|Sci-Fi|Thriller,1.37797490262
+5028,What Time Is It There? (Ni neibian jidian) (2001),Drama,1.38439676915
+721,Halfmoon (Paul Bowles - Halbmond) (1995),Drama,1.38668647928
+793,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993),Drama,1.38668647928
+854,Ballad of Narayama. The (Narayama Bushiko) (1958),Drama,1.38668647928
+690,Promise. The (Versprechen. Das) (1995),Drama|Romance,1.38668647928
+5074,Storytelling (2001),Comedy|Drama,1.38729369561
+30745,Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003),Comedy|Crime|Drama|Horror|Mystery,1.38783115686
+4783,Endurance: Shackleton's Legendary Antarctic Expedition. The (2000),Documentary,1.39009389684
+3706,Angel Heart (1987),Film-Noir|Horror|Mystery|Thriller,1.39310588791
+3537,Where the Money Is (2000),Comedy|Drama,1.39532352877
+1056,Jude (1996),Drama,1.39643167943
+4874,K-PAX (2001),Drama|Fantasy|Mystery|Sci-Fi,1.39839020863
+3614,Honeymoon in Vegas (1992),Comedy|Romance,1.39980928681
+2970,Fitzcarraldo (1982),Adventure|Drama,1.4008972044
+341,Double Happiness (1994),Drama,1.40633179071
+112804,I Origins (2014),Drama|Sci-Fi,1.40769822007
+132333,Seve (2014),Documentary|Drama,1.40839737449
+3925,Stranger Than Paradise (1984),Comedy|Drama,1.40895253768
+7983,Broadway Danny Rose (1984),Comedy,1.40913939507
+5617,Secretary (2002),Comedy|Drama|Romance,1.41181096627
+89118,Skin I Live In. The (La piel que habito) (2011),Drama,1.41727563509
+3130,Bonfire of the Vanities (1990),Comedy|Crime|Drama,1.41875275517
+6820,Ginger Snaps (2000),Drama|Horror|Thriller,1.42242825764
+1587,Conan the Barbarian (1982),Action|Adventure|Fantasy,1.42910522538
+100714,Before Midnight (2013),Drama|Romance,1.4408276843
+40732,Descent. The (2005),Adventure|Drama|Horror|Thriller,1.44276955541
+71745,Where the Wild Things Are (2009),Adventure|Children|Drama|Fantasy|IMAX,1.44325008601
+2459,Texas Chainsaw Massacre. The (1974),Horror,1.44371363001
+4866,Last Castle. The (2001),Action,1.44570126187
+1924,Plan 9 from Outer Space (1959),Horror|Sci-Fi,1.44610625228
+27523,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance,1.44784204156
+384,Bad Company (1995),Action|Crime|Drama,1.45069260623
+1866,Big Hit. The (1998),Action|Comedy|Crime,1.45330745712
+27773,Old Boy (2003),Mystery|Thriller,1.45348864218
+55269,Darjeeling Limited. The (2007),Adventure|Comedy|Drama,1.45406249361
+6791,Babette's Feast (Babettes gæstebud) (1987),Drama,1.45508037461
+175,Kids (1995),Drama,1.46818985987
+3127,Holy Smoke (1999),Comedy|Drama,1.46900717836
+3199,Pal Joey (1957),Comedy|Drama|Musical|Romance,1.4728169675
+59995,Boy A (2007),Crime|Drama,1.47584526353
+4914,Breathless (À bout de souffle) (1960),Crime|Drama|Romance,1.47639882678
+6290,House of 1000 Corpses (2003),Horror,1.47659895579
+2419,Extremities (1986),Drama|Thriller,1.48844063629
+550,Threesome (1994),Comedy|Romance,1.48855674553
+93040,Civil War. The (1990),Documentary|War,1.4936404411
+2594,Open Your Eyes (Abre los ojos) (1997),Drama|Romance|Sci-Fi|Thriller,1.49698807489
+7002,Mindwalk (1990),Drama,1.49895908021
+1397,Bastard Out of Carolina (1996),Drama,1.50275258334
+3714,Clara's Heart (1988),Drama,1.50548947025
+4010,Brewster's Millions (1985),Comedy,1.50749812912
+187,Party Girl (1995),Comedy,1.50769806142
+674,Barbarella (1968),Adventure|Comedy|Sci-Fi,1.50775625509
+4117,Hope and Glory (1987),Drama,1.50785403532
+48082,Science of Sleep. The (La science des rêves) (2006),Comedy|Drama|Fantasy|Romance,1.50996908543
+1753,Half Baked (1998),Comedy,1.51012157296
+72395,Precious (2009),Drama,1.51953383417
+1243,Rosencrantz and Guildenstern Are Dead (1990),Comedy|Drama,1.52193276665
+3385,Volunteers (1985),Comedy,1.523745389
+759,Maya Lin: A Strong Clear Vision (1994),Documentary,1.52381529697
+1735,Great Expectations (1998),Drama|Romance,1.52864701598
+48872,13 Tzameti (2005),Film-Noir|Thriller,1.53608766954
+134170,Kung Fury (2015),Action|Comedy|Fantasy|Sci-Fi,1.5401324696
+6301,Straw Dogs (1971),Drama|Thriller,1.54033669946
+3134,Grand Illusion (La grande illusion) (1937),Drama|War,1.54204702874
+9010,Love Me If You Dare (Jeux d'enfants) (2003),Drama|Romance,1.54216822546
+49,When Night Is Falling (1995),Drama|Romance,1.54365705174
+80126,American. The (2010),Drama|Thriller,1.54422962337
+3163,Topsy-Turvy (1999),Comedy|Drama|Musical,1.54447949004
+621,My Favorite Season (1993),Drama,1.5471039835
+4713,Altered States (1980),Drama|Sci-Fi,1.54796168918
+6242,Ringu (Ring) (1998),Horror|Mystery|Thriller,1.54941570429
+8366,Saved! (2004),Comedy|Drama,1.55210591055
+3272,Bad Lieutenant (1992),Crime|Drama,1.55258314433
+3417,Crimson Pirate. The (1952),Adventure|Comedy,1.55330207082
+2135,Doctor Dolittle (1967),Adventure|Children|Musical,1.55432458255
+27178,In July (Im Juli) (2000),Comedy|Romance,1.55987886649
+26082,Harakiri (Seppuku) (1962),Drama,1.56263259812
+299,Priest (1994),Drama,1.5631108072
+62849,RocknRolla (2008),Action|Crime,1.56897794299
+37731,Green Street Hooligans (a.k.a. Hooligans) (2005),Crime|Drama,1.56982269126
+6713,Millennium Actress (Sennen joyû) (2001),Animation|Drama|Romance,1.57023499259
+44587,Nanook of the North (1922),Documentary|Drama,1.57686717493
+7445,Man on Fire (2004),Action|Crime|Drama|Mystery|Thriller,1.57867573969
+34405,Serenity (2005),Action|Adventure|Sci-Fi,1.58302660099
+3067,Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988),Comedy|Drama,1.58463067596
+4047,Gettysburg (1993),Drama|War,1.58875793991
+1123,Perfect Candidate. A (1996),Documentary,1.58942667953
+3677,Baraka (1992),Documentary,1.59254109449
+3340,Bride of the Monster (1955),Horror|Sci-Fi,1.60526941517
+47254,Chaos (2005),Action|Crime|Drama|Thriller,1.61208428526
+2710,Blair Witch Project. The (1999),Drama|Horror|Thriller,1.61994522123
+2430,Mighty Joe Young (1949),Adventure|Children|Drama,1.62233504727
+67504,Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971),Documentary,1.62306005882
+83318,Goat. The (1921),Comedy,1.62306005882
+83359,Play House. The (1921),Comedy,1.62306005882
+83411,Cops (1922),Comedy,1.62306005882
+1172,Cinema Paradiso (Nuovo cinema Paradiso) (1989),Drama,1.62314965948
+3858,Cecil B. DeMented (2000),Comedy,1.63605941322
+114935,Predestination (2014),Action|Mystery|Sci-Fi|Thriller,1.63822254637
+4271,Eureka (Yurîka) (2000),Drama,1.64078157716
+6753,Secondhand Lions (2003),Children|Comedy|Drama,1.6414796602
+134853,Inside Out (2015),Adventure|Animation|Children|Comedy|Drama|Fantasy,1.64774927074
+48877,Saw III (2006),Crime|Horror|Thriller,1.65342533167
+54372,Tell No One (Ne le dis à personne) (2006),Crime|Drama|Mystery|Thriller,1.65579201858
+1312,Female Perversions (1996),Drama,1.65587423693
+2945,Mike's Murder (1984),Mystery,1.65587423693
+3021,Funhouse. The (1981),Horror,1.65587423693
+3281,Brandon Teena Story. The (1998),Documentary,1.65587423693
+3757,Asylum (1972),Horror,1.65587423693
+3837,Phantasm II (1988),Action|Fantasy|Horror|Sci-Fi|Thriller,1.65587423693
+2982,Guardian. The (1990),Horror|Thriller,1.65587423693
+183,Mute Witness (1994),Comedy|Horror|Thriller,1.65587423693
+1531,Losing Chase (1996),Drama,1.65587423693
+1543,Designated Mourner. The (1997),Drama,1.65587423693
+1771,Night Flier (1997),Horror,1.65587423693
+3851,I'm the One That I Want (2000),Comedy,1.65587423693
+2844,Minus Man. The (1999),Drama|Mystery,1.65912587474
+2361,Pink Flamingos (1972),Comedy,1.66054377554
+33683,High Tension (Haute tension) (Switchblade Romance) (2003),Horror|Thriller,1.66490730868
+48043,Fountain. The (2006),Drama|Fantasy|Romance,1.675652389
+2968,Time Bandits (1981),Adventure|Comedy|Fantasy|Sci-Fi,1.67610392474
+4873,Waking Life (2001),Animation|Drama|Fantasy,1.67857903026
+2585,Lovers of the Arctic Circle. The (Los Amantes del Círculo Polar) (1998),Drama|Romance,1.67919884035
+25805,Atalante. L' (1934),Comedy|Drama|Romance,1.68985819222
+3320,Mifune's Last Song (Mifunes sidste sang) (1999),Comedy|Drama|Romance,1.69172780549
+5673,Punch-Drunk Love (2002),Comedy|Drama|Romance,1.69497087029
+8645,Maria Full of Grace (Maria. Llena eres de gracia) (2004),Crime|Drama,1.69950022759
+108979,Cowboy Bebop (1998),Action|Adventure|Animation|Crime|Sci-Fi,1.70417733982
+71379,Paranormal Activity (2009),Horror|Thriller,1.70911177407
+25850,Holiday (1938),Comedy|Drama|Romance,1.70970951024
+3653,Endless Summer. The (1966),Documentary,1.71401867423
+8208,Razor's Edge. The (1946),Drama,1.71813852679
+2282,Pecker (1998),Comedy|Drama,1.72071787159
+4210,Manhunter (1986),Action|Crime|Drama|Horror|Thriller,1.72744189584
+2165,Your Friends and Neighbors (1998),Comedy|Drama,1.73167041453
+4294,5.000 Fingers of Dr. T. The (1953),Children|Fantasy|Musical,1.73702246668
+3738,Sugarland Express. The (1974),Drama,1.74622737481
+407,In the Mouth of Madness (1995),Horror|Thriller,1.74937854461
+68073,Pirate Radio (2009),Comedy|Drama,1.74978106484
+107406,Snowpiercer (2013),Action|Drama|Sci-Fi,1.7509691692
+8154,Dolce Vita. La (1960),Drama,1.75155872435
+34323,Devil's Rejects. The (2005),Action|Crime|Horror,1.75160785215
+2877,Tommy (1975),Musical,1.75432599589
+766,I Shot Andy Warhol (1996),Drama,1.77267408742
+42723,Hostel (2005),Horror,1.77579853546
+5460,Powerpuff Girls. The (2002),Action|Animation|Children|Comedy,1.77756856742
+5056,Enigma of Kaspar Hauser. The (a.k.a. Mystery of Kaspar Hauser. The) (Jeder für sich und Gott Gegen Alle) (1974),Crime|Drama,1.79891957739
+4649,Wet Hot American Summer (2001),Comedy,1.80118481986
+3992,Malèna (2000),Drama|Romance|War,1.80917436367
+109848,Under the Skin (2013),Horror|Sci-Fi|Thriller,1.80976919538
+7810,Babylon 5: A Call to Arms (1999),Adventure|Sci-Fi,1.81023909409
+5959,Narc (2002),Crime|Drama|Thriller,1.81827738401
+25947,Unfaithfully Yours (1948),Comedy,1.82056226589
+4384,Lumumba (2000),Drama,1.82457970472
+820,Death in the Garden (Mort en ce jardin. La) (1956),Drama,1.82880819103
+559,Paris. France (1993),Comedy,1.82880819103
+2554,Children of the Damned (1963),Horror|Sci-Fi|Thriller,1.83066672279
+2348,Sid and Nancy (1986),Drama,1.83465278953
+2836,Outside Providence (1999),Comedy,1.8374377942
+1600,She's So Lovely (1997),Drama|Romance,1.84564939262
+1483,Crash (1996),Drama|Thriller,1.85758088013
+940,Adventures of Robin Hood. The (1938),Action|Adventure|Romance,1.87143377783
+40412,Dead Man's Shoes (2004),Crime|Thriller,1.87473636884
+3153,7th Voyage of Sinbad. The (1958),Action|Adventure|Fantasy,1.87592317488
+47721,Red Balloon. The (Ballon rouge. Le) (1956),Children|Fantasy,1.87625614382
+3576,Hidden. The (1987),Action|Horror|Sci-Fi,1.87846006079
+2624,After Life (Wandafuru raifu) (1998),Drama|Fantasy,1.8803769226
+522,Romper Stomper (1992),Action|Drama,1.88123821826
+2596,SLC Punk! (1998),Comedy|Drama,1.88319877468
+1940,Gentleman's Agreement (1947),Drama,1.88525501996
+2128,Safe Men (1998),Comedy,1.89330398537
+33171,Mysterious Skin (2004),Drama|Mystery,1.89710108314
+1875,Clockwatchers (1997),Comedy,1.89849927732
+77846,12 Angry Men (1997),Crime|Drama,1.9014646442
+66934,Dr. Horrible's Sing-Along Blog (2008),Comedy|Drama|Musical|Sci-Fi,1.90278503219
+55577,Saw IV (2007),Crime|Horror|Thriller,1.91835656843
+39183,Brokeback Mountain (2005),Drama|Romance,1.92459891821
+50601,Bridge to Terabithia (2007),Adventure|Children|Fantasy,1.92885698832
+334,Vanya on 42nd Street (1994),Drama,1.93582812901
+96373,Broken (2012),Drama,1.93782266112
+4697,Basket Case (1982),Comedy|Horror,1.94341815475
+31374,Hobson's Choice (1954),Comedy|Drama|Romance,1.9646930151
+1983,Halloween II (1981),Horror,1.96985184758
+6214,Irreversible (Irréversible) (2002),Crime|Drama|Mystery|Thriller,1.97448844673
+728,Cold Comfort Farm (1995),Comedy,1.9853939382
+1601,Hoodlum (1997),Crime|Drama|Film-Noir,1.99118411323
+112515,Babadook. The (2014),Drama|Horror|Thriller,2.02993997516
+74916,Greenberg (2010),Comedy|Drama,2.03118139556
+98154,Lincoln (2012),Drama|War,2.03316130522
+461,Go Fish (1994),Drama|Romance,2.05126324003
+2052,Hocus Pocus (1993),Children|Comedy|Fantasy|Horror,2.05400609471
+67255,Girl with the Dragon Tattoo. The (Män som hatar kvinnor) (2009),Crime|Drama|Mystery|Thriller,2.0608462131
+2492,20 Dates (1998),Comedy|Romance,2.06088805078
+65642,Timecrimes (Cronocrímenes. Los) (2007),Sci-Fi|Thriller,2.06496793176
+2560,Ravenous (1999),Horror|Thriller,2.07109390221
+7919,Drunken Angel (Yoidore tenshi) (1948),Drama|Film-Noir,2.08385801441
+96728,Master. The (2012),Drama,2.09078161061
+134368,Spy (2015),Action|Comedy|Crime,2.09286152134
+5120,Sleuth (1972),Comedy|Mystery|Thriller,2.09576620514
+90061,Myth of the American Sleepover. The (2010),Comedy|Drama|Romance,2.09709648462
+4755,Wish Upon a Star (1996),Comedy,2.09709648462
+7460,Coffee and Cigarettes (2003),Comedy|Drama,2.10381575577
+2606,Idle Hands (1999),Comedy|Horror,2.1155340303
+111781,Mission: Impossible - Rogue Nation (2015),Action|Adventure|Thriller,2.13292441654
+4404,Faust (1926),Drama|Fantasy|Horror,2.1348133017
+1255,Bad Taste (1987),Comedy|Horror|Sci-Fi,2.16086820025
+110645,Witching and Bitching (Brujas de Zugarramurdi. Las) (2014),Comedy|Fantasy,2.16317385865
+8607,Tokyo Godfathers (2003),Adventure|Animation|Drama,2.20453334726
+3696,Night of the Creeps (1986),Comedy|Horror|Sci-Fi|Thriller,2.21084856872
+7060,Jesus Christ Superstar (1973),Drama|Musical,2.21191706131
+119145,Kingsman: The Secret Service (2015),Action|Adventure|Comedy|Crime,2.21721389147
+44761,Brick (2005),Crime|Drama|Film-Noir|Mystery,2.23897713404
+7027,Silverado (1985),Action|Western,2.24215842005
+6618,Shaolin Soccer (Siu lam juk kau) (2001),Action|Comedy,2.24516528827
+4221,Necessary Roughness (1991),Comedy,2.24695702759
+3266,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller,2.25088795486
+2725,Twin Falls Idaho (1999),Drama,2.2528079176
+1111,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996),Documentary,2.26451146694
+7371,Dogville (2003),Drama|Mystery|Thriller,2.27544435013
+97957,Excision (2012),Crime|Drama|Horror|Thriller,2.27851468167
+4921,Little Women (1933),Drama|Romance,2.28782661244
+1085,Old Man and the Sea. The (1958),Adventure|Drama,2.29821374035
+89837,Kill List (2011),Horror|Mystery|Thriller,2.31223858152
+1683,Wings of the Dove. The (1997),Drama|Romance,2.32841493974
+94466,Black Mirror (2011),Drama|Sci-Fi,2.34498725539
+6197,Spider (2002),Drama|Mystery,2.35987373056
+2290,Stardust Memories (1980),Comedy|Drama,2.36603523946
+4624,Meet the Feebles (1989),Animation|Comedy|Musical,2.37354877405
+3813,Interiors (1978),Drama,2.37701471707
+443,Endless Summer 2. The (1994),Adventure|Documentary,2.38986042225
+101962,Wolf Children (Okami kodomo no ame to yuki) (2012),Animation|Fantasy,2.41335950549
+2351,Nights of Cabiria (Notti di Cabiria. Le) (1957),Drama,2.42318300961
+5666,Rules of Attraction. The (2002),Comedy|Drama|Romance|Thriller,2.42926601777
+5002,Fritz the Cat (1972),Animation,2.43522142959
+3181,Titus (1999),Drama,2.44054322471
+91976,Grey. The (2012),Action|Drama,2.4512265376
+3437,Cool as Ice (1991),Drama,2.47839634996
+5765,Looney. Looney. Looney Bugs Bunny Movie. The (1981),Animation|Children|Comedy,2.47839634996
+85401,Super (2010),Action|Comedy|Drama,2.48363034996
+59,Confessional. The (Confessionnal. Le) (1995),Drama|Mystery,2.50485761788
+3216,Vampyros Lesbos (Vampiras. Las) (1971),Fantasy|Horror|Thriller,2.53158000518
+92494,Dylan Moran: Monster (2004),Comedy|Documentary,2.53158000518
+3262,Twin Peaks: Fire Walk with Me (1992),Crime|Drama|Mystery|Thriller,2.54653474207
+5569,Last House on the Left. The (1972),Crime|Horror|Thriller,2.55800742473
+2387,Very Bad Things (1998),Comedy|Crime,2.55874474664
+7706,Animal Crackers (1930),Comedy|Musical,2.56286409173
+25771,Andalusian Dog. An (Chien andalou. Un) (1929),Fantasy,2.56773918905
+1865,Wild Man Blues (1997),Documentary,2.60667831742
+501,Naked (1993),Drama,2.62652990891
+3908,Urban Legends: Final Cut (2000),Horror,2.66914513106
+1241,Dead Alive (Braindead) (1992),Comedy|Fantasy|Horror,2.67233350493
+62511,Synecdoche. New York (2008),Comedy|Drama,2.67640473889
+4834,Cheech & Chong's Next Movie (1980),Comedy,2.68660335402
+7505,Kingdom. The (Riget) (1994),Drama|Horror|Mystery,2.71789866883
+47491,Adam's Apples (Adams æbler) (2005),Comedy|Drama,2.71901976825
+3133,Go West (1925),Comedy|Western,2.74778814954
+26258,Topo. El (1970),Fantasy|Western,2.74863976564
+2730,Barry Lyndon (1975),Drama|Romance|War,2.74904157185
+3676,Eraserhead (1977),Drama|Horror,2.75680074021
+8197,Hiroshima Mon Amour (1959),Drama|Romance|War,2.76281090028
+3503,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi,2.77040602724
+2287,Them! (1954),Horror|Sci-Fi|Thriller,2.81338844575
+8117,In China They Eat Dogs (I Kina spiser de hunde) (1999),Action|Comedy,2.83954719458
+2583,Cookie's Fortune (1999),Comedy|Drama,2.84080940152
+2148,House (1986),Comedy|Fantasy|Horror,2.85870232025
+1836,Last Days of Disco. The (1998),Comedy|Drama,2.85978343268
+2810,Perfect Blue (1997),Animation|Horror|Mystery|Thriller,2.89158147898
+5417,Fast Runner. The (Atanarjuat) (2001),Drama|Fantasy,2.89356832595
+31952,Control (Kontroll) (2003),Comedy|Crime|Drama|Mystery,2.90016253823
+102993,Way. Way Back. The (2013),Comedy|Drama,2.91779109047
+206,Unzipped (1995),Documentary,2.94317686784
+79274,Batman: Under the Red Hood (2010),Action|Animation,2.96534877117
+71033,Secret in Their Eyes. The (El secreto de sus ojos) (2009),Crime|Drama|Mystery|Romance|Thriller,2.97052526881
+98122,Indie Game: The Movie (2012),Documentary,3.03848794484
+122882,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller,3.08938957307
+2938,Man Facing Southeast (1986),Drama|Sci-Fi,3.09357089907
+4247,Joe Dirt (2001),Adventure|Comedy|Mystery|Romance,3.12464662655
+670,World of Apu. The (Apur Sansar) (1959),Drama,3.17911998887
+80551,Eat Pray Love (2010),Drama|Romance,3.21759013719
+4467,Adventures of Baron Munchausen. The (1988),Adventure|Comedy|Fantasy,3.28830164368
+2275,Six-String Samurai (1998),Action|Adventure|Sci-Fi,3.32749081902
+6808,Where Eagles Dare (1968),Action|Adventure|War,3.3435310031
+26974,Gummo (1997),Drama,3.38848293603
+26084,Music Man. The (1962),Children|Comedy|Musical|Romance,3.42479538718
+45837,Let It Be (1970),Documentary,3.43984825672
+1306,Until the End of the World (Bis ans Ende der Welt) (1991),Adventure|Drama|Sci-Fi,3.44290800767
+3218,Poison (1991),Drama,3.45485629991
+1173,Cook the Thief His Wife & Her Lover. The (1989),Comedy|Drama,3.6045856675
+3777,Nekromantik (1987),Comedy|Horror,3.60747967056
+31364,Memories of Murder (Salinui chueok) (2003),Crime|Drama|Mystery|Thriller,3.65254180403
+523,Ruby in Paradise (1993),Drama,3.6810631015
+8138,Attack of the Giant Leeches (1959),Horror|Sci-Fi,3.87780348297
+4898,Novocaine (2001),Comedy|Crime|Mystery|Thriller,3.95839638843
+4754,Wicker Man. The (1973),Drama|Horror|Mystery|Thriller,3.96244081089
+121231,It Follows (2014),Horror,4.19917507011
+4146,Million Dollar Hotel. The (2001),Drama|Mystery|Romance,4.2359668753
+4483,Caddyshack II (1988),Comedy,4.25153424034
+72,Kicking and Screaming (1995),Comedy|Drama,4.27307096177
+72224,Gentlemen Broncos (2009),Comedy,4.83439512753
+7577,Magic Flute. The (Trollflöjten) (1975),Comedy|Fantasy|Musical|Romance,6.08537366613
+55167,Tekkonkinkreet (Tekkon kinkurîto) (2006),Action|Adventure|Animation|Crime|Fantasy,6.13345412833
+3415,Mirror. The (Zerkalo) (1975),Drama,7.24118986945

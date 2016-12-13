@@ -321,10 +321,10 @@ class RecEngine:
 		.map(lambda temp: temp.split(","))\
 		.map(lambda entry: (int(entry[0]), (entry[1]+","+ entry[2]))).cache()
 	ratings_cluster = ratings_cluster.join(moviesForCluster)
-	facMov = self.model.productFeatures().map(lambda (id,factor): (id,Vectors.dense(factor)))
-	vecMov = facMov.map(lambda (id,vec):vec)
+	facMov = self.model.productFeatures().map(lambda (movie_id,fac): (movie_id,Vectors.dense(fac)))
+	vecMov = facMov.map(lambda (movie_id,vectors):vectors)
 
-	user_factors = self.model.userFeatures().map(lambda (id,factor):(id,Vectors.dense(factor)))
+	user_factors = self.model.userFeatures().map(lambda (id,fac):(id,Vectors.dense(fac)))
 	vecUser = user_factors.map(lambda (id, vec):vec)
 
 	logger.info("Train the KMeans Movie model ...")
@@ -426,7 +426,7 @@ class RecEngine:
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
         logger.info("Successfully build ALS model!")
 	#uncomment to do the kmeans clusters for movies and users
-	self.kmeans_result(raw_ratings,raw_movies)
+	#self.kmeans_result(raw_ratings,raw_movies)
 	#Uncomment the following to do some test of new added ratings. 
 	#name = "file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/new_user"
 	#self.ratings_new_user(name)

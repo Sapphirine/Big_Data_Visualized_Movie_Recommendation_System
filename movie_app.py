@@ -94,7 +94,6 @@ def movie_ratings(user_id, movie_id):
     logger.info("User %s rating requested for movie %s", user_id, movie_id);
     ratings = recommendation_engine.target_user_movies_ratings(user_id, [movie_id])
     single_rating = ratings[0]
-    print type(single_rating)
     return render_template('index.html', **locals())
     # return render_template('select_movie.html', value=value, user_id=user_id, movie_id=movie_id)
 
@@ -122,7 +121,7 @@ def category(category,count):
     # formNu = nuForm()
     pp.pprint(category)
     logger.info("Return top movies in the selected category")
-    path="./spark_content/movie_cluster_ratings_sort/clusters/"+str(category)+"_ratings_sort"   
+    path="./movie_cluster/"+str(category)  
     f=open(path)
     reader=f.read().splitlines()
     all_category=[]
@@ -166,7 +165,8 @@ def newuser():
     new_user_dict['136988']=request.form['136988']
 
     for item in new_user_dict:
-        writer.writerow((user_id,item,new_user_dict[item]))
+        if new_user_dict[item] != "I don't know":
+            writer.writerow((user_id,item,new_user_dict[item]))
     new_user_file.close()
     recommendation_engine.ratings_new_user('./datasets/new_user.csv')
     return render_template('index.html', **locals())

@@ -33,6 +33,10 @@ class catForm(Form):
     category = StringField('Category:', validators=[InputRequired()])
     count = StringField('Top Count:', validators=[InputRequired()])
 
+class popForm(Form):
+    popularity = StringField('Popularity:', validators=[InputRequired()])
+    count = StringField('Top Count:', validators=[InputRequired()])
+
 # class nuForm(Form):
 #     user_id=StringField('User Id:', validators=[InputRequired()])
 #     rating=StringField('Rating:', validators=[InputRequired()])
@@ -43,6 +47,7 @@ def index():
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
+    formPop = popForm()
     user_rating_file = open('user_no.txt', 'r+')
     reader = user_rating_file.read()
     new_user_id=str(int(reader)+1)
@@ -63,12 +68,10 @@ def index():
         tcount = formCat.count.data
         cat_mov = formCat.category.data
         return redirect(url_for('category', category = cat_mov, count=tcount))
-    # if formNu.validate_on_submit():
-    #     print 'create new user'
-    #     user=formNu.user_id.data
-    #     rating=formNu.rating.data
-    #     print(rating)
-    #     return redirect(url_for('new_user'),user=user,rating=rating)
+    if formPop.validate_on_submit():
+        tcount = formPop.count.data
+        cat_mov = formPop.popularity.data
+        return redirect(url_for('popularity', popularity = cat_mov, count=tcount))
     return render_template('index.html', **locals())
  
 @main.route("/<int:user_id>/ratings/top/<int:count>", methods=["GET"])
@@ -77,7 +80,10 @@ def top_ratings(user_id, count):
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
-    # formNu = nuForm()
+    formPop = popForm()
+    user_rating_file = open('user_no.txt', 'r+')
+    reader = user_rating_file.read()
+    new_user_id=str(int(reader)+1)
     logger.debug("User %s TOP ratings requested", user_id)
     top_ratings = recommendation_engine.recommend_top_movies(user_id,count)
     list = top_ratings
@@ -90,7 +96,10 @@ def movie_ratings(user_id, movie_id):
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
-    # formNu = nuForm()
+    formPop = popForm()
+    user_rating_file = open('user_no.txt', 'r+')
+    reader = user_rating_file.read()
+    new_user_id=str(int(reader)+1)
     logger.info("User %s rating requested for movie %s", user_id, movie_id);
     ratings = recommendation_engine.target_user_movies_ratings(user_id, [movie_id])
     single_rating = ratings[0]
@@ -103,7 +112,10 @@ def movie_tags(movie_id):
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
-    # formNu = nuForm()
+    formPop = popForm()
+    user_rating_file = open('user_no.txt', 'r+')
+    reader = user_rating_file.read()
+    new_user_id=str(int(reader)+1)
     logger.info("Get Visualizaton of the tags of the selected movie")
     path="./spark_content/visualization/tag_classification/movie_"+str(movie_id)    
     f=open(path)
@@ -118,8 +130,11 @@ def category(category,count):
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
-    # formNu = nuForm()
+    formPop = popForm()
     pp.pprint(category)
+    user_rating_file = open('user_no.txt', 'r+')
+    reader = user_rating_file.read()
+    new_user_id=str(int(reader)+1)
     logger.info("Return top movies in the selected category")
     path="./movie_cluster/"+str(category)  
     f=open(path)
@@ -131,6 +146,27 @@ def category(category,count):
     f.close()      # closing
     return render_template('index.html', **locals())
 
+@main.route("/<string:popularity>/popularity/top/<int:count>", methods=["GET"])
+def popularity(popularity,count):
+    form = topForm()
+    formIndv = indvForm()
+    formTag = tagForm()
+    formCat = catForm()
+    formPop = popForm()
+    user_rating_file = open('user_no.txt', 'r+')
+    reader = user_rating_file.read()
+    new_user_id=str(int(reader)+1)
+    logger.info("Return most popular in the selected category")
+    path="./spark_content/movie_cluster_ratings_sort/clusters/"+str(popularity)+"_ratings_sort"  
+    f=open(path)
+    reader=f.read().splitlines()
+    all_category=[]
+    for row in reader:   # iterates the rows of the file in orders
+        all_category.append(row)
+    selected_popularity=all_category[1:count+1]
+    f.close()      # closing
+    return render_template('index.html', **locals())
+
 
 @main.route("/newuser", methods=["POST"])
 def newuser():
@@ -138,6 +174,7 @@ def newuser():
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
+    formPop = popForm()
     rating=request.form['user']
     pp.pprint(rating)
     logger.info("user is created")
@@ -163,7 +200,6 @@ def newuser():
     new_user_dict['143180']=request.form['143180']
     new_user_dict['99450']=request.form['99450']
     new_user_dict['136988']=request.form['136988']
-
     for item in new_user_dict:
         if new_user_dict[item] != "I don't know":
             writer.writerow((user_id,item,new_user_dict[item]))

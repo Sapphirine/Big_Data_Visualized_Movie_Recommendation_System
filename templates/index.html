@@ -88,6 +88,9 @@
                                 <a href="#category" class="btn btn-default btn-lg"><span class="network-name">Find Movies by Category</span></a>
                             </li>
                             <li>
+                                <a href="#popularity" class="btn btn-default btn-lg"><span class="network-name">Find Movies by Popularity</span></a>
+                            </li>
+                            <li>
                                 <a href="#new_user" onclick="show()"class="btn btn-default btn-lg"><span class="network-name">I am a new user!</span></a>
                             </li>
                         </ul>
@@ -333,7 +336,7 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Choose Category:</h2>
+                    <h2 class="section-heading">Top Movies in Category:</h2>
                     <form method="POST" action="/">
 					   <dl>
 					    {{ formCat.csrf_token }}
@@ -375,7 +378,7 @@
 					</form>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="{{ url_for('static', filename='img/minion2.jpg') }}" alt="">
+                    <img class="img-responsive" src="{{ url_for('static', filename='img/Girl-Minion-6.jpg') }}" alt="">
                 </div>
             </div>
 
@@ -438,6 +441,113 @@
 	);
     </script>
     {% endif %}
+
+
+
+    <a  name="popularity"></a>
+    <div class="content-section-a">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Popular Categories:</h2>
+                    <form method="POST" action="/">
+                       <dl>
+                        {{ formPop.csrf_token }}
+                        <div class="row">
+                            <div class="col-sm-6">
+                            <select name="popularity" class="form-control">
+                              <option value="docmen">Most Popular</option>
+                              <option value="drama">Very Popular</option>
+                              <option value="comedy">Popular</option>
+                              <option value="horror">Less Popular</option>
+                              <option value="action">Least Popular</option>
+                            </select>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                        {{ render_field(formPop.count) }}
+                        </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                        <input type="submit" value="Submit">
+                        </div>
+                        </div>
+                        </dl>
+                    </form>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="{{ url_for('static', filename='img/9efd27afef4e8127923fbce92b8c967d.jpg') }}" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+
+
+
+    {% if selected_popularity %}
+     <a  name="popularity" id="popularity"></a>
+        <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{count}} Most Popular Movies in {{category}}:</h2>
+                    <div class="row">
+                        <div class="col-md-4">
+                            Id
+                        </div>
+                        <div class="col-md-4">
+                            Name
+                        </div>
+                        <div class="col-md-4">
+                            Rating
+                        </div>
+                    </div>
+                </br>
+                    {% for item in selected_popularity %}
+                    {% set value = item.split(',') %}
+                    <div class="row">
+                    {% for subitem in value %}
+                    <div class="col-md-4">
+                        {% if loop.index ==1 %}
+                        {% set url = "https://movielens.org/movies/" + subitem %}
+                        <a target='_blank' href="{{url}}">{{subitem}} Click Me!</a>
+                        {% else %}
+                        {{subitem}}
+                        {% endif %}
+                    </div>
+                    {% endfor %}
+                    </div>
+                </br>
+                    {% endfor %}
+                </div>
+         
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <script type="text/javascript">
+    $(document).ready(
+        $('html, body').animate({
+            scrollTop: $('#popularity').offset().top}, 'slow')
+    );
+    </script>
+    {% endif %}
+
+
 
 
 

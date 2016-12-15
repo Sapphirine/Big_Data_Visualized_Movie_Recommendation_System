@@ -1,0 +1,2462 @@
+movieId,title,genres
+24,Powder (1995),Drama|Sci-Fi
+29,City of Lost Children. The (Cité des enfants perdus. La) (1995),Adventure|Drama|Fantasy|Mystery|Sci-Fi
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+66,Lawnmower Man 2: Beyond Cyberspace (1996),Action|Sci-Fi|Thriller
+76,Screamers (1995),Action|Sci-Fi|Thriller
+103,Unforgettable (1996),Mystery|Sci-Fi|Thriller
+160,Congo (1995),Action|Adventure|Mystery|Sci-Fi
+172,Johnny Mnemonic (1995),Action|Sci-Fi|Thriller
+173,Judge Dredd (1995),Action|Crime|Sci-Fi
+196,Species (1995),Horror|Sci-Fi
+198,Strange Days (1995),Action|Crime|Drama|Mystery|Sci-Fi|Thriller
+208,Waterworld (1995),Action|Adventure|Sci-Fi
+256,Junior (1994),Comedy|Sci-Fi
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+273,Mary Shelley's Frankenstein (Frankenstein) (1994),Drama|Horror|Sci-Fi
+286,Nemesis 2: Nebula (1995),Action|Sci-Fi|Thriller
+292,Outbreak (1995),Action|Drama|Sci-Fi|Thriller
+316,Stargate (1994),Action|Adventure|Sci-Fi
+327,Tank Girl (1995),Action|Comedy|Sci-Fi
+329,Star Trek: Generations (1994),Adventure|Drama|Sci-Fi
+332,Village of the Damned (1995),Horror|Sci-Fi
+338,Virtuosity (1995),Action|Sci-Fi|Thriller
+379,Timecop (1994),Action|Sci-Fi|Thriller
+426,Body Snatchers (1993),Horror|Sci-Fi|Thriller
+435,Coneheads (1993),Comedy|Sci-Fi
+442,Demolition Man (1993),Action|Adventure|Sci-Fi
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+504,No Escape (1994),Action|Drama|Sci-Fi
+512,Puppet Masters. The (1994),Horror|Sci-Fi
+519,RoboCop 3 (1993),Action|Crime|Drama|Sci-Fi|Thriller
+541,Blade Runner (1982),Action|Sci-Fi|Thriller
+546,Super Mario Bros. (1993),Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+589,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+610,Heavy Metal (1981),Action|Adventure|Animation|Horror|Sci-Fi
+611,Hellraiser: Bloodline (1996),Action|Horror|Sci-Fi
+671,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi
+673,Space Jam (1996),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+674,Barbarella (1968),Adventure|Comedy|Sci-Fi
+676,They Bite (1996),Comedy|Horror|Sci-Fi
+680,Alphaville (Alphaville. une étrange aventure de Lemmy Caution) (1965),Drama|Mystery|Romance|Sci-Fi|Thriller
+692,Solo (1996),Action|Sci-Fi|Thriller
+718,Visitors. The (Visiteurs. Les) (1993),Comedy|Fantasy|Sci-Fi
+737,Barb Wire (1996),Action|Sci-Fi
+741,Ghost in the Shell (Kôkaku kidôtai) (1995),Animation|Sci-Fi
+748,Arrival. The (1996),Action|Sci-Fi|Thriller
+780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+788,Nutty Professor. The (1996),Comedy|Fantasy|Romance|Sci-Fi
+849,Escape from L.A. (1996),Action|Adventure|Sci-Fi|Thriller
+880,Island of Dr. Moreau. The (1996),Sci-Fi|Thriller
+924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi
+968,Night of the Living Dead (1968),Horror|Sci-Fi|Thriller
+1019,20.000 Leagues Under the Sea (1954),Adventure|Drama|Sci-Fi
+1037,Lawnmower Man. The (1992),Action|Horror|Sci-Fi|Thriller
+1077,Sleeper (1973),Comedy|Sci-Fi
+1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+1127,Abyss. The (1989),Action|Adventure|Sci-Fi|Thriller
+1129,Escape from New York (1981),Action|Adventure|Sci-Fi|Thriller
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+1199,Brazil (1985),Fantasy|Sci-Fi
+1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+1206,Clockwork Orange. A (1971),Crime|Drama|Sci-Fi|Thriller
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+1214,Alien (1979),Horror|Sci-Fi
+1223,Grand Day Out with Wallace and Gromit. A (1989),Adventure|Animation|Children|Comedy|Sci-Fi
+1232,Stalker (1979),Drama|Mystery|Sci-Fi
+1240,Terminator. The (1984),Action|Sci-Fi|Thriller
+1253,Day the Earth Stood Still. The (1951),Drama|Sci-Fi|Thriller
+1255,Bad Taste (1987),Comedy|Horror|Sci-Fi
+1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+1274,Akira (1988),Action|Adventure|Animation|Sci-Fi
+1301,Forbidden Planet (1956),Drama|Sci-Fi
+1306,Until the End of the World (Bis ans Ende der Welt) (1991),Adventure|Drama|Sci-Fi
+1320,Alien³ (a.k.a. Alien 3) (1992),Action|Horror|Sci-Fi|Thriller
+1334,Blob. The (1958),Horror|Sci-Fi
+1340,Bride of Frankenstein. The (Bride of Frankenstein) (1935),Drama|Horror|Sci-Fi
+1356,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi|Thriller
+1371,Star Trek: The Motion Picture (1979),Adventure|Sci-Fi
+1372,Star Trek VI: The Undiscovered Country (1991),Action|Mystery|Sci-Fi
+1373,Star Trek V: The Final Frontier (1989),Action|Sci-Fi
+1374,Star Trek II: The Wrath of Khan (1982),Action|Adventure|Sci-Fi|Thriller
+1375,Star Trek III: The Search for Spock (1984),Action|Adventure|Sci-Fi
+1376,Star Trek IV: The Voyage Home (1986),Adventure|Comedy|Sci-Fi
+1383,Adrenalin: Fear the Rush (1996),Action|Sci-Fi
+1391,Mars Attacks! (1996),Action|Comedy|Sci-Fi
+1396,Sneakers (1992),Action|Comedy|Crime|Drama|Sci-Fi
+1433,The Machine (1994),Horror|Sci-Fi|Thriller
+1479,Saint. The (1997),Action|Romance|Sci-Fi|Thriller
+1527,Fifth Element. The (1997),Action|Adventure|Comedy|Sci-Fi
+1544,Lost World: Jurassic Park. The (1997),Action|Adventure|Sci-Fi|Thriller
+1570,Tetsuo II: Body Hammer (1992),Horror|Sci-Fi
+1580,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+1584,Contact (1997),Drama|Sci-Fi
+1590,Event Horizon (1997),Horror|Sci-Fi|Thriller
+1591,Spawn (1997),Action|Adventure|Sci-Fi|Thriller
+1603,Mimic (1997),Horror|Sci-Fi|Thriller
+1646,RocketMan (a.k.a. Rocket Man) (1997),Children|Comedy|Romance|Sci-Fi
+1653,Gattaca (1997),Drama|Sci-Fi|Thriller
+1676,Starship Troopers (1997),Action|Sci-Fi
+1682,Truman Show. The (1998),Comedy|Drama|Sci-Fi
+1690,Alien: Resurrection (1997),Action|Horror|Sci-Fi
+1692,Alien Escape (1995),Horror|Sci-Fi
+1720,Time Tracers (1995),Action|Adventure|Sci-Fi
+1726,Postman. The (1997),Action|Adventure|Drama|Sci-Fi
+1748,Dark City (1998),Adventure|Film-Noir|Sci-Fi|Thriller
+1750,Star Kid (1997),Adventure|Children|Fantasy|Sci-Fi
+1762,Deep Rising (1998),Action|Horror|Sci-Fi
+1779,Sphere (1998),Sci-Fi|Thriller
+1831,Lost in Space (1998),Action|Adventure|Sci-Fi
+1862,Species II (1998),Horror|Sci-Fi
+1876,Deep Impact (1998),Drama|Sci-Fi|Thriller
+1882,Godzilla (1998),Action|Sci-Fi|Thriller
+1909,X-Files: Fight the Future. The (1998),Action|Crime|Mystery|Sci-Fi|Thriller
+1917,Armageddon (1998),Action|Romance|Sci-Fi|Thriller
+1921,Pi (1998),Drama|Sci-Fi|Thriller
+1924,Plan 9 from Outer Space (1959),Horror|Sci-Fi
+1965,Repo Man (1984),Comedy|Sci-Fi
+2009,Soylent Green (1973),Drama|Mystery|Sci-Fi|Thriller
+2010,Metropolis (1927),Drama|Sci-Fi
+2011,Back to the Future Part II (1989),Adventure|Comedy|Sci-Fi
+2012,Back to the Future Part III (1990),Adventure|Comedy|Sci-Fi|Western
+2021,Dune (1984),Adventure|Sci-Fi
+2034,Black Hole. The (1979),Children|Sci-Fi
+2038,Cat from Outer Space. The (1978),Children|Comedy|Sci-Fi
+2046,Flight of the Navigator (1986),Adventure|Children|Sci-Fi
+2053,Honey. I Blew Up the Kid (1992),Children|Comedy|Sci-Fi
+2054,Honey. I Shrunk the Kids (1989),Adventure|Children|Comedy|Fantasy|Sci-Fi
+2091,Return from Witch Mountain (1978),Children|Sci-Fi
+2094,Rocketeer. The (1991),Action|Adventure|Sci-Fi
+2105,Tron (1982),Action|Adventure|Sci-Fi
+2117,1984 (Nineteen Eighty-Four) (1984),Drama|Sci-Fi
+2134,Weird Science (1985),Comedy|Fantasy|Sci-Fi
+2136,Nutty Professor. The (1963),Comedy|Sci-Fi
+2173,Navigator: A Mediaeval Odyssey. The (1988),Adventure|Fantasy|Sci-Fi
+2189,I Married A Strange Person! (1997),Animation|Comedy|Fantasy|Sci-Fi
+2232,Cube (1997),Horror|Mystery|Sci-Fi|Thriller
+2256,Parasite (1982),Horror|Sci-Fi
+2275,Six-String Samurai (1998),Action|Adventure|Sci-Fi
+2287,Them! (1954),Horror|Sci-Fi|Thriller
+2288,Thing. The (1982),Action|Horror|Sci-Fi|Thriller
+2311,2010: The Year We Make Contact (1984),Sci-Fi
+2322,Soldier (1998),Action|Sci-Fi|War
+2346,Stepford Wives. The (1975),Mystery|Sci-Fi|Thriller
+2363,Godzilla (Gojira) (1954),Drama|Horror|Sci-Fi
+2364,Godzilla 1985: The Legend Is Reborn (Gojira) (Godzilla) (Return of Godzilla. The) (1984),Action|Horror|Sci-Fi|Thriller
+2365,King Kong vs. Godzilla (Kingukongu tai Gojira) (1962),Action|Sci-Fi
+2367,King Kong (1976),Adventure|Fantasy|Romance|Sci-Fi|Thriller
+2368,King Kong Lives (1986),Adventure|Sci-Fi
+2377,Lifeforce (1985),Horror|Sci-Fi
+2393,Star Trek: Insurrection (1998),Action|Drama|Romance|Sci-Fi
+2407,Cocoon (1985),Comedy|Sci-Fi
+2408,Cocoon: The Return (1988),Comedy|Sci-Fi
+2428,Faculty. The (1998),Horror|Sci-Fi
+2448,Virus (1999),Horror|Sci-Fi
+2450,Howard the Duck (1986),Adventure|Comedy|Sci-Fi
+2454,Fly. The (1958),Horror|Mystery|Sci-Fi
+2455,Fly. The (1986),Drama|Horror|Sci-Fi|Thriller
+2456,Fly II. The (1989),Horror|Sci-Fi
+2495,Fantastic Planet. The (Planète sauvage. La) (1973),Animation|Sci-Fi
+2498,My Favorite Martian (1999),Comedy|Sci-Fi
+2507,Breakfast of Champions (1999),Comedy|Sci-Fi
+2525,Alligator (1980),Action|Horror|Sci-Fi
+2526,Meteor (1979),Sci-Fi
+2527,Westworld (1973),Action|Sci-Fi|Thriller|Western
+2528,Logan's Run (1976),Action|Adventure|Sci-Fi
+2529,Planet of the Apes (1968),Action|Drama|Sci-Fi
+2530,Beneath the Planet of the Apes (1970),Action|Sci-Fi
+2531,Battle for the Planet of the Apes (1973),Action|Sci-Fi
+2532,Conquest of the Planet of the Apes (1972),Action|Sci-Fi
+2533,Escape from the Planet of the Apes (1971),Action|Sci-Fi
+2549,Wing Commander (1999),Action|Sci-Fi
+2553,Village of the Damned (1960),Horror|Sci-Fi|Thriller
+2554,Children of the Damned (1963),Horror|Sci-Fi|Thriller
+2571,Matrix. The (1999),Action|Sci-Fi|Thriller
+2578,Sticky Fingers of Time. The (1997),Sci-Fi
+2594,Open Your Eyes (Abre los ojos) (1997),Drama|Romance|Sci-Fi|Thriller
+2600,eXistenZ (1999),Action|Sci-Fi|Thriller
+2602,Mighty Peking Man (a.k.a. Goliathon) (Xing xing wang) (1977),Action|Adventure|Horror|Sci-Fi
+2613,Night of the Comet (1984),Comedy|Horror|Sci-Fi
+2614,Chopping Mall (a.k.a. Killbots) (1986),Action|Horror|Sci-Fi
+2615,My Science Project (1985),Adventure|Sci-Fi
+2625,Black Mask (Hak hap) (1996),Action|Adventure|Crime|Sci-Fi|Thriller
+2628,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+2640,Superman (1978),Action|Adventure|Sci-Fi
+2641,Superman II (1980),Action|Sci-Fi
+2642,Superman III (1983),Action|Adventure|Sci-Fi
+2643,Superman IV: The Quest for Peace (1987),Action|Adventure|Sci-Fi
+2648,Frankenstein (1931),Drama|Horror|Sci-Fi
+2656,Tarantula (1955),Horror|Sci-Fi
+2657,Rocky Horror Picture Show. The (1975),Comedy|Horror|Musical|Sci-Fi
+2658,Flying Saucer. The (1950),Sci-Fi
+2660,Thing from Another World. The (1951),Horror|Sci-Fi
+2661,It Came from Outer Space (1953),Sci-Fi
+2662,War of the Worlds. The (1953),Action|Drama|Sci-Fi
+2663,It Came from Beneath the Sea (1955),Sci-Fi
+2664,Invasion of the Body Snatchers (1956),Horror|Sci-Fi|Thriller
+2665,Earth vs. the Flying Saucers (1956),Sci-Fi
+2666,It Conquered the World (1956),Sci-Fi
+2667,Mole People. The (1956),Horror|Sci-Fi
+2668,Swamp Thing (1982),Horror|Sci-Fi
+2672,Thirteenth Floor. The (1999),Drama|Sci-Fi|Thriller
+2681,Free Enterprise (1998),Comedy|Romance|Sci-Fi
+2698,Zone 39 (1997),Sci-Fi
+2701,Wild Wild West (1999),Action|Comedy|Sci-Fi|Western
+2716,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+2717,Ghostbusters II (1989),Comedy|Fantasy|Sci-Fi
+2722,Deep Blue Sea (1999),Action|Horror|Sci-Fi|Thriller
+2740,Kindred. The (1986),Horror|Sci-Fi
+2761,Iron Giant. The (1999),Adventure|Animation|Children|Drama|Sci-Fi
+2807,Universal Soldier: The Return (1999),Action|Sci-Fi
+2808,Universal Soldier (1992),Action|Sci-Fi
+2827,Astronaut's Wife. The (1999),Horror|Sci-Fi|Thriller
+2851,Saturn 3 (1980),Adventure|Sci-Fi|Thriller
+2900,Monkey Shines (1988),Horror|Sci-Fi
+2901,Phantasm (1979),Horror|Sci-Fi
+2913,The Mating Habits of the Earthbound Human (1999),Comedy|Sci-Fi
+2916,Total Recall (1990),Action|Adventure|Sci-Fi|Thriller
+2938,Man Facing Southeast (1986),Drama|Sci-Fi
+2968,Time Bandits (1981),Adventure|Comedy|Fantasy|Sci-Fi
+2985,RoboCop (1987),Action|Crime|Drama|Sci-Fi|Thriller
+2986,RoboCop 2 (1990),Action|Crime|Sci-Fi|Thriller
+3008,Last Night (1998),Drama|Sci-Fi
+3018,Re-Animator (1985),Comedy|Horror|Sci-Fi
+3024,Piranha (1978),Horror|Sci-Fi
+3032,Omega Man. The (1971),Action|Drama|Sci-Fi|Thriller
+3033,Spaceballs (1987),Comedy|Sci-Fi
+3054,Pokémon: The First Movie (1998),Adventure|Animation|Children|Fantasy|Sci-Fi
+3058,Ape. The (1940),Horror|Sci-Fi
+3070,Adventures of Buckaroo Banzai Across the 8th Dimension. The (1984),Adventure|Comedy|Sci-Fi
+3080,Goodbye. 20th Century (1998),Drama|Sci-Fi
+3156,Bicentennial Man (1999),Drama|Romance|Sci-Fi
+3175,Galaxy Quest (1999),Adventure|Comedy|Sci-Fi
+3190,Supernova (2000),Adventure|Sci-Fi|Thriller
+3269,Forever Young (1992),Drama|Romance|Sci-Fi
+3293,Conceiving Ada (1997),Drama|Sci-Fi
+3300,Pitch Black (2000),Horror|Sci-Fi|Thriller
+3326,What Planet Are You From? (2000),Comedy|Sci-Fi
+3340,Bride of the Monster (1955),Horror|Sci-Fi
+3354,Mission to Mars (2000),Sci-Fi
+3375,Destination Moon (1950),Sci-Fi
+3401,Baby... Secret of the Lost Legend (1985),Adventure|Sci-Fi
+3438,Teenage Mutant Ninja Turtles (1990),Action|Children|Comedy|Fantasy|Sci-Fi
+3464,Solar Crisis (1990),Sci-Fi|Thriller
+3471,Close Encounters of the Third Kind (1977),Adventure|Drama|Sci-Fi
+3474,Retroactive (1997),Sci-Fi|Thriller
+3486,Devil Girl From Mars (1954),Sci-Fi
+3488,Hideous Sun Demon. The (1959),Horror|Sci-Fi
+3503,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+3527,Predator (1987),Action|Sci-Fi|Thriller
+3572,Carnosaur (1993),Horror|Sci-Fi
+3573,Carnosaur 2 (1995),Horror|Sci-Fi
+3574,Carnosaur 3: Primal Species (1996),Horror|Sci-Fi
+3576,Hidden. The (1987),Action|Horror|Sci-Fi
+3592,Time Masters (Maîtres du temps. Les) (1982),Animation|Sci-Fi
+3593,Battlefield Earth (2000),Action|Sci-Fi
+3638,Moonraker (1979),Action|Adventure|Sci-Fi|Thriller
+3648,Abominable Snowman. The (Abominable Snowman of the Himalayas. The) (1957),Horror|Sci-Fi
+3658,Quatermass and the Pit (1967),Horror|Sci-Fi
+3659,Quatermass 2 (Enemy from Space) (1957),Sci-Fi|Thriller
+3660,Puppet Master (1989),Horror|Sci-Fi|Thriller
+3661,Puppet Master II (1991),Horror|Sci-Fi|Thriller
+3662,Puppet Master III: Toulon's Revenge (1991),Horror|Sci-Fi|Thriller
+3663,Puppet Master 4 (1993),Horror|Sci-Fi|Thriller
+3664,Puppet Master 5: The Final Chapter (1994),Horror|Sci-Fi|Thriller
+3665,Curse of the Puppet Master (Puppet Master 6: The Curse) (1998),Horror|Sci-Fi|Thriller
+3666,Retro Puppet Master (Puppet Master 7) (1999),Horror|Sci-Fi|Thriller
+3686,Flatliners (1990),Horror|Sci-Fi|Thriller
+3687,Light Years (Gandahar) (1988),Adventure|Animation|Fantasy|Sci-Fi
+3696,Night of the Creeps (1986),Comedy|Horror|Sci-Fi|Thriller
+3697,Predator 2 (1990),Action|Sci-Fi|Thriller
+3698,Running Man. The (1987),Action|Sci-Fi
+3699,Starman (1984),Adventure|Drama|Romance|Sci-Fi
+3700,Brother from Another Planet. The (1984),Drama|Sci-Fi
+3701,Alien Nation (1988),Crime|Drama|Sci-Fi|Thriller
+3702,Mad Max (1979),Action|Adventure|Sci-Fi
+3703,Road Warrior. The (Mad Max 2) (1981),Action|Adventure|Sci-Fi|Thriller
+3704,Mad Max Beyond Thunderdome (1985),Action|Adventure|Sci-Fi
+3745,Titan A.E. (2000),Action|Adventure|Animation|Children|Sci-Fi
+3758,Communion (1989),Drama|Sci-Fi|Thriller
+3770,Dreamscape (1984),Horror|Sci-Fi|Thriller
+3779,Project Moon Base (1953),Sci-Fi
+3780,Rocketship X-M (1950),Sci-Fi
+3793,X-Men (2000),Action|Adventure|Sci-Fi
+3802,Freejack (1992),Action|Sci-Fi
+3826,Hollow Man (2000),Horror|Sci-Fi|Thriller
+3827,Space Cowboys (2000),Action|Adventure|Comedy|Sci-Fi
+3833,Brain That Wouldn't Die. The (1962),Horror|Sci-Fi
+3837,Phantasm II (1988),Action|Fantasy|Horror|Sci-Fi|Thriller
+3864,Godzilla 2000 (Gojira ni-sen mireniamu) (1999),Action|Adventure|Sci-Fi
+3878,X: The Unknown (1956),Horror|Sci-Fi
+3923,Return of the Fly (1959),Horror|Sci-Fi
+3926,Voyage to the Bottom of the Sea (1961),Adventure|Sci-Fi
+3927,Fantastic Voyage (1966),Adventure|Sci-Fi
+3930,Creature from the Black Lagoon. The (1954),Adventure|Horror|Sci-Fi
+3931,Giant Gila Monster. The (1959),Horror|Sci-Fi
+3932,Invisible Man. The (1933),Horror|Sci-Fi
+3933,Killer Shrews. The (1959),Horror|Sci-Fi
+3934,Kronos (1957),Sci-Fi
+3937,Runaway (1984),Sci-Fi|Thriller
+3959,Time Machine. The (1960),Action|Adventure|Sci-Fi
+3981,Red Planet (2000),Action|Sci-Fi|Thriller
+3986,6th Day. The (2000),Action|Sci-Fi|Thriller
+3994,Unbreakable (2000),Drama|Sci-Fi
+4006,Transformers: The Movie (1986),Adventure|Animation|Children|Sci-Fi
+4015,Dude. Where's My Car? (2000),Comedy|Sci-Fi
+4051,Horrors of Spider Island (Ein Toter Hing im Netz) (1960),Horror|Sci-Fi
+4079,Amazon Women on the Moon (1987),Comedy|Sci-Fi
+4092,Cherry 2000 (1987),Romance|Sci-Fi
+4096,Curse. The (a.k.a. The Farm) (1987),Horror|Sci-Fi
+4121,Innerspace (1987),Action|Adventure|Comedy|Sci-Fi
+4125,Leonard Part 6 (1987),Comedy|Sci-Fi
+4131,Making Mr. Right (1987),Comedy|Romance|Sci-Fi
+4133,Masters of the Universe (1987),Action|Adventure|Fantasy|Sci-Fi
+4196,Die. Monster. Die! (1965),Horror|Mystery|Sci-Fi
+4198,Battle Beyond the Stars (1980),Sci-Fi
+4213,Deepstar Six (1989),Horror|Sci-Fi|Thriller
+4250,Body. The (2001),Drama|Sci-Fi
+4275,Krull (1983),Action|Adventure|Fantasy|Sci-Fi
+4277,Lost World. The (1925),Adventure|Sci-Fi
+4343,Evolution (2001),Comedy|Sci-Fi
+4370,A.I. Artificial Intelligence (2001),Adventure|Drama|Sci-Fi
+4400,Donovan's Brain (1953),Sci-Fi
+4412,Thing with Two Heads. The (1972),Comedy|Horror|Sci-Fi
+4413,Village of the Giants (1965),Sci-Fi
+4414,X: The Man with the X-Ray Eyes (1963),Sci-Fi|Thriller
+4416,Day the Earth Caught Fire. The (1961),Sci-Fi
+4434,10th Victim. The (La decima vittima) (1965),Action|Comedy|Sci-Fi|Thriller
+4443,Outland (1981),Action|Sci-Fi|Thriller
+4446,Final Fantasy: The Spirits Within (2001),Adventure|Animation|Fantasy|Sci-Fi
+4454,More (1998),Animation|Drama|Sci-Fi|IMAX
+4480,Blob. The (1988),Horror|Sci-Fi
+4492,Critters (1986),Comedy|Sci-Fi
+4493,Critters 2: The Main Course (1988),Comedy|Horror|Sci-Fi
+4494,Critters 3 (1991),Comedy|Sci-Fi
+4497,Dead Heat (1988),Action|Comedy|Horror|Sci-Fi
+4526,My Stepmother Is an Alien (1988),Comedy|Romance|Sci-Fi
+4533,Return of the Living Dead. The (1985),Comedy|Horror|Sci-Fi
+4544,Short Circuit 2 (1988),Comedy|Sci-Fi
+4545,Short Circuit (1986),Comedy|Sci-Fi
+4552,Tetsuo. the Ironman (Tetsuo) (1988),Action|Horror|Sci-Fi|Thriller
+4553,They Live (1988),Action|Sci-Fi|Thriller
+4560,Watchers (1988),Horror|Sci-Fi
+4571,Bill & Ted's Excellent Adventure (1989),Adventure|Comedy|Sci-Fi
+4580,Cyborg (1989),Action|Sci-Fi
+4587,Earth Girls Are Easy (1988),Comedy|Musical|Sci-Fi
+4618,Leviathan (1989),Horror|Sci-Fi|Thriller
+4625,Millennium (1989),Drama|Sci-Fi|Thriller
+4626,Miracle Mile (1989),Drama|Romance|Sci-Fi
+4638,Jurassic Park III (2001),Action|Adventure|Sci-Fi|Thriller
+4643,Planet of the Apes (2001),Action|Adventure|Drama|Sci-Fi
+4652,Return of Swamp Thing. The (1989),Comedy|Horror|Sci-Fi
+4691,Def-Con 4 (1985),Action|Sci-Fi
+4713,Altered States (1980),Drama|Sci-Fi
+4735,Ghosts of Mars (2001),Horror|Sci-Fi|Thriller
+4738,Happy Accidents (2000),Romance|Sci-Fi
+4777,American Astronaut. The (2001),Comedy|Musical|Sci-Fi
+4781,Megiddo: The Omega Code 2 (2001),Action|Adventure|Fantasy|Sci-Fi|Thriller
+4812,SpaceCamp (1986),Adventure|Sci-Fi
+4813,When Worlds Collide (1951),Sci-Fi
+4850,Spriggan (Supurigan) (1998),Action|Animation|Sci-Fi
+4874,K-PAX (2001),Drama|Fantasy|Mystery|Sci-Fi
+4878,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller
+4887,One. The (2001),Action|Sci-Fi|Thriller
+4894,Timerider: The Adventure of Lyle Swann (1982),Action|Adventure|Sci-Fi|Western
+4909,Incredible Shrinking Woman. The (1981),Comedy|Sci-Fi
+4935,Falls. The (1980),Drama|Sci-Fi
+4939,Final Countdown. The (1980),Action|Sci-Fi
+4941,Flash Gordon (1980),Action|Adventure|Sci-Fi
+4942,Angry Red Planet. The (1959),Sci-Fi
+4943,At the Earth's Core (1976),Adventure|Sci-Fi
+4944,Empire of the Ants (1977),Horror|Sci-Fi
+4952,Morons From Outer Space (1985),Comedy|Sci-Fi
+4953,People That Time Forgot. The (1977),Adventure|Sci-Fi
+4966,Incredible Shrinking Man. The (1957),Sci-Fi|Thriller
+4975,Vanilla Sky (2001),Mystery|Romance|Sci-Fi|Thriller
+4980,Bill & Ted's Bogus Journey (1991),Adventure|Comedy|Fantasy|Sci-Fi
+4982,Crawling Eye. The (a.k.a. Trollenberg Terror. The) (1958),Horror|Sci-Fi
+4986,Silent Rage (1982),Action|Sci-Fi
+4987,Spacehunter: Adventures in the Forbidden Zone (1983),Action|Adventure|Sci-Fi
+4997,Convent. The (2000),Horror|Sci-Fi
+5018,Motorama (1991),Adventure|Comedy|Crime|Drama|Fantasy|Mystery|Sci-Fi|Thriller
+5042,Forbidden Zone (1980),Musical|Sci-Fi
+5045,Galaxina (1980),Comedy|Sci-Fi
+5046,Impostor (2002),Action|Drama|Sci-Fi|Thriller
+5054,Brainstorm (1983),Sci-Fi|Thriller
+5062,Seconds (1966),Mystery|Sci-Fi|Thriller
+5070,Hey. Happy! (2001),Drama|Sci-Fi
+5072,Metropolis (2001),Animation|Sci-Fi
+5094,Rollerball (2002),Action|Sci-Fi
+5126,Deadly Mantis. The (1957),Horror|Sci-Fi
+5132,Last Man. The (2000),Comedy|Romance|Sci-Fi
+5146,Vampire Hunter D: Bloodlust (Banpaia hantâ D) (2000),Animation|Fantasy|Horror|Sci-Fi
+5171,Time Machine. The (2002),Action|Adventure|Sci-Fi
+5181,Hangar 18 (1980),Action|Sci-Fi|Thriller
+5189,Humanoids from the Deep (1980),Horror|Sci-Fi
+5204,Death Watch (La Mort en Direct) (1980),Drama|Sci-Fi
+5217,Super Fuzz (a.k.a. Super Snooper) (Poliziotto superpiù) (1980),Action|Comedy|Sci-Fi
+5219,Resident Evil (2002),Action|Horror|Sci-Fi|Thriller
+5235,Split Second (1992),Action|Sci-Fi|Thriller
+5245,Simon (1980),Comedy|Sci-Fi
+5264,Clockstoppers (2002),Action|Adventure|Sci-Fi|Thriller
+5290,First Men in the Moon (1964),Adventure|Sci-Fi
+5305,Return of the Killer Tomatoes! (1988),Comedy|Horror|Sci-Fi
+5323,Jason X (2002),Horror|Sci-Fi|Thriller
+5349,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+5356,Giant Spider Invasion. The (1975),Horror|Sci-Fi
+5378,Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Sci-Fi|IMAX
+5397,Monkey Business (1952),Comedy|Sci-Fi
+5410,Silent Running (1972),Drama|Sci-Fi
+5437,Manhattan Project. The (1986),Comedy|Sci-Fi|Thriller
+5444,Lilo & Stitch (2002),Adventure|Animation|Children|Sci-Fi
+5445,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+5459,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),Action|Comedy|Sci-Fi
+5468,20 Million Miles to Earth (1957),Sci-Fi
+5478,Eight Legged Freaks (2002),Action|Comedy|Horror|Sci-Fi
+5497,Our Man Flint (1965),Adventure|Comedy|Sci-Fi
+5502,Signs (2002),Horror|Sci-Fi|Thriller
+5522,Rollerball (1975),Action|Drama|Sci-Fi
+5523,Adventures of Pluto Nash. The (2002),Action|Adventure|Comedy|Sci-Fi
+5530,Simone (S1m0ne) (2002),Comedy|Drama|Fantasy|Sci-Fi
+5543,Swarm. The (1978),Action|Horror|Sci-Fi
+5544,Time After Time (1979),Sci-Fi|Thriller
+5545,Unearthly. The (1957),Horror|Sci-Fi
+5552,Revenge of Frankenstein. The (1958),Drama|Horror|Sci-Fi
+5583,Devil Bat. The (1940),Crime|Horror|Mystery|Sci-Fi
+5596,Spaced Invaders (1990),Adventure|Comedy|Sci-Fi
+5597,Suburban Commando (1991),Comedy|Sci-Fi
+5604,Man in the White Suit. The (1951),Comedy|Sci-Fi
+5638,Godzilla vs. Mothra (Mosura tai Gojira) (1964),Action|Adventure|Fantasy|Sci-Fi
+5640,Godzilla. King of the Monsters! (Kaijû-ô Gojira) (1956),Horror|Sci-Fi
+5700,The Pumaman (1980),Action|Adventure|Fantasy|Sci-Fi
+5704,Without Warning (a.k.a. Alien Warning) (a.k.a. It Came Without Warning) (1980),Horror|Sci-Fi
+5724,Creature Wasn't Nice. The (a.k.a. Naked Space) (a.k.a. Spaceship) (1981),Comedy|Horror|Musical|Sci-Fi
+5746,Galaxy of Terror (Quest) (1981),Action|Horror|Mystery|Sci-Fi
+5756,Heartbeeps (1981),Comedy|Sci-Fi
+5758,Horror Planet (a.k.a. Inseminoid) (1981),Action|Drama|Horror|Sci-Fi
+5764,Looker (1981),Drama|Horror|Sci-Fi|Thriller
+5774,Night of the Zombies (a.k.a. Batallion of the Living Dead) (1981),Horror|Sci-Fi
+5779,Piranha II: The Spawning (1981),Horror|Sci-Fi
+5793,Time Changer (2002),Drama|Sci-Fi
+5822,Mutant Action (Acción Mutante) (1993),Action|Comedy|Sci-Fi
+5830,Mysterious Island (1961),Adventure|Sci-Fi
+5853,Scanners (1981),Horror|Sci-Fi|Thriller
+5855,Shock Treatment (1981),Comedy|Musical|Sci-Fi
+5881,Solaris (2002),Drama|Romance|Sci-Fi
+5882,Treasure Planet (2002),Adventure|Animation|Children|Sci-Fi|IMAX
+5895,Making Contact (a.k.a. Joey) (1985),Fantasy|Horror|Sci-Fi
+5897,Noah's Arc Principle. The (Arche Noah Prinzip. Das) (1984),Sci-Fi
+5903,Equilibrium (2002),Action|Sci-Fi|Thriller
+5919,Android (1982),Sci-Fi
+5939,Man Who Saves the World. The (Dünyayi Kurtaran Adam) (1982),Adventure|Sci-Fi
+5944,Star Trek: Nemesis (2002),Action|Drama|Sci-Fi|Thriller
+5979,Attack of the Crab Monsters (1957),Horror|Sci-Fi
+5981,Day of the Triffids. The (1962),Horror|Sci-Fi
+5983,Invaders from Mars (1953),Sci-Fi
+5999,Heavy Metal 2000 (2000),Action|Adventure|Animation|Fantasy|Sci-Fi
+6074,Endangered Species (1982),Mystery|Sci-Fi|Thriller
+6076,Enigma (1983),Drama|Sci-Fi
+6078,Firefox (1982),Action|Sci-Fi|Thriller
+6088,Jekyll & Hyde... Together Again (1982),Comedy|Sci-Fi
+6094,Liquid Sky (1982),Comedy|Sci-Fi
+6099,Megaforce (1982),Action|Sci-Fi
+6120,Q: The Winged Serpent (1982),Drama|Fantasy|Horror|Sci-Fi|Thriller
+6142,Time Walker (a.k.a. Being From Another Planet) (1982),Horror|Sci-Fi
+6152,Yor. the Hunter from the Future (1983),Sci-Fi
+6153,Zapped! (1982),Comedy|Sci-Fi
+6184,Man Who Fell to Earth. The (1976),Drama|Sci-Fi
+6208,Teenagers from Outer Space (1959),Horror|Sci-Fi
+6239,Journey to the Center of the Earth (1959),Adventure|Children|Sci-Fi
+6250,Dreamcatcher (2003),Drama|Horror|Sci-Fi|Thriller
+6264,Core. The (2003),Action|Drama|Sci-Fi|Thriller
+6283,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),Action|Animation|Sci-Fi|Thriller
+6294,Bulletproof Monk (2003),Action|Adventure|Sci-Fi
+6302,Beginning of the End (1957),Sci-Fi
+6303,Andromeda Strain. The (1971),Mystery|Sci-Fi
+6304,Brainscan (1994),Comedy|Horror|Sci-Fi|Thriller
+6305,Fahrenheit 451 (1966),Drama|Sci-Fi
+6333,X2: X-Men United (2003),Action|Adventure|Sci-Fi|Thriller
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),Action|Adventure|Animation|Children|Fantasy|Sci-Fi
+6365,Matrix Reloaded. The (2003),Action|Adventure|Sci-Fi|Thriller|IMAX
+6395,Crazies. The (a.k.a. Code Name: Trixie) (1973),Action|Drama|Horror|Sci-Fi|Thriller
+6479,Spirit of '76. The (1990),Comedy|Sci-Fi
+6502,28 Days Later (2002),Action|Horror|Sci-Fi
+6534,Hulk (2003),Action|Adventure|Sci-Fi
+6537,Terminator 3: Rise of the Machines (2003),Action|Adventure|Sci-Fi
+6541,League of Extraordinary Gentlemen. The (a.k.a. LXG) (2003),Action|Fantasy|Sci-Fi
+6574,Eve of Destruction (1991),Action|Sci-Fi|Thriller
+6583,Blood of Heroes. The (Salute of the Jugger. The) (1989),Action|Sci-Fi
+6597,Princess Blade. The (Shura Yukihime) (2001),Action|Sci-Fi
+6631,Man's Best Friend (1993),Horror|Sci-Fi|Thriller
+6645,THX 1138 (1971),Action|Adventure|Drama|Sci-Fi
+6654,Atragon (Kaitei Gunkan) (1963),Adventure|Sci-Fi
+6655,Mysterians. The (Chikyu Boeigun) (1957),Sci-Fi
+6656,Attack of the Puppet People (1958),Horror|Sci-Fi
+6657,Beast from 20.000 Fathoms. The (1953),Sci-Fi
+6659,Tremors (1990),Comedy|Horror|Sci-Fi
+6678,Handmaid's Tale. The (1990),Drama|Sci-Fi
+6731,Day of the Dead (1985),Horror|Sci-Fi|Thriller
+6734,Memoirs of an Invisible Man (1992),Comedy|Romance|Sci-Fi|Thriller
+6741,God told Me To (1976),Crime|Horror|Mystery|Sci-Fi|Thriller
+6774,Videodrome (1983),Fantasy|Horror|Sci-Fi|Thriller
+6790,Avalon (2001),Drama|Fantasy|Sci-Fi
+6795,Black Moon Rising (1986),Action|Crime|Sci-Fi|Thriller
+6835,Alien Contamination (1980),Action|Horror|Sci-Fi
+6836,Amazing Transparent Man. The (1960),Sci-Fi
+6848,Kingdom of the Spiders (1977),Horror|Sci-Fi
+6871,Good Boy! (2003),Children|Comedy|Sci-Fi
+6882,Returner (Ritaanaa) (2002),Action|Adventure|Sci-Fi
+6894,Impulse (1984),Mystery|Sci-Fi|Thriller
+6899,Alien from L.A. (1988),Sci-Fi
+6902,Interstate 60 (2002),Adventure|Comedy|Drama|Fantasy|Mystery|Sci-Fi|Thriller
+6908,Black Scorpion. The (1957),Sci-Fi
+6934,Matrix Revolutions. The (2003),Action|Adventure|Sci-Fi|Thriller|IMAX
+6949,Big Empty. The (2003),Comedy|Mystery|Sci-Fi
+6959,Timeline (2003),Action|Adventure|Sci-Fi
+6966,Darkman (1990),Action|Crime|Fantasy|Sci-Fi|Thriller
+6968,Death Machine (1995),Action|Sci-Fi
+6969,Dernier Combat. Le (Last Battle. The) (1983),Drama|Sci-Fi
+6979,WarGames (1983),Drama|Sci-Fi|Thriller
+6996,Highlander II: The Quickening (1991),Action|Sci-Fi
+7001,Invasion of the Body Snatchers (1978),Horror|Mystery|Sci-Fi|Thriller
+7003,Kafka (1991),Comedy|Drama|Mystery|Sci-Fi|Thriller
+7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),Adventure|Animation|Drama|Fantasy|Sci-Fi
+7118,Wings of Honneamise (Ôritsu uchûgun Oneamisu no tsubasa) (1987),Animation|Drama|Sci-Fi|War
+7123,Naked Lunch (1991),Drama|Fantasy|Mystery|Sci-Fi
+7128,Things to Come (1936),Sci-Fi
+7133,Metalstorm: The Destruction of Jared-Syn (1983),Action|Adventure|Sci-Fi
+7163,Paycheck (2003),Action|Sci-Fi|Thriller
+7185,Real Men (1987),Comedy|Sci-Fi
+7236,Boy and His Dog. A (1975),Sci-Fi
+7239,Marooned (1969),Drama|Sci-Fi
+7244,Beast of Yucca Flats. The (1961),Horror|Sci-Fi
+7252,Three Stooges in Orbit. The (1962),Comedy|Sci-Fi
+7254,The Butterfly Effect (2004),Drama|Sci-Fi|Thriller
+7266,Lost Skeleton of Cadavra. The (2002),Comedy|Horror|Sci-Fi
+7314,Robot Stories (2003),Drama|Sci-Fi
+7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+7400,Beyond the Stars (1989),Drama|Sci-Fi
+7402,Food of the Gods. The (1976),Horror|Sci-Fi
+7403,Food of the Gods II (1989),Horror|Sci-Fi
+7481,Enemy Mine (1985),Adventure|Drama|Sci-Fi
+7565,Cat-Women of the Moon (a.k.a. Rocket to the Moon) (1953),Adventure|Sci-Fi
+7569,You Only Live Twice (1967),Action|Adventure|Sci-Fi|Thriller
+7649,Babylon 5: In the Beginning (1998),Adventure|Sci-Fi
+7724,Steel Dawn (1987),Action|Sci-Fi
+7743,Explorers (1985),Adventure|Children|Sci-Fi
+7784,Ghost in the Machine (1993),Horror|Sci-Fi|Thriller
+7810,Babylon 5: A Call to Arms (1999),Adventure|Sci-Fi
+7811,Babylon 5: The River of Souls (1998),Drama|Sci-Fi
+7812,Babylon 5: Thirdspace (1998),Drama|Sci-Fi
+7817,Zardoz (1974),Fantasy|Sci-Fi
+7827,Cypher (2002),Action|Sci-Fi|Thriller
+7841,Children of Dune (2003),Fantasy|Sci-Fi
+7842,Dune (2000),Drama|Fantasy|Sci-Fi
+7845,Tremors II: Aftershocks (1996),Comedy|Horror|Sci-Fi
+7846,Tremors 3: Back to Perfection (2001),Comedy|Horror|Sci-Fi
+7891,Last Man on Earth. The (Ultimo uomo della Terra. L') (1964),Drama|Horror|Sci-Fi
+7900,Frankenstein Must Be Destroyed (1969),Drama|Horror|Sci-Fi
+7917,Wild in the Streets (1968),Drama|Horror|Sci-Fi
+7984,From Beyond (1986),Horror|Sci-Fi
+7986,Robot Jox (1990),Sci-Fi
+7988,Space Truckers (1996),Comedy|Sci-Fi
+7989,Not of This Earth (1988),Sci-Fi
+7991,Death Race 2000 (1975),Action|Sci-Fi
+8004,Planet of the Vampires (Terrore nello spazio) (1965),Horror|Sci-Fi
+8092,Frankenstein Unbound (1990),Drama|Horror|Sci-Fi
+8122,City Limits (1984),Action|Sci-Fi
+8134,Wonderful Days (a.k.a. Sky Blue) (2003),Animation|Sci-Fi
+8136,Indestructible Man (1956),Crime|Horror|Sci-Fi
+8137,Wasp Woman. The (1959),Horror|Sci-Fi
+8138,Attack of the Giant Leeches (1959),Horror|Sci-Fi
+8147,Charly (1968),Drama|Sci-Fi
+8149,Atlantis. the Lost Continent (1961),Adventure|Sci-Fi
+8169,*batteries not included (1987),Children|Comedy|Fantasy|Sci-Fi
+8220,Walking Dead. The (1936),Crime|Horror|Sci-Fi
+8361,Day After Tomorrow. The (2004),Action|Adventure|Drama|Sci-Fi|Thriller
+8371,Chronicles of Riddick. The (2004),Action|Sci-Fi|Thriller
+8426,Robot Carnival (Roboto kânibauru) (1987),Animation|Comedy|Drama|Fantasy|Sci-Fi
+8427,Americathon (1979),Comedy|Sci-Fi
+8447,This Island Earth (1955),Sci-Fi
+8477,Jetée. La (1962),Romance|Sci-Fi
+8500,Godzilla vs. Mechagodzilla (Gojira tai Mekagojira) (1974),Action|Horror|Sci-Fi
+8519,Bat People. The (1974),Comedy|Drama|Horror|Sci-Fi
+8537,Kaena: The Prophecy (Kaena: La prophétie) (2003),Action|Adventure|Animation|Children|Sci-Fi
+8544,Now You See Him. Now You Don't (1972),Comedy|Sci-Fi
+8578,Undead (2003),Action|Comedy|Horror|Sci-Fi
+8591,Philadelphia Experiment. The (1984),Adventure|Drama|Sci-Fi
+8615,Mask of Fu Manchu. The (1932),Adventure|Horror|Sci-Fi
+8626,Dr. Terror's House of Horrors (1965),Horror|Sci-Fi
+8633,Last Starfighter. The (1984),Action|Adventure|Comedy|Sci-Fi
+8636,Spider-Man 2 (2004),Action|Adventure|Sci-Fi|IMAX
+8644,I. Robot (2004),Action|Adventure|Sci-Fi|Thriller
+8677,Flash Gordon Conquers the Universe (1940),Action|Sci-Fi
+8690,Slaughterhouse-Five (1972),Comedy|Drama|Sci-Fi|War
+8728,Creeping Flesh. The (1973),Horror|Sci-Fi
+8743,Biggles (1986),Adventure|Fantasy|Sci-Fi
+8770,Evilspeak (1981),Horror|Sci-Fi
+8780,Assassination Bureau. The (1969),Action|Adventure|Comedy|Crime|Sci-Fi
+8782,Thunderbirds (2004),Action|Adventure|Fantasy|Sci-Fi
+8787,Thunderbirds Are GO (1966),Action|Sci-Fi
+8788,Thunderbird Six (1968),Action|Sci-Fi
+8800,Code 46 (2003),Romance|Sci-Fi
+8810,AVP: Alien vs. Predator (2004),Action|Horror|Sci-Fi|Thriller
+8822,Unidentified Flying Oddball (a.k.a. Spaceman and King Arthur. The) (a.k.a. Spaceman in King Arthur's Court. A) (1979),Adventure|Comedy|Fantasy|Sci-Fi
+8830,Anacondas: The Hunt for the Blood Orchid (2004),Adventure|Drama|Horror|Sci-Fi|Thriller
+8858,Apple. The (1980),Musical|Sci-Fi
+8861,Resident Evil: Apocalypse (2004),Action|Horror|Sci-Fi|Thriller
+8865,Sky Captain and the World of Tomorrow (2004),Action|Adventure|Sci-Fi
+8870,Forgotten. The (2004),Drama|Mystery|Sci-Fi|Thriller
+8878,Class of Nuke 'Em High Part II: Subhumanoid Meltdown (1991),Comedy|Horror|Sci-Fi
+8886,SSSSSSS (1973),Horror|Sci-Fi
+8896,I Married a Monster from Outer Space (1958),Horror|Sci-Fi
+8902,Bug (1975),Horror|Mystery|Sci-Fi
+8914,Primer (2004),Drama|Sci-Fi
+8939,Final Cut. The (2004),Sci-Fi|Thriller
+8963,It's All About Love (2003),Drama|Romance|Sci-Fi|Thriller
+9003,Conquest of Space (1955),Sci-Fi
+9004,D.A.R.Y.L. (1985),Adventure|Children|Sci-Fi
+9005,Fire in the Sky (1993),Drama|Mystery|Sci-Fi
+9008,Invisible Man Returns. The (1940),Horror|Sci-Fi
+25736,Dr. Jekyll and Mr. Hyde (1920),Drama|Horror|Sci-Fi
+25798,Island of Lost Souls (1932),Adventure|Horror|Romance|Sci-Fi
+25822,Werewolf of London (1935),Drama|Fantasy|Horror|Sci-Fi
+25977,Abbott and Costello Meet Dr. Jekyll and Mr. Hyde (1953),Comedy|Horror|Sci-Fi
+26019,Fiend Without a Face (1958),Horror|Sci-Fi|Thriller
+26047,Invisible Invaders (1959),Horror|Sci-Fi
+26058,Leech Woman. The (1960),Horror|Sci-Fi
+26124,Robinson Crusoe on Mars (1964),Sci-Fi
+26162,Gappa: The Triphibian Monsters (AKA Monster from a Prehistoric Planet) (Daikyojû Gappa) (1967),Sci-Fi
+26203,Colossus: The Forbin Project (1970),Sci-Fi|Thriller
+26206,Journey to the Far Side of the Sun (a.k.a. Doppelgänger) (1969),Fantasy|Mystery|Sci-Fi|Thriller
+26223,Gamera vs. Jiger (1970),Action|Fantasy|Sci-Fi
+26263,Fiend with the Electronic Brain (Blood of Ghastly Horror) (1972),Horror|Sci-Fi
+26264,Brother John (1971),Drama|Sci-Fi
+26285,Dark Star (1974),Comedy|Sci-Fi|Thriller
+26295,Invasion of the Bee Girls (1973),Horror|Mystery|Sci-Fi
+26299,Phase IV (1974),Horror|Sci-Fi|Thriller
+26320,Flesh for Frankenstein (a.k.a. Andy Warhol's Frankenstein) (1973),Drama|Horror|Sci-Fi
+26327,Little Prince. The (1974),Children|Musical|Sci-Fi
+26333,Terminal Man. The (1974),Sci-Fi|Thriller
+26365,Futureworld (1976),Sci-Fi|Thriller
+26383,Demon Seed (1977),Horror|Sci-Fi|Thriller
+26398,Capricorn One (1978),Drama|Sci-Fi|Thriller
+26409,Clonus Horror. The (1979),Horror|Sci-Fi
+26432,Quintet (1979),Mystery|Sci-Fi
+26444,Hitch Hikers Guide to the Galaxy. The (1981),Adventure|Comedy|Sci-Fi
+26467,Day After. The (1983),Drama|Sci-Fi
+26480,Raiders of Atlantis. The (1983),Action|Mystery|Sci-Fi
+26483,Rock & Rule (1983),Animation|Fantasy|Musical|Sci-Fi
+26489,Strange Invaders (1983),Drama|Romance|Sci-Fi
+26492,Twilight Zone: The Movie (1983),Fantasy|Horror|Sci-Fi|Thriller
+26509,Electric Dreams (1984),Comedy|Drama|Romance|Sci-Fi
+26510,Ewok Adventure. The (a.k.a. Caravan of Courage: An Ewok Adventure) (1984),Adventure|Children|Fantasy|Sci-Fi
+26513,Ice Pirates. The (1984),Action|Adventure|Comedy|Sci-Fi
+26542,Ewoks: The Battle for Endor (1985),Adventure|Children|Fantasy|Sci-Fi
+26554,Quiet Earth. The (1985),Drama|Mystery|Sci-Fi
+26558,Stuff. The (1985),Comedy|Horror|Mystery|Sci-Fi
+26569,Dead End Drive-In (1986),Action|Drama|Horror|Sci-Fi|Thriller
+26582,Solarbabies (1986),Action|Drama|Sci-Fi
+26590,G.I. Joe: The Movie (1987),Action|Adventure|Animation|Children|Fantasy|Sci-Fi
+26593,Hell Comes to Frogtown (1988),Action|Comedy|Sci-Fi
+26603,Prince of Darkness (1987),Fantasy|Horror|Sci-Fi|Thriller
+26629,Killer Klowns from Outer Space (1988),Comedy|Horror|Sci-Fi
+26664,Moon 44 (1990),Action|Film-Noir|Sci-Fi|Thriller
+26701,Patlabor: The Movie (Kidô keisatsu patorebâ: The Movie) (1989),Action|Animation|Crime|Drama|Film-Noir|Mystery|Sci-Fi|Thriller
+26764,Captain America (1990),Action|Fantasy|Sci-Fi|Thriller|War
+26814,Cyborg 2: Glass Shadow (1993),Action|Sci-Fi|Thriller
+26819,Fortress (1992),Action|Sci-Fi
+26834,Philadelphia Experiment II (1993),Action|Adventure|Sci-Fi
+26849,Stand. The (1994),Adventure|Drama|Fantasy|Horror|Sci-Fi
+26861,Freaked (1993),Comedy|Sci-Fi
+26869,Macross Plus (1994),Action|Drama|Sci-Fi|War
+26887,Langoliers. The (1995),Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller
+26985,Nirvana (1997),Action|Sci-Fi
+27003,Beowulf (1999),Action|Horror|Sci-Fi
+27032,Who Am I? (Wo shi shei) (1998),Action|Adventure|Comedy|Sci-Fi|Thriller
+27074,Brave New World (1998),Sci-Fi
+27155,Batman/Superman Movie. The (1998),Action|Adventure|Animation|Children|Fantasy|Sci-Fi
+27156,Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo. kimi ni) (1997),Action|Animation|Drama|Fantasy|Sci-Fi
+27266,2046 (2004),Drama|Fantasy|Romance|Sci-Fi
+27297,Possible Worlds (2000),Crime|Drama|Mystery|Sci-Fi
+27311,Batman Beyond: Return of the Joker (2000),Action|Animation|Crime|Sci-Fi|Thriller
+27327,Mimic 2 (2001),Horror|Sci-Fi|Thriller
+27382,Idle Mist (Vana Espuma) (1998),Crime|Horror|Mystery|Sci-Fi
+27420,Teknolust (2002),Comedy|Drama|Romance|Sci-Fi
+27451,Electric Dragon 80.000 V (2001),Drama|Fantasy|Sci-Fi
+27455,Godzilla. Mothra. and King Ghidorah: Giant Monsters All-Out Attack (Gojira. Mosura. Kingu Gidorâ: Daikaijû sôkôgeki) (Godzilla. Mothra and King Ghidorah: Giant Monsters All-Out Attack) (2001),Action|Fantasy|Sci-Fi
+27468,Stranded (2001),Drama|Sci-Fi
+27482,Cube 2: Hypercube (2002),Horror|Mystery|Sci-Fi
+27537,Nothing (2003),Comedy|Fantasy|Mystery|Sci-Fi
+27548,Absolon (2003),Action|Sci-Fi|Thriller
+27549,Dead or Alive: Final (2002),Comedy|Crime|Drama|Sci-Fi|Thriller
+27608,Immortel (ad vitam) (Immortal) (2004),Action|Adventure|Animation|Fantasy|Sci-Fi
+27611,Battlestar Galactica (2003),Drama|Sci-Fi|War
+27618,Sound of Thunder. A (2005),Action|Adventure|Drama|Sci-Fi|Thriller
+27656,Resurrection of the Little Match Girl (Sungnyangpali sonyeoui jaerim) (2002),Action|Comedy|Sci-Fi
+27657,Alien Hunter (2003),Action|Sci-Fi|Thriller
+27660,Animatrix. The (2003),Action|Animation|Drama|Sci-Fi
+27675,Alive (2002),Action|Drama|Horror|Sci-Fi|Thriller
+27683,Tremors 4: The Legend Begins (2004),Action|Comedy|Horror|Sci-Fi|Thriller|Western
+27728,Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004),Action|Animation|Drama|Sci-Fi|Thriller
+27759,Book of Fate. The (Kohtalon kirja) (2003),Action|Horror|Sci-Fi|War|Western
+27777,GhostWatcher (2002),Horror|Mystery|Sci-Fi
+27779,Moon Child (2003),Action|Drama|Sci-Fi
+27788,Jacket. The (2005),Drama|Mystery|Sci-Fi|Thriller
+27793,Starship Troopers 2: Hero of the Federation (2004),Action|Horror|Sci-Fi|War
+27800,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003),Adventure|Animation|Fantasy|Musical|Sci-Fi
+27881,Girl from Monday. The (2005),Action|Comedy|Sci-Fi
+27904,Scanner Darkly. A (2006),Animation|Drama|Mystery|Sci-Fi|Thriller
+27905,Casshern (2004),Action|Drama|Fantasy|Sci-Fi
+30808,It Happens Every Spring (1949),Comedy|Sci-Fi
+30894,White Noise (2005),Drama|Horror|Mystery|Sci-Fi|Thriller
+31079,Son of Godzilla (Kaijûtô no kessen: Gojira no musuko) (1967),Sci-Fi
+31150,Wizards (1977),Animation|Fantasy|Sci-Fi|War
+31156,Abbott and Costello Meet the Invisible Man (1951),Comedy|Sci-Fi
+31158,Abbott and Costello Go to Mars (1953),Comedy|Sci-Fi
+31184,Appleseed (Appurushîdo) (2004),Action|Animation|Fantasy|Sci-Fi
+31251,Iceman (1984),Drama|Sci-Fi
+31270,Shivers (They Came from Within) (1975),Drama|Horror|Sci-Fi
+31290,Beastmaster 2: Through the Portal of Time (1991),Action|Adventure|Fantasy|Sci-Fi
+31389,Dr. Who and the Daleks (1965),Adventure|Children|Sci-Fi
+31424,Alone in the Dark (2005),Action|Horror|Sci-Fi|Thriller
+31549,Fata Morgana (1971),Documentary|Drama|Sci-Fi
+31553,Double Dragon (1994),Action|Adventure|Sci-Fi
+31555,Mac and Me (1988),Children|Fantasy|Sci-Fi
+31647,2009: Lost Memories (2002),Action|Sci-Fi|Thriller
+31660,Steamboy (Suchîmubôi) (2004),Action|Animation|Drama|Sci-Fi
+31804,Night Watch (Nochnoy dozor) (2004),Action|Fantasy|Horror|Mystery|Sci-Fi|Thriller
+31894,ChubbChubbs!. The (2002),Animation|Comedy|Sci-Fi
+32031,Robots (2005),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi|IMAX
+32076,Godzilla vs. The Sea Monster (Gojira-Ebira-Mosura: Nankai no daiketto) (1966),Action|Adventure|Fantasy|Sci-Fi
+32078,Godzilla vs. Mechagodzilla II (Gojira VS Mekagojira) (1993),Action|Drama|Sci-Fi
+32088,DNA (1997),Action|Sci-Fi
+32156,Hello Down There (1969),Comedy|Sci-Fi
+32213,Cube Zero (2004),Horror|Mystery|Sci-Fi|Thriller
+32239,Save the Green Planet! (Jigureul jikyeora!) (2003),Comedy|Drama|Horror|Sci-Fi|Thriller
+32395,Attack of the Mushroom People (Matango) (1963),Fantasy|Horror|Sci-Fi|Thriller
+32421,Tammy and the T-Rex (1994),Comedy|Sci-Fi
+32501,Natural City (2003),Action|Romance|Sci-Fi
+32554,Memories (Memorîzu) (1995),Animation|Fantasy|Sci-Fi|Thriller
+32560,Invasion of Astro-Monster (Godzilla vs. Monster Zero) (Kaijû daisensô) (1965),Action|Adventure|Sci-Fi
+32825,Sexmission (Seksmisja) (1984),Adventure|Comedy|Sci-Fi
+32898,Trip to the Moon. A (Voyage dans la lune. Le) (1902),Action|Adventure|Fantasy|Sci-Fi
+32923,Frankenfish (2004),Action|Comedy|Horror|Sci-Fi|Thriller
+32928,Control (2004),Crime|Sci-Fi|Thriller
+33004,Hitchhiker's Guide to the Galaxy. The (2005),Adventure|Comedy|Sci-Fi
+33090,Mutant Aliens (2001),Animation|Comedy|Sci-Fi
+33493,Star Wars: Episode III - Revenge of the Sith (2005),Action|Adventure|Sci-Fi
+33555,Invisible Woman. The (1940),Comedy|Romance|Sci-Fi
+33737,Daybreak (1993),Action|Drama|Romance|Sci-Fi
+33755,Godzilla vs. Biollante (Gojira vs. Biorante) (1989) ,Action|Sci-Fi
+33801,Godzilla: Final Wars (Gojira: Fainaru uôzu) (2004),Action|Adventure|Fantasy|Sci-Fi
+33921,Retrogade (2004),Action|Adventure|Sci-Fi
+33928,Trekkies 2 (2004),Documentary|Sci-Fi
+33930,Man with the Screaming Brain (2005),Adventure|Comedy|Sci-Fi
+34045,I Inside. The (2004),Fantasy|Mystery|Sci-Fi
+34048,War of the Worlds (2005),Action|Adventure|Sci-Fi|Thriller
+34057,Godzilla vs. Hedorah (Gojira tai Hedorâ) (Godzilla vs. The Smog Monster) (1971) ,Horror|Sci-Fi
+34150,Fantastic Four (2005),Action|Adventure|Sci-Fi
+34170,C.H.O.M.P.S. (1979),Comedy|Sci-Fi
+34224,No Blade of Grass (1970),Drama|Sci-Fi
+34292,Hardware (1990),Action|Horror|Sci-Fi
+34319,Island. The (2005),Action|Sci-Fi|Thriller
+34334,Stealth (2005),Action|Adventure|Sci-Fi|Thriller
+34373,Killer Condom (Kondom des Grauens) (1996),Comedy|Horror|Romance|Sci-Fi
+34386,Phone (Pon) (2002),Drama|Horror|Mystery|Sci-Fi|Thriller
+34405,Serenity (2005),Action|Adventure|Sci-Fi
+34511,Man-Thing (2005),Action|Horror|Sci-Fi
+34729,One Point O (2004),Drama|Mystery|Sci-Fi|Thriller
+36363,Kin-Dza-Dza! (1986),Comedy|Drama|Sci-Fi
+36509,Cave. The (2005),Action|Adventure|Horror|Mystery|Sci-Fi|Thriller
+36711,Born in Flames (1983),Comedy|Drama|Fantasy|Sci-Fi
+37380,Doom (2005),Action|Horror|Sci-Fi
+37386,Aeon Flux (2005),Action|Sci-Fi
+37462,Wedlock (1991),Action|Crime|Drama|Sci-Fi|Thriller
+37830,Final Fantasy VII: Advent Children (2004),Action|Adventure|Animation|Fantasy|Sci-Fi
+38583,Wraith. The (1986),Action|Horror|Sci-Fi|Thriller
+39052,Star Wreck: In the Pirkinning (2005),Action|Comedy|Sci-Fi
+39931,Damnation Alley (1977),Drama|Sci-Fi|Thriller
+40226,Wild Zero (2000),Action|Comedy|Horror|Romance|Sci-Fi
+40339,Chicken Little (2005),Action|Adventure|Animation|Children|Comedy|Sci-Fi
+40465,Island of the Burning Damned (Night of the Big Heat) (1967),Horror|Mystery|Sci-Fi|Thriller
+40478,Night of the Lepus (1972),Horror|Sci-Fi|Thriller
+40697,Babylon 5,Sci-Fi
+41704,Shaft. The (a.k.a. Down) (2001),Action|Horror|Mystery|Sci-Fi
+41974,Ambushers. The (1967),Comedy|Sci-Fi|Thriller
+42351,Threads (1984),Drama|Sci-Fi|War
+42422,Voices of a Distant Star (Hoshi no koe) (2003),Animation|Drama|Romance|Sci-Fi
+42718,District 13 (Banlieue 13) (2004),Action|Crime|Sci-Fi
+43014,Quatermass Xperiment. The (1955),Horror|Mystery|Sci-Fi|Thriller
+43081,Gamera vs. Gyaos (Daikaijû kûchûsen: Gamera tai Gyaosu) (1967),Action|Horror|Sci-Fi
+43608,Panic in Year Zero! (1962),Horror|Sci-Fi|Thriller
+43928,Ultraviolet (2006),Action|Fantasy|Sci-Fi|Thriller
+43932,Pulse (2006),Action|Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller
+44020,Ultimate Avengers (2006),Action|Animation|Children|Sci-Fi
+44191,V for Vendetta (2006),Action|Sci-Fi|Thriller|IMAX
+44234,Illustrated Man. The (1969),Sci-Fi
+44243,Leprechaun 4: In Space (1997),Comedy|Fantasy|Horror|Sci-Fi
+44671,Wild Blue Yonder. The (2005),Sci-Fi
+44731,Stay Alive (2006),Horror|Sci-Fi|Thriller
+44777,Evil Aliens (2005),Comedy|Horror|Sci-Fi
+44828,Slither (2006),Comedy|Horror|Sci-Fi
+44849,Renaissance (2006),Action|Animation|Film-Noir|Sci-Fi|Thriller
+45499,X-Men: The Last Stand (2006),Action|Sci-Fi|Thriller
+45981,Hollow Man II (2006),Action|Horror|Sci-Fi|Thriller
+46441,Sheriff and the Satellite Kid. The (1979),Action|Comedy|Sci-Fi
+46530,Superman Returns (2006),Action|Adventure|Sci-Fi|IMAX
+46613,Mimic: Sentinel (2003),Horror|Sci-Fi|Thriller
+46770,Krrish (2006),Adventure|Musical|Romance|Sci-Fi
+46788,Prophecy (1979),Horror|Sci-Fi
+47404,Mind Game (2004),Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi
+47455,Executioners (Xian dai hao xia zhuan) (1993),Action|Comedy|Sci-Fi
+47997,Idiocracy (2006),Adventure|Comedy|Sci-Fi|Thriller
+48501,G.O.R.A. (2004),Adventure|Comedy|Sci-Fi
+48555,Dr. Cyclops (1940),Adventure|Horror|Sci-Fi
+48774,Children of Men (2006),Action|Adventure|Drama|Sci-Fi|Thriller
+48780,Prestige. The (2006),Drama|Mystery|Sci-Fi|Thriller
+48943,The Butterfly Effect 2 (2006),Adventure|Drama|Romance|Sci-Fi|Thriller
+49098,World. the Flesh and the Devil. The (1959),Drama|Romance|Sci-Fi
+49110,Mom and Dad Save the World (1992),Comedy|Sci-Fi
+49205,Return. The (2006),Sci-Fi|Thriller
+49278,Déjà Vu (Deja Vu) (2006),Action|Sci-Fi|Thriller
+49593,She (1965),Action|Adventure|Drama|Fantasy|Horror|Romance|Sci-Fi
+49815,Place Promised in Our Early Days. The (Kumo no mukô. yakusoku no basho) (2004),Animation|Drama|Romance|Sci-Fi|War
+51014,Strange Case of Dr. Jekyll and Mr. Hyde. The (1968),Drama|Horror|Sci-Fi|Thriller
+51249,First Man Into Space (1959),Drama|Horror|Sci-Fi
+51412,Next (2007),Action|Sci-Fi|Thriller
+51562,Babylon 5: The Gathering (1993),Sci-Fi
+51596,First on the Moon (Pervye na Lune) (2005),Documentary|Sci-Fi
+51619,Lathe of Heaven. The (1980),Sci-Fi
+51698,Last Mimzy. The (2007),Adventure|Children|Sci-Fi
+51709,Host. The (Gwoemul) (2006),Comedy|Drama|Horror|Sci-Fi|Thriller
+52281,Grindhouse (2007),Action|Crime|Horror|Sci-Fi|Thriller
+52287,Meet the Robinsons (2007),Action|Adventure|Animation|Children|Comedy|Sci-Fi
+52328,Sunshine (2007),Adventure|Drama|Sci-Fi|Thriller
+52443,Origin: Spirits of the Past (Gin-iro no kami no Agito) (2006),Animation|Drama|Romance|Sci-Fi
+52462,Aqua Teen Hunger Force Colon Movie Film for Theaters (2007),Action|Adventure|Animation|Comedy|Fantasy|Mystery|Sci-Fi
+52690,Devil Commands. The (1941),Horror|Sci-Fi
+52722,Spider-Man 3 (2007),Action|Adventure|Sci-Fi|Thriller|IMAX
+52885,Paprika (Papurika) (2006),Animation|Mystery|Sci-Fi
+53000,28 Weeks Later (2007),Horror|Sci-Fi|Thriller
+53152,Man from Planet X. The (1951),Horror|Romance|Sci-Fi
+53161,I'm a Cyborg. But That's OK (Saibogujiman kwenchana) (2006),Comedy|Drama|Romance|Sci-Fi
+53370,Godzilla and Mothra: The Battle for Earth (Gojira vs. Mosura) (1992),Action|Sci-Fi
+53373,Godzilla vs. Destroyah (Gojira vs. Desutoroiâ) (1995) ,Action|Sci-Fi
+53375,Godzilla vs. King Ghidorah (Gojira vs. Kingu Gidorâ) (1991),Action|Sci-Fi
+53453,Starcrash (a.k.a. Star Crash) (1978),Action|Adventure|Fantasy|Sci-Fi
+53464,Fantastic Four: Rise of the Silver Surfer (2007),Action|Adventure|Sci-Fi
+53548,Robot Monster (1953),Horror|Sci-Fi
+53752,Gui Si (Silk) (2006),Drama|Horror|Mystery|Sci-Fi|Thriller
+53996,Transformers (2007),Action|Sci-Fi|Thriller|IMAX
+54278,Underdog (2007),Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+54771,Invasion. The (2007),Action|Drama|Horror|Sci-Fi|Thriller
+54995,Planet Terror (2007),Action|Horror|Sci-Fi
+55061,Electroma (2006),Drama|Sci-Fi
+55232,Resident Evil: Extinction (2007),Action|Horror|Sci-Fi|Thriller
+55329,Alien Autopsy (2006),Comedy|Sci-Fi
+55737,Flight of the Living Dead (2007),Action|Horror|Sci-Fi
+55751,Decoys (2004),Comedy|Horror|Sci-Fi
+55875,Space Is The Place (1974),Sci-Fi
+55908,Man from Earth. The (2007),Drama|Sci-Fi
+56003,Southland Tales (2006),Comedy|Drama|Sci-Fi|Thriller
+56006,Ever Since the World Ended (2001),Fantasy|Sci-Fi
+56022,Harrison Bergeron (1995),Drama|Sci-Fi
+56145,Mist. The (2007),Horror|Sci-Fi
+56174,I Am Legend (2007),Action|Horror|Sci-Fi|Thriller|IMAX
+56251,Futurama: Bender's Big Score (2007),Animation|Comedy|Sci-Fi
+56456,Day of the Dead 2: Contagium (2005),Horror|Sci-Fi
+56616,Allegro (2005),Drama|Fantasy|Mystery|Romance|Sci-Fi
+56801,AVPR: Aliens vs. Predator - Requiem (2007),Action|Horror|Sci-Fi
+56921,Battlestar Galactica: Razor (2007),Action|Drama|Sci-Fi|Thriller
+57041,Santa Claus Conquers the Martians (1964),Fantasy|Sci-Fi
+57171,10.5: Apocalypse (2006),Drama|Sci-Fi|Thriller
+57368,Cloverfield (2008),Action|Mystery|Sci-Fi|Thriller
+57473,The Return of Doctor X (1939),Horror|Mystery|Sci-Fi|Thriller
+57504,Girl Who Leapt Through Time. The (Toki o kakeru shôjo) (2006),Animation|Comedy|Drama|Romance|Sci-Fi
+57637,Signal. The (2007),Horror|Sci-Fi|Thriller
+57640,Hellboy II: The Golden Army (2008),Action|Adventure|Fantasy|Sci-Fi
+57772,World on a Wire (Welt am Draht) (1973),Crime|Sci-Fi
+57778,Future by Design (2006),Documentary|Sci-Fi
+57873,Dark Angel (I Come in Peace) (1990),Action|Horror|Sci-Fi|Thriller
+57938,Crime Zone (1989),Action|Film-Noir|Sci-Fi
+58025,Jumper (2008),Action|Adventure|Drama|Sci-Fi|Thriller
+58123,Il Mare (Siworae) (2000),Fantasy|Romance|Sci-Fi
+58297,Doomsday (2008),Action|Drama|Sci-Fi|Thriller
+58332,Diary of the Dead (2007),Horror|Sci-Fi
+58404,Justice League: The New Frontier (2008) ,Action|Adventure|Animation|Fantasy|Sci-Fi
+58485,Return of the Living Dead 3 (1993),Horror|Romance|Sci-Fi
+58652,CJ7 (Cheung Gong 7 hou) (2008),Children|Comedy|Sci-Fi
+58718,Slipstream (2007),Comedy|Drama|Fantasy|Mystery|Sci-Fi|Thriller
+58722,Terror of Mechagodzilla (Mekagojira no gyakushu) (1975),Action|Sci-Fi
+58783,Youth Without Youth (2007),Drama|Romance|Sci-Fi
+58898,Aerial. The (La antena) (2007),Adventure|Fantasy|Film-Noir|Mystery|Sci-Fi
+59014,Superhero Movie (2008),Action|Comedy|Sci-Fi
+59037,Speed Racer (2008),Action|Children|Sci-Fi|IMAX
+59154,Black Friday (1940),Crime|Drama|Horror|Sci-Fi
+59157,Invisible Ray. The (1936),Horror|Sci-Fi
+59315,Iron Man (2008),Action|Adventure|Sci-Fi
+59392,Stargate: The Ark of Truth (2008),Action|Fantasy|Sci-Fi
+59615,Indiana Jones and the Kingdom of the Crystal Skull (2008),Action|Adventure|Comedy|Sci-Fi
+59869,Andromeda Strain. The (2008),Sci-Fi
+59935,Flesh Gordon (1974),Adventure|Comedy|Sci-Fi
+60007,Doctor Who (1996),Adventure|Sci-Fi
+60037,Happening. The (2008),Drama|Sci-Fi|Thriller
+60040,Incredible Hulk. The (2008),Action|Sci-Fi
+60069,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi
+60161,Futurama: The Beast with a Billion Backs (2008),Action|Animation|Comedy|Romance|Sci-Fi
+60338,Dante 01 (2008),Sci-Fi|Thriller
+60471,Rogue (2007),Action|Adventure|Horror|Sci-Fi|Thriller
+60514,Journey to the Center of the Earth (2008),Action|Adventure|Sci-Fi
+60516,Meet Dave (2008),Adventure|Children|Comedy|Romance|Sci-Fi
+60568,Substitute. The (Vikaren) (2007),Comedy|Sci-Fi|Thriller
+60674,Stargate: Continuum (2008),Sci-Fi
+60684,Watchmen (2009),Action|Drama|Mystery|Sci-Fi|Thriller|IMAX
+60702,WarGames: The Dead Code (2008),Drama|Sci-Fi|Thriller
+60760,X-Files: I Want to Believe. The (2008),Drama|Mystery|Sci-Fi|Thriller
+60904,Heart of a Dog (Sobachye serdtse) (1988),Comedy|Drama|Sci-Fi
+61136,Objective. The (2008),Horror|Sci-Fi|Thriller|War
+61160,Star Wars: The Clone Wars (2008),Action|Adventure|Animation|Sci-Fi
+61210,Mutant Chronicles (2008),Action|Adventure|Sci-Fi
+61248,Death Race (2008),Action|Adventure|Sci-Fi|Thriller
+61350,Babylon A.D. (2008),Action|Adventure|Sci-Fi|Thriller
+61692,Altered (2006),Horror|Sci-Fi|Thriller
+61961,On the Beach (2000),Drama|Sci-Fi
+61970,Moonbase (1998),Sci-Fi
+62049,1984 (1956),Drama|Sci-Fi
+62331,Dead Leaves (2004),Action|Adventure|Animation|Comedy|Sci-Fi
+62336,FLCL (2000),Animation|Comedy|Fantasy|Sci-Fi
+62376,City of Ember (2008),Adventure|Children|Sci-Fi
+62383,20.000 Leagues Under the Sea (1916),Action|Adventure|Sci-Fi
+62671,Fallout (1998),Action|Sci-Fi
+62764,Black Moon (1975),Fantasy|Mystery|Sci-Fi|War
+62834,Babylon 5: The Legend of the Rangers: To Live and Die in Starlight (2002),Sci-Fi
+62836,Babylon 5: The Lost Tales - Voices in the Dark (2007),Sci-Fi
+62956,Futurama: Bender's Game (2008),Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi
+62970,Tin Man (2007),Adventure|Fantasy|Sci-Fi
+63433,Farscape: The Peacekeeper Wars (2004),Action|Adventure|Sci-Fi
+63458,Critters 4 (1991),Comedy|Horror|Sci-Fi
+63617,Christmas on Mars (2008),Sci-Fi
+63676,Face of Another. The (Tanin no kao) (1966),Drama|Sci-Fi
+63989,Devil Doll. The (1936),Horror|Sci-Fi
+64234,Guyver. The (1991),Action|Comedy|Sci-Fi
+64497,Day the Earth Stood Still. The (2008),Drama|Sci-Fi|Thriller|IMAX
+64508,Starship Troopers 3: Marauder (2008),Action|Sci-Fi|War
+64577,Cyborg Girl (Boku no kanojo wa saibôgu) (2008),Action|Comedy|Romance|Sci-Fi
+64747,Meltdown: Days of Destruction (2006),Action|Sci-Fi|Thriller
+64793,Tumannost Andromedy (1967),Adventure|Romance|Sci-Fi
+64997,War of the Worlds (2005),Action|Sci-Fi
+65045,Alien Raiders (2008),Mystery|Sci-Fi|Thriller
+65204,Chandu the Magician (1932),Action|Adventure|Fantasy|Sci-Fi
+65352,Have Rocket. Will Travel (1959),Comedy|Sci-Fi
+65518,Dungeonmaster. The (1985),Fantasy|Horror|Sci-Fi
+65552,Replicant (2001),Action|Sci-Fi|Thriller
+65642,Timecrimes (Cronocrímenes. Los) (2007),Sci-Fi|Thriller
+65796,Galaxy Express 999 (Ginga tetsudô Three-Nine) (1979),Adventure|Animation|Fantasy|Sci-Fi
+65899,12:01 (1993),Comedy|Romance|Sci-Fi|Thriller
+65982,Outlander (2008),Action|Adventure|Sci-Fi
+66152,TerrorVision (1986),Comedy|Horror|Sci-Fi
+66171,Push (2009),Sci-Fi|Thriller
+66297,Futurama: Into the Wild Green Yonder (2009),Action|Animation|Comedy|Sci-Fi
+66365,Trancers (1985),Action|Sci-Fi
+66440,Robinson in Space (1997),Documentary|Sci-Fi
+66639,Street Fighter: The Legend of Chun-Li (2009),Action|Adventure|Sci-Fi|Thriller
+66789,Screamers: The Hunting (2009),Sci-Fi|Thriller
+66900,Attack Force (2006),Action|Horror|Sci-Fi
+66934,Dr. Horrible's Sing-Along Blog (2008),Comedy|Drama|Musical|Sci-Fi
+67197,Knowing (2009),Action|Drama|Mystery|Sci-Fi|Thriller
+67408,Monsters vs. Aliens (2009),Animation|Sci-Fi|IMAX
+67799,The Butterfly Effect 3: Revelations (2009),Drama|Fantasy|Sci-Fi|Thriller
+67867,Dragonball Evolution (2009),Action|Adventure|Fantasy|Sci-Fi
+67869,Flash Gordon (1936),Action|Adventure|Sci-Fi
+68237,Moon (2009),Drama|Mystery|Sci-Fi|Thriller
+68319,X-Men Origins: Wolverine (2009),Action|Sci-Fi|Thriller
+68358,Star Trek (2009),Action|Adventure|Sci-Fi|IMAX
+68519,S. Darko (S. Darko: A Donnie Darko Tale) (2009),Crime|Mystery|Sci-Fi|Thriller
+68791,Terminator Salvation (2009),Action|Adventure|Sci-Fi|Thriller
+68899,Monster. The (1925),Comedy|Horror|Mystery|Sci-Fi
+68945,Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei) (1997),Action|Animation|Mystery|Sci-Fi
+69042,Flash Gordon's Trip to Mars (1938),Action|Sci-Fi
+69278,Land of the Lost (2009),Action|Adventure|Comedy|Sci-Fi
+69372,Big Man Japan (Dai-Nihonjin) (2007),Comedy|Sci-Fi
+69419,Crawling Hand. The (1963),Horror|Sci-Fi
+69451,Mindwarp (1992),Horror|Sci-Fi|Thriller
+69453,Land That Time Forgot. The (1975),Adventure|Sci-Fi
+69485,Air Hawks (1935),Action|Drama|Mystery|Romance|Sci-Fi
+69526,Transformers: Revenge of the Fallen (2009),Action|Adventure|Sci-Fi|IMAX
+69670,Final Approach (1991),Sci-Fi|Thriller
+69809,The Inhabited Island (2008),Fantasy|Sci-Fi
+69873,Corridors of Time: The Visitors II. The (Couloirs du temps: Les visiteurs 2. Les) (1998),Children|Comedy|Fantasy|Sci-Fi
+70282,Aliens in the Attic (2009),Adventure|Children|Fantasy|Sci-Fi
+70286,District 9 (2009),Mystery|Sci-Fi|Thriller
+70305,Race to Witch Mountain (2009),Adventure|Children|Fantasy|Sci-Fi|Thriller
+70336,G.I. Joe: The Rise of Cobra (2009),Action|Adventure|Sci-Fi|Thriller
+70521,Lost in Austen (2008),Drama|Fantasy|Romance|Sci-Fi
+70533,Evangelion: 1.0 You Are (Not) Alone (Evangerion shin gekijôban: Jo) (2007),Action|Animation|Sci-Fi
+70587,Alien Trespass (2009),Comedy|Sci-Fi
+70599,Time Traveler's Wife. The (2009),Drama|Romance|Sci-Fi
+70824,Cell 2. The (2009),Horror|Sci-Fi|Thriller
+70828,Space Odyssey: Voyage to the Planets (2004),Documentary|Drama|Sci-Fi
+71007,Meteor (2009),Action|Drama|Sci-Fi
+71057,9 (2009),Adventure|Animation|Sci-Fi
+71106,Frequently Asked Questions About Time Travel (2009),Comedy|Sci-Fi
+71129,Green Lantern: First Flight (2009),Action|Adventure|Animation|Fantasy|Sci-Fi
+71135,Pandorum (2009),Horror|Sci-Fi|Thriller
+71205,Jennifer's Body (2009),Comedy|Horror|Sci-Fi|Thriller
+71254,Gamer (2009),Action|Sci-Fi|Thriller
+71302,Attack of the 50 Foot Woman (1958),Comedy|Sci-Fi
+71318,Terra (a.k.a. Battle for Terra) (2007),Adventure|Animation|Sci-Fi
+71468,Ink (2009),Action|Fantasy|Sci-Fi
+71484,Metropia (2009),Animation|Sci-Fi
+71530,Surrogates (2009),Action|Sci-Fi|Thriller
+71728,Gayniggers From Outer Space (1992),Comedy|Sci-Fi
+71851,I. Monster (1971),Horror|Sci-Fi
+71995,Dark Lurking. The (2008),Action|Horror|Sci-Fi
+71999,Aelita: The Queen of Mars (Aelita) (1924),Action|Adventure|Drama|Fantasy|Romance|Sci-Fi|Thriller
+72043,Monsters vs Aliens: Mutant Pumpkins from Outer Space (2009),Animation|Comedy|Sci-Fi
+72104,Balance (1989),Animation|Drama|Mystery|Sci-Fi|Thriller
+72209,Astro Boy (2009),Action|Animation|Children|Sci-Fi
+72308,Battlestar Galactica: The Plan (2009),Action|Adventure|Drama|Sci-Fi
+72378,2012 (2009),Action|Drama|Sci-Fi|Thriller
+72380,Box. The (2009),Drama|Horror|Mystery|Sci-Fi|Thriller
+72393,Fourth Kind. The (2009),Horror|Mystery|Sci-Fi|Thriller
+72571,Doomwatch (1972),Mystery|Sci-Fi|Thriller
+72630,Sleep Dealer (2008),Sci-Fi
+72701,Planet 51 (2009),Adventure|Animation|Children|Comedy|Sci-Fi
+72777,Invaders from Mars (1986),Horror|Sci-Fi
+72998,Avatar (2009),Action|Adventure|Sci-Fi|IMAX
+73148,Bridge of Dragons (1999),Action|Romance|Sci-Fi|Thriller
+73411,MGS: Philanthropy (2009),Action|Adventure|Sci-Fi|War
+73870,Thaw. The (2009),Horror|Sci-Fi|Thriller
+74095,Wicked City (Yôjû toshi) (1987),Animation|Fantasy|Horror|Sci-Fi
+74271,Space Pirate Captain Harlock: Arcadia of My Youth (Waga seishun no Arcadia) (1982),Action|Adventure|Animation|Drama|Sci-Fi
+74436,Body Bags (1993),Comedy|Horror|Sci-Fi|Thriller
+74619,Mysterious Island (2005),Action|Adventure|Fantasy|Sci-Fi
+74668,District 13: Ultimatum (Banlieue 13 - Ultimatum) (2009),Action|Sci-Fi
+74685,Crazies. The (2010),Action|Drama|Horror|Sci-Fi|Thriller
+74731,Eden Log (2007),Horror|Mystery|Sci-Fi|Thriller
+74868,Dorian Gray (2009),Drama|Horror|Sci-Fi
+75349,Teenage Caveman (2002),Horror|Sci-Fi|Thriller
+75416,Generation X (1996),Action|Adventure|Sci-Fi
+75985,Repo Men (2010),Action|Sci-Fi|Thriller
+76077,Hot Tub Time Machine (2010),Comedy|Sci-Fi
+76130,Universal Soldier: Regeneration (2009),Action|Drama|Sci-Fi|Thriller
+76189,Growth (2009),Sci-Fi|Thriller
+76811,It! The Terror from Beyond Space (1958),Horror|Sci-Fi|Thriller
+77149,When Dinosaurs Ruled the Earth (1970),Adventure|Fantasy|Romance|Sci-Fi
+77355,Moment After. The (1999),Drama|Sci-Fi|Thriller
+77561,Iron Man 2 (2010),Action|Adventure|Sci-Fi|Thriller|IMAX
+77780,Virtuality (2009),Drama|Sci-Fi|Thriller
+77795,Cargo (2009),Sci-Fi
+77931,Stingray Sam (2009),Comedy|Musical|Sci-Fi|Western
+78022,Halo Legends (2010),Action|Animation|Sci-Fi
+78062,Puppet Master vs. Demonic Toys (Puppet Master 9) (2004),Comedy|Fantasy|Horror|Sci-Fi|Thriller
+78266,Splice (2009),Horror|Sci-Fi|Thriller
+78579,Tell-Tale (2009),Drama|Horror|Sci-Fi|Thriller
+78696,Moment After 2. The: The Awakening (2006),Drama|Sci-Fi|Thriller
+78961,Dead Air (2009),Horror|Sci-Fi|Thriller
+78967,Island of Dr. Moreau. The (1977),Adventure|Fantasy|Horror|Romance|Sci-Fi|Thriller
+79057,Predators (2010),Action|Sci-Fi|Thriller
+79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+79247,Terror is a Man (1959),Horror|Sci-Fi
+79344,Dark Island (2010),Action|Sci-Fi|Thriller
+79357,Mr. Nobody (2009),Drama|Fantasy|Romance|Sci-Fi
+79607,Millions Game. The (Das Millionenspiel),Action|Drama|Sci-Fi|Thriller
+79681,Invisible Agent (1942),Adventure|Comedy|Sci-Fi|Thriller|War
+79794,Crossworlds (1997),Action|Comedy|Sci-Fi
+80026,Tekken (2010),Action|Sci-Fi
+80083,Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989),Action|Adventure|Animation|Fantasy|Sci-Fi
+80179,Golem (1980),Drama|Mystery|Sci-Fi
+80181,Elephants Dream (2006),Animation|Fantasy|Sci-Fi
+80363,Resident Evil: Afterlife (2010),Action|Horror|Sci-Fi|Thriller|IMAX
+80502,Infestation (2009),Action|Comedy|Sci-Fi
+80505,2012: Supernova (2009),Action|Sci-Fi
+80903,One Million B.C. (1940),Adventure|Fantasy|Romance|Sci-Fi
+80917,Monsters (2010),Drama|Sci-Fi
+80969,Never Let Me Go (2010),Drama|Romance|Sci-Fi
+80980,Countdown (1968),Sci-Fi|Thriller
+81083,Kaboom (2010),Comedy|Sci-Fi
+81085,Morning Patrol (Proini peripolos) (1987),Sci-Fi
+81564,Megamind (2010),Action|Animation|Children|Comedy|Sci-Fi|IMAX
+81631,Trail of the Screaming Forehead (2007),Comedy|Sci-Fi
+81656,Woman in the Moon (By Rocket to the Moon) (Frau im Mond) (1929),Comedy|Drama|Romance|Sci-Fi
+81660,1990: The Bronx Warriors (1990: I guerrieri del Bronx) (1982),Action|Sci-Fi
+81667,Ten Minutes Older: The Cello (2002),Drama|Musical|Romance|Sci-Fi
+81744,King of Fighters. The (2010),Action|Sci-Fi
+81853,These Are the Damned (a.k.a. The Damned) (1963),Drama|Fantasy|Romance|Sci-Fi
+82095,Skyline (2010),Sci-Fi|Thriller
+82461,Tron: Legacy (2010),Action|Adventure|Sci-Fi|IMAX
+82465,It's Alive III: Island of the Alive (1987),Comedy|Drama|Horror|Sci-Fi
+82643,Top of the Food Chain (a.k.a. Invasion!) (1999),Comedy|Horror|Sci-Fi
+82759,On the Silver Globe (Na srebrnym globie) (1988),Sci-Fi
+83588,I Love You. I Love You (Je t'aime je t'aime) (1968),Drama|Sci-Fi
+83611,Clonehunter (2009),Sci-Fi
+83613,Cowboys & Aliens (2011),Action|Sci-Fi|Thriller|Western|IMAX
+83658,Jackpot 2 (1982),Sci-Fi
+83660,Trog (1970),Horror|Sci-Fi
+83671,Gen 13 (a.k.a. Gen13: The Animated Movie) (1999),Action|Animation|Sci-Fi
+83823,Visit to a Small Planet (1960),Comedy|Sci-Fi
+84140,Message from Space (Uchu Kara no Messeji) (Return to Jelucia) (1978),Action|Adventure|Sci-Fi
+84148,Five (1951),Drama|Horror|Sci-Fi
+84152,Limitless (2011),Sci-Fi|Thriller
+84187,Evangelion: 2.0 You Can (Not) Advance (Evangerion shin gekijôban: Ha) (2009),Action|Animation|Drama|Sci-Fi
+84414,All-Star Superman (2011),Action|Adventure|Animation|Sci-Fi
+84525,Virus X (2010),Horror|Sci-Fi
+84772,Paul (2011),Adventure|Comedy|Sci-Fi
+84799,Asphyx. The (1973),Horror|Sci-Fi
+84954,Adjustment Bureau. The (2011),Romance|Sci-Fi|Thriller
+85056,I Am Number Four (2011),Action|Sci-Fi|Thriller|IMAX
+85131,Battle: Los Angeles (2011),Action|Sci-Fi|War
+85179,Summer Wars (Samâ wôzu) (2009),Adventure|Animation|Comedy|Sci-Fi
+85261,Mars Needs Moms (2011),Action|Adventure|Animation|Children|Comedy|Sci-Fi|IMAX
+85298,Black Lightning (Chernaya Molniya) (2009),Action|Adventure|Sci-Fi
+85414,Source Code (2011),Action|Drama|Mystery|Sci-Fi|Thriller
+85736,BURN-E (2008),Adventure|Animation|Children|Sci-Fi
+85780,Family Guy Presents: It's a Trap (2010),Animation|Comedy|Sci-Fi
+85992,Dead Space: Downfall (2008),Action|Animation|Sci-Fi
+85994,Sex Galaxy (2008),Comedy|Sci-Fi
+86320,Melancholia (2011),Drama|Sci-Fi
+86355,Atlas Shrugged: Part 1 (2011),Drama|Mystery|Sci-Fi
+86835,Priest (2011),Action|Horror|Sci-Fi|Thriller
+86854,King Lear (1987),Comedy|Drama|Sci-Fi
+86864,Mothra (Mosura) (1961),Adventure|Fantasy|Sci-Fi
+86866,Godzilla Raids Again (Gojira no gyakushû) (1955),Action|Drama|Horror|Romance|Sci-Fi
+86982,Destroy All Monsters (Kaijû sôshingeki) (1968),Action|Sci-Fi|Thriller
+87115,Speed Of Thought. The (2011),Sci-Fi|Thriller
+87192,Attack the Block (2011),Action|Comedy|Sci-Fi
+87232,X-Men: First Class (2011),Action|Adventure|Sci-Fi|Thriller|War
+87306,Super 8 (2011),Mystery|Sci-Fi|Thriller|IMAX
+87430,Green Lantern (2011),Action|Adventure|Sci-Fi
+87433,Ghidorah. the Three-Headed Monster (San daikaijû: Chikyû saidai no kessen) (1964),Action|Adventure|Fantasy|Sci-Fi
+87520,Transformers: Dark of the Moon (2011),Action|Adventure|Sci-Fi|War|IMAX
+87872,Hunter Prey (2009),Sci-Fi
+88140,Captain America: The First Avenger (2011),Action|Adventure|Sci-Fi|Thriller|War
+88248,Quarantine 2: Terminal (2011),Horror|Mystery|Sci-Fi
+88347,Without Warning (1994),Sci-Fi
+88699,Death Race 2 (2010),Action|Sci-Fi|Thriller
+88744,Rise of the Planet of the Apes (2011),Action|Drama|Sci-Fi|Thriller
+88857,Just Imagine (1930),Musical|Sci-Fi
+88879,Gantz (2011),Action|Horror|Sci-Fi
+88961,Missile to the Moon (1958),Sci-Fi
+88979,Little Girl Who Conquered Time. The (Toki o kakeru shôjo) (1983),Romance|Sci-Fi
+89002,Spy Kids: All the Time in the World in 4D (2011),Action|Adventure|Children|Comedy|Sci-Fi
+89039,Another Earth (2011),Drama|Romance|Sci-Fi
+89104,Puzzlehead (2005),Drama|Sci-Fi
+89137,Backlight (2010),Drama|Sci-Fi|Thriller
+89219,Creation of the Humanoids. The (1962),Sci-Fi
+89230,Tooth & Nail (2007),Drama|Horror|Sci-Fi
+89470,Contagion (2011),Sci-Fi|Thriller|IMAX
+89485,Maze. The (1953),Horror|Sci-Fi
+89745,Avengers. The (2012),Action|Adventure|Sci-Fi|IMAX
+89780,Sherlock Holmes (2010),Mystery|Sci-Fi
+89872,Warrior of the Lost World (1983),Action|Sci-Fi
+89881,Superman and the Mole-Men (1951),Children|Mystery|Sci-Fi
+89898,Generation P (2011),Comedy|Drama|Sci-Fi
+89945,BlinkyTM (2011),Horror|Sci-Fi
+89983,Robot (2010),Action|Comedy|Musical|Sci-Fi
+90005,Ticking Clock (2011),Action|Crime|Mystery|Sci-Fi|Thriller
+90007,Ghost from the Machine (2010),Sci-Fi
+90068,Zaat (1971),Fantasy|Horror|Sci-Fi
+90249,Real Steel (2011),Action|Drama|Sci-Fi|IMAX
+90268,Hell (2011),Horror|Sci-Fi|Thriller
+90345,Thing. The (2011),Horror|Mystery|Sci-Fi|Thriller
+90364,O-Bi. O-Ba - The End of Civilization (O-bi. O-ba - Koniec cywilizacji) (1985),Drama|Mystery|Sci-Fi
+90405,In Time (2011),Crime|Sci-Fi|Thriller
+90460,2019: After the Fall of New York (1983),Action|Horror|Sci-Fi
+90493,War of the Robots (La guerra dei robot) (1978),Action|Adventure|Sci-Fi
+90495,Prisoners of the Lost Universe (1983),Action|Adventure|Sci-Fi
+90596,Queen of Blood (1966),Horror|Sci-Fi
+90598,Radioactive Dreams (1985),Action|Comedy|Film-Noir|Musical|Sci-Fi
+91054,Batman (1943),Action|Adventure|Crime|Sci-Fi|Thriller
+91056,Batman and Robin (1949),Action|Adventure|Crime|Drama|Sci-Fi
+91233,Lifted (2006),Animation|Comedy|Sci-Fi
+91288,Gantz: Perfect Answer (2011),Action|Mystery|Sci-Fi
+91304,Xtro (1983),Horror|Sci-Fi
+91490,Sharktopus (2010),Action|Horror|Sci-Fi
+91500,The Hunger Games (2012),Action|Adventure|Drama|Sci-Fi|Thriller
+91505,Clone (Womb) (2010),Drama|Romance|Sci-Fi
+91660,Darkest Hour. The (2011),Action|Horror|Sci-Fi|Thriller
+91786,Professor Layton and the Eternal Diva (Eiga Reiton-kyôju to eien no utahime) (2009),Action|Adventure|Animation|Mystery|Sci-Fi
+92106,My Future Boyfriend (2011),Comedy|Romance|Sci-Fi
+92192,Apollo 18 (2011),Horror|Sci-Fi|Thriller
+92208,Wyvern (2009),Horror|Sci-Fi|Thriller
+92210,Disappearance of Haruhi Suzumiya. The (Suzumiya Haruhi no shôshitsu) (2010),Adventure|Animation|Drama|Mystery|Sci-Fi
+92266,Incredible Petrified World. The (1957),Adventure|Sci-Fi
+92341,Collision Earth (2011),Action|Sci-Fi
+92420,Chronicle (2012),Action|Sci-Fi|Thriller
+92511,Swamp Shark (2011),Sci-Fi
+92518,King Kong Escapes (Kingu Kongu no gyakushû) (1967),Action|Adventure|Sci-Fi
+92681,Journey 2: The Mysterious Island (2012),Action|Adventure|Comedy|Sci-Fi|IMAX
+92694,Perfect Sense (2011),Drama|Romance|Sci-Fi
+92760,Atomic Brain. The (1963),Horror|Sci-Fi
+93183,Satan Bug. The (1965),Sci-Fi|Thriller
+93196,Zone Troopers (1985),Action|Sci-Fi|War
+93217,Dr. Goldfoot and the Girl Bombs (Le spie vengono dal semifreddo) (1966),Comedy|Sci-Fi
+93344,Earth Dies Screaming. The (1964),Horror|Sci-Fi
+93363,John Carter (2012),Action|Adventure|Sci-Fi|IMAX
+93473,Pale Cocoon (Peiru Kokun) (2006),Animation|Sci-Fi
+93484,Princess of Mars (2009),Sci-Fi|Thriller|War
+93496,Cencoroll (2009),Action|Animation|Sci-Fi
+93520,Adventures of Captain Marvel (1941),Action|Adventure|Fantasy|Mystery|Sci-Fi
+93547,S.O.S. Coast Guard (1937),Action|Adventure|Sci-Fi|Thriller
+93563,Lockout (2012),Action|Sci-Fi|Thriller
+93583,Caltiki the Undying Monster (1959),Adventure|Horror|Sci-Fi|Thriller
+93612,Nothing Lasts Forever (1984) ,Comedy|Fantasy|Sci-Fi
+93665,Frankenstein Syndrome. The (2010),Horror|Sci-Fi
+93709,Evolver (1995),Action|Horror|Sci-Fi
+93748,Eden of the East the Movie I: The King of Eden (Higashi no Eden Gekijoban) (2009),Action|Animation|Crime|Sci-Fi|Thriller
+93750,Eden of the East the Movie II: Paradise Lost (Higashi no Eden Gekijôban II: Paradise Lost) (2010),Animation|Crime|Mystery|Sci-Fi|Thriller
+93792,Four Sided Triangle (1953),Romance|Sci-Fi
+93797,Incredible Hulk Returns. The (1988),Action|Adventure|Drama|Sci-Fi
+93803,4:44 Last Day on Earth (2011),Drama|Fantasy|Sci-Fi
+93805,Iron Sky (2012),Action|Comedy|Sci-Fi
+93840,Cabin in the Woods. The (2012),Comedy|Horror|Sci-Fi|Thriller
+93865,Frankenstein (1910),Drama|Horror|Sci-Fi
+93905,The Gamma People (1956),Horror|Sci-Fi
+93907,Wild. Wild Planet (I criminali della galassia) (1965),Sci-Fi
+94018,Battleship (2012),Action|Sci-Fi|Thriller|IMAX
+94218,Super Demetrios (2012),Adventure|Comedy|Sci-Fi
+94262,Atomic Submarine. The (1959),Sci-Fi|Thriller
+94271,Voyage to the End of the Universe (Ikarie XB 1) (1963),Sci-Fi
+94466,Black Mirror (2011),Drama|Sci-Fi
+94558,Beyond the Black Rainbow (2010),Mystery|Sci-Fi
+94777,Men in Black III (M.III.B.) (M.I.B.³) (2012),Action|Comedy|Sci-Fi|IMAX
+94799,Sound of My Voice (2011),Drama|Mystery|Sci-Fi
+94810,Eva (2011),Drama|Fantasy|Sci-Fi
+94864,Prometheus (2012),Action|Horror|Sci-Fi|IMAX
+95151,Dead Space: Aftermath (2011),Animation|Horror|Sci-Fi
+95153,Iria: Zeiram the Animation (1993) ,Action|Animation|Horror|Sci-Fi|Thriller
+95165,Dragon Ball Z the Movie: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon bôru Z: Kono yo de ichiban tsuyoi yatsu) (1990),Action|Adventure|Animation|Sci-Fi|Thriller
+95182,Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen) (1990),Action|Adventure|Animation|Sci-Fi
+95477,Blood of the Vampire (1958),Horror|Sci-Fi
+95506,Extraterrestrial (Extraterrestre) (2011),Comedy|Drama|Sci-Fi
+95510,Amazing Spider-Man. The (2012),Action|Adventure|Sci-Fi|IMAX
+95565,Day the Fish Came Out. The (1967),Comedy|Sci-Fi
+95617,Scorcher (2002),Action|Sci-Fi
+95720,Watch. The (2012),Comedy|Sci-Fi
+95773,King of Thorn (King of Thorns) (Ibara no O) (2009),Adventure|Animation|Horror|Sci-Fi|Thriller
+95796,Anaconda: The Offspring (2008),Action|Horror|Sci-Fi|Thriller
+95875,Total Recall (2012),Action|Sci-Fi|Thriller
+95932,Fantastic Four. The (1994),Action|Adventure|Fantasy|Sci-Fi
+96002,Tür. Die (Door. The) (2009),Drama|Mystery|Sci-Fi
+96028,Decoys 2: Alien Seduction (2007) ,Horror|Sci-Fi|Thriller
+96060,Capture of Bigfoot. The (1979),Adventure|Horror|Sci-Fi
+96144,Warning from Space (Uchûjin Tôkyô ni arawaru) (1956),Sci-Fi
+96193,Captain Video: Master of the Stratosphere (1951),Adventure|Sci-Fi
+96200,War of the Dead - Stone's War (2011) ,Action|Adventure|Horror|Sci-Fi|Thriller|War
+96298,El Hada Buena - Una Fábula Peronista (2010),Comedy|Sci-Fi
+96415,Doomsday Book (2012),Comedy|Drama|Horror|Sci-Fi
+96596,Branded (2012),Action|Drama|Mystery|Sci-Fi
+96598,Wild Wild West Revisited. The (1979),Action|Adventure|Sci-Fi|Western
+96608,Runaway Brain (1995) ,Animation|Comedy|Sci-Fi
+96610,Looper (2012),Action|Crime|Sci-Fi
+96655,Robot & Frank (2012),Comedy|Drama|Sci-Fi
+96691,Resident Evil: Retribution (2012),Action|Horror|Sci-Fi|IMAX
+96730,More Wild Wild West (1980),Adventure|Comedy|Sci-Fi|Western
+96737,Dredd (2012),Action|Sci-Fi
+96789,Hamburg Syndrome. The (Die Hamburger Krankheit) (1979),Adventure|Sci-Fi
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi
+96960,Tobor the Great (1954),Children|Sci-Fi
+97029,Genocide (Konchû daisensô) (1968),Horror|Sci-Fi
+97031,Goke. Body Snatcher from Hell (Kyuketsuki Gokemidoro) (1968),Horror|Sci-Fi
+97242,Daleks' Invasion Earth: 2150 A.D. (1966),Adventure|Sci-Fi
+97324,Atlas Shrugged: Part II (2012),Drama|Mystery|Sci-Fi
+97384,Arachnoquake (2012),Action|Horror|Sci-Fi
+97401,Terumae romae (Thermae Romae) (2012),Comedy|Sci-Fi
+97468,Drones (2010),Comedy|Sci-Fi
+97709,Tai Chi Zero (2012),Action|Fantasy|Sci-Fi|IMAX
+97713,X from Outer Space. The (Uchû daikaijû Girara) (1967),Horror|Sci-Fi
+97724,Glamorous Life of Sachiko Hanai. The (Hatsujô kateikyôshi: sensei no aijiru) (2003),Action|Comedy|Drama|Fantasy|Mystery|Sci-Fi|War
+97752,Cloud Atlas (2012),Drama|Sci-Fi|IMAX
+97946,Day. The (2011),Drama|Sci-Fi|Thriller
+97968,Gallowwalkers (2012),Action|Horror|Sci-Fi|Western
+97988,Bay. The (2012),Horror|Sci-Fi|Thriller
+98019,Vexille (Bekushiru: 2077 Nihon sakoku) (2007),Action|Animation|Sci-Fi
+98030,Atomic Twister (2002),Action|Drama|Sci-Fi
+98124,Batman: The Dark Knight Returns. Part 1 (2012),Action|Animation|Sci-Fi
+98290,Storage 24 (2012),Horror|Sci-Fi
+98358,Journey to Saturn (Rejsen til Saturn) (2008),Action|Adventure|Animation|Sci-Fi
+98369,Halo 4: Forward Unto Dawn (2012),Action|Sci-Fi|Thriller
+98389,Lost Missile. The (1958),Sci-Fi
+98523,Arcade (1993),Horror|Sci-Fi
+98589,Interceptor (1993),Action|Sci-Fi
+98607,Redline (2009),Action|Animation|Sci-Fi
+98621,Welcome to the Space Show (Uchû shô e yôkoso) (2010),Adventure|Animation|Sci-Fi
+98695,Space Adventure Cobra (1982),Animation|Sci-Fi
+98975,Antiviral (2012),Horror|Sci-Fi|Thriller
+98989,Ghost Machine (2009),Action|Sci-Fi|Thriller
+99258,Who Wants to Kill Jessie? (Kdo chce zabít Jessii?) (1966),Comedy|Sci-Fi
+99329,Xtro 2: The Second Encounter (1991),Horror|Sci-Fi
+99331,Xtro 3: Watch the Skies (1995),Horror|Sci-Fi
+99347,Glenn. the Flying Robot (2010),Sci-Fi
+99351,Slipstream (1989),Adventure|Sci-Fi
+99380,New Barbarians. The (I nuovi barbari) (1983),Action|Sci-Fi|Thriller|Western
+99387,Transfer (2010),Drama|Sci-Fi
+99395,Time of Roses (Ruusujen aika) (1969),Sci-Fi
+99397,Lipton Cockton in the Shadows of Sodoma (1995),Drama|Mystery|Sci-Fi
+99537,Extracted (2012),Drama|Sci-Fi
+99596,Sun Wind (Aurinkotuuli) (1980),Drama|Sci-Fi
+99609,Judas Kiss (2011),Drama|Sci-Fi
+99739,Warrior and the Sorceress. The (1984),Action|Adventure|Fantasy|Sci-Fi
+99764,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi
+99853,Codependent Lesbian Space Alien Seeks Same (2011),Comedy|Romance|Sci-Fi
+99901,O Panishyros Megistanas Ton Ninja (2008),Action|Comedy|Sci-Fi
+99917,Upstream Color (2013),Romance|Sci-Fi|Thriller
+100010,Battle of Los Angeles (2011),Action|Sci-Fi
+100089,Star Wars Uncut: Director's Cut (2012),Action|Animation|Comedy|Sci-Fi|Western
+100093,Death Race 3: Inferno (2012),Action|Sci-Fi|Thriller
+100173,Stonehenge Apocalypse (2010),Sci-Fi
+100198,Ah of Life. The (2010),Drama|Romance|Sci-Fi
+100302,Upside Down (2012),Drama|Romance|Sci-Fi
+100423,Rage. The (2007),Horror|Sci-Fi
+100450,Battlestar Galactica: Blood & Chrome (2012),Sci-Fi
+100452,Devil's Tomb. The (2009),Action|Horror|Sci-Fi|Thriller
+100579,Universal Soldier: Day of Reckoning (2012),Action|Sci-Fi|Thriller
+100611,Escape from Planet Earth (2013),Adventure|Animation|Comedy|Sci-Fi
+100723,How to Make a Monster (2001),Horror|Sci-Fi
+100729,Starship Troopers: Invasion (2012),Action|Animation|Sci-Fi|War
+100810,Dark Skies (2013),Horror|Sci-Fi|Thriller
+101076,G.I. Joe: Retaliation (2013),Action|Adventure|Sci-Fi|Thriller|IMAX
+101127,Tripping the Rift: The Movie (2008),Animation|Comedy|Sci-Fi
+101182,Trial of the Incredible Hulk. The (1989),Action|Crime|Sci-Fi
+101287,Red Spectacles. The (Jigoku no banken: akai megane) (1987),Comedy|Drama|Sci-Fi
+101289,Stray Dog: Kerberos Panzer Cops (Jigoku no banken: kerubersu) (1991),Comedy|Drama|Sci-Fi
+101355,Outlaw of Gor (1988),Action|Fantasy|Sci-Fi
+101614,Riverworld (2010),Drama|Sci-Fi
+101708,009 Re: Cyborg (2012),Action|Animation|Sci-Fi
+101719,Koi... Mil Gaya (2003),Action|Adventure|Fantasy|Sci-Fi
+101747,War of the Gargantuas. The (Furankenshutain no kaijû: Sanda tai Gaira) (1968),Horror|Sci-Fi
+101864,Oblivion (2013),Action|Adventure|Sci-Fi|IMAX
+101878,God's Puzzle (Kamisama no pazuru) (2008),Drama|Sci-Fi
+101967,Battle in Outer Space (1959),Adventure|Sci-Fi
+101989,Konga (1961),Horror|Sci-Fi
+101991,H-Man. The (Bijo to Ekitainingen) (1958),Horror|Mystery|Sci-Fi|Thriller
+102025,Yongary: Monster from the Deep (1967),Children|Horror|Sci-Fi
+102060,Planet Hulk (2010),Animation|Sci-Fi
+102070,Grabbers (2012),Comedy|Horror|Sci-Fi
+102090,Magnetic Monster. The (1953),Sci-Fi
+102113,One-Eyed Monster (2008),Comedy|Horror|Sci-Fi
+102119,Yesterday Was a Lie (2008),Drama|Film-Noir|Mystery|Romance|Sci-Fi
+102125,Iron Man 3 (2013),Action|Sci-Fi|Thriller|IMAX
+102156,Zombies of the Stratosphere (1952),Adventure|Sci-Fi|Thriller
+102190,20.000 Leagues Under the Sea (1997),Adventure|Romance|Sci-Fi
+102342,Descendant of the Sun (Ri jie) (1983),Action|Adventure|Fantasy|Sci-Fi
+102390,Fortress 2 (2000),Action|Sci-Fi
+102425,Lady Terminator (Pembalasan ratu pantai selatan) (1989),Action|Adventure|Horror|Sci-Fi|Thriller
+102445,Star Trek Into Darkness (2013),Action|Adventure|Sci-Fi|IMAX
+102758,Lathe of Heaven (2002),Sci-Fi
+102779,Twonky. The (1953),Comedy|Sci-Fi
+102817,Cell Count (2012),Horror|Sci-Fi
+102848,Armageddon 2012 (2012),Sci-Fi
+102880,After Earth (2013),Action|Adventure|Sci-Fi|IMAX
+103042,Man of Steel (2013),Action|Adventure|Fantasy|Sci-Fi|IMAX
+103105,Tetsuo III: The Bullet Man (2009),Action|Horror|Sci-Fi
+103228,Pacific Rim (2013),Action|Adventure|Sci-Fi|IMAX
+103253,Elysium (2013),Action|Drama|Sci-Fi|IMAX
+103306,Europa Report (2013),Sci-Fi|Thriller
+103324,Vampire. The (1957),Horror|Sci-Fi|Thriller
+103341,World's End. The (2013),Action|Comedy|Sci-Fi
+103489,Arctic Blast (2010),Sci-Fi|Thriller
+103590,Gagarin: First in Space (2013),Drama|Sci-Fi
+103593,Taming the Fire (Ukroshcheniye ognya) (1972),Documentary|Drama|Sci-Fi
+103596,Sharknado (2013),Sci-Fi
+103621,Brain Dead (1990),Horror|Sci-Fi
+103645,Terror Within. The (1989),Horror|Sci-Fi
+103651,Tai Chi Hero (2012),Action|Comedy|Drama|Fantasy|Sci-Fi|IMAX
+103659,Justice League: The Flashpoint Paradox (2013),Action|Adventure|Animation|Fantasy|Sci-Fi
+103721,Love (2011),Drama|Sci-Fi
+103727,Colony. The (2013),Action|Horror|Sci-Fi|Thriller
+103772,Wolverine. The (2013),Action|Adventure|Fantasy|Sci-Fi
+103774,Sol (2012) ,Sci-Fi
+103869,Bigfoot (2012),Adventure|Horror|Sci-Fi
+103972,Last Days. The (Últimos días. Los) (2013),Adventure|Sci-Fi|Thriller
+103982,Frankenstein's Army (2013),Action|Horror|Sci-Fi
+104000,And You Thought Your Parents Were Weird (1991),Children|Comedy|Sci-Fi
+104017,3 dev adam (Three Giant Men) (1973) ,Action|Adventure|Sci-Fi
+104039,Arena (1989),Sci-Fi
+104041,Arrival II (1998),Action|Adventure|Sci-Fi
+104085,Class of 1999 (1990),Action|Horror|Sci-Fi
+104135,Giant Claw. The (1957),Horror|Sci-Fi
+104139,Werewolf. The (1956),Horror|Sci-Fi
+104153,Creature with the Atom Brain (1955),Crime|Horror|Sci-Fi
+104181,Class of 1999 II: The Substitute (1994),Action|Horror|Sci-Fi|Thriller
+104243,Riddick (2013),Action|Sci-Fi|Thriller|IMAX
+104419,Justice League: Crisis on Two Earths (2010),Action|Animation|Sci-Fi
+104552,Crawlspace (2012),Horror|Mystery|Sci-Fi|Thriller
+104556,Ghostmaker. The (Box of Shadows) (2011),Horror|Sci-Fi|Thriller
+104561,Mutants (2009),Horror|Sci-Fi
+104610,Komodo (1999),Horror|Sci-Fi|Thriller
+104638,Planet of the Future. The (2010),Action|Adventure|Sci-Fi
+104667,Naked Souls (1996),Sci-Fi|Thriller
+104677,King Cobra (1999),Horror|Sci-Fi
+104701,Zapped Again! (1990),Comedy|Sci-Fi
+104780,Mystery of the Third Planet. The (Tayna tretey planety) (1981),Adventure|Animation|Sci-Fi
+104813,Bad Girl Island (Sirens of Eleuthera) (Sirens of the Caribbean) (2007),Mystery|Sci-Fi
+104835,Incredible Melting Man. The (1977),Horror|Sci-Fi
+104841,Gravity (2013),Action|Sci-Fi|IMAX
+104870,Deathsport (1978),Action|Sci-Fi
+104875,History of Future Folk. The (2012),Adventure|Comedy|Musical|Sci-Fi
+104984,Tears of Steel (2012),Sci-Fi
+104993,Jungleground (1995),Action|Sci-Fi|Thriller
+105040,Dragon Day (2013),Drama|Sci-Fi|Thriller
+105165,World Without End (1956),Sci-Fi
+105178,Killers from Space (1954),Sci-Fi
+105181,Monster That Challenged the World. The (1957),Horror|Sci-Fi
+105308,Scanners II: The New Order (1991),Action|Horror|Sci-Fi
+105310,Scanners III: The Takeover (Scanner Force) (1991),Action|Horror|Sci-Fi
+105379,Monitors. The (1969),Comedy|Sci-Fi
+105450,Jessie James Meets Frankenstein's Daughter (1966),Sci-Fi|Western
+105519,Philosophers. The (After The Dark) (2013),Drama|Fantasy|Sci-Fi
+105521,It's Me. It's Me (Ore Ore) (2013),Comedy|Drama|Sci-Fi
+105579,Zombie Apocalypse (2011),Action|Horror|Sci-Fi
+105761,Blood Suckers from Outer Space (1984),Comedy|Horror|Sci-Fi
+105769,Congress. The (2013),Animation|Sci-Fi
+105776,Trip to Mars. A (1910),Sci-Fi
+105803,Frankenstein Conquers the World (1965),Action|Drama|Sci-Fi
+105811,Godzilla vs. Megaguirus (Gojira tai Megagirasu: Jî shômetsu sakusen) (2000),Action|Sci-Fi
+105813,Godzilla vs. Megalon (Gojira tai Megaro) (1973),Action|Sci-Fi
+105827,Rebirth of Mothra (1996),Action|Fantasy|Sci-Fi
+105837,Godzilla vs. SpaceGodzilla (Gojira VS Supesugojira) (1994),Action|Sci-Fi
+105936,Space Amoeba (Yog: Monster from Space) (1970),Action|Sci-Fi
+105938,Varan the Unbelievable (1958),Action|Drama|Sci-Fi
+105948,Alien Space Avenger (1989),Comedy|Horror|Sci-Fi
+105963,Rebirth of Mothra III (1998),Action|Fantasy|Sci-Fi
+105980,Borrower. The (1991),Comedy|Horror|Sci-Fi
+106002,Ender's Game (2013),Action|Adventure|Sci-Fi|IMAX
+106030,Last Days on Mars. The (2013),Horror|Sci-Fi
+106094,Godzilla: Tokyo S.O.S. (Gojira tai Mosura tai Mekagojira: Tôkyô S.O.S.) (2003),Action|Fantasy|Sci-Fi
+106210,Errors of the Human Body (2012) ,Drama|Sci-Fi|Thriller
+106240,Free Birds (2013),Action|Adventure|Animation|Children|Comedy|Sci-Fi
+106243,Godzilla Against MechaGodzilla (Gojira tai Mekagojira) (2002),Action|Sci-Fi|Thriller
+106245,Latitude Zero (Ido zero daisakusen) (1969),Action|Adventure|Sci-Fi
+106295,Castle of the Living Dead (Castello Dei Morti Vivi. Il) (1964),Horror|Sci-Fi|Thriller
+106487,The Hunger Games: Catching Fire (2013),Action|Adventure|Sci-Fi|IMAX
+106521,Beyond the Time Barrier (1960),Sci-Fi
+106523,Flight That Disappeared. The (1961),Adventure|Fantasy|Sci-Fi
+106529,Dominion Tank Police (Dominion) (1988),Action|Animation|Comedy|Sci-Fi
+106561,Krrish 3 (2013),Action|Adventure|Fantasy|Sci-Fi
+106616,End of the World (1977),Mystery|Sci-Fi|Thriller
+106620,Z.P.G. (1972),Sci-Fi|Thriller
+106642,Day of the Doctor. The (2013),Adventure|Drama|Sci-Fi
+106729,Galaxy Invader. The (1985),Sci-Fi
+106762,Trigun: Badlands Rumble (2010),Action|Animation|Sci-Fi|Western
+106794,Cyberjack (Virtual Assassin) (1995),Action|Sci-Fi
+106848,Gamera: The Giant Monster (Daikaijû Gamera) (1965),Sci-Fi
+106906,Gamera vs. Barugon (1966),Action|Fantasy|Sci-Fi
+106920,Her (2013),Drama|Romance|Sci-Fi
+106927,RoboGeisha (Robo-geisha) (2009),Action|Comedy|Sci-Fi
+106981,Cosmonaut. The (2013),Drama|Sci-Fi
+107106,Dead Weekend (1995),Comedy|Sci-Fi
+107137,Star Trek: Of Gods and Men (2007),Action|Adventure|Sci-Fi
+107153,Frozen Dead. The (1966),Horror|Sci-Fi
+107155,Captive Women (1000 Years from Now) (3000 A.D.) (1952),Sci-Fi
+107232,Deadly Spawn. The (1983),Horror|Sci-Fi
+107248,Night of the Hunted. The (Nuit des traquées. La) (1980),Horror|Sci-Fi
+107304,Gurren Lagann: Childhood's End (Gekijô ban Tengen toppa guren ragan: Guren hen) (2008),Adventure|Animation|Drama|Sci-Fi|War
+107306,Gurren Lagann: The Lights in the Sky are Stars (Gekijô ban Tengen toppa guren ragan: Ragan hen) (2009),Adventure|Animation|Drama|Sci-Fi|War
+107406,Snowpiercer (2013),Action|Drama|Sci-Fi
+107410,Guest from the Future (Gostya iz buduschego) (1985),Adventure|Drama|Sci-Fi
+107418,Phase 7 (2011),Comedy|Sci-Fi|Thriller
+107546,Everything Happens to Me (a.k.a. Why Did You Pick on Me?) (Chissà perché... capitano tutte a me) (1980),Children|Comedy|Sci-Fi
+107548,Ice Quake (2010) ,Action|Sci-Fi|Thriller
+107551,Snow Beast (2011) ,Drama|Sci-Fi|Thriller
+107610,Alien Cargo (1999),Sci-Fi
+107634,Grand Tour: Disaster in Time (Timescape) (1992),Children|Sci-Fi
+107677,Human Race. The (2013),Action|Horror|Sci-Fi
+107737,Bounty Killer (2013),Action|Sci-Fi|Thriller
+107782,Gold (1934),Crime|Sci-Fi
+107858,Earth vs. the Spider (2001),Horror|Sci-Fi|Thriller
+107869,Goliath Awaits (1981),Drama|Sci-Fi|War
+107877,The Valley of Gwangi (1969),Sci-Fi|Thriller|Western
+107879,Voyage to the Prehistoric Planet (1965),Adventure|Sci-Fi
+107894,Killings at Outpost Zeta. The (1980),Drama|Sci-Fi
+107897,Expect No Mercy (1995),Action|Sci-Fi
+107982,Sand Sharks (2011),Comedy|Horror|Sci-Fi|Thriller
+108085,+1 (2013),Sci-Fi|Thriller
+108153,Travelling Salesman (2012),Drama|Mystery|Sci-Fi|Thriller
+108190,Divergent (2014),Adventure|Romance|Sci-Fi|IMAX
+108196,Starflight: The Plane That Couldn't Land (1983),Drama|Sci-Fi
+108255,Venus Wars (Venus Senki) (1989),Action|Animation|Sci-Fi|War
+108501,Justice League: War (2014),Action|Adventure|Animation|Fantasy|Sci-Fi
+108503,Gamera vs. Viras (1968) ,Action|Sci-Fi
+108590,Full Eclipse (1993),Crime|Horror|Sci-Fi
+108597,Space Raiders (1983),Action|Adventure|Sci-Fi|Western
+108689,I. Frankenstein (2014),Action|Fantasy|Sci-Fi|IMAX
+108696,From the Earth to the Moon (1958),Adventure|Fantasy|Sci-Fi
+108699,Astounding She-Monster. The (Naked Invader. The) (1957),Crime|Horror|Sci-Fi
+108719,Snakehead Terror (2004),Action|Horror|Sci-Fi|Thriller
+108804,Android Apocalypse (2006),Sci-Fi|Thriller
+108945,RoboCop (2014),Action|Crime|Sci-Fi|IMAX
+108979,Cowboy Bebop (1998),Action|Adventure|Animation|Crime|Sci-Fi
+109187,Zero Theorem. The (2013),Drama|Fantasy|Sci-Fi
+109207,Super Inframan. The (Zhong guo chao ren) (1975),Action|Fantasy|Sci-Fi
+109277,Love Story 2050 (2008),Adventure|Comedy|Musical|Romance|Sci-Fi
+109287,Ultraman (Chôhen kaijû eiga: Urutoraman) (1967),Action|Fantasy|Sci-Fi
+109319,Gamera the Brave (2006),Action|Sci-Fi
+109487,Interstellar (2014),Sci-Fi|IMAX
+109602,Monster X Strikes Back: Attack the G8 Summit. The (Girara no gyakushû: Tôya-ko Samitto kikiippatsu) (2008),Comedy|Sci-Fi
+109649,Bionicle: The Legend Reborn (2009),Action|Adventure|Animation|Sci-Fi
+109713,Star Wars: Threads of Destiny (2014),Action|Adventure|Sci-Fi
+109733,Captain EO (1986),Adventure|Children|Comedy|Musical|Sci-Fi
+109767,Toomorrow (1970),Comedy|Musical|Sci-Fi
+109793,Queen of Outer Space (1958),Adventure|Fantasy|Sci-Fi
+109802,Man from the Future. The (O Homem do Futuro) (2011),Comedy|Fantasy|Sci-Fi
+109848,Under the Skin (2013),Horror|Sci-Fi|Thriller
+110039,Space Pirate Captain Harlock (2013),Animation|Sci-Fi
+110102,Captain America: The Winter Soldier (2014),Action|Adventure|Sci-Fi|IMAX
+110119,Mass Effect: Paragon Lost (2012),Action|Animation|Sci-Fi
+110132,Avengers Confidential: Black Widow & Punisher (2014),Action|Animation|Sci-Fi
+110181,Green Slime. The (1968),Drama|Horror|Sci-Fi
+110407,Machine. The (2013),Sci-Fi|Thriller
+110505,Sparks (2013),Action|Fantasy|Mystery|Sci-Fi|Thriller
+110508,Trancers II (1991),Action|Sci-Fi
+110553,The Amazing Spider-Man 2 (2014),Action|Sci-Fi|IMAX
+110568,Terror Beneath the Sea. The (Kaitei daisensô) (1966),Action|Sci-Fi
+110580,Trancers III (1992),Action|Horror|Sci-Fi
+110601,Cosmic Monster. The (1958),Drama|Horror|Sci-Fi
+110607,Dinoshark (2010),Horror|Sci-Fi
+110631,American Cyborg: Steel Warrior (1993),Action|Sci-Fi
+110730,Transcendence (2014),Drama|Sci-Fi|IMAX
+110769,Bullet Ballet (1998),Crime|Drama|Sci-Fi|Thriller
+110975,Donovan's Echo (2011),Drama|Sci-Fi|Thriller
+110984,Age of Dinosaurs (2013),Action|Sci-Fi
+111036,Attack from Space (1965),Action|Sci-Fi
+111126,Gladiators. The (Gladiatorerna) (1969),Drama|Sci-Fi
+111233,Tentacles (Tentacoli) (1977),Horror|Sci-Fi|Thriller
+111235,Jodorowsky's Dune (2013),Documentary|Sci-Fi
+111316,Atomic Rulers of the World (1965),Action|Sci-Fi
+111318,City Under Siege (Chun sing gai bei) (2010),Action|Sci-Fi
+111360,Lucy (2014),Action|Sci-Fi
+111362,X-Men: Days of Future Past (2014),Action|Adventure|Sci-Fi
+111364,Godzilla (2014),Action|Adventure|Sci-Fi|IMAX
+111447,Treasure Hunter. The (Ci ling) (2009),Action|Adventure|Fantasy|Romance|Sci-Fi
+111519,Johnny Express (2014),Animation|Comedy|Sci-Fi
+111542,Invaders from Space (1965),Action|Sci-Fi
+111551,Afflicted (2013),Horror|Sci-Fi|Thriller
+111595,Gen-Y Cops (Te jing xin ren lei 2) (Gen-X Cops 2: Metal Mayhem) (Metal Mayhem) (2000),Action|Sci-Fi
+111628,Mega Python vs. Gatoroid (2011),Action|Horror|Sci-Fi
+111630,Big Ass Spider! (2013),Comedy|Sci-Fi
+111759,Edge of Tomorrow (2014),Action|Sci-Fi|IMAX
+111861,Battle of the Damned (2013),Action|Adventure|Horror|Sci-Fi|Thriller
+112081,Shape of Things to Come. The (1979),Sci-Fi
+112087,Frequencies (2013),Mystery|Romance|Sci-Fi
+112247,Mind of Mr. Soames. The (1970),Drama|Sci-Fi
+112326,Nick Fury: Agent of S.H.I.E.L.D. (1998),Action|Sci-Fi
+112370,Transformers: Age of Extinction (2014),Action|Adventure|Sci-Fi
+112389,Attack of the 50 Ft. Woman (1993),Comedy|Sci-Fi
+112506,Radio Free Albemuth (2010),Drama|Sci-Fi
+112623,Dawn of the Planet of the Apes (2014),Sci-Fi
+112637,Ultimate Warrior. The (1975),Action|Sci-Fi|Thriller
+112640,Ra.One (2011),Action|Musical|Sci-Fi
+112705,Beast with a Million Eyes. The (1955),Sci-Fi
+112772,Brain. The (1988),Horror|Sci-Fi
+112792,Operation Ganymed (1977),Sci-Fi
+112804,I Origins (2014),Drama|Sci-Fi
+112807,Gunbuster (Top wo Narae) (1988),Action|Animation|Drama|Sci-Fi
+112809,"Diebuster ""Top wo Narae 2"" (2004)",Action|Animation|Drama|Sci-Fi
+112852,Guardians of the Galaxy (2014),Action|Adventure|Sci-Fi
+112868,Signal. The (2014),Sci-Fi|Thriller
+112953,Valley of the Dragons (1961),Sci-Fi
+113022,The Visitor (1979),Horror|Sci-Fi
+113071,Earth to Echo (2014),Adventure|Children|Sci-Fi
+113107,Invasion of the Star Creatures (1962),Comedy|Sci-Fi
+113109,Gog (1954),Drama|Horror|Romance|Sci-Fi|Thriller
+113130,Sharktopus vs. Pteracuda (2014),Sci-Fi
+113143,America 3000 (1986),Action|Adventure|Sci-Fi
+113218,Space Milkshake (2012),Comedy|Sci-Fi
+113345,Jupiter Ascending (2015),Action|Adventure|Sci-Fi
+113350,I'll Follow You Down (2013),Drama|Mystery|Sci-Fi
+113378,Giver. The (2014),Drama|Sci-Fi
+113501,Appleseed Alpha (2014),Action|Animation|Sci-Fi
+113549,Captain Nemo and the Underwater City (1969),Adventure|Children|Fantasy|Sci-Fi
+113557,Age of Tomorrow (2014),Action|Sci-Fi|Thriller
+113709,Trans-Atlantic Tunnel (Tunnel. The) (1935),Drama|Sci-Fi
+113741,Coherence (2013),Drama|Mystery|Sci-Fi|Thriller
+113853,Antisocial (2013),Horror|Sci-Fi|Thriller
+113889,Angry Video Game Nerd: The Movie (2014),Adventure|Comedy|Sci-Fi
+113968,2081 (2009),Action|Sci-Fi
+114013,Atlas Shrugged: Who Is John Galt? (Atlas Shrugged: Part III) (2014),Drama|Mystery|Sci-Fi
+114093,Camel Spiders (2011),Horror|Sci-Fi
+114130,20.000 Leagues Under the Sea (1997),Romance|Sci-Fi
+114161,Aftermath: Population Zero (2008),Documentary|Sci-Fi
+114166,Groundstar Conspiracy. The (1972),Action|Crime|Mystery|Romance|Sci-Fi|Thriller
+114180,Maze Runner. The (2014),Action|Mystery|Sci-Fi
+114214,Mishen (Target) (2011),Drama|Sci-Fi
+114242,Sharknado 2: The Second One (2014),Horror|Sci-Fi|Thriller
+114640,51 (2011),Horror|Sci-Fi
+114659,Cabin Fever: Patient Zero (2014),Horror|Sci-Fi|Thriller
+114704,Space Station 76 (2014),Comedy|Drama|Sci-Fi
+114793,Time of Eve (Eve no jikan) (2010),Animation|Romance|Sci-Fi
+114845,Rat Savior. The (Izbavitelj) (1976),Horror|Sci-Fi
+114847,Autómata (Automata) (2014),Sci-Fi|Thriller
+114873,Stereo (1969),Sci-Fi
+114875,Crimes of the Future (1970),Comedy|Sci-Fi
+114928,Scribbler. The (2014),Sci-Fi|Thriller
+114935,Predestination (2014),Action|Mystery|Sci-Fi|Thriller
+115021,Alien Nation: The Udara Legacy (1997),Sci-Fi
+115023,Alien Predator (Mutant II) (Falling. The) (1985),Drama|Horror|Sci-Fi
+115235,Young Ones (2014),Drama|Sci-Fi|Western
+115283,Purple Ball. The (Lilovyy shar) (1987),Fantasy|Sci-Fi
+115376,Black Sleep. The (1956),Horror|Sci-Fi
+115414,Left Behind (2014),Action|Sci-Fi|Thriller
+115471,Extraterrestrial (2014),Horror|Sci-Fi
+115479,Whip Hand. The (1951),Action|Adventure|Crime|Drama|Sci-Fi|Thriller|War
+115504,Alien Abduction (2014),Horror|Mystery|Sci-Fi
+115522,Creeping Terror. The (Crawling Monster. The) (1964),Horror|Sci-Fi
+115609,Darkside Blues (Dâkusaido burûsu) (1994),Animation|Sci-Fi
+115611,Felix the Cat: The Movie (1988),Adventure|Animation|Children|Fantasy|Musical|Sci-Fi
+115622,Disaster L.A. (2014),Action|Horror|Sci-Fi
+115680,Time Lapse (2014),Crime|Drama|Sci-Fi|Thriller
+115685,National Theatre Live: Frankenstein (2011),Drama|Sci-Fi
+115713,Ex Machina (2015),Drama|Sci-Fi|Thriller
+115927,Doctor Strange (2007),Action|Animation|Children|Fantasy|Sci-Fi
+115931,LEGO Hero Factory: Savage Planet (2011),Action|Adventure|Animation|Children|Sci-Fi
+115949,An American Tail: The Mystery of the Night Monster (1999),Adventure|Animation|Children|Fantasy|Mystery|Sci-Fi
+115951,Stranded (2013),Horror|Sci-Fi
+116000,Starship Invasions (1977),Sci-Fi
+116038,Chile can do it (2008),Comedy|Sci-Fi
+116157,Electronic Labyrinth THX 1138 4EB (1967),Sci-Fi
+116215,Ultramarines: A Warhammer 40.000 Movie (2010),Animation|Sci-Fi
+116331,Cyborg 3: The Recycler (1995),Action|Sci-Fi
+116666,Dr Jekyll & Sister Hyde (1971),Horror|Sci-Fi
+116680,Twice-Told Tales (1963),Horror|Mystery|Romance|Sci-Fi
+116682,Decoder (1984),Horror|Mystery|Sci-Fi
+116700,Elle: A Modern Cinderella Tale (2011),Children|Drama|Fantasy|Sci-Fi
+116720,The Inhabited Island 2: Rebellion (2009),Action|Adventure|Sci-Fi
+116758,Death Racers (2008),Action|Adventure|Comedy|Sci-Fi|Thriller
+116809,Curse of the Fly (1965),Horror|Sci-Fi
+116813,The Brides of Fu Manchu (1966),Action|Crime|Horror|Sci-Fi
+116819,Jackboots on Whitehall (2011),Animation|Comedy|Sci-Fi|War
+116823,The Hunger Games: Mockingjay - Part 1 (2014),Adventure|Sci-Fi|Thriller
+116825,Those Fantastic Flying Fools (1967),Adventure|Comedy|Fantasy|Sci-Fi
+116901,Ambition (2014),Sci-Fi
+116905,Patema Inverted (2013),Adventure|Animation|Drama|Fantasy|Sci-Fi
+116935,Riley Rewind (2013),Drama|Sci-Fi
+116941,Jetsons: The Movie (1990),Animation|Children|Comedy|Musical|Sci-Fi
+117358,20th Century Boys - Chapter 1: Beginning of the End (2008),Adventure|Mystery|Sci-Fi
+117446,Expelled from Paradise (2014),Animation|Sci-Fi
+117474,Iceman (2014),Action|Comedy|Sci-Fi
+117490,Alien Nation: Dark Horizon (1994),Drama|Sci-Fi
+117492,Alien Nation: Body and Soul (1995),Sci-Fi
+117494,Alien Nation: The Enemy Within (1996),Sci-Fi
+117496,Alien Nation: Millennium (1996),Sci-Fi
+117529,Jurassic World (2015),Action|Adventure|Drama|Sci-Fi|Thriller
+117576,Pumzi (2009),Sci-Fi
+117642,Dr. Jekyll and Mr. Hyde (2008),Drama|Horror|Sci-Fi|Thriller
+117692,Endangered Species (2003),Horror|Sci-Fi|Thriller
+117838,Lucia (2013),Drama|Romance|Sci-Fi|Thriller
+118057,The Love Factor (1969),Comedy|Fantasy|Sci-Fi
+118109,State of Emergency (2011),Sci-Fi|Thriller
+118177,Baffled! (1973),Mystery|Sci-Fi|Thriller
+118244,Wanderers (2014),Animation|Sci-Fi
+118276,Shadowzone (1990),Horror|Sci-Fi
+118290,Omega Doom (1996),Sci-Fi
+118338,Hard to Be a God (2013),Sci-Fi
+118344,Spontaneous Combustion (1990),Horror|Sci-Fi|Thriller
+118792,House of the Dead 2 (2005),Action|Horror|Sci-Fi|Thriller
+118972,Don't Blink (2014),Horror|Mystery|Sci-Fi
+119139,Ascension (2014),Drama|Sci-Fi
+119149,Madonna's Pig (2011),Fantasy|Romance|Sci-Fi
+119167,Paradox (2010),Sci-Fi|Thriller
+119575,An American Hippie in Israel (1972),Action|Comedy|Sci-Fi
+119595,Deceit (1992),Sci-Fi
+119705,Piranhaconda (2012),Horror|Sci-Fi
+119798,Final (2001),Drama|Sci-Fi|Thriller
+119856,Hands of Steel (1986),Action|Sci-Fi
+119870,The Fishmen and Their Queen (1995),Adventure|Horror|Sci-Fi
+119975,Silent Night. Deadly Night 5: The Toy Maker (1991),Horror|Sci-Fi
+120128,Everything I Can See From Here (2013),Adventure|Animation|Drama|Sci-Fi
+120210,Flesh Wounds (2011),Action|Sci-Fi|Thriller
+120317,Thunderpants (2002),Children|Comedy|Sci-Fi
+120321,Island of Terror (1966),Horror|Sci-Fi
+120323,Moon Man (2012),Animation|Sci-Fi
+120392,Comet (2014),Comedy|Drama|Romance|Sci-Fi
+120420,Futuresport (1998),Action|Sci-Fi|Thriller
+120462,The Invisible Boy (2014),Fantasy|Sci-Fi
+120476,Implanted (2013),Drama|Mystery|Sci-Fi|Thriller
+120789,City in the Sea (1965),Adventure|Fantasy|Sci-Fi
+120799,Terminator Genisys (2015),Action|Adventure|Sci-Fi|Thriller
+120833,Super Capers (2009),Action|Adventure|Comedy|Fantasy|Sci-Fi
+120841,Frankenstein (2004),Drama|Horror|Sci-Fi|Thriller
+120857,Bloodsuckers (2005),Action|Horror|Sci-Fi
+121111,V (1983),Drama|Sci-Fi
+121117,Highlander: The Source (2007),Action|Adventure|Fantasy|Sci-Fi
+121143,Flu (2013),Action|Drama|Sci-Fi
+121159,V: The Final Battle (1984),Action|Sci-Fi
+121209,Unearthed (2007),Horror|Mystery|Sci-Fi|Thriller
+121235,The Anomaly (2014),Action|Sci-Fi|Thriller
+121257,The Alternate (2012),Action|Sci-Fi|Thriller
+121277,U.F.O. (2012),Action|Sci-Fi
+121304,Time Freak (2011),Comedy|Sci-Fi
+121312,Planet of Dinosaurs (1977),Drama|Sci-Fi
+121447,The Bride (1985),Horror|Romance|Sci-Fi|Thriller
+121463,The End (2012),Drama|Sci-Fi|Thriller
+121477,Python (2000),Comedy|Horror|Sci-Fi|Thriller
+121527,Battle of the Stars (1978),Action|Sci-Fi
+121533,War of the Planets (1977),Adventure|Sci-Fi
+121549,Super Stooges vs the Wonder Women (1974),Action|Adventure|Comedy|Fantasy|Sci-Fi
+121835,The Green Hornet (1974),Action|Crime|Sci-Fi
+122037,The Bone Snatcher (2003),Horror|Sci-Fi
+122050,The Gene Generation (2007),Action|Sci-Fi
+122244,Master of the World (1961),Adventure|Fantasy|Sci-Fi
+122264,Knights (1993),Action|Adventure|Sci-Fi
+122280,Sabretooth (2002),Action|Adventure|Horror|Sci-Fi|Thriller
+122288,The Captains (2011),Documentary|Sci-Fi
+122319,Ice Soldiers (2013),Action|Sci-Fi
+122381,TekWar: TekJustice (1994),Sci-Fi
+122421,The Six Million Dollar Man (1973),Adventure|Sci-Fi
+122435,They Came from Beyond Space (1967),Sci-Fi
+122441,Tales That Witness Madness (1973),Comedy|Horror|Mystery|Sci-Fi
+122458,Supernova (2005),Action|Drama|Sci-Fi
+122466,JLA Adventures: Trapped in Time (2014),Action|Animation|Sci-Fi
+122480,Hercules and the Amazon Women (1994),Action|Adventure|Fantasy|Sci-Fi
+122517,Air Buddies (2006),Children|Comedy|Sci-Fi
+122579,TekWar: TekLab (1994),Sci-Fi
+122583,TekWar: TekLords (1994),Sci-Fi
+122593,The Underneath (2013),Horror|Sci-Fi|Thriller
+122729,Oblivion (1994),Action|Documentary|Sci-Fi
+122754,Nemesis 3: Time Lapse (1996),Action|Sci-Fi|Thriller
+122762,My Brother the Pig (1999),Children|Comedy|Fantasy|Sci-Fi
+122774,Monster (2008),Action|Horror|Sci-Fi
+122801,Sands Of Oblivion (2007),Action|Adventure|Drama|Horror|Sci-Fi
+122882,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller
+122886,Star Wars: Episode VII - The Force Awakens (2015),Action|Adventure|Fantasy|Sci-Fi|IMAX
+122892,Avengers: Age of Ultron (2015),Action|Adventure|Sci-Fi
+122900,Ant-Man (2015),Action|Adventure|Sci-Fi
+122902,Fantastic Four (2015),Action|Adventure|Fantasy|Sci-Fi
+122904,Deadpool (2016),Action|Adventure|Comedy|Sci-Fi
+122920,Captain America: Civil War (2016),Action|Sci-Fi|Thriller
+122924,X-Men: Apocalypse (2016),Action|Adventure|Fantasy|Sci-Fi
+123024,Man Made Monster (1941),Drama|Horror|Sci-Fi|Thriller
+123109,P.U.N.K.S (1999),Children|Comedy|Sci-Fi
+123159,Hercules and the Lost Kingdom (1994),Action|Adventure|Fantasy|Sci-Fi
+123165,Mongolian Death Worm (2010),Horror|Sci-Fi
+123174,The Facility (2012),Horror|Sci-Fi
+123192,The Land Before Time XI: Invasion of the Tinysauruses (2005),Animation|Children|Fantasy|Sci-Fi
+123288,Taken (2002),Sci-Fi
+123300,The Incredible 2-Headed Transplant (1971),Horror|Sci-Fi
+123337,I Accuse (1938),Drama|Horror|Sci-Fi|War
+123429,Curtain Call (1998),Romance|Sci-Fi
+123449,Talking to Heaven (2002),Crime|Drama|Mystery|Sci-Fi|Thriller
+123477,The Land Before Time XII: The Great Day of the Flyers (2006),Animation|Children|Sci-Fi
+123555,Invasion (1997),Drama|Sci-Fi|Thriller
+123563,48 Weeks Later (2006),Action|Adventure|Horror|Sci-Fi
+123565,Hercules in the Underworld (1994),Action|Adventure|Fantasy|Sci-Fi
+123731,Mad About Men (1954),Comedy|Drama|Fantasy|Romance|Sci-Fi
+123739,Scared To Death (1981),Drama|Horror|Sci-Fi
+123785,Riverworld (2003),Fantasy|Sci-Fi|Thriller
+123848,Mark of the Astro-Zombies (2002),Horror|Sci-Fi
+124048,Alice in Wonderland (1966),Children|Fantasy|Sci-Fi
+124085,Project Shadowchaser III (1995),Horror|Sci-Fi|Thriller
+124129,Menno's Mind (1997),Sci-Fi|Thriller
+124172,Vicious Lips (1986),Comedy|Horror|Sci-Fi
+124235,Precious Find (1996),Action|Sci-Fi
+124296,Invasion. U.S.A. (1952),Sci-Fi
+124507,Journey to the Center of the Earth (1989),Action|Children|Fantasy|Sci-Fi
+124554,Holocaust 2000 (1977),Drama|Horror|Sci-Fi
+124751,The Mysterious Island (1973),Adventure|Sci-Fi
+124851,Delirium (2014),Adventure|Romance|Sci-Fi
+124855,Moon Zero Two (1969),Sci-Fi
+124863,Chosen Survivors (1974),Horror|Sci-Fi
+125081,Mars (1968),Documentary|Sci-Fi
+125205,TekWar (1994),Sci-Fi
+125221,The Beast of Hollow Mountain (1956),Horror|Sci-Fi|Western
+125231,Real (2013),Drama|Sci-Fi
+125347,Mandrake (2010),Horror|Sci-Fi|Thriller
+125453,Space Warriors (2013),Adventure|Children|Sci-Fi
+125471,Way... Way Out (1966),Comedy|Sci-Fi
+125509,Razortooth (2007),Action|Horror|Sci-Fi|Thriller
+125638,The Arrival of Wang (2012),Mystery|Sci-Fi|Thriller
+125874,2012: Ice Age (2011),Action|Adventure|Sci-Fi
+125978,Santa Claus (1898),Sci-Fi
+126138,Doomsday Prophecy (2011),Action|Sci-Fi|Thriller
+126166,Lightspeed (2006),Action|Fantasy|Sci-Fi
+126229,The Shadow Men (1997),Horror|Sci-Fi|Thriller
+126426,Solyaris (1968),Drama|Sci-Fi
+126432,Visitor to a Museum (Posetitel muzeya) (1989),Sci-Fi
+126434,The Hyperboloid of Engineer Garin (Giperboloid inzhenera Garina) (1965),Sci-Fi
+126436,Cosmic Journey (1935),Sci-Fi
+126554,Age of Ice (2014),Adventure|Sci-Fi
+126579,Zodiac (2014),Sci-Fi
+126591,The Humanoid (1979),Fantasy|Sci-Fi
+126595,Aurora (2012),Romance|Sci-Fi
+126723,Kenny Begins (2009),Action|Comedy|Sci-Fi
+126943,The Man Who Could Cheat Death (1959),Horror|Sci-Fi
+126983,City Zero (1989),Comedy|Drama|Sci-Fi
+127015,The Man Who Lived Again (1936),Horror|Sci-Fi
+127017,The Man They Could Not Hang (1939),Crime|Horror|Sci-Fi
+127027,The Land Unknown (1957),Adventure|Fantasy|Sci-Fi
+127029,Crazy Thunder Road (1980),Action|Sci-Fi
+127096,Project Almanac (2015),Sci-Fi|Thriller
+127102,The First Men in the Moon (2010),Sci-Fi
+127188,Advantageous (2015),Children|Drama|Sci-Fi
+127218,Z for Zachariah (2015),Sci-Fi
+127292,Zenith (2010),Sci-Fi|Thriller
+127315,Alien Outpost (2014),Action|Sci-Fi|Thriller
+127323,Vice (2015),Action|Adventure|Sci-Fi|Thriller
+127600,Battletruck (1982),Action|Adventure|Sci-Fi
+127604,The Glitterball (1977),Children|Sci-Fi
+127606,The Questor Tapes (1974),Sci-Fi
+127608,The UFO Incident (1975),Drama|Romance|Sci-Fi
+127658,Calculator (2014),Sci-Fi
+127709,The Three Fantastic Supermen (1967),Action|Adventure|Fantasy|Sci-Fi
+127859,Scourge (2008),Horror|Mystery|Sci-Fi
+127863,Project Viper (2002),Action|Horror|Sci-Fi|Thriller
+127867,Hardwired (2009),Action|Sci-Fi
+128181,Cody the Robosapien (2013),Adventure|Children|Drama|Sci-Fi
+128215,Pulse (1988),Horror|Sci-Fi|Thriller
+128324,Lunopolis (2009),Sci-Fi
+128542,Wyrmwood (2015),Action|Horror|Sci-Fi
+128665,Shepherd (1999),Sci-Fi
+128844,12:01 PM (1990),Sci-Fi
+128944,Honey. We Shrunk Ourselves (1997),Action|Adventure|Children|Comedy|Sci-Fi
+128966,Gamera vs. Zigra (1971),Action|Adventure|Sci-Fi
+128975,Hot Tub Time Machine 2 (2015),Comedy|Sci-Fi
+128991,Johnny Express (2014),Animation|Comedy|Sci-Fi
+129191,The Clowns (1970),Comedy|Drama|Fantasy|Sci-Fi
+129276,France Inc. (1974),Crime|Drama|Sci-Fi|Thriller
+129397,Marvel One-Shot: Item 47 (2012),Action|Fantasy|Sci-Fi
+129484,Arabian Adventure (1979),Children|Fantasy|Sci-Fi
+129701,The Aztec Mummy Against the Humanoid Robot (1958),Adventure|Horror|Sci-Fi
+129779,Ghost in the Shell Arise - Border 1: Ghost Pain (2013),Action|Animation|Sci-Fi
+129836,The Voyage Across the Impossible (1904),Adventure|Fantasy|Sci-Fi
+129859,Mardock Scramble: The Second Combustion (2011),Animation|Sci-Fi
+130356,Tribulation (2000),Drama|Sci-Fi|Thriller
+130380,Absolute Aggression (2004),Action|Sci-Fi|Thriller
+130384,Mega Piranha (2010),Action|Adventure|Horror|Sci-Fi
+130398,Transmorphers (2007),Action|Adventure|Sci-Fi
+130440,The Time Guardian (1987),Sci-Fi
+130442,Patrick (2013),Horror|Sci-Fi|Thriller
+130444,Ruby Red (2013),Adventure|Children|Fantasy|Sci-Fi
+130490,Insurgent (2015),Action|Sci-Fi|Thriller
+130518,The Amazing Screw-On Head (2006),Action|Adventure|Animation|Comedy|Sci-Fi
+130520,Home (2015),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+130576,Midnight Special (2015),Drama|Sci-Fi
+130748,Ghosts Can't Do It (1989),Action|Comedy|Fantasy|Romance|Sci-Fi
+130784,The Whisperer in Darkness (2011),Horror|Mystery|Sci-Fi|Thriller
+130840,Spring (2015),Horror|Romance|Sci-Fi
+130842,Power/Rangers (2015),Action|Adventure|Sci-Fi
+130892,The Last Chase (1981),Action|Adventure|Sci-Fi
+131050,Stargate SG-1 Children of the Gods - Final Cut (2009),Adventure|Sci-Fi|Thriller
+131054,Dinotopia: Quest for the Ruby Sunstone (2005),Children|Fantasy|Sci-Fi
+131062,20 Years After (2008),Drama|Fantasy|Sci-Fi
+131170,Parallels (2015),Sci-Fi|Thriller
+131305,Deep Space (1988),Horror|Sci-Fi
+131378,Patrick (1978),Horror|Sci-Fi|Thriller
+131389,Sabrina the Teenage Witch (1996),Children|Comedy|Fantasy|Sci-Fi
+131419,The Rig (2010),Action|Horror|Sci-Fi|Thriller
+131506,The Ugly Swans (2006),Drama|Mystery|Sci-Fi
+131604,Can of Worms (1999),Children|Comedy|Sci-Fi
+131786,The Invisible Kid (1988),Comedy|Sci-Fi
+131794,Monster High (1989),Comedy|Horror|Sci-Fi
+131870,Nightmare Weekend (1986),Horror|Sci-Fi
+131886,The Revenge of the Teenage Vixens from Outer Space (1985),Comedy|Sci-Fi
+132024,Ghost Chase (1987),Children|Fantasy|Sci-Fi
+132046,Tomorrowland (2015),Action|Adventure|Children|Mystery|Sci-Fi
+132124,Say Nothing (2001),Action|Drama|Mystery|Romance|Sci-Fi|Thriller
+132159,The Reconstruction of William Zero (2015),Drama|Sci-Fi|Thriller
+132163,Toxin (2014),Action|Horror|Sci-Fi
+132180,Parts Per Billion (2014),Sci-Fi
+132222,Frankenstein 1970 (1958),Horror|Sci-Fi
+132272,Mutant Hunt (1987),Action|Horror|Sci-Fi|Thriller
+132352,Spiders (2013),Horror|Sci-Fi|Thriller
+132356,Survivor (2014),Action|Fantasy|Sci-Fi
+132362,Patlabor 2: The Movie (1993),Action|Animation|Sci-Fi
+132368,Exaella (2011),Action|Animation|Drama|Sci-Fi
+132412,Threshold (1981),Drama|Sci-Fi
+132444,Nuntius (2014),Sci-Fi
+132464,Jersey Shore Shark Attack (2012),Action|Sci-Fi
+132524,Halo: Nightfall (2014),Action|Adventure|Sci-Fi|Thriller
+132526,I'm Not Jesus Mommy (2011),Drama|Sci-Fi|Thriller
+132528,Downstream (2010),Action|Sci-Fi
+132579,Mardock Scramble: The Third Exhaust (2012),Animation|Sci-Fi
+132596,The Chain Reaction (1980),Action|Sci-Fi|Thriller
+132616,The Walking Deceased (2015),Comedy|Sci-Fi
+132646,The Velveteen Rabbit (2009),Animation|Children|Drama|Sci-Fi
+132942,Captive Wild Woman (1943),Horror|Sci-Fi
+133217,B/W (2015),Comedy|Crime|Sci-Fi
+133289,100 Degrees Below Zero (2013),Action|Sci-Fi
+133305,Breeders (1997),Horror|Sci-Fi
+133367,LFO (2013),Drama|Sci-Fi
+133377,Infini (2015),Horror|Sci-Fi|Thriller
+133379,Off World (2013),Sci-Fi
+133479,Escape from Galaxy 3 (1981),Sci-Fi
+133649,Three Inches (2011),Action|Drama|Sci-Fi
+133675,Anonymous Rex (2004),Action|Fantasy|Sci-Fi
+133747,Monsters: Dark Continent (2014),Drama|Sci-Fi|Thriller
+133759,Eyeborgs (2009),Action|Adventure|Sci-Fi|Thriller
+133771,The Lobster (2015),Comedy|Romance|Sci-Fi
+133775,Abar. the First Black Superman (1977),Action|Drama|Sci-Fi
+133806,The Hybrid (2014),Action|Sci-Fi
+133837,Alien Origin (2012),Fantasy|Sci-Fi|Thriller
+133893,Brave Story (2008),Animation|Fantasy|Sci-Fi
+133941,2047 - Sights of Death (2014),Action|Sci-Fi|Thriller
+134069,Starship Rising (2014),Action|Sci-Fi
+134117,San Andreas Quake (2015),Action|Sci-Fi
+134122,Voyage to the Planet of Prehistoric Women (1968),Sci-Fi
+134124,Lady Frankenstein (1973),Horror|Sci-Fi
+134130,The Martian (2015),Adventure|Drama|Sci-Fi
+134162,I Am Omega (2007),Action|Horror|Sci-Fi|Thriller
+134164,The Alien Factor (1978),Horror|Sci-Fi
+134170,Kung Fury (2015),Action|Comedy|Fantasy|Sci-Fi
+134517,Forbidden World (1982),Horror|Sci-Fi
+134530,Mars (2010),Animation|Comedy|Romance|Sci-Fi
+134629,Flight World War II (2015),Action|Sci-Fi|War
+134659,Hibernatus (1969),Comedy|Sci-Fi
+134843,Die Farbe (2010),Horror|Sci-Fi
+134883,Technotise: Edit & I (2009),Animation|Sci-Fi|Thriller
+135133,The Hunger Games: Mockingjay - Part 2 (2015),Adventure|Sci-Fi
+135137,Pixels (2015),Action|Comedy|Sci-Fi
+135141,Allegiant: Part 1 (2016),Adventure|Sci-Fi
+135172,The Brain from Planet Arous (1957),Sci-Fi
+135216,The Star Wars Holiday Special (1978),Adventure|Children|Comedy|Sci-Fi
+135244,Frankenstein (2005),Drama|Horror|Mystery|Sci-Fi
+135266,Zenon: The Zequel (2001),Adventure|Children|Comedy|Sci-Fi
+135454,Alien vs. Ninja (2010),Action|Horror|Sci-Fi|Thriller
+135456,Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005),Action|Animation|Crime|Sci-Fi
+135486,Guardian (2001),Action|Drama|Horror|Sci-Fi
+135518,Self/less (2015),Action|Mystery|Sci-Fi|Thriller
+135530,Criminal (2016),Action|Crime|Drama|Sci-Fi
+135536,Suicide Squad (2016),Action|Crime|Sci-Fi
+135567,Independence Day: Resurgence (2016),Action|Adventure|Sci-Fi
+135569,Star Trek 3 (2016),Action|Adventure|Sci-Fi
+135627,Debug (2014),Horror|Sci-Fi
+135846,Trava: Fist Planet (2003),Animation|Sci-Fi
+135859,Rewind (2013),Sci-Fi
+135865,Mothman (2010),Horror|Sci-Fi
+135885,Absolutely Anything (2015),Comedy|Sci-Fi
+135939,Firestarter 2: Rekindled (2002),Horror|Sci-Fi|Thriller
+135947,Killer Tomatoes Eat France! (1992),Comedy|Horror|Sci-Fi
+135959,Universal Soldier III: Unfinished Business (1999),Action|Sci-Fi
+135967,Pulse 2: Afterlife (2008),Horror|Sci-Fi|Thriller
+135979,Next Avengers: Heroes of Tomorrow (2008),Action|Animation|Children|Sci-Fi
+135981,Universal Soldier II: Brothers in Arms (1998),Action|Sci-Fi
+136000,Journey to the Center of the Earth (1999),Action|Adventure|Children|Fantasy|Sci-Fi
+136022,Killer Tomatoes Strike Back! (1991),Action|Comedy|Horror|Sci-Fi
+136198,Cross (2011),Action|Adventure|Fantasy|Sci-Fi
+136200,The Terminators (2009),Action|Horror|Sci-Fi
+136233,Android Cop (2014),Action|Sci-Fi
+136239,Smart House (1999),Children|Drama|Fantasy|Sci-Fi
+136301,Mega Man (2010),Action|Drama|Sci-Fi
+136303,Street Fighter: Round One - FIGHT! (2009),Animation|Fantasy|Horror|Sci-Fi
+136305,Sharknado 3: Oh Hell No! (2015),Horror|Sci-Fi
+136449,Ghost in the Shell 2.0 (2008),Action|Animation|Sci-Fi
+136451,Hellboy Animated: Sword of Storms (2006),Action|Animation|Fantasy|Sci-Fi|Thriller
+136485,Robot Chicken: Star Wars (2007),Animation|Comedy|Sci-Fi
+136538,Teen Titans: Trouble in Tokyo (2007),Action|Adventure|Animation|Children|Sci-Fi
+136546,Puppet Master X: Axis Rising (2012),Fantasy|Horror|Sci-Fi
+136550,Gingerdead Man 3: Saturday Night Cleaver (2011),Comedy|Horror|Sci-Fi
+136580,The Prodigies (2011),Animation|Sci-Fi
+136618,Pokémon the Movie: Genesect and the Legend Awakened (2013),Action|Adventure|Animation|Children|Fantasy|Sci-Fi
+136632,Jurassic City (2015),Action|Sci-Fi
+136634,Dinosaur Island (2014),Children|Fantasy|Sci-Fi
+136680,Battle For SkyArk (2015),Action|Adventure|Children|Sci-Fi
+136682,The Scopia Effect (2014),Horror|Sci-Fi|Thriller
+136712,Moebius (1996),Sci-Fi
+136732,Axe Giant - The Wrath of Paul Bunyan (2013),Fantasy|Horror|Sci-Fi
+136752,A Ticket to Space (Un ticket pour l'espace) (2006),Comedy|Sci-Fi
+136766,Random Quest (2006),Romance|Sci-Fi
+136800,Robot Overlords (2014),Action|Adventure|Sci-Fi
+136828,Invitation to Hell (1984),Horror|Mystery|Sci-Fi|Thriller
+136830,Killdozer (1974),Sci-Fi|Thriller
+136846,The Phantom Planet (1961),Sci-Fi
+136859,The Lovers (2015),Action|Adventure|Romance|Sci-Fi
+136864,Batman v Superman: Dawn of Justice (2016),Action|Adventure|Fantasy|Sci-Fi
+136930,95ers: Time Runners (2013),Sci-Fi|Thriller
+136938,Repli-Kate (2002),Comedy|Sci-Fi
+136960,Mosquito (1995),Horror|Sci-Fi
+136968,Mutator (1989),Sci-Fi
+137397,The Creature Walks Among Us (1956),Horror|Sci-Fi
+137455,The Last Push (2012),Sci-Fi
+137507,Cinderella 2000 (1977),Fantasy|Sci-Fi
+137642,The Seed of Man (1969),Drama|Fantasy|Romance|Sci-Fi
+137767,Dimensions (2011),Drama|Sci-Fi
+137867,Embryo (1976),Action|Horror|Sci-Fi|Thriller
+137908,Mammoth (2006),Action|Comedy|Horror|Sci-Fi
+138128,Enigma (2009),Sci-Fi
+138166,Invader (1997),Romance|Sci-Fi
+138328,The Last Man on Earth (2011),Drama|Sci-Fi
+138528,Dark Mountain (2013),Horror|Sci-Fi|Thriller
+138544,After Death (2012),Comedy|Drama|Mystery|Sci-Fi
+138602,Lake Placid vs. Anaconda (2015),Action|Horror|Sci-Fi
+138612,Memory Lane (2011),Crime|Sci-Fi|Thriller
+138632,Tokyo Tribe (2014),Action|Crime|Drama|Sci-Fi
+138674,Spiders (2000),Horror|Sci-Fi
+138746,Creature (1985),Horror|Sci-Fi|Thriller
+138750,Crawl or Die (2014),Horror|Sci-Fi|Thriller
+138752,Cloned: The Recreator Chronicles (2012),Drama|Sci-Fi|Thriller
+138754,The Rift (1990),Action|Horror|Sci-Fi
+138784,This Is Not a Movie (2011),Comedy|Drama|Sci-Fi
+138916,Ticks (1993),Horror|Sci-Fi
+139012,Empty (2011),Action|Drama|Horror|Sci-Fi|Thriller
+139016,The Void (2001),Action|Sci-Fi|Thriller
+139132,Plastic Little: The Adventures of Captain Tita (1994),Animation|Sci-Fi
+139219,Trucks (1997),Drama|Horror|Sci-Fi|Thriller
+139233,Sons of Liberty (2013),Action|Sci-Fi
+139245,Metamorphosis (1990),Horror|Sci-Fi
+139311,Road Wars (2015),Action|Sci-Fi
+139315,LA Apocalypse (2014),Action|Sci-Fi|Thriller
+139425,The Man Who Wasn't There (1983),Action|Comedy|Fantasy|Sci-Fi
+139447,The Lazarus Papers (2010),Action|Drama|Sci-Fi|Thriller
+139467,Mutants (2008),Action|Horror|Sci-Fi
+139616,The 27th Day (1957),Sci-Fi
+139759,Lavalantula (2015),Horror|Sci-Fi
+139761,Sharktopus vs. Whalewolf (2015),Adventure|Sci-Fi
+139779,The Phoenix Project (2015),Drama|Sci-Fi
+139807,Firequake (2014),Action|Sci-Fi|Thriller
+139825,Chrysalis (2007),Action|Crime|Sci-Fi|Thriller
+139837,Robotrix (1991),Action|Comedy|Sci-Fi
+139859,Ghost in the Shell Arise - Border 2: Ghost Whispers (2013),Action|Animation|Sci-Fi|Thriller
+139861,Ghost in the Shell Arise - Border 3: Ghost Tears (2014),Action|Animation|Sci-Fi
+139863,Ghost in the Shell Arise - Border 4: Ghost Stands Alone (2014),Action|Animation|Sci-Fi
+139907,Bees. The (1978),Horror|Sci-Fi
+139920,Women of the Prehistoric Planet (1966),Action|Adventure|Sci-Fi
+140131,Extinction (2015),Drama|Horror|Sci-Fi
+140218,P-51 Dragon Fighter (2014),Action|Fantasy|Sci-Fi
+140283,13 Eerie (2013),Horror|Sci-Fi
+140293,Mobile Suit Gundam II: Soldiers of Sorrow (1981),Action|Adventure|Animation|Drama|Sci-Fi|War
+140295,Mobile Suit Gundam III: Encounters in Space (1982),Action|Adventure|Animation|Drama|Sci-Fi|War
+140359,Doctor Who: The Waters of Mars (2009),Adventure|Children|Sci-Fi
+140415,Atom Man vs Superman (1950),Action|Sci-Fi
+140417,Superman (1948),Action|Crime|Sci-Fi
+140419,The Invisible Boy (1957),Adventure|Children|Comedy|Sci-Fi
+140435,Captain America (1944),Action|Adventure|Sci-Fi
+140449,Sting of the Black Scorpion (2002),Action|Sci-Fi
+140451,Black Scorpion (1995),Action|Sci-Fi
+140453,Black Scorpion II: Aftershock (1997),Action|Adventure|Sci-Fi
+140481,Family Guy Presents: Something. Something. Something. Dark Side (2009),Animation|Comedy|Sci-Fi
+140493,Planet Outlaws (1953),Sci-Fi
+140511,Hellboy Animated: Blood and Iron (2007),Action|Animation|Fantasy|Horror|Sci-Fi|Thriller
+140533,Gwen. the Book of Sand (1985),Adventure|Animation|Fantasy|Sci-Fi
+140541,The Electric Hotel (1908),Animation|Comedy|Sci-Fi
+140701,Harbinger Down (2015),Horror|Sci-Fi
+140711,American Ultra (2015),Action|Comedy|Sci-Fi|Thriller
+140751,Almost Normal (2005),Comedy|Drama|Sci-Fi
+140791,Bermuda Tentacles (2014),Sci-Fi
+140820,Air (2015),Sci-Fi|Thriller
+140828,009-1: The End of the Beginning (2013),Action|Sci-Fi
+140832,Witchville (2010),Action|Fantasy|Sci-Fi|Thriller
+140852,964 Pinocchio (1991),Horror|Sci-Fi
+141002,Ditto (2000),Drama|Fantasy|Romance|Sci-Fi
+141004,Victor Frankenstein (2015),Drama|Horror|Sci-Fi
+141116,Ferat Vampire (1982),Horror|Mystery|Sci-Fi
+141133,Green Snake (1993),Action|Fantasy|Romance|Sci-Fi
+141357,Cyber Wars (2004),Action|Drama|Sci-Fi|Thriller
+141359,Spoiler (1998),Horror|Sci-Fi|Thriller
+141361,Meatball Machine (2005),Horror|Sci-Fi
+141365,Deathline (1997),Action|Drama|Sci-Fi|Thriller
+141367,Cyber City Oedo 808 (1990),Action|Animation|Crime|Horror|Sci-Fi
+141369,Hard Revenge. Milly: Bloody Battle (2009),Action|Drama|Sci-Fi
+141383,Terminal Justice (1996),Action|Sci-Fi|Thriller
+141385,Humanity's End (2009),Action|Adventure|Drama|Sci-Fi|Thriller
+141397,Equals (2015),Drama|Sci-Fi
+141402,Star Trek: Renegades (2015),Action|Adventure|Sci-Fi
+141480,In the Dust of the Stars (1976),Sci-Fi
+141505,Moscow-Cassiopeia (1973),Adventure|Children|Comedy|Sci-Fi
+141544,Turbo Kid (2015),Action|Adventure|Sci-Fi
+141652,2033 (2010),Adventure|Sci-Fi
+141666,Ga-ga: Glory to the Heroes (1986),Horror|Sci-Fi
+141761,Area 51 (2015),Horror|Sci-Fi|Thriller
+141769,Prototype (1992),Drama|Fantasy|Sci-Fi
+141856,Ejecta (2014),Sci-Fi
+141930,KillerSaurus,Horror|Sci-Fi
+141976,Snowglobe (2007),Children|Fantasy|Sci-Fi
+141982,Mrs Miracle (2009),Children|Comedy|Drama|Fantasy|Romance|Sci-Fi
+141984,A Little Bit Zombie (2012),Comedy|Horror|Sci-Fi
+142100,Parasite Dolls (2003),Action|Animation|Sci-Fi|Thriller
+142226,Listening (2015),Sci-Fi
+142264,Proteus (1995),Horror|Sci-Fi
+142300,Battle of the Worlds (1961),Sci-Fi|Thriller
+142302,Assignment: Outer Space (1960),Sci-Fi
+142356,Haru (2013),Animation|Romance|Sci-Fi
+142420,High Rise (2015),Action|Drama|Sci-Fi
+142424,Into the Forest (2015),Drama|Sci-Fi
+142436,First Spaceship on Venus (1960),Drama|Mystery|Sci-Fi
+142470,City Beneath the Sea (1971),Action|Sci-Fi
+142509,Hardcore (2015),Action|Adventure|Sci-Fi
+142584,Scanner Cop (1994),Horror|Sci-Fi
+142626,Infinite (2012),Drama|Sci-Fi
+142667,Black River (2001),Sci-Fi|Thriller
+142742,The Dark (1979),Horror|Sci-Fi
+142746,The Dark Hour (2007),Horror|Mystery|Sci-Fi|Thriller
+142863,Crumbs (2015),Adventure|Drama|Sci-Fi
+142877,The Quiet Hour (2015),Drama|Sci-Fi|Thriller
+142939,Robot Wars (1993),Sci-Fi|Thriller
+142941,Robo Warriors (1996),Action|Adventure|Sci-Fi
+142943,Laserblast (1978),Action|Sci-Fi|Thriller
+143035,Minutemen (2008),Adventure|Children|Comedy|Sci-Fi
+143055,Jett Jackson: The Movie (2001),Action|Adventure|Children|Comedy|Sci-Fi
+143197,The Horror of Frankenstein (1970),Horror|Sci-Fi
+143209,Tremors 5: Bloodline (2015),Action|Horror|Sci-Fi
+143255,Narcopolis (2014),Mystery|Sci-Fi|Thriller
+143428,Attack of the 60 Foot Centerfolds (1995),Comedy|Sci-Fi
+143575,Fuga de cerebros 2 (2011),Action|Sci-Fi|Thriller
+143587,Carny (2009),Horror|Sci-Fi|Thriller
+143659,Total Reality (1997),Action|Sci-Fi
+143661,Rage (2010),Drama|Horror|Sci-Fi
+143835,A Daughter Of Destiny (1928),Drama|Fantasy|Horror|Sci-Fi
+143861,2103: The Deadly Wake (1997),Sci-Fi
+144070,June (2015),Horror|Sci-Fi
+144134,The Hive (2015),Sci-Fi|Thriller
+144196,Re-Kill (2015),Horror|Sci-Fi
+144226,Patch Town (2014),Adventure|Comedy|Fantasy|Sci-Fi
+144228,ABE (2013),Sci-Fi|Thriller
+144230,Abiogenesis (2011),Sci-Fi
+144328,MW (2009),Drama|Sci-Fi|Thriller
+144350,Under the Mountain (2009),Action|Adventure|Children|Drama|Fantasy|Sci-Fi
+144360,The Midnight After (2014),Comedy|Sci-Fi|Thriller
+144366,The Twins Effect II (2004),Action|Adventure|Comedy|Sci-Fi
+144376,11:00 AM (2013),Fantasy|Sci-Fi
+144426,Clockstoppers (2002),Adventure|Children|Sci-Fi|Thriller
+144482,Circle (2015),Drama|Horror|Sci-Fi
+144500,Haunters (2010),Sci-Fi|Thriller
+144540,The Dead Zone (2002),Drama|Sci-Fi|Thriller
+144636,Creative Control (2015),Drama|Sci-Fi
+144672,Lifepod (1993),Mystery|Sci-Fi|Thriller
+144692,Gunhed (1989),Action|Sci-Fi
+144734,Freaks of Nature (2015),Comedy|Horror|Sci-Fi
+144782,The Diabolical (2015),Horror|Sci-Fi|Thriller
+144828,The Tunnel (1933),Sci-Fi
+144924,Nymph (2009),Drama|Sci-Fi
+144986,A Chinese Ghost Story (2011),Fantasy|Sci-Fi
+144988,Imagination (2008),Drama|Fantasy|Sci-Fi
+145012,The Sea Serpent (1984),Horror|Sci-Fi
+145056,Ghost Shark (2013),Horror|Sci-Fi
+145078,Revelation (2002),Fantasy|Horror|Sci-Fi
+145226,Bigfoot (1970),Children|Horror|Sci-Fi|Thriller
+145493,The Challenge (2003),Action|Adventure|Children|Comedy|Sci-Fi
+145520,Lake Placid 2 (2007),Horror|Sci-Fi
+145522,Lake Placid 3 (2010),Action|Horror|Sci-Fi|Thriller
+145524,Lake Placid: The Final Chapter (2012),Action|Horror|Sci-Fi|Thriller
+145600,Night Slaves (1970),Horror|Sci-Fi
+145606,Lovemilla (2015),Comedy|Romance|Sci-Fi
+145700,The Day the Sky Exploded (1958),Action|Sci-Fi
+145724,Idaho Transfer (1973),Sci-Fi
+145759,American Warships (2012),Action|Sci-Fi|Thriller
+145761,Cruel & Unusual (2014),Sci-Fi|Thriller
+145787,Rats: Night of Terror (1984),Horror|Sci-Fi
+145799,Shocking Dark (1990),Action|Sci-Fi
+145857,The Phoenix Incident (2015),Horror|Sci-Fi|Thriller
+145960,Skinwalker Ranch (2013),Horror|Sci-Fi|Thriller
+146052,A Nymphoid Barbarian in Dinosaur Hell (1990),Fantasy|Horror|Sci-Fi
+146156,Mr India (1987),Action|Adventure|Sci-Fi
+146262,Soldier (1999),Action|Sci-Fi
+146305,Princes and Princesses (2000),Animation|Children|Comedy|Drama|Fantasy|Romance|Sci-Fi
+146606,The Subjects (2015),Sci-Fi|Thriller
+146674,The Gendarme and the Creatures from Outer Space (1978),Comedy|Sci-Fi
+146768,Without Knowing Anything About Her (1969),Sci-Fi|Thriller
+146926,400 Days (2015),Mystery|Sci-Fi|Thriller
+147182,Metamorphosis: The Alien Factor (1990),Horror|Sci-Fi
+147248,The Isle of Lost Ships (1987),Adventure|Drama|Romance|Sci-Fi
+147260,Ku! Kin-dza-dza (2013),Animation|Comedy|Sci-Fi
+147348,Anacondas: Trail of Blood (2009),Action|Horror|Sci-Fi|Thriller
+147352,SharkMan (2005),Horror|Sci-Fi
+147364,Area 407 (2012),Horror|Sci-Fi|Thriller
+147372,Doctor Who: Last Christmas (2014),Adventure|Drama|Fantasy|Sci-Fi
+147376,Doctor Who: A Christmas Carol (2010),Sci-Fi
+147378,Doctor Who: Planet of the Dead (2009),Adventure|Children|Drama|Sci-Fi
+147380,Doctor Who: The Next Doctor (2008),Adventure|Children|Drama|Sci-Fi
+147382,Doctor Who: Voyage Of The Damned (2007),Action|Sci-Fi
+147384,Doctor Who: The Runaway Bride (2007),Sci-Fi
+147548,Johnny 2.0 (1998),Sci-Fi
+147591,Dark Rising 2:  Summer Strikes Back (2011),Action|Comedy|Fantasy|Sci-Fi
+147597,Transformers Prime Beast Hunters: Predacons Rising (2013),Action|Animation|Sci-Fi
+147754,The Mind Snatchers (1972),Sci-Fi|Thriller
+147897,Recep İvedik 2 (2009),Action|Sci-Fi|Thriller
+147938,Petey Wheatstraw (1977),Action|Comedy|Fantasy|Sci-Fi
+148080,Hard to Be a God (1989),Adventure|Drama|Sci-Fi
+148158,Miami Golem (1985),Action|Horror|Sci-Fi
+148172,The 5th Wave (2016),Adventure|Sci-Fi|Thriller
+148206,Escape from the Bronx (1983),Action|Sci-Fi
+148278,10.000 Days (2014),Sci-Fi
+148298,Awaken (2013),Drama|Romance|Sci-Fi
+148408,Mars Needs Women (1967),Horror|Sci-Fi
+148412,Quantum Apocalypse (2010),Sci-Fi
+148414,End of the World (2013),Action|Adventure|Comedy|Sci-Fi
+148418,Earthfall (2015),Action|Sci-Fi
+148422,Mega Shark vs. Mecha Shark (2014),Action|Sci-Fi|Thriller
+148488,Christmas Icetastrophe (2014),Sci-Fi
+148512,Seattle Superstorm (2012),Action|Sci-Fi
+148665,William Shatner Presents: Chaos on the Bridge (2015),Documentary|Sci-Fi
+148683,American Hero (2015),Action|Comedy|Sci-Fi
+148713,Visitors of the Night (1995),Sci-Fi
+148725,Psalm 21 (2009),Horror|Sci-Fi|Thriller
+148757,Beneath Loch Ness (2002),Action|Horror|Mystery|Sci-Fi|Thriller
+148765,Evil Alien Conquerors (2003),Comedy|Sci-Fi
+148775,Wizards of Waverly Place: The Movie (2009),Adventure|Children|Comedy|Drama|Fantasy|Sci-Fi
+148855,Ghost in the Shell: The New Movie (2015),Animation|Sci-Fi
+148926,Ice Spiders (2007),Horror|Sci-Fi|Thriller
+148968,Encounters (2014),Horror|Mystery|Sci-Fi
+148972,Doctor Mordrid (1992),Action|Fantasy|Sci-Fi|Thriller
+149082,OzLand (2015),Drama|Fantasy|Sci-Fi
+149084,Another World (2015),Action|Horror|Sci-Fi
+149130,The Zohar Secret (2015),Comedy|Drama|Sci-Fi
+149144,Parasyte: Part 1 (2014),Horror|Sci-Fi
+149146,Parasyte: Part 2 (2015),Horror|Sci-Fi
+149408,Mobile Suit Gundam F91 (1991),Animation|Sci-Fi
+149410,Mobile Suit Gundam: Char's Counterattack (1988),Action|Animation|Sci-Fi
+149412,Legend of the Galactic Heroes: My Conquest Is the Sea of Stars (1988),Animation|Sci-Fi
+149522,R.O.T.O.R. (1988),Action|Sci-Fi
+149650,Childhood's End (2015),Drama|Sci-Fi|Thriller
+149676,3-Headed Shark Attack (2015),Action|Sci-Fi
+149688,The Stone Tape (1972),Horror|Sci-Fi
+149709,Barking at the Stars (1998),Action|Comedy|Romance|Sci-Fi|Thriller
+149731,Senn (2013),Adventure|Mystery|Sci-Fi
+149753,Shadows on the Wall (2014),Horror|Sci-Fi
+149782,Altergeist (2014),Horror|Sci-Fi|Thriller
+149840,500 MPH Storm (2013),Action|Sci-Fi
+149854,Avalanche Sharks (2013),Action|Horror|Sci-Fi
+149888,Cowboys vs. Dinosaurs (2015),Action|Sci-Fi
+149902,Garm Wars: The Last Druid (2014),Action|Sci-Fi|Thriller
+149946,Super Shark (2011),Action|Comedy|Sci-Fi
+150038,Science Fiction (2002),Adventure|Children|Sci-Fi|Thriller
+150236,How to Build a Better Boy (2014),Children|Sci-Fi
+150320,Raavan (2010),Drama|Sci-Fi
+150348,Warlords of Atlantis (1978),Adventure|Fantasy|Sci-Fi
+150354,Girl vs. Monster (2012),Children|Comedy|Sci-Fi
+150379,Legend of the Millennium Dragon (2011),Adventure|Animation|Fantasy|Sci-Fi
+150395,Assassination Classroom (2015),Action|Adventure|Sci-Fi
+150560,Vampirella (1996),Horror|Sci-Fi
+150596,Doctor Who: The Husbands of River Song (2015),Comedy|Drama|Sci-Fi
+150655,Aimy in a Cage,Drama|Fantasy|Sci-Fi
+150694,Uncanny (2015),Drama|Sci-Fi|Thriller
+150742,Who? (1973),Drama|Sci-Fi
+150842,The Two Faces of Dr. Jekyll (1960),Horror|Romance|Sci-Fi
+151230,Dream a Little Dream 2 (1995),Comedy|Sci-Fi
+151355,Under Electric Clouds (2015),Drama|Sci-Fi
+151365,Weasels Rip My Flesh (1979),Horror|Sci-Fi
+151433,Mill of the Stone Women (1960),Horror|Sci-Fi
+151479,The Flash 2 - Revenge of the Trickster (1991),Action|Fantasy|Sci-Fi
+151507,Terminus (2015),Sci-Fi|Thriller
+151567,The War in Space (1977),Action|Adventure|Sci-Fi
+151675,Lazer Team (2016),Comedy|Sci-Fi
+151695,The Survivalist (2015),Drama|Sci-Fi|Thriller
+151709,Zero (2015),Drama|Sci-Fi
+151745,Reptilicus (1961),Horror|Sci-Fi
+151781,Ghost in the Shell: Solid State Society (2006),Action|Animation|Crime|Sci-Fi|Thriller
+151900,Arrowhead (2015),Action|Adventure|Mystery|Sci-Fi
+151903,Amazons (1986),Action|Adventure|Fantasy|Sci-Fi
+152031,Space Cop (2016),Action|Comedy|Sci-Fi
+152141,The Desert (2013),Drama|Sci-Fi
+152214,Terug Naar Morgen (2015),Drama|Romance|Sci-Fi
+152232,Bunker Palace Hôtel (1989),Sci-Fi
+152439,Arachnia (2003),Horror|Sci-Fi
+152443,Ogre (2008),Horror|Sci-Fi
+152445,Dinocroc (2004),Horror|Sci-Fi|Thriller
+152449,The Monster of Piedras Blancas (1959),Horror|Sci-Fi
+152461,Komodo vs. Cobra (2005),Horror|Sci-Fi
+152465,Vipers (2008),Action|Horror|Sci-Fi|Thriller
+152467,Venomous (2002),Horror|Sci-Fi
+152469,Snakeman (2005),Adventure|Horror|Sci-Fi|Thriller
+152503,Lockjaw: Rise of the Kulev Serpent (2008),Children|Horror|Sci-Fi
+152579,Regular Show: The Movie (2015),Animation|Comedy|Sci-Fi
+152749,Pig (2011),Drama|Mystery|Sci-Fi|Thriller
+152753,Transmorphers Fall of Man (2009),Action|Adventure|Sci-Fi
+152755,Atlantic Rim (2013),Action|Sci-Fi
+152757,AE Apocalypse Earth (2013),Action|Sci-Fi
+152759,AVH: Alien vs. Hunter (2007),Action|Horror|Sci-Fi
+152804,Nightmare Code (2014),Horror|Sci-Fi|Thriller
+152972,Jurassic Prey (2015),Action|Horror|Sci-Fi
+152974,The Sand (2015),Horror|Sci-Fi
+152990,Vaah! Life Ho Toh Aisi! (2005),Children|Comedy|Drama|Sci-Fi
+153012,Aashiq Banaya Aapne (2005),Drama|Horror|Romance|Sci-Fi|Thriller
+153056,Days of Eclipse (1988),Drama|Sci-Fi
+153108,Twilight Zone (1993),Drama|Sci-Fi
+153136,Bipedalism (2005),Drama|Sci-Fi
+153148,A Humble Life (1997),Children|Documentary|Fantasy|Sci-Fi
+153206,Chronopolis (1982),Animation|Children|Sci-Fi
+153234,Toy Reanimator (2002),Fantasy|Sci-Fi
+153388,Atlantis (2008),Drama|Sci-Fi|Thriller
+153398,Blood Tea and Red String (2006),Animation|Fantasy|Sci-Fi
+153530,The Frankenstein Theory (2013),Horror|Sci-Fi
+153544,Alien Abduction: Incident in Lake County (1998),Sci-Fi
+153562,Jaane Hoga Kya (2006),Action|Romance|Sci-Fi|Thriller
+153634,Never Travel on a One Way Ticket (1987),Drama|Sci-Fi|Thriller
+153702,Killed by Lightning (2002),Drama|Sci-Fi
+153750,Future War (1997),Action|Sci-Fi
+153798,Bhoothnath (2008),Comedy|Sci-Fi
+153887,Genmu Senki Leda (1985),Action|Animation|Sci-Fi
+153915,Time Runner (1993),Sci-Fi
+153931,Eega (2012),Romance|Sci-Fi
+153941,Roboshark (2015),Action|Sci-Fi|Thriller
+154094,984: Prisoner of the Future (1982),Drama|Sci-Fi
+154182,Conspiracy Encounters (2016),Sci-Fi
+154218,The Fabulous World of Jules Verne (1958),Adventure|Fantasy|Sci-Fi
+154220,The War of the Worlds: Next Century (1981),Sci-Fi|Thriller|War
+154290,100 Million BC (2008),Sci-Fi
+154317,Plan 9 (2015),Horror|Sci-Fi
+154327,Straight Story (2006),Comedy|Sci-Fi
+154446,The Pirates of Tortuga: Under the Black Flag (2001),Adventure|Animation|Children|Comedy|Sci-Fi
+154480,Creature (2014),Horror|Sci-Fi
+154484,Stonados (2013),Sci-Fi
+154486,Thumb Wars (1999),Comedy|Sci-Fi
+154560,Dreamland (2007),Horror|Mystery|Sci-Fi
+154620,On the Comet (1970),Adventure|Fantasy|Sci-Fi
+154646,Slow Action (2010),Sci-Fi
+154838,Wool 100% (2006),Animation|Comedy|Fantasy|Sci-Fi
+154850,Blazing a Trail to the Stars (1958),Documentary|Sci-Fi
+154939,The Mermaid (2016),Comedy|Fantasy|Romance|Sci-Fi
+154945,Beyond (2014),Drama|Romance|Sci-Fi
+155082,Night Sights (2011),Drama|Sci-Fi
+155362,Ava's Possessions (2015),Mystery|Sci-Fi|Thriller
+155376,Weaponized (2016),Action|Sci-Fi|Thriller
+155407,Earthling (2011),Action|Drama|Sci-Fi|Thriller
+155511,The Flying Man (2013),Action|Mystery|Sci-Fi
+155537,Return to Nuke 'Em High Volume 1 (2013),Comedy|Horror|Sci-Fi
+155547,The Encounter (2015),Horror|Sci-Fi
+155645,The Giant Behemoth (1959),Drama|Fantasy|Horror|Sci-Fi
+155695,Bela Lugosi Meets a Brooklyn Gorilla (1952),Comedy|Sci-Fi
+155756,Hibernation (2005),Drama|Fantasy|Sci-Fi
+155930,Smorgasbord (1983),Comedy|Fantasy|Sci-Fi
+155976,Kryptonita (2015),Comedy|Fantasy|Sci-Fi
+155980,Prospect (2014),Action|Drama|Sci-Fi
+155994,Creature (1998),Horror|Sci-Fi|Thriller
+156083,Path of Destruction (2005),Action|Sci-Fi
+156145,Kamikaze 1989 (1982),Sci-Fi|Thriller
+156410,Sight (2012),Sci-Fi
+156555,Sundays (2015),Sci-Fi
+156611,Snow Shark: Ancient Snow Beast (2011),Horror|Sci-Fi
+156753,Man Vs. (2015),Horror|Sci-Fi|Thriller
+156791,Kara (2012),Drama|Sci-Fi
+156830,Exodus: Tales from the Enchanted Kingdom (2005),Action|Sci-Fi
+156840,Jurassic Attack (2012),Action|Sci-Fi
+156855,Poseidon Rex (2014),Action|Sci-Fi
+156859,Sharkman (2001),Horror|Sci-Fi
+157079,The Garden of Sinners: Future Gospel (2013),Animation|Sci-Fi
+157098,Jackrabbit (2015),Sci-Fi|Thriller
+157100,Turkey Shoot (1982),Horror|Sci-Fi
+157150,Mock Up on Mu (2008),Comedy|Sci-Fi
+157196,Mobile Suit Gundam 00: Awakening of the Trailblazer (2010),Action|Animation|Drama|Sci-Fi
+157212,Slugs (1988),Horror|Sci-Fi
+157254,KISS Meets the Phantom of the Park (1978),Sci-Fi
+157342,Embers (2015),Sci-Fi
+157387,Paradox (2016),Action|Sci-Fi
+157563,Indru Netru Naalai (2015),Comedy|Sci-Fi
+157673,Die Wolke (2006),Sci-Fi|Thriller
+157691,Tenchi the Movie 2: The Daughter of Darkness (1997),Animation|Fantasy|Sci-Fi
+157721,Armitage: Dual Matrix (2002),Action|Adventure|Animation|Sci-Fi|Thriller
+157751,Mobile Suit Gundam: The 08th MS Team - Miller's Report (1998),Action|Animation|Sci-Fi|War
+157753,Gundress (1999),Action|Animation|Sci-Fi
+157755,Legend of Crystania: The Motion Picture (1995),Action|Animation|Fantasy|Sci-Fi
+157777,Karas: The Prophecy (2005),Action|Adventure|Animation|Fantasy|Sci-Fi
+157779,Zone of the Enders: Idolo (2001),Animation|Sci-Fi
+157783,Sin: The Movie (2000),Animation|Sci-Fi
+157801,Blue Submarine No. 6 (1998),Action|Animation|Sci-Fi
+157805,Freedom (2006),Adventure|Animation|Romance|Sci-Fi
+157821,Legend of Lemnear (1987),Adventure|Animation|Fantasy|Sci-Fi
+157825,M.D. Geist II: Death Force (1996),Action|Animation|Sci-Fi
+157827,Agent Aika (1997),Action|Adventure|Sci-Fi
+157829,M.D. Geist (1986),Action|Animation|Sci-Fi
+157831,Galerions Rion (2004),Action|Horror|Sci-Fi
+157837,Angel Cop (1989),Animation|Crime|Sci-Fi
+157839,Outlanders (1986),Animation|Comedy|Sci-Fi
+157843,Saber Marionette R (1995),Comedy|Sci-Fi
+157865,Ratchet & Clank (2016),Action|Adventure|Animation|Children|Comedy|Sci-Fi
+157961,Synchronicity (2015),Mystery|Sci-Fi|Thriller
+158024,Dead Shadows (2012),Horror|Sci-Fi|Thriller
+158027,SORI: Voice from the Heart (2016),Drama|Sci-Fi
+158092,Magnetic Rose (1995),Animation|Sci-Fi
+158094,Residue (2015),Horror|Mystery|Sci-Fi|Thriller
+158159,The Nostalgist (2014),Action|Adventure|Fantasy|Sci-Fi
+158256,Real Playing Game (2013),Action|Adventure|Sci-Fi
+158384,Buck Rogers (1939),Sci-Fi
+158388,Buck Rogers in the 25th Century (1979),Sci-Fi
+158400,Hyper Sapien: People from Another Star (1986),Sci-Fi
+158420,The Space Children (1958),Sci-Fi
+158671,CyberTracker (1994),Action|Sci-Fi
+158685,Deathlands (2003),Sci-Fi
+158711,Boy 7 (2015),Action|Sci-Fi|Thriller
+158717,Basilisk: The Serpent King (2006),Action|Horror|Sci-Fi
+158956,Kill Command (2016),Action|Horror|Sci-Fi
+159028,The Philadelphia Experiment (2012),Adventure|Mystery|Sci-Fi|Thriller
+159046,Second Nature (2003),Action|Drama|Mystery|Sci-Fi|Thriller|War
+159057,Emmanuelle 2000: Emmanuelle's Intimate Encounters (2000),Fantasy|Sci-Fi
+159079,Doomsday Machine (1972),Sci-Fi
+159159,There Will Come Soft Rains (1984),Animation|Sci-Fi
+159403,Neo Tokyo (1987),Adventure|Animation|Fantasy|Horror|Sci-Fi
+159469,Sharkansas Women's Prison Massacre (2015),Action|Horror|Sci-Fi
+159480,Beyond the Rising Moon (1988),Sci-Fi|Thriller
+159626,Zoombies (2016),Action|Horror|Sci-Fi
+159725,A Knight in Camelot (1998),Adventure|Children|Comedy|Fantasy|Sci-Fi
+159972,Approaching the Unknown (2016),Drama|Sci-Fi|Thriller
+160012,Andron (2016),Action|Sci-Fi
+160080,Ghostbusters (2016),Action|Comedy|Horror|Sci-Fi
+160112,Cell (2016),Horror|Sci-Fi
+160157,The Neanderthal Man (1953),Horror|Sci-Fi
+160165,Intruders (1992),Horror|Sci-Fi
+160191,Identicals (2015),Sci-Fi
+160197,The Hive (2008),Horror|Sci-Fi
+160221,Invasion of the Saucer-Men (1957),Comedy|Horror|Sci-Fi
+160223,Future Kick (1991),Action|Sci-Fi
+160293,Curse of the Faceless Man (1958),Adventure|Horror|Sci-Fi
+160297,Ragin Cajun Redneck Gators (2013),Horror|Sci-Fi|Thriller
+160299,Miami Magma (2011),Action|Sci-Fi
+160303,Unaware (2013),Horror|Sci-Fi
+160337,Almost Human (2013),Horror|Sci-Fi
+160432,Wild Palms (1993),Drama|Mystery|Sci-Fi|Thriller
+160484,Spasms (1983),Horror|Sci-Fi
+160545,Horror Hospital (1973),Comedy|Horror|Sci-Fi
+160565,The Purge: Election Year (2016),Action|Horror|Sci-Fi
+160584,Memory Run (1995),Action|Sci-Fi
+160600,The Demolitionist (1995),Action|Sci-Fi
+160796,The Asylum (2016),Action|Horror|Mystery|Sci-Fi|Thriller
+160826,Atomic War Bride (1960),Drama|Sci-Fi
+160978,Hellevator (2004),Horror|Sci-Fi
+161022,The Portal (2014),Comedy|Fantasy|Sci-Fi
+161042,51 Degrees North (2015),Drama|Mystery|Sci-Fi|Thriller
+161044,Webmaster (1998),Sci-Fi
+161056,One Day Like Rain (2007),Drama|Sci-Fi
+161070,Dead Sea (2014),Action|Horror|Sci-Fi|Thriller
+161074,Lake Eerie (2016),Horror|Sci-Fi|Thriller
+161139,Reality XL (2012),Mystery|Sci-Fi
+161155,Sunspring (2016),Sci-Fi
+161204,Our RoboCop Remake (2014),Action|Comedy|Crime|Sci-Fi
+161296,Encounters in the Deep (1979),Sci-Fi
+161544,Alien Tornado (2012),Action|Sci-Fi|Thriller
+161594,Kingsglaive: Final Fantasy XV (2016),Action|Adventure|Animation|Drama|Fantasy|Sci-Fi
+161686,The Call Up (2016),Action|Adventure|Sci-Fi
+161918,Sharknado 4: The 4th Awakens (2016),Action|Adventure|Horror|Sci-Fi
+161974,Daylight's End (2016),Action|Horror|Sci-Fi
+162002,Starship (1984),Sci-Fi
+162150,Let's Be Evil (2016),Sci-Fi|Thriller
+162160,Viral (2016),Drama|Horror|Sci-Fi|Thriller
+162170,The Mind's Eye (2016),Action|Horror|Sci-Fi
+162266,Polar Storm (2009),Action|Sci-Fi
+162362,Beta Test (2016),Action|Sci-Fi|Thriller
+162402,Droid Gunner (1995),Action|Sci-Fi
+162594,Morgan (2016),Sci-Fi|Thriller
+162712,Hologram Man (1995),Action|Sci-Fi|Thriller
+162718,Project Itoh: Empire of Corpses (2015),Animation|Horror|Mystery|Sci-Fi
+162820,No Budget Story (1997),Drama|Fantasy|Romance|Sci-Fi
+162822,When Women Had Tails (1970),Comedy|Fantasy|Sci-Fi
+162846,The Invisible Maniac (1990),Comedy|Horror|Sci-Fi
+162848,Steel Frontier (1995),Action|Sci-Fi
+162990,PSYCHO-PASS: The Movie (2016),Action|Animation|Sci-Fi
+163056,Shin Godzilla (2016),Action|Adventure|Fantasy|Sci-Fi
+163478,Birdemic 2: The Resurrection (2013),Action|Comedy|Horror|Sci-Fi
+163492,Black Road (2015),Sci-Fi|Thriller
+163673,School in the Crosshairs (1981),Fantasy|Sci-Fi
+163961,After the Apocalypse (2004),Drama|Sci-Fi
+163985,ARQ (2016),Sci-Fi|Thriller
+164003,Swamp Devil (2008),Horror|Sci-Fi
+164147,Behind the Planet of the Apes (1998),Documentary|Sci-Fi
+164177,Desolate (2013),Drama|Sci-Fi
+164183,Terminal Invasion (2002),Horror|Sci-Fi|Thriller
+164185,Alien Apocalypse (2005),Comedy|Drama|Horror|Sci-Fi|Thriller
+164202,Journey to the Seventh Planet (1962),Adventure|Fantasy|Horror|Sci-Fi
+164210,Zarkorr! The Invader (1996),Sci-Fi
+164226,Maximum Ride (2016),Action|Adventure|Comedy|Fantasy|Sci-Fi|Thriller
+164352,The Flesh Eaters (1964),Horror|Sci-Fi
+164367,The Girl with All the Gifts (2016),Drama|Horror|Sci-Fi|Thriller
+164371,The Hexer (2001),Adventure|Fantasy|Sci-Fi
+164423,Raiders of the Sun (1992),Action|Adventure|Sci-Fi
+164447,Pilot Pirx's Inquest (1979),Drama|Sci-Fi
+164449,Teens in the Universe (1975),Adventure|Children|Comedy|Sci-Fi
+164453,Failure of Engineer Garin (1973),Adventure|Drama|Sci-Fi|Thriller
+164493,The Clone Returns Home (2008),Drama|Sci-Fi
+164695,Capsule (2015),Drama|Sci-Fi|Thriller
+164877,Crash and Burn (1990),Sci-Fi|Thriller
+164881,Night Guards (2016),Action|Sci-Fi
+164967,How to Make a Monster (1958),Horror|Sci-Fi
+165185,Slave Girls from Beyond Infinity (1987),Action|Adventure|Sci-Fi
+165187,Roller Blade Warriors: Taken by Force (1989),Sci-Fi

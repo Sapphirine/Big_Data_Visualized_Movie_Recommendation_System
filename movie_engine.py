@@ -390,6 +390,127 @@ class RecEngine:
 		f.close()
 	print("=====================================================================================================================")
 
+    def genere_catory(self):
+	fAction=file("./movie_cluster/Action_list", "w+")
+	fAction.write("movieId,title,genres\n")
+
+	fAdventure=file("./movie_cluster/Adventure_list", "w+")
+	fAdventure.write("movieId,title,genres\n")
+
+	fAnimation=file("./movie_cluster/Animation","w+")
+	fAnimation.write("userId,movieId,title,genres\n")
+
+	fChildrens=file("./movie_cluster/Childrens","w+")
+	fChildrens.write("userId,movieId,title,genres\n")
+	
+	fComedy=file("./movie_cluster/Comedy","w+")
+	fComedy.write("movieId,title,genres\n")
+
+	fCrime=file("./movie_cluster/Crime","w+")
+	fCrime.write("movieId,title,genres\n")	
+
+	fDocumentary=file("./movie_cluster/Documentary","w+")
+	fDocumentary.write("movieId,title,genres\n")
+
+	fDrama=file("./movie_cluster/Drama","w+")
+	fDrama.write("movieId,title,genres\n")
+
+	fFantasy=file("./movie_cluster/Fantasy","w+")
+	fFantasy.write("movieId,title,genres\n")
+	
+	fFilmNoir=file("./movie_cluster/FilmNoir","w+")
+	fFilmNoir.write("movieId,title,genres\n")
+
+	fHorror=file("./movie_cluster/Horror","w+")
+	fHorror.write("movieId,title,genres\n")
+
+	fMusical=file("./movie_cluster/Musical","w+")
+	fMusical.write("movieId,title,genres\n")
+
+	fMystery=file("./movie_cluster/Mystery","w+")
+	fMystery.write("movieId,title,genres\n")
+
+	fRomance=file("./movie_cluster/Romance","w+")
+	fRomance.write("movieId,title,genres\n")
+
+	fSciFi=file("./movie_cluster/SciFi","w+")
+	fSciFi.write("movieId,title,genres\n")
+
+	fThriller=file("./movie_cluster/Thriller","w+")
+	fThriller.write("movieId,title,genres\n")
+
+	fWar=file("./movie_cluster/War","w+")
+	fWar.write("movieId,title,genres\n")
+
+	fWestern=file("./movie_cluster/Western","w+")
+	fWestern.write("movieId,title,genres\n")
+
+	fNone=file("./movie_cluster/None","w+")
+	fNone.write("movieId,title,genres\n")
+	for item in self.movies.collect():
+		genere = item[2]
+		list_genere = genere.split("|")
+		for i in list_genere:
+			if i == "Action":
+				fAction.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Adventure":
+				fAdventure.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Animation":
+				fAnimation.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Childrens":
+				fChildrens.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Comedy":
+				fComedy.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Crime":
+				fCrime.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Documentary":
+				fDocumentary.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Drama":
+				fDrama.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Fantasy":
+				fFantasy.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Film-Noir":
+				fFilmNoir.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Horror":
+				fHorror.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Musical":
+				fMusical.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Mystery":
+				fMystery.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Romance":
+				fRomance.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Sci-Fi":
+				fSciFi.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Thriller":
+				fThriller.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "War":
+				fWar.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "Western":
+				fWestern.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+			if i == "(no genres listed)":
+				fNone.write(str(item[0])+","+str(item[1])+","+str(item[2])+"\n")
+	fAction.close()		
+	fAction.close()
+	fAdventure.close()
+	fAnimation.close()
+	fChildrens.close()
+	fComedy.close()
+	fCrime.close()
+	fDocumentary.close()
+	fDrama.close()
+	fFantasy.close()
+	fFilmNoir.close()
+	fHorror.close()
+	fMusical.close()
+	fMystery.close()
+	fRomance.close()
+	fSciFi.close()
+	fThriller.close()
+	fWar.close()
+	fWestern.close()
+	fNone.close()
+		
+	
     def __init__(self, spark_content):
 	reload(sys)
 	sys.setdefaultencoding("utf8")
@@ -409,15 +530,15 @@ class RecEngine:
 			.map(lambda entry: (int(entry[0]), int(entry[1]), float(entry[2]))).cache()
 
 	logger.info("Start to Read movies.csv ... ")
-	raw_movies = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
-	#raw_movies = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/movies.csv")
+	#raw_movies = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
+	raw_movies = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/movies.csv")
 	#entry[0]: Movie ID; entry[1]: Title; entry[2]: Genere
 	first_line = raw_movies.first()
 	self.movies = raw_movies.filter(lambda temp: temp != first_line)\
 			.map(lambda temp: temp.split(","))\
 			.map(lambda entry: (int(entry[0]), entry[1], entry[2])).cache()
 
-
+	#self.genere_catory()
 	logger.info("Start to Count Movie ratings ...")
 	self.aver_ratings = self.ratings.map(lambda entry:(entry[1], entry[2])).groupByKey().map(counts)
 	self.aver_ratings = self.aver_ratings.map(lambda x: (x[0], x[1][1]))
@@ -427,7 +548,7 @@ class RecEngine:
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
         logger.info("Successfully build ALS model!")
 	#uncomment to do the kmeans clusters for movies and users
-	self.kmeans_result(raw_ratings,raw_movies)
+	#self.kmeans_result(raw_ratings,raw_movies)
 	#Uncomment the following to do some test of new added ratings. 
 	#name = "file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/new_user"
 	#self.ratings_new_user(name)

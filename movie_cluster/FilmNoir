@@ -1,0 +1,349 @@
+movieId,title,genres
+164,Devil in a Blue Dress (1995),Crime|Film-Noir|Mystery|Thriller
+320,Suture (1993),Film-Noir|Thriller
+347,Bitter Moon (1992),Drama|Film-Noir|Romance
+746,Force of Evil (1948),Film-Noir
+913,Maltese Falcon. The (1941),Film-Noir|Mystery
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance
+929,Foreign Correspondent (1940),Drama|Film-Noir|Mystery|Thriller
+930,Notorious (1946),Film-Noir|Romance|Thriller
+942,Laura (1944),Crime|Film-Noir|Mystery
+999,2 Days in the Valley (1996),Crime|Film-Noir
+1068,Crossfire (1947),Crime|Film-Noir
+1069,Murder. My Sweet (1944),Crime|Film-Noir|Thriller
+1152,He Walked by Night (1948),Crime|Film-Noir|Thriller
+1153,Raw Deal (1948),Film-Noir
+1154,T-Men (1947),Film-Noir
+1179,Grifters. The (1990),Crime|Drama|Film-Noir
+1212,Third Man. The (1949),Film-Noir|Mystery|Thriller
+1245,Miller's Crossing (1990),Crime|Drama|Film-Noir|Thriller
+1248,Touch of Evil (1958),Crime|Film-Noir|Thriller
+1252,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+1260,M (1931),Crime|Film-Noir|Thriller
+1273,Down by Law (1986),Comedy|Drama|Film-Noir
+1284,Big Sleep. The (1946),Crime|Film-Noir|Mystery
+1464,Lost Highway (1997),Crime|Drama|Fantasy|Film-Noir|Mystery|Romance
+1601,Hoodlum (1997),Crime|Drama|Film-Noir
+1617,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+1748,Dark City (1998),Adventure|Film-Noir|Sci-Fi|Thriller
+2008,This World. Then the Fireworks (1997),Crime|Drama|Film-Noir
+2066,Out of the Past (1947),Film-Noir
+2182,Wrong Man. The (1956),Drama|Film-Noir|Thriller
+2186,Strangers on a Train (1951),Crime|Drama|Film-Noir|Thriller
+2206,Suspicion (1941),Film-Noir|Mystery|Thriller
+2511,Long Goodbye. The (1973),Crime|Film-Noir
+2612,Mildred Pierce (1945),Drama|Film-Noir
+2631,Frogs for Snakes (1998),Comedy|Film-Noir|Thriller
+2726,Killing. The (1956),Crime|Film-Noir
+2727,Killer's Kiss (1955),Crime|Film-Noir
+2940,Gilda (1946),Drama|Film-Noir|Mystery|Romance
+3121,Hitch-Hiker. The (1953),Drama|Film-Noir
+3292,Big Combo. The (1955),Film-Noir
+3305,Bluebeard (1944),Film-Noir|Horror
+3334,Key Largo (1948),Crime|Drama|Film-Noir|Thriller
+3364,Asphalt Jungle. The (1950),Crime|Film-Noir
+3380,Railroaded! (1947),Film-Noir
+3435,Double Indemnity (1944),Crime|Drama|Film-Noir
+3656,Lured (1947),Crime|Film-Noir|Mystery|Thriller
+3683,Blood Simple (1984),Crime|Drama|Film-Noir
+3706,Angel Heart (1987),Film-Noir|Horror|Mystery|Thriller
+3728,One False Move (1992),Crime|Drama|Film-Noir|Thriller
+3965,Strange Love of Martha Ivers. The (1946),Drama|Film-Noir
+3966,Detour (1945),Crime|Film-Noir
+4037,House of Games (1987),Crime|Film-Noir|Mystery|Thriller
+4298,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller
+4426,Kiss Me Deadly (1955),Film-Noir
+4432,Sweet Smell of Success (1957),Drama|Film-Noir
+4496,D.O.A. (1988),Film-Noir|Mystery|Thriller
+4848,Mulholland Drive (2001),Crime|Drama|Film-Noir|Mystery|Thriller
+5017,Big Heat. The (1953),Drama|Film-Noir
+5169,Scarlet Street (1945),Film-Noir
+5289,Body and Soul (1947),Drama|Film-Noir
+5434,Sorry. Wrong Number (1948),Drama|Film-Noir|Thriller
+5795,Big Knife. The (1955),Film-Noir
+5966,Kiss Before Dying. A (1956),Film-Noir|Mystery
+6047,Dead Reckoning (1947),Drama|Film-Noir|Mystery
+6064,Harder They Fall. The (1956),Drama|Film-Noir
+6147,White Rose. The (Weiße Rose. Die) (1982),Drama|Film-Noir
+6273,In a Lonely Place (1950),Drama|Film-Noir|Mystery|Romance
+6515,You Only Live Once (1937),Crime|Film-Noir
+6603,Double Life. A (1947),Crime|Drama|Film-Noir
+6830,Sudden Fear (1952),Film-Noir|Horror|Thriller
+7013,Night of the Hunter. The (1955),Drama|Film-Noir|Thriller
+7126,Killing of a Chinese Bookie. The (1976),Comedy|Crime|Drama|Film-Noir|Musical
+7195,Enforcer. The (1951),Crime|Drama|Film-Noir
+7216,High Sierra (1941),Crime|Drama|Film-Noir|Thriller
+7217,Dark Passage (1947),Crime|Drama|Film-Noir|Romance|Thriller
+7223,D.O.A. (1950),Drama|Film-Noir|Mystery
+7335,Pickup on South Street (1953),Film-Noir
+7571,Blue Gardenia. The (1953),Crime|Drama|Film-Noir|Thriller
+7728,Postman Always Rings Twice. The (1946),Crime|Drama|Film-Noir|Thriller
+7772,Undercurrent (1946),Film-Noir|Thriller
+7919,Drunken Angel (Yoidore tenshi) (1948),Drama|Film-Noir
+7924,Stray Dog (Nora inu) (1949),Drama|Film-Noir|Thriller
+7926,High and Low (Tengoku to jigoku) (1963),Crime|Drama|Film-Noir|Thriller
+7943,Killers. The (1946),Crime|Film-Noir
+8044,I Am a Fugitive from a Chain Gang (1932),Crime|Drama|Film-Noir
+8236,While the City Sleeps (1956),Drama|Film-Noir
+8410,Suddenly (1954),Crime|Drama|Film-Noir
+8420,Possessed (1947),Drama|Film-Noir
+8465,Johnny Eager (1942),Crime|Drama|Film-Noir|Romance
+8491,White Heat (1949),Crime|Drama|Film-Noir
+8584,Leave Her to Heaven (1945),Drama|Film-Noir
+8600,Angels with Dirty Faces (1938),Crime|Drama|Film-Noir|Thriller
+8751,Gun Crazy (a.k.a. Deadly Is the Female) (1949),Crime|Drama|Film-Noir
+8752,Set-Up. The (1949),Drama|Film-Noir|Romance
+8765,This Gun for Hire (1942),Crime|Film-Noir|Thriller
+8766,Black Angel (1946),Drama|Film-Noir|Mystery
+8767,Big Clock. The (1948),Crime|Film-Noir|Thriller
+8768,Criss Cross (1949),Crime|Drama|Film-Noir
+25825,Fury (1936),Drama|Film-Noir
+25835,Dead End (1937),Crime|Drama|Film-Noir
+25865,Letter. The (1940),Drama|Film-Noir
+25903,Mask of Dimitrios. The (1944),Crime|Drama|Film-Noir|Mystery
+25904,Ministry of Fear (1944),Drama|Film-Noir|Thriller
+25911,Woman in the Window. The (1944),Crime|Film-Noir|Thriller
+25920,Blue Dahlia. The (1946),Crime|Drama|Film-Noir|Mystery|Thriller
+25921,Dark Mirror. The (1946),Film-Noir|Thriller
+25922,Deception (1946),Drama|Film-Noir|Thriller
+25927,Stranger. The (1946),Drama|Film-Noir|Thriller
+25929,Nightmare Alley (1947),Drama|Film-Noir
+25930,Odd Man Out (1947),Crime|Drama|Film-Noir|Thriller
+25932,Two Mrs. Carrolls. The (1947),Crime|Drama|Film-Noir|Thriller
+25940,Lady from Shanghai. The (1947),Drama|Film-Noir|Mystery
+25943,Naked City. The (1948),Crime|Drama|Film-Noir|Mystery
+25945,They Live by Night (1949),Crime|Film-Noir|Romance
+25972,Clash by Night (1952),Drama|Film-Noir
+26018,Chase a Crooked Shadow (1958),Crime|Film-Noir|Mystery|Thriller
+26117,Killers. The (1964),Action|Crime|Drama|Film-Noir|Thriller
+26664,Moon 44 (1990),Action|Film-Noir|Sci-Fi|Thriller
+26701,Patlabor: The Movie (Kidô keisatsu patorebâ: The Movie) (1989),Action|Animation|Crime|Drama|Film-Noir|Mystery|Sci-Fi|Thriller
+26875,Pure Formality. A (Pura formalità. Una) (1994),Crime|Film-Noir|Mystery|Thriller
+30712,Narrow Margin. The (1952),Crime|Drama|Film-Noir
+31545,Trou. Le (Hole. The) (Night Watch. The) (1960),Crime|Film-Noir
+31770,Night and the City (1950),Film-Noir|Thriller
+31807,Dot the I (2003),Drama|Film-Noir|Thriller
+31932,Fallen Angel (1945),Crime|Film-Noir|Mystery|Romance
+32357,Unfaithful. The (1947),Drama|Film-Noir
+32369,Panic in the Streets (1950),Crime|Drama|Film-Noir|Thriller
+32371,Call Northside 777 (1948),Crime|Drama|Film-Noir
+32587,Sin City (2005),Action|Crime|Film-Noir|Mystery|Thriller
+32952,Ride the Pink Horse (1947),Drama|Film-Noir|Mystery|Thriller
+33110,Phantom Lady (1944),Crime|Film-Noir|Mystery
+33113,Act of Violence (1948),Drama|Film-Noir|Thriller
+33321,Road House (1948),Drama|Film-Noir
+33914,Racket. The (1951),Crime|Drama|Film-Noir
+34193,Conflict (1945),Drama|Film-Noir
+34306,Journey Into Fear (1943),Drama|Film-Noir|War
+34488,14 Hours (Fourteen Hours) (1951),Drama|Film-Noir|Thriller
+39369,Detective Story (1951),Crime|Drama|Film-Noir
+39731,Champion (1949),Drama|Film-Noir|Romance
+41136,Driver. The (1978),Action|Crime|Film-Noir
+41585,Kiss of Death (1947),Crime|Drama|Film-Noir
+41762,Beyond the Forest (1949),Drama|Film-Noir|Thriller
+41880,House of Strangers (1949),Drama|Film-Noir
+42794,Buried Alive (1990),Film-Noir|Horror|Thriller
+44392,Stranger on the Third Floor (1940),Drama|Film-Noir
+44761,Brick (2005),Crime|Drama|Film-Noir|Mystery
+44849,Renaissance (2006),Action|Animation|Film-Noir|Sci-Fi|Thriller
+45179,Glass Key. The (1942),Crime|Drama|Film-Noir|Mystery
+45224,Secret Beyond the Door (1948),Drama|Film-Noir|Mystery|Thriller
+45550,Beyond a Reasonable Doubt (1956),Crime|Drama|Film-Noir
+45679,Seventh Victim. The (1943),Drama|Film-Noir|Horror|Mystery
+45758,Lady on a Train (1945),Comedy|Crime|Film-Noir|Mystery|Romance|Thriller
+45891,Lady in the Lake (1947),Crime|Drama|Film-Noir|Mystery|Romance
+46258,Marked Woman (1937),Crime|Drama|Film-Noir
+46372,Bribe. The (1949),Drama|Film-Noir|Thriller
+46713,Desperate (1947),Drama|Film-Noir
+46716,Knock on Any Door (1949),Crime|Drama|Film-Noir
+47092,On Dangerous Ground (1952),Crime|Drama|Film-Noir
+47277,They Won't Believe Me (1947),Drama|Film-Noir
+47566,Born to Kill (1947),Crime|Drama|Film-Noir
+48567,Dillinger (1945),Crime|Drama|Film-Noir
+48575,Brute Force (1947),Drama|Film-Noir|Thriller
+48872,13 Tzameti (2005),Film-Noir|Thriller
+49291,I Wake Up Screaming (1941),Crime|Film-Noir|Mystery|Romance|Thriller
+49985,The Face Behind the Mask (1941),Crime|Drama|Film-Noir|Romance
+52199,Damnation (Karhozat) (1987),Drama|Film-Noir
+52202,His Kind of Woman (1951),Comedy|Crime|Drama|Film-Noir|Thriller
+52378,No Way Out (1950),Drama|Film-Noir
+52813,Thieves' Highway (1949),Drama|Film-Noir|Thriller
+53066,Caught (1949),Drama|Film-Noir
+54833,Brighton Rock (1947),Crime|Drama|Film-Noir
+55226,House of Bamboo (1955),Crime|Film-Noir
+55373,Breaking Point. The (1950),Crime|Drama|Film-Noir
+55713,The Reckless Moment (1949),Crime|Drama|Film-Noir
+55895,Desperate Hours. The (1955),Drama|Film-Noir|Thriller
+56015,Kansas City Confidential (1952),Crime|Drama|Film-Noir|Mystery
+57938,Crime Zone (1989),Action|Film-Noir|Sci-Fi
+58898,Aerial. The (La antena) (2007),Adventure|Fantasy|Film-Noir|Mystery|Sci-Fi
+59463,Man Between. The (1953),Drama|Film-Noir|Romance|Thriller
+59527,Window. The (1949),Drama|Film-Noir|Thriller
+59832,Where the Sidewalk Ends (1950),Crime|Drama|Film-Noir
+59867,Lonelyhearts (1958),Drama|Film-Noir
+60103,Angel Face (1952),Crime|Drama|Film-Noir
+62063,Dead Man's Letters (Pisma myortvogo cheloveka) (1986),Drama|Film-Noir
+62304,Tulse Luper Suitcases. Part 1: The Moab Story. The (2003),Adventure|Drama|Fantasy|Film-Noir
+64325,Long Night. The (1947),Crime|Drama|Film-Noir|Romance|Thriller
+64519,Boomerang (1947),Crime|Drama|Film-Noir
+65238,Decoy (1946),Crime|Drama|Film-Noir
+66289,Singapore Sling (Singapore sling: O anthropos pou agapise ena ptoma) (1990),Crime|Film-Noir|Horror|Romance|Thriller
+66686,Unsuspected. The (1947),Drama|Film-Noir|Thriller
+67096,Big Steal. The (1949),Adventure|Drama|Film-Noir|Thriller
+67135,Night Has a Thousand Eyes (1948),Drama|Film-Noir
+67359,Illegal (1955),Crime|Drama|Film-Noir
+67667,Border Incident (1949),Crime|Drama|Film-Noir
+67706,Union Station (1950),Drama|Film-Noir
+68044,Crime Wave (1954),Crime|Drama|Film-Noir
+68921,Moontide (1942),Drama|Film-Noir
+69444,5 Against the House (1955),Crime|Drama|Film-Noir
+69516,Limits of Control. The (2009),Crime|Drama|Film-Noir
+69559,File on Thelma Jordan. The (1950),Crime|Drama|Film-Noir|Mystery
+69674,Mob. The (1951),Crime|Drama|Film-Noir
+70377,Where Danger Lives (1950),Drama|Film-Noir|Romance|Thriller
+70670,Second Wind (Le deuxième souffle) (Second Breath) (1966),Crime|Drama|Film-Noir
+70689,Mystery Street (1950),Crime|Drama|Film-Noir
+70724,Side Street (1949),Crime|Drama|Film-Noir
+71014,Dark Corner. The (1946),Crime|Drama|Film-Noir
+71243,Tension (1949),Crime|Drama|Film-Noir|Romance
+71343,Split Second (1953),Film-Noir|Thriller
+71350,Scandal Sheet (1952),Crime|Drama|Film-Noir|Romance|Thriller
+71738,Shanghai Gesture. The (1941),Drama|Film-Noir
+72090,13th Letter. The (1951),Film-Noir
+72161,99 River Street (1953),Action|Crime|Drama|Film-Noir
+72327,Murder by Contract (1958),Crime|Drama|Film-Noir|Thriller
+72400,Undercover Man (1949),Crime|Drama|Film-Noir|Romance
+72856,Moonrise (1948),Drama|Film-Noir
+73086,Fallen Sparrow. The (1943),Film-Noir|Thriller
+73330,Hickey and Boggs (1972),Crime|Drama|Film-Noir|Thriller
+73365,Dead Time: Kala (2007),Crime|Fantasy|Film-Noir|Thriller
+74590,House on 92nd Street. The (1945),Drama|Film-Noir
+75820,I Was A Communist for the FBI (1951),Drama|Film-Noir|Thriller
+75979,Frightened City. The (1961),Crime|Drama|Film-Noir
+77212,Out of the Fog (1941),Crime|Drama|Film-Noir
+77496,Night Train to Munich (1941),Film-Noir|Thriller|War
+77613,Johnny Angel (1945),Crime|Drama|Film-Noir
+78186,Sniper. The (1952),Crime|Drama|Film-Noir|Thriller
+78420,House on Telegraph Hill. The (1951),Drama|Film-Noir|Mystery|Thriller
+78438,Edge of the City (1957),Drama|Film-Noir
+78905,Whirlpool (1949),Crime|Drama|Film-Noir|Mystery
+79321,Crime of Passion (1958),Crime|Drama|Film-Noir
+79525,Human Desire (1954),Drama|Film-Noir
+79596,Lineup. The (1958),Crime|Drama|Film-Noir
+79610,Affair in Trinidad (1952),Drama|Film-Noir|Musical|Thriller
+79874,Underworld (1927),Crime|Drama|Film-Noir
+79927,Terribly Happy (Frygtelig lykkelig) (2008),Crime|Drama|Film-Noir|Thriller
+80288,Street with No Name. The (1948),Crime|Drama|Film-Noir|Thriller
+80494,Phenix City Story. The (1955),Crime|Drama|Film-Noir
+80653,Missing Person. The (2009),Drama|Film-Noir|Mystery
+80677,Classe Tous Risques (Big Risk. The) (1960),Crime|Drama|Film-Noir|Romance|Thriller
+80984,Rogue Cop (1954),Crime|Drama|Film-Noir
+81061,Party Girl (1958),Drama|Film-Noir
+81132,Rubber (2010),Action|Adventure|Comedy|Crime|Drama|Film-Noir|Horror|Mystery|Thriller|Western
+81398,Eastern Drift (Indigène d'Eurasie) (2010),Drama|Film-Noir|Thriller
+81453,Dial 1119 (1950),Crime|Drama|Film-Noir
+82015,M (1951),Crime|Drama|Film-Noir|Thriller
+82121,Verdict. The (1946),Crime|Drama|Film-Noir|Mystery|Thriller
+82313,Nightfall (1957),Crime|Drama|Film-Noir
+82732,New York Confidential (1955),Crime|Drama|Film-Noir
+83916,Blues in the Night (1941),Drama|Film-Noir|Musical
+84150,Prowler. The (1951),Drama|Film-Noir|Thriller
+84250,Christmas Holiday (1944),Drama|Film-Noir
+85106,Assassin Next Door. The (Kirot) (2009),Action|Film-Noir|Thriller
+86204,I Became a Criminal (They Made Me a Fugitive) (1947),Crime|Drama|Film-Noir
+86206,Dark City (1950),Crime|Drama|Film-Noir|Mystery
+86380,Pushover (1954),Crime|Drama|Film-Noir
+86418,City Streets (1931),Crime|Film-Noir
+86635,Vice (2008),Crime|Film-Noir|Mystery|Thriller
+86671,Woman on the Beach. The (1947),Drama|Film-Noir|Romance
+86858,Racket. The (1928),Crime|Film-Noir
+86894,Born to Be Bad (1950),Drama|Film-Noir
+86904,Jeopardy (a.k.a. A Woman in Jeopardy) (1953),Film-Noir|Thriller
+87038,Hollow Triumph (a.k.a. The Scar) (1948),Crime|Drama|Film-Noir
+87218,He Ran All the Way (1951),Crime|Drama|Film-Noir
+87258,The Thief (1952),Crime|Drama|Film-Noir
+87356,Pale Flower (Kawaita hana) (1964),Crime|Film-Noir|Thriller
+88042,Cornered (1945),Film-Noir|Thriller
+88129,Drive (2011),Crime|Drama|Film-Noir|Thriller
+89116,Tight Spot (1955),Drama|Film-Noir|Thriller
+89588,Follow Me Quietly (1949),Crime|Drama|Film-Noir|Mystery
+89753,Tinker Tailor Soldier Spy (2011),Drama|Film-Noir|Thriller
+89765,Sleep. My Love (1948),Drama|Film-Noir|Mystery
+89767,My Name Is Julia Ross (1945),Drama|Film-Noir|Mystery
+89831,Strip. The (1951),Drama|Film-Noir
+90321,House by the River (1950),Crime|Drama|Film-Noir
+90371,Killer Is Loose. The (1956),Crime|Drama|Film-Noir
+90598,Radioactive Dreams (1985),Action|Comedy|Film-Noir|Musical|Sci-Fi
+91075,Great Flamarion. The (1945),Drama|Film-Noir
+91483,Bullet to the Head (2012),Action|Crime|Film-Noir
+91697,Pitfall (1948),Film-Noir
+91711,Shockproof (1949),Crime|Drama|Film-Noir
+91770,Private Hell 36 (1954),Crime|Drama|Film-Noir
+92023,Las Vegas Story. The (1952),Crime|Drama|Film-Noir
+93918,Big Night. The (1951),Drama|Film-Noir|Thriller
+95028,Appointment with Danger (1951),Crime|Drama|Film-Noir
+95032,Vares: The Kiss of Evil (Vares - Pahan suudelma) (2011),Action|Crime|Film-Noir
+96697,Walk Softly. Stranger (1950),Crime|Drama|Film-Noir|Romance
+97526,Sound of Fury. The (1950),Crime|Drama|Film-Noir
+97819,Witness to Murder (1954),Crime|Drama|Film-Noir|Thriller
+99444,Blonde Ice (1948),Film-Noir
+99962,Counterfeit Coin. The (Istoria mias kalpikis liras) (1955),Comedy|Drama|Film-Noir|Romance
+100368,No Man of Her Own (1950) ,Drama|Film-Noir
+102119,Yesterday Was a Lie (2008),Drama|Film-Noir|Mystery|Romance|Sci-Fi
+102432,Blueprint for Murder. A (1953),Film-Noir|Mystery|Thriller
+104028,Armored Car Robbery (1950),Crime|Film-Noir|Thriller
+104372,Cry in the Night. A (1956),Crime|Drama|Film-Noir
+104832,Glass Web. The (1953),Crime|Drama|Film-Noir
+105406,711 Ocean Drive (1950),Crime|Drama|Film-Noir|Thriller
+106583,Berlin Express (1948),Crime|Drama|Film-Noir|Thriller
+107640,Glass Agency. The (Ajans-E Shisheh-I) (1999),Crime|Drama|Film-Noir|Thriller
+107643,Here Without Me (Inja bedoone man) (2011),Drama|Film-Noir|Mystery|Romance
+108125,Allotment Wives (1945),Crime|Drama|Film-Noir
+108132,Rhino Season (Fasle kargadan) (2012) ,Drama|Fantasy|Film-Noir|Mystery|Romance|War
+108311,Nobody Lives Forever (1946),Crime|Drama|Film-Noir
+108318,Single Shot. A (2013),Crime|Drama|Film-Noir|Thriller
+109017,Beware. My Lovely (1952),Crime|Drama|Film-Noir
+109019,Bewitched (Alter Ego) (1945),Crime|Drama|Film-Noir|Thriller
+109708,Black Hand (1950),Crime|Film-Noir|Thriller
+110510,Série noire (1979),Film-Noir
+110613,Second Woman. The (1950),Drama|Film-Noir|Mystery
+110653,Signal. The (Señal. La) (2007),Drama|Film-Noir|Mystery|Romance
+110880,New Orleans Uncensored (1955),Crime|Drama|Film-Noir|Thriller
+111285,Crack-Up (1946),Crime|Film-Noir|Mystery
+111368,Paid (1930),Crime|Drama|Film-Noir
+111456,Brasher Doubloon. The (1947),Crime|Drama|Film-Noir|Mystery
+111716,Backfire (1950),Crime|Film-Noir|Mystery|Romance|Thriller
+111919,Cry Terror! (1958),Crime|Film-Noir|Thriller
+112253,Brainstorm (1965),Drama|Film-Noir|Thriller
+112359,Woman's Secret. A (1949),Drama|Film-Noir|Mystery
+113286,Lady Without Passport. A (1950),Crime|Drama|Film-Noir
+113449,Crossroads (1942),Crime|Drama|Film-Noir
+113585,Fingers at the Window (1942),Drama|Film-Noir|Mystery
+113698,Alligator Eyes (1990),Drama|Film-Noir|Mystery
+113945,Dangerous Profession. A (1949),Crime|Drama|Film-Noir
+114292,Cause for Alarm! (1951),Crime|Drama|Film-Noir|Thriller
+114569,Bullet for Joey. A (1955),Crime|Drama|Film-Noir|Thriller
+115409,Brothers Rico. The (1957),Crime|Drama|Film-Noir|Thriller
+116551,The Dark Past (1948),Crime|Film-Noir|Thriller
+116750,Deadline at Dawn (1946),Film-Noir|Mystery|Romance|Thriller
+116879,The Beast of the City (1932),Crime|Drama|Film-Noir|Romance
+117188,Johnny Apollo (1940),Crime|Drama|Film-Noir|Romance
+117648,Drive a Crooked Road (1954),Crime|Drama|Film-Noir|Thriller
+117924,The Bloody Olive (1997),Comedy|Crime|Film-Noir
+118868,Somewhere in the Night (1946),Crime|Drama|Film-Noir
+119609,Escape in the Fog (1945),Crime|Drama|Film-Noir
+120266,Framed (1947),Crime|Drama|Film-Noir
+121951,Walk a Crooked Mile (1948),Crime|Drama|Film-Noir
+121993,Night Court (1932),Crime|Film-Noir|Thriller
+122064,No Questions Asked (1951),Drama|Film-Noir
+122302,The Amazing Dr. Clitterhouse (1938),Crime|Drama|Film-Noir
+122343,Shock (1946),Film-Noir|Thriller
+122391,Murder is My Beat (1955),Film-Noir|Mystery
+127013,The Devil Thumbs a Ride (1947),Drama|Film-Noir
+127331,The Well (1951),Drama|Film-Noir|Thriller
+127333,Wicked Woman (1953),Drama|Film-Noir
+127335,House of Numbers (1957),Crime|Drama|Film-Noir
+130482,Too Late for Tears (1949),Crime|Drama|Film-Noir|Mystery|Thriller
+132232,Shield for Murder (1954),Crime|Drama|Film-Noir
+132846,Woman on the Run (1950),Crime|Drama|Film-Noir
+144902,Under the Gun (1951),Crime|Drama|Film-Noir|Thriller

@@ -17,11 +17,14 @@
 
     <!-- Custom CSS -->
      <link rel="stylesheet" href="{{ url_for('static', filename='css/landing-page.css') }}" type="text/css" />
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/dropdown_margin.css') }}" type="text/css" />
 
     <!-- Custom Fonts -->
     <link href="{{ url_for('static', filename='font-awesome/css/font-awesome.min.css') }}" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-
+    <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/show_new_user_section.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -90,9 +93,9 @@
                             <li>
                                 <a href="#category" class="btn btn-default btn-lg"><span class="network-name">Find Movies by Category</span></a>
                             </li>
-                            <!-- <li>
-                                <a href="#contact" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
-                            </li> -->
+                            <li>
+                                <a href="#new_user" onclick="show()"class="btn btn-default btn-lg"><span class="network-name">I am a new user!</span></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -106,7 +109,7 @@
 
     <!-- Page Content -->
 
-	<a  name="top_movie" id="top_movie"></a>
+	<a  name="top_movie"></a>
     <div class="content-section-a">
 
         <div class="container">
@@ -147,6 +150,7 @@
     <!-- </div> -->
     <!-- /.content-section-b -->
     {% if list %}
+    <a  name="top_movie_result" id="top_movie_result"></a>
     <div class="content-section-a">
 
         <div class="container">
@@ -194,6 +198,12 @@
         <!-- /.container -->
 
     </div>
+    <script type="text/javascript">
+    $(document).ready(
+	    $('html, body').animate({
+	        scrollTop: $('#top_movie_result').offset().top}, 'slow')
+	);
+    </script>
     {% endif %}
     <!-- /.content-section-a -->
 
@@ -226,6 +236,7 @@
     </div>
 
     {% if single_rating %}
+    <a  name="rate_one_result" id="rate_one_result"></a>
     <div class="content-section-a">
 
         <div class="container">
@@ -250,7 +261,12 @@
                     <div class="row">
                     {% for item in single_rating %}
                     <div class="col-md-4">
+                    {% if loop.index ==3 %}
+                	{% set url = "https://movielens.org/movies/" + item|string %}
+                	<a target='_blank' href="{{url}}">{{item}} Click Me!</a>
+                	{% else %}
                     {{item|replace('"','')}}
+                	{% endif %}
                 	</div>
                     {% endfor %}
                     </div>
@@ -262,6 +278,12 @@
         <!-- /.container -->
 
     </div>
+    <script type="text/javascript">
+    $(document).ready(
+	    $('html, body').animate({
+	        scrollTop: $('#rate_one_result').offset().top}, 'slow')
+	);
+    </script>
     {% endif %}
 
 
@@ -287,8 +309,14 @@
 					<textarea name="wordcounts" id="wordcounts"  style="display:none">
 						{{ tag }}
 					</textarea>	
-				    <input value="Click Me!" type="submit">
+				    <input id="click_me" value="Click Me!" type="submit">
 				</form>
+				<script type="text/javascript">
+			    $(document).ready(
+				    $('html, body').animate({
+				        scrollTop: $('#click_me').offset().top}, 'slow')
+				);
+			    </script>
                  {% endif %}
                 </div>
 
@@ -311,13 +339,31 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Choose Category:
+                    <h2 class="section-heading">Choose Category:</h2>
                     <form method="POST" action="/">
 					   <dl>
 					    {{ formCat.csrf_token }}
-					    {{ render_field(formCat.category) }}
+					    <div class="row">
+					    	<div class="col-sm-6">
+						    <select name="category" class="form-control">
+							  <option>comedy</option>
+							  <option>drama</option>
+							  <option>docmen</option>
+							  <option>horror</option>
+							  <option>action</option>
+							</select>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-sm-6">
 					    {{ render_field(formCat.count) }}
+					    </div>
+					    </div>
+					    <div class="row">
+					    	<div class="col-sm-6">
 					    <input type="submit" value="Submit">
+					    </div>
+					    </div>
 					    </dl>
 					</form>
                 </div>
@@ -331,9 +377,9 @@
 
     </div>
 
-
      {% if selected_category %}
-    <div class="content-section-a">
+     <a  name="test_section" id="test_secion"></a>
+    	<div class="content-section-a">
 
         <div class="container">
 
@@ -341,7 +387,7 @@
                 <div class="">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Top {{count}} Movies in {{category}}:</h2>
+                    <h2 class="section-heading">Top {{count}} Movies in {{category}}:
                     <div class="row">
                     	<div class="col-md-4">
                     		Id
@@ -378,7 +424,256 @@
         <!-- /.container -->
 
     </div>
+    <script type="text/javascript">
+    $(document).ready(
+	    $('html, body').animate({
+	        scrollTop: $('#test_secion').offset().top}, 'slow')
+	);
+    </script>
     {% endif %}
+
+
+
+    <a  name="new_user"></a>
+    <div class="content-section-a" id="new_user">
+
+        <div class="container">
+            <div class="row">
+                <div class="">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Your User Id: {{new_user_id}}</h2>
+                    </br>
+                    <form method="POST" action="/newuser">
+                        <dl>
+                        <input type="hidden" name="user" value="15">
+                    	<div class="row">
+                    	<div class="col-md-3">
+                    		Hitler (1962)
+                    	</div>
+                    	<div class="col-md-3">
+                    		Outlaw Justice (1999)
+                    	</div>
+                    	<div class="col-md-3">
+                    		Say Nothing (2001)
+                    	</div>
+                    	<div class="col-md-3">
+                    		When He Didn't Come Home (1998)
+                    	</div>
+                        
+                        
+                    	</div>
+                    	<div class="row">
+				            <div class="col-md-3">
+				                <img class="img-responsive" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1ODY4NzI0M15BMl5BanBnXkFtZTcwNzUxNzM1MQ@@._V1_.jpg" alt="">
+				            </div>
+				            <div class="col-md-3">
+				                <img class="img-responsive" height="200" width="150" src="https://files.graphiq.com/7522/media/images/Outlaw_Justice_6763004.jpg" alt="">
+				            </div>
+				            <div class="col-md-3">
+				                <img class="img-responsive" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0MTI1Mzg5MV5BMl5BanBnXkFtZTYwOTAxMDM5._V1_.jpg" alt="">
+				            </div>
+				            <div class="col-md-3">
+				                <img class="img-responsive" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/M/MV5BNzE4Njc4MDMzNV5BMl5BanBnXkFtZTcwMTkwOTgyMQ@@._V1_.jpg" alt="">
+				            </div>
+                            
+                            
+			            </div>
+			            	<div class="select_margin_first" style="display:inline-block">
+			            		
+				            	<select name="142138" class="form-control">
+				            		<option>1</option>
+				            		<option>2</option>
+				            		<option>3</option>
+				            		<option>4</option>
+				            		<option>5</option>
+				            		<option>I don't know</option>
+				            	</select>
+				            </div>
+			            	
+			            	<div class="select_margin" style="display:inline-block">
+			            		
+				            	<select name="124637" class="form-control">
+				            		<option>1</option>
+				            		<option>2</option>
+				            		<option>3</option>
+				            		<option>4</option>
+				            		<option>5</option>
+				            		<option>I don't know</option>
+				            	</select>
+			            	</div>
+                            <div class="select_margin" style="display:inline-block">
+                                
+                                <select name="132124" class="form-control">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>I don't know</option>
+                                </select>
+                            </div>
+                            <div class="select_margin" style="display:inline-block">
+                                <select name="136992" class="form-control">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>I don't know</option>
+                                </select>
+                            </div>
+
+                            
+                            
+                        </br>
+                        <div class="row">
+                            <div class="col-md-3">
+                            Baseline (2010)
+                            </div>
+                            <div class="col-md-3">
+                                Zig Zag Story (1983)
+                            </div>
+                            <div class="col-md-3">
+                                Christian Finnegan: The Fun Part (2014)
+                            </div>
+                            <div class="col-md-3">
+                                Shield for Murder (1954)
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-md-3">
+                                <img class="img-responsive" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MjM2OTcyN15BMl5BanBnXkFtZTcwMTg3Mjc0NQ@@._V1_SY1000_CR0,0,699,1000_AL_.jpg" alt="">
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/M/MV5BNmIyMWNjZjctNWIyNy00OTgxLThmY2ItZGRlZWRiOWZmNzdkXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg" alt="">
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjY4NTUwMV5BMl5BanBnXkFtZTgwNjc4ODE0NDE@._V1_.jpg" alt="">
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" height="200" width="150" src="https://upload.wikimedia.org/wikipedia/en/6/61/Shield_for_Murder_-_Poster.jpg" alt="">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="select_margin_first" style="display:inline-block">
+                                <select name="138172" class="form-control">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>I don't know</option>
+                                </select>
+                            </div>
+                            <div class="select_margin" style="display:inline-block">
+                                <select name="164620" class="form-control">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>I don't know</option>
+                                </select>
+                            </div>
+                            <div class="select_margin" style="display:inline-block">
+                                <select name="138620" class="form-control">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>I don't know</option>
+                                </select>
+                            </div>
+                            <div class="select_margin" style="display:inline-block">
+                                <select name="132232" class="form-control">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>I don't know</option>
+                                </select>
+                            </div>
+                        </div>
+
+
+                    </br>
+                        <div class="row">
+                        <div class="col-md-3">
+                            Victim (2011)
+                        </div>
+                        <div class="col-md-3">
+                            Sun Kissed (2012)
+                        </div>
+                        <div class="col-md-3">
+                            The Good Mistress (2014)
+                        </div></div>
+
+                        <div class="row">
+                            <div class="col-md-3">
+                                <img class="img-responsive" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTI1MzgxOF5BMl5BanBnXkFtZTgwNzc1MzE1MjE@._V1_.jpg" alt="">
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0MDc2NzQxNV5BMl5BanBnXkFtZTcwMzUzNTI4Mw@@._V1_SY1000_CR0,0,703,1000_AL_.jpg" alt="">
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzM4OTc5Ml5BMl5BanBnXkFtZTgwODg2NTYxMTE@._V1.._UY268_CR3,0,182,268_AL_.jpg" alt="">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="select_margin_first" style="display:inline-block">
+                                <select name="143180" class="form-control">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>I don't know</option>
+                                </select>
+                            </div>
+                            <div class="select_margin" style="display:inline-block">
+                                <select name="99450" class="form-control">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>I don't know</option>
+                                </select>
+                            </div>
+                            <div class="select_margin" style="display:inline-block">
+                                <select name="136988" class="form-control">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>I don't know</option>
+                                </select>
+                            </div>
+                        </div>
+
+                    </br>
+                             <input class="col-offset-5" type="submit" value="Submit">
+                             </dl>
+					</form>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+
+
+
+
 
 	<a  name="contact"></a>
     <div class="banner">
@@ -441,10 +736,8 @@
 
 	 
     <!-- jQuery -->
-    <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
 
 </body>
 

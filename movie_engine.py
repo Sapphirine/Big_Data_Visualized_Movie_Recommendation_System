@@ -544,8 +544,8 @@ class RecEngine:
 			.map(lambda entry: (int(entry[0]), int(entry[1]), float(entry[2]))).cache()
 
 	logger.info("Start to Read movies.csv ... ")
-	raw_movies = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
-	#raw_movies = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/movies.csv")
+	#raw_movies = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
+	raw_movies = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/movies.csv")
 	#entry[0]: Movie ID; entry[1]: Title; entry[2]: Genere
 	first_line = raw_movies.first()
 	self.movies = raw_movies.filter(lambda temp: temp != first_line)\

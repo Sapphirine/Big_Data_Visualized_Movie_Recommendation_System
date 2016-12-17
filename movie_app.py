@@ -22,6 +22,10 @@ class topForm(Form):
     user_id = StringField('User Id:', validators=[InputRequired()])
     count = StringField('Top Count:', validators=[InputRequired()])
 
+class simForm(Form):
+    movie_id = StringField('Movie Id:', validators=[InputRequired()])
+    count = StringField('Top Count:', validators=[InputRequired()])
+
 class indvForm(Form):
     user_id = StringField('User Id:', validators=[InputRequired()])
     movie_id = StringField('Movie Id:', validators=[InputRequired()])
@@ -44,6 +48,7 @@ class popForm(Form):
 @main.route("/", methods = ["GET", "POST"])
 def index():
     form = topForm()
+    formSim = simForm()
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
@@ -57,6 +62,12 @@ def index():
         tuser_id = form.user_id.data
         tcount = form.count.data
         return redirect(url_for('top_ratings', user_id = tuser_id, count = tcount))
+
+    if formSim.validate_on_submit():
+        smov_id = formSim.movie_id.data
+        scount = formSim.count.data
+        return redirect(url_for('sim_movies', movie_id = smov_id, count = scount))
+
     if formIndv.validate_on_submit():
         indv_user = formIndv.user_id.data
         indv_mov = formIndv.movie_id.data
@@ -77,6 +88,7 @@ def index():
 @main.route("/<int:user_id>/ratings/top/<int:count>", methods=["GET"])
 def top_ratings(user_id, count):
     form = topForm()
+    formSim = simForm()
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
@@ -88,11 +100,24 @@ def top_ratings(user_id, count):
     top_ratings = recommendation_engine.recommend_top_movies(user_id,count)
     list = top_ratings
     return render_template('index.html', **locals())
+
+@main.route("/<int:movie_id>/simMovies/top/<int:count>", methods=["GET"])
+def sim_movies(movie_id, count):
+    form = topForm()
+    formSim = simForm()
+    formIndv = indvForm()
+    formTag = tagForm()
+    formCat = catForm()
+    formPop = popForm()
+    top_ratings = recommendation_engine.get_similar_item(movie_id, count)
+    sim_list = top_ratings
+    return render_template('index.html', **locals())
  
 @main.route("/<int:user_id>/ratings/<int:movie_id>", methods=["GET"])
 def movie_ratings(user_id, movie_id):
     #logger.debug("User %s rating requested for movie %s", user_id, movie_id)
     form = topForm()
+    formSim = simForm()
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
@@ -109,6 +134,7 @@ def movie_ratings(user_id, movie_id):
 @main.route("/<int:movie_id>", methods=["GET"])
 def movie_tags(movie_id):
     form = topForm()
+    formSim = simForm()
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
@@ -127,6 +153,7 @@ def movie_tags(movie_id):
 @main.route("/<string:category>/category/top/<int:count>", methods=["GET"])
 def category(category,count):
     form = topForm()
+    formSim = simForm()
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
@@ -149,6 +176,7 @@ def category(category,count):
 @main.route("/<string:popularity>/popularity/top/<int:count>", methods=["GET"])
 def popularity(popularity,count):
     form = topForm()
+    formSim = simForm()
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()
@@ -171,6 +199,7 @@ def popularity(popularity,count):
 @main.route("/newuser", methods=["POST"])
 def newuser():
     form = topForm()
+    formSim = simForm()
     formIndv = indvForm()
     formTag = tagForm()
     formCat = catForm()

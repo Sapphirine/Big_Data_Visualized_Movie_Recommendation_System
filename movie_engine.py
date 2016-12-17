@@ -4,6 +4,7 @@ from pyspark.mllib.linalg.distributed import RowMatrix
 from pyspark.mllib.clustering import KMeans
 import logging
 import sys
+import numpy as np
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -149,6 +150,20 @@ class RecEngine:
 						   .map(lambda m: (m[1][1], m[1][0], m[0]))\
 						   .takeOrdered(number, key=lambda x: -x[1])
         return ratings_final
+	
+    def get_similar_item(self, movie_id, number):
+	#prepare the movie factors
+	movieFac = self.model.productFeatures().lookup(movie_id)[0]
+	def covtemp(rdd):
+		movie_id, (ratings, title) = rdd
+		return title, ratings, movie_id		
+	similar_list = self.model.productFeatures()\
+		.map(lambda (movie_id, movie_fac):(movie_id,np.dot(np.array(movie_fac),np.array(movieFac))/(np.linalg.norm(np.array(movie_fac))*np.linalg.norm(np.array(movieFac)))))\
+		.join(self.movies)\
+		.map(covtemp)\
+		.sortBy(lambda x: x[1], False).take(number)
+	#Sprint(similar_list)
+	return similar_list
 	
     def ratings_new_user(self, file):
 	new_ratings = self.sc.textFile(file)
@@ -544,8 +559,8 @@ class RecEngine:
 			.map(lambda entry: (int(entry[0]), int(entry[1]), float(entry[2]))).cache()
 
 	logger.info("Start to Read movies.csv ... ")
-	#raw_movies = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
-	raw_movies = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/movies.csv")
+	raw_movies = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/movies.csv")
+	#raw_movies = self.sc.textFile("file:///home/bjt/Downloads/ml-latest/movies.csv")
 	#entry[0]: Movie ID; entry[1]: Title; entry[2]: Genere
 	first_line = raw_movies.first()
 	self.movies = raw_movies.filter(lambda temp: temp != first_line)\
@@ -562,6 +577,8 @@ class RecEngine:
         logger.info("Train the ALS model ...")
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
         logger.info("Successfully build ALS model!")
+	#list = self.get_similar_item(100, 10)
+	#print(str(list))
 	#uncomment to do the kmeans clusters for movies and users
 	#self.kmeans_result(raw_ratings,raw_movies)
 	#Uncomment the following to do some test of new added ratings. 

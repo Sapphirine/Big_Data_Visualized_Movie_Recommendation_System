@@ -1,0 +1,367 @@
+movieId,title,genres
+65216,Defiance (2008),5.0
+2897,And the Ship Sails On (E la nave va) (1983),5.0
+108709,Generation Kill (2008),5.0
+31973,Germany Year Zero (Germania anno zero) (Deutschland im Jahre Null) (1948),5.0
+58649,Napoléon (1927),5.0
+1450,Prisoner of the Mountains (Kavkazsky plennik) (1996),5.0
+26150,Andrei Rublev (Andrey Rublyov) (1969),5.0
+126430,The Pacific (2010),5.0
+97826,Patience Stone. The (2012),5.0
+26791,Shining Through (1992),5.0
+8675,Enemy Below. The (1957),5.0
+6107,Night of the Shooting Stars (Notte di San Lorenzo. La) (1982),5.0
+77435,This Is the Army (1943),5.0
+32515,Walker (1987),5.0
+4338,Twelve O'Clock High (1949),4.75
+93040,Civil War. The (1990),4.66666666667
+41527,Paradise Now (2005),4.66666666667
+1939,Best Years of Our Lives. The (1946),4.63636363636
+632,Land and Freedom (Tierra y libertad) (1995),4.5
+62764,Black Moon (1975),4.5
+7936,Shame (Skammen) (1968),4.5
+39768,Life is a Miracle (Zivot je cudo) (2004),4.5
+69849,Roots (1977),4.5
+120821,The War at Home (1979),4.5
+4349,Catch-22 (1970),4.5
+64501,Che: Part Two (2008),4.5
+8730,To End All Wars (2001),4.5
+149606,Bajirao Mastani (2015),4.5
+26007,Unknown Soldier. The (Tuntematon sotilas) (1955),4.5
+75823,Combat Shock (1986),4.5
+4407,Salvador (1986),4.5
+6447,Duel at Diablo (1966),4.5
+31547,Lessons of Darkness (Lektionen in Finsternis) (1992),4.5
+64499,Che: Part One (2008),4.5
+7787,To Hell and Back (1955),4.5
+1217,Ran (1985),4.42307692308
+969,African Queen. The (1951),4.42
+3035,Mister Roberts (1955),4.41176470588
+7502,Band of Brothers (2001),4.38636363636
+1178,Paths of Glory (1957),4.36666666667
+2202,Lifeboat (1944),4.36363636364
+40414,Joyeux Noël (Merry Christmas) (2005),4.33333333333
+2670,Run Silent Run Deep (1958),4.33333333333
+527,Schindler's List (1993),4.30327868852
+946,To Be or Not to Be (1942),4.3
+1927,All Quiet on the Western Front (1930),4.28571428571
+1299,Killing Fields. The (1984),4.27142857143
+61236,Waltz with Bashir (Vals im Bashir) (2008),4.25
+8589,Winter War (Talvisota) (1989),4.25
+1925,Wings (1927),4.25
+55253,Lust. Caution (Se. jie) (2007),4.25
+106441,Book Thief. The (2013),4.25
+3022,General. The (1926),4.25
+6818,Come and See (Idi i smotri) (1985),4.25
+5799,Exodus (1960),4.25
+5915,Victory (a.k.a. Escape to Victory) (1981),4.25
+1204,Lawrence of Arabia (1962),4.21568627451
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),4.20952380952
+3134,Grand Illusion (La grande illusion) (1937),4.20833333333
+58303,Counterfeiters. The (Die Fälscher) (2007),4.2
+1224,Henry V (1989),4.18181818182
+1233,Boot. Das (Boat. The) (1981),4.16666666667
+5801,Russians Are Coming. the Russians Are Coming. The (1966),4.16666666667
+1250,Bridge on the River Kwai. The (1957),4.13846153846
+1208,Apocalypse Now (1979),4.13839285714
+68157,Inglourious Basterds (2009),4.13559322034
+69481,Hurt Locker. The (2008),4.13461538462
+1256,Duck Soup (1933),4.13235294118
+5995,Pianist. The (2002),4.13114754098
+3406,Captain Horatio Hornblower R.N. (1951),4.125
+1267,Manchurian Candidate. The (1962),4.12244897959
+3724,Coming Home (1978),4.11538461538
+73,Misérables. Les (1995),4.11538461538
+116797,The Imitation Game (2014),4.109375
+1272,Patton (1970),4.1
+3091,Kagemusha (1980),4.1
+3062,Longest Day. The (1962),4.09090909091
+4802,Operation Petticoat (1959),4.08333333333
+26131,Battle of Algiers. The (La battaglia di Algeri) (1966),4.08333333333
+7766,Throne of Blood (Kumonosu jô) (1957),4.07142857143
+4103,Empire of the Sun (1987),4.07142857143
+1161,Tin Drum. The (Blechtrommel. Die) (1979),4.0625
+64034,Boy in the Striped Pajamas. The (Boy in the Striped Pyjamas. The) (2008),4.0625
+356,Forrest Gump (1994),4.05425219941
+50068,Letters from Iwo Jima (2006),4.04545454545
+920,Gone with the Wind (1939),4.04411764706
+1281,Great Dictator. The (1940),4.04347826087
+49530,Blood Diamond (2006),4.04054054054
+3654,Guns of Navarone. The (1961),4.03846153846
+1222,Full Metal Jacket (1987),4.03365384615
+2324,Life Is Beautiful (La Vita è bella) (1997),4.02525252525
+41,Richard III (1995),4.02173913043
+32892,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),4.0
+34536,The Great Raid (2005),4.0
+1936,Mrs. Miniver (1942),4.0
+49688,Dam Busters. The (1955),4.0
+3628,Flying Tigers (1942),4.0
+68872,Paisan (Paisà) (1946),4.0
+5208,Ninth Configuration. The (a.k.a. Twinkle. Twinkle. Killer Kane) (1980),4.0
+5288,Atomic Cafe. The (1982),4.0
+48032,Tiger and the Snow. The (La tigre e la neve) (2005),4.0
+7156,Fog of War: Eleven Lessons from the Life of Robert S. McNamara. The (2003),4.0
+389,Colonel Chabert. Le (1994),4.0
+49265,Shooting Dogs (a.k.a. Beyond the Gates) (2005),4.0
+86781,Incendies (2010),4.0
+26325,Hearts and Minds (1974),4.0
+27397,Joint Security Area (Gongdong gyeongbi guyeok JSA) (2000),4.0
+4353,Uncommon Valor (1983),4.0
+4473,Bat*21 (1988),4.0
+4577,Casualties of War (1989),4.0
+9001,Wackiest Ship in the Army. The (1960),4.0
+5825,Life and Death of Colonel Blimp. The (1943),4.0
+7025,Midnight Clear. A (1992),4.0
+26086,Occurrence at Owl Creek Bridge. An (La rivière du hibou) (1962),4.0
+966,A Walk in the Sun (1945),4.0
+7238,Ashes and Diamonds (Popiól i diament) (1958),4.0
+27410,Conspiracy (2001),4.0
+68486,Red Cliff Part II (Chi Bi Xia: Jue Zhan Tian Xia) (2009),4.0
+3342,Birdy (1984),4.0
+3414,Love Is a Many-Splendored Thing (1955),4.0
+3854,Aimée & Jaguar (1999),4.0
+7586,Soldier of Orange (a.k.a. Survival Run) (Soldaat van Oranje) (1977),4.0
+4842,Dogs of War. The (1980),4.0
+5690,Grave of the Fireflies (Hotaru no haka) (1988),4.0
+61026,Red Cliff (Chi bi) (2008),4.0
+33750,Innocent Voices (Voces inocentes) (2004),4.0
+141890,Beasts of No Nation (2015),4.0
+42351,Threads (1984),4.0
+52319,Inglorious Bastards (Quel maledetto treno blindato) (1978),4.0
+3143,Hell in the Pacific (1968),4.0
+7215,To Have and Have Not (1944),4.0
+4475,Beast of War. The (Beast. The) (1988),4.0
+4923,Guadalcanal Diary (1943),4.0
+46559,Road to Guantanamo. The (2006),4.0
+5899,Zulu (1964),4.0
+6235,Europa Europa (Hitlerjunge Salomon) (1990),4.0
+7307,Flesh & Blood (1985),4.0
+7379,The Alamo (2004),4.0
+30749,Hotel Rwanda (2004),3.984375
+87232,X-Men: First Class (2011),3.98214285714
+31410,Downfall (Untergang. Der) (2004),3.975
+65514,Ip Man (2008),3.95833333333
+3196,Stalag 17 (1953),3.95
+5876,Quiet American. The (2002),3.95
+1262,Great Escape. The (1963),3.94897959184
+110,Braveheart (1995),3.9451754386
+2028,Saving Private Ryan (1998),3.94502617801
+3811,Breaker Morant (1980),3.94444444444
+4967,No Man's Land (2001),3.94444444444
+1090,Platoon (1986),3.93382352941
+1944,From Here to Eternity (1953),3.925
+2728,Spartacus (1960),3.92105263158
+27721,Very Long Engagement. A (Un long dimanche de fiançailles) (2004),3.90909090909
+8582,Manufacturing Consent: Noam Chomsky and the Media (1992),3.9
+4033,Thirteen Days (2000),3.88888888889
+6561,Mouse That Roared. The (1959),3.875
+48783,Flags of Our Fathers (2006),3.875
+1263,Deer Hunter. The (1978),3.86458333333
+56788,Charlie Wilson's War (2007),3.85714285714
+1078,Bananas (1971),3.84210526316
+1242,Glory (1989),3.83620689655
+55052,Atonement (2007),3.83333333333
+7840,Gunga Din (1939),3.83333333333
+2075,Mephisto (1981),3.83333333333
+4111,Gardens of Stone (1987),3.83333333333
+161,Crimson Tide (1995),3.83125
+1670,Welcome to Sarajevo (1997),3.8
+2919,Year of Living Dangerously. The (1982),3.79411764706
+3742,Battleship Potemkin (1925),3.78125
+8724,Leopard. The (Gattopardo. Il) (1963),3.75
+5152,We Were Soldiers (2002),3.75
+31116,Sergeant York (1941),3.75
+115210,Fury (2014),3.75
+7122,King of Hearts (1966),3.75
+31150,Wizards (1977),3.75
+5060,M*A*S*H (a.k.a. MASH) (1970),3.74576271186
+2890,Three Kings (1999),3.73913043478
+5010,Black Hawk Down (2001),3.72448979592
+8493,Memphis Belle (1990),3.71428571429
+5747,Gallipoli (1981),3.71428571429
+1663,Stripes (1981),3.7
+4223,Enemy at the Gates (2001),3.68918918919
+36529,Lord of War (2005),3.67741935484
+2944,Dirty Dozen. The (1967),3.67142857143
+43376,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),3.66666666667
+8197,Hiroshima Mon Amour (1959),3.66666666667
+8337,Caine Mutiny. The (1954),3.66666666667
+9018,Control Room (2004),3.66666666667
+53550,Rescue Dawn (2006),3.66666666667
+3448,Good Morning. Vietnam (1987),3.66037735849
+88140,Captain America: The First Avenger (2011),3.65909090909
+2067,Doctor Zhivago (1965),3.65909090909
+1873,Misérables. Les (1998),3.65384615385
+2106,Swing Kids (1993),3.65
+4008,Born on the Fourth of July (1989),3.64583333333
+7143,Last Samurai. The (2003),3.64444444444
+647,Courage Under Fire (1996),3.62903225806
+897,For Whom the Bell Tolls (1943),3.625
+4339,Von Ryan's Express (1965),3.625
+1408,Last of the Mohicans. The (1992),3.61627906977
+1183,English Patient. The (1996),3.60135135135
+5686,Russian Ark (Russkiy Kovcheg) (2002),3.6
+57528,Rambo (Rambo 4) (2008),3.58333333333
+151,Rob Roy (1995),3.5625
+51662,300 (2007),3.5593220339
+1616,Peacemaker. The (1997),3.53571428571
+8484,Human Condition I. The (Ningen no joken I) (1959),3.5
+33124,Before the Fall (NaPolA - Elite für den Führer) (2004),3.5
+6896,Shoah (1985),3.5
+2436,Tea with Mussolini (1999),3.5
+3836,Kelly's Heroes (1970),3.5
+79796,Centurion (2010),3.5
+58376,Zeitgeist: The Movie (2007),3.5
+6416,King Rat (1965),3.5
+465,Heaven & Earth (1993),3.5
+42681,49th Parallel (1941),3.5
+3117,Ride with the Devil (1999),3.5
+3377,Hangmen Also Die! (1943),3.5
+107069,Lone Survivor (2013),3.5
+8977,Alexander (2004),3.5
+5001,Sahara (1943),3.5
+5373,Cranes Are Flying. The (Letyat zhuravli) (1957),3.5
+7809,Ambush (Rukajärven tie) (1999),3.5
+91126,War Horse (2011),3.5
+1398,In Love and War (1996),3.5
+4194,I Know Where I'm Going! (1945),3.5
+4826,Big Red One. The (1980),3.5
+26122,Onibaba (1964),3.5
+40278,Jarhead (2005),3.5
+26003,Night and Fog (Nuit et brouillard) (1955),3.5
+3519,Force 10 from Navarone (1978),3.5
+3643,Fighting Seabees. The (1944),3.5
+4047,Gettysburg (1993),3.5
+4795,Father Goose (1964),3.5
+5107,Hart's War (2002),3.5
+82931,Last Circus. The (Balada triste de trompeta) (Sad Trumpet Ballad. A) (2010),3.5
+46855,Army of Shadows (L'armée des ombres) (1969),3.5
+7303,The Diary of Anne Frank (1959),3.5
+72479,Messenger. The (2009),3.5
+266,Legends of the Fall (1994),3.48630136986
+6947,Master and Commander: The Far Side of the World (2003),3.45588235294
+1619,Seven Years in Tibet (1997),3.44736842105
+98154,Lincoln (2012),3.42857142857
+27611,Battlestar Galactica (2003),3.42857142857
+61132,Tropic Thunder (2008),3.42105263158
+665,Underground (1995),3.4
+3992,Malèna (2000),3.375
+7560,Fail-Safe (1964),3.375
+7980,Bridge Too Far. A (1977),3.35714285714
+64983,Valkyrie (2008),3.35714285714
+3066,Tora! Tora! Tora! (1970),3.35
+2427,Thin Red Line. The (1998),3.34722222222
+760,Stalingrad (1993),3.33333333333
+2669,Pork Chop Hill (1959),3.33333333333
+2730,Barry Lyndon (1975),3.33333333333
+3766,Missing in Action (1984),3.33333333333
+6422,Shenandoah (1965),3.33333333333
+81158,Restrepo (2010),3.33333333333
+5611,Four Feathers. The (2002),3.33333333333
+3753,Patriot. The (2000),3.29230769231
+7162,Cold Mountain (2003),3.28125
+2941,South Pacific (1958),3.25
+4042,Alamo. The (1960),3.25
+74795,Green Zone (2010),3.21428571429
+7458,Troy (2004),3.1875
+466,Hot Shots! Part Deux (1993),3.16949152542
+58306,Mongol (2007),3.16666666667
+6982,Forbidden Games (Jeux interdits) (1952),3.16666666667
+63853,Australia (2008),3.125
+155,Beyond Rangoon (1995),3.05555555556
+336,Walking Dead. The (1995),3.0
+340,War. The (1994),3.0
+8700,Destination Tokyo (1943),3.0
+3768,Braddock: Missing in Action III (1988),3.0
+5304,Rome. Open City (a.k.a. Open City) (Roma. città aperta) (1945),3.0
+976,Farewell to Arms. A (1932),3.0
+7248,Suriyothai (a.k.a. Legend of Suriyothai. The) (2001),3.0
+66544,Nuremberg (2000),3.0
+32853,Sorrow and the Pity. The (Le chagrin et la pitié) (1969),3.0
+8257,Battleground (1949),3.0
+27869,Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004),3.0
+3985,Eagle Has Landed. The (1976),3.0
+4337,Sand Pebbles. The (1966),3.0
+5965,Duellists. The (1977),3.0
+36553,In Old Chicago (1937),3.0
+7065,Birth of a Nation. The (1915),3.0
+72605,Brothers (2009),3.0
+214,Before the Rain (Pred dozhdot) (1994),3.0
+2322,Soldier (1998),3.0
+8690,Slaughterhouse-Five (1972),3.0
+4902,Devil's Backbone. The (Espinazo del diablo. El) (2001),3.0
+6458,Blue Max. The (1966),3.0
+6518,Flight of the Intruder (1991),3.0
+48198,Streamers (1983),3.0
+32022,Gunner Palace (2004),3.0
+8190,Americanization of Emily. The (1964),3.0
+1507,Paradise Road (1997),3.0
+3339,Cross of Iron (1977),3.0
+5651,Incredible Mr. Limpet. The (1964),3.0
+117871,Water Diviner. The (2014),3.0
+6431,Battle Cry (1955),3.0
+4958,Behind Enemy Lines (2001),2.95833333333
+5541,Hot Shots! (1991),2.95454545455
+33162,Kingdom of Heaven (2005),2.95
+6263,Basic (2003),2.9
+3555,U-571 (2000),2.87931034483
+4310,Pearl Harbor (2001),2.86904761905
+6450,Heaven Knows. Mr. Allison (1957),2.83333333333
+3053,Messenger: The Story of Joan of Arc. The (1999),2.8
+114662,American Sniper (2014),2.77777777778
+1920,Small Soldiers (1998),2.76470588235
+3441,Red Dawn (1984),2.75
+77866,Robin Hood (2010),2.75
+48319,Flyboys (2006),2.75
+87520,Transformers: Dark of the Moon (2011),2.72222222222
+6428,Two Mules for Sister Sara (1970),2.7
+2476,Heartbreak Ridge (1986),2.66666666667
+5420,Windtalkers (2002),2.66666666667
+7104,1941 (1979),2.625
+27704,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),2.5
+8640,King Arthur (2004),2.5
+2972,Red Sorghum (Hong gao liang) (1987),2.5
+27816,Saints and Soldiers (2003),2.5
+25916,They Were Expendable (1945),2.5
+118702,Unbroken (2014),2.5
+92234,Red Tails (2012),2.5
+8795,Musa the Warrior (Musa) (2001),2.5
+2815,Iron Eagle (1986),2.5
+5859,Southern Comfort (1981),2.5
+688,Operation Dumbo Drop (1995),2.45
+6808,Where Eagles Dare (1968),2.375
+157,Canadian Bacon (1995),2.375
+108928,Monuments Men. The (2014),2.33333333333
+4727,Captain Corelli's Mandolin (2001),2.33333333333
+85131,Battle: Los Angeles (2011),2.3125
+2404,Rambo III (1988),2.23076923077
+109673,300: Rise of an Empire (2014),2.1
+74688,Dear John (2010),2.0
+1696,Bent (1997),2.0
+52460,Pathfinder (2007),2.0
+4528,Off Limits (1988),2.0
+1445,McHale's Navy (1997),2.0
+77201,Valhalla Rising (2009),2.0
+5425,Dark Blue World (Tmavomodrý svet) (2001),2.0
+114766,SS Experiment Love Camp (Lager SSadis Kastrat Kommandantur) (1976),2.0
+6186,Gods and Generals (2003),2.0
+71810,Legionnaire (1998),2.0
+6498,Murphy's War (1971),2.0
+47894,Wind That Shakes the Barley. The (2006),2.0
+32174,Green Berets. The (1968),2.0
+8403,Helen of Troy (1956),2.0
+4207,Navy Seals (1990),2.0
+6103,Monsignor (1982),2.0
+2816,Iron Eagle II (1988),1.75
+27793,Starship Troopers 2: Hero of the Federation (2004),1.75
+36397,Valiant (2005),1.5
+64508,Starship Troopers 3: Marauder (2008),1.0
+473,In the Army Now (1994),1.0
+105121,Inescapable (2012),1.0
+5910,Bolero (Uns et les autres. Les) (1981),1.0
+3003,Train of Life (Train de vie) (1998),1.0
+32844,Waterloo Bridge (1940),0.5
+26009,Burmese Harp. The (Biruma no tategoto) (1956),0.5
+25901,Henry V (Chronicle History of King Henry the Fift with His Battell Fought at Agincourt in France. The) (1944),0.5
+53737,Night of the Generals. The (1967),0.5
+59834,100 Rifles (1969),0.5

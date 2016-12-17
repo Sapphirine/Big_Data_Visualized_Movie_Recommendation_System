@@ -557,7 +557,7 @@ class RecEngine:
 	self.aver_ratings = self.ratings.map(lambda entry:(entry[1], entry[2])).groupByKey().map(counts)
 	self.aver_ratings = self.aver_ratings.map(lambda x: (x[0], x[1][1]))
 	#print(self.aver_ratings.first())
-	#self.genere_catory()
+	self.genere_catory()
 	#self.get_movie_sort()
         logger.info("Train the ALS model ...")
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)

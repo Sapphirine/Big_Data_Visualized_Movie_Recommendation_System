@@ -136,7 +136,7 @@ def category(category,count):
     reader = user_rating_file.read()
     new_user_id=str(int(reader)+1)
     logger.info("Return top movies in the selected category")
-    path="./spark_content/movie_cluster/"+str(category)  
+    path="./movie_cluster/"+str(category)  
     f=open(path)
     reader=f.read().splitlines()
     all_category=[]

@@ -1,0 +1,792 @@
+movieId,title,ratings
+99764,It's Such a Beautiful Day (2012),5.0
+1692,Alien Escape (1995),5.0
+59392,Stargate: The Ark of Truth (2008),5.0
+5264,Clockstoppers (2002),5.0
+96832,Holy Motors (2012),5.0
+136449,Ghost in the Shell 2.0 (2008),5.0
+3837,Phantasm II (1988),5.0
+60674,Stargate: Continuum (2008),5.0
+92210,Disappearance of Haruhi Suzumiya. The (Suzumiya Haruhi no shôshitsu) (2010),5.0
+4626,Miracle Mile (1989),5.0
+5062,Seconds (1966),5.0
+84414,All-Star Superman (2011),5.0
+40226,Wild Zero (2000),5.0
+140751,Almost Normal (2005),5.0
+2938,Man Facing Southeast (1986),4.66666666667
+62764,Black Moon (1975),4.5
+2660,Thing from Another World. The (1951),4.5
+31184,Appleseed (Appurushîdo) (2004),4.5
+27156,Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo. kimi ni) (1997),4.5
+99609,Judas Kiss (2011),4.5
+26509,Electric Dreams (1984),4.5
+62049,1984 (1956),4.5
+105769,Congress. The (2013),4.5
+48501,G.O.R.A. (2004),4.5
+80026,Tekken (2010),4.5
+5746,Galaxy of Terror (Quest) (1981),4.5
+62331,Dead Leaves (2004),4.5
+104419,Justice League: Crisis on Two Earths (2010),4.5
+96655,Robot & Frank (2012),4.5
+7827,Cypher (2002),4.5
+2553,Village of the Damned (1960),4.4
+27728,Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004),4.33333333333
+3696,Night of the Creeps (1986),4.33333333333
+32898,Trip to the Moon. A (Voyage dans la lune. Le) (1902),4.33333333333
+98124,Batman: The Dark Knight Returns. Part 1 (2012),4.3
+108979,Cowboy Bebop (1998),4.3
+62336,FLCL (2000),4.25
+32825,Sexmission (Seksmisja) (1984),4.25
+8477,Jetée. La (1962),4.25
+26554,Quiet Earth. The (1985),4.25
+133771,The Lobster (2015),4.25
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),4.23290598291
+260,Star Wars: Episode IV - A New Hope (1977),4.22164948454
+2571,Matrix. The (1999),4.1833976834
+2648,Frankenstein (1931),4.16666666667
+79357,Mr. Nobody (2009),4.16666666667
+4553,They Live (1988),4.16666666667
+109487,Interstellar (2014),4.1511627907
+741,Ghost in the Shell (Kôkaku kidôtai) (1995),4.14814814815
+4552,Tetsuo. the Ironman (Tetsuo) (1988),4.125
+48780,Prestige. The (2006),4.125
+68237,Moon (2009),4.125
+65642,Timecrimes (Cronocrímenes. Los) (2007),4.125
+5522,Rollerball (1975),4.125
+4443,Outland (1981),4.125
+7361,Eternal Sunshine of the Spotless Mind (2004),4.12264150943
+2232,Cube (1997),4.11904761905
+110102,Captain America: The Winter Soldier (2014),4.11764705882
+968,Night of the Living Dead (1968),4.11111111111
+6184,Man Who Fell to Earth. The (1976),4.1
+134130,The Martian (2015),4.1
+7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),4.1
+52885,Paprika (Papurika) (2006),4.09090909091
+1223,Grand Day Out with Wallace and Gromit. A (1989),4.08974358974
+106920,Her (2013),4.08
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.06818181818
+1210,Star Wars: Episode VI - Return of the Jedi (1983),4.0599078341
+1077,Sleeper (1973),4.05128205128
+79132,Inception (2010),4.04954954955
+541,Blade Runner (1982),4.03767123288
+1199,Brazil (1985),4.03225806452
+671,Mystery Science Theater 3000: The Movie (1996),4.0303030303
+4878,Donnie Darko (2001),4.02688172043
+59315,Iron Man (2008),4.02666666667
+29,City of Lost Children. The (Cité des enfants perdus. La) (1995),4.025
+85414,Source Code (2011),4.02083333333
+1270,Back to the Future (1985),4.01548672566
+44191,V for Vendetta (2006),4.01369863014
+89745,Avengers. The (2012),4.01086956522
+70286,District 9 (2009),4.00943396226
+589,Terminator 2: Judgment Day (1991),4.00632911392
+8800,Code 46 (2003),4.0
+2256,Parasite (1982),4.0
+3576,Hidden. The (1987),4.0
+86320,Melancholia (2011),4.0
+86864,Mothra (Mosura) (1961),4.0
+5604,Man in the White Suit. The (1951),4.0
+47404,Mind Game (2004),4.0
+158956,Kill Command (2016),4.0
+85736,BURN-E (2008),4.0
+72308,Battlestar Galactica: The Plan (2009),4.0
+31660,Steamboy (Suchîmubôi) (2004),4.0
+130520,Home (2015),4.0
+81564,Megamind (2010),4.0
+72393,Fourth Kind. The (2009),4.0
+7649,Babylon 5: In the Beginning (1998),4.0
+60161,Futurama: The Beast with a Billion Backs (2008),4.0
+8537,Kaena: The Prophecy (Kaena: La prophétie) (2003),4.0
+2189,I Married A Strange Person! (1997),4.0
+2625,Black Mask (Hak hap) (1996),4.0
+3665,Curse of the Puppet Master (Puppet Master 6: The Curse) (1998),4.0
+4277,Lost World. The (1925),4.0
+4493,Critters 2: The Main Course (1988),4.0
+26701,Patlabor: The Movie (Kidô keisatsu patorebâ: The Movie) (1989),4.0
+5981,Day of the Triffids. The (1962),4.0
+31549,Fata Morgana (1971),4.0
+51709,Host. The (Gwoemul) (2006),4.0
+89881,Superman and the Mole-Men (1951),4.0
+3474,Retroactive (1997),4.0
+3934,Kronos (1957),4.0
+4454,More (1998),4.0
+4738,Happy Accidents (2000),4.0
+135266,Zenon: The Zequel (2001),4.0
+1206,Clockwork Orange. A (1971),4.0
+106762,Trigun: Badlands Rumble (2010),4.0
+32554,Memories (Memorîzu) (1995),4.0
+6835,Alien Contamination (1980),4.0
+103,Unforgettable (1996),4.0
+115927,Doctor Strange (2007),4.0
+2091,Return from Witch Mountain (1978),4.0
+85179,Summer Wars (Samâ wôzu) (2009),4.0
+42351,Threads (1984),4.0
+26819,Fortress (1992),4.0
+3923,Return of the Fly (1959),4.0
+78967,Island of Dr. Moreau. The (1977),4.0
+4079,Amazon Women on the Moon (1987),4.0
+4131,Making Mr. Right (1987),4.0
+6959,Timeline (2003),4.0
+94799,Sound of My Voice (2011),4.0
+129191,The Clowns (1970),4.0
+44731,Stay Alive (2006),4.0
+1214,Alien (1979),3.98818897638
+112852,Guardians of the Galaxy (2014),3.98648648649
+87232,X-Men: First Class (2011),3.98214285714
+2010,Metropolis (1927),3.98076923077
+2664,Invasion of the Body Snatchers (1956),3.97368421053
+1240,Terminator. The (1984),3.95886075949
+2594,Open Your Eyes (Abre los ojos) (1997),3.94444444444
+115713,Ex Machina (2015),3.94230769231
+111759,Edge of Tomorrow (2014),3.94230769231
+2288,Thing. The (1982),3.92424242424
+1200,Aliens (1986),3.924
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),3.92346938776
+2117,1984 (Nineteen Eighty-Four) (1984),3.92307692308
+680,Alphaville (Alphaville. une étrange aventure de Lemmy Caution) (1965),3.91666666667
+62956,Futurama: Bender's Game (2008),3.91666666667
+55908,Man from Earth. The (2007),3.91666666667
+3070,Adventures of Buckaroo Banzai Across the 8th Dimension. The (1984),3.90909090909
+3471,Close Encounters of the Third Kind (1977),3.90322580645
+1682,Truman Show. The (1998),3.88686131387
+924,2001: A Space Odyssey (1968),3.88617886179
+122892,Avengers: Age of Ultron (2015),3.88461538462
+5444,Lilo & Stitch (2002),3.88095238095
+1356,Star Trek: First Contact (1996),3.87804878049
+2495,Fantastic Planet. The (Planète sauvage. La) (1973),3.875
+2363,Godzilla (Gojira) (1954),3.86363636364
+71135,Pandorum (2009),3.85714285714
+1232,Stalker (1979),3.85
+1274,Akira (1988),3.83823529412
+57504,Girl Who Leapt Through Time. The (Toki o kakeru shôjo) (2006),3.83333333333
+1301,Forbidden Planet (1956),3.83333333333
+2901,Phantasm (1979),3.83333333333
+56921,Battlestar Galactica: Razor (2007),3.83333333333
+68358,Star Trek (2009),3.83333333333
+6902,Interstate 60 (2002),3.83333333333
+56251,Futurama: Bender's Big Score (2007),3.83333333333
+89039,Another Earth (2011),3.83333333333
+3702,Mad Max (1979),3.82857142857
+2046,Flight of the Navigator (1986),3.82352941176
+3018,Re-Animator (1985),3.82142857143
+84152,Limitless (2011),3.81578947368
+6502,28 Days Later (2002),3.80769230769
+1253,Day the Earth Stood Still. The (1951),3.8
+4533,Return of the Living Dead. The (1985),3.8
+106642,Day of the Doctor. The (2013),3.8
+122900,Ant-Man (2015),3.79411764706
+3703,Road Warrior. The (Mad Max 2) (1981),3.79310344828
+88744,Rise of the Planet of the Apes (2011),3.79166666667
+111362,X-Men: Days of Future Past (2014),3.79166666667
+122882,Mad Max: Fury Road (2015),3.79032258065
+34405,Serenity (2005),3.7875
+6774,Videodrome (1983),3.78571428571
+102445,Star Trek Into Darkness (2013),3.775
+2761,Iron Giant. The (1999),3.77380952381
+1097,E.T. the Extra-Terrestrial (1982),3.76875
+2716,Ghostbusters (a.k.a. Ghost Busters) (1984),3.7619047619
+1340,Bride of Frankenstein. The (Bride of Frankenstein) (1935),3.75
+62376,City of Ember (2008),3.75
+7812,Babylon 5: Thirdspace (1998),3.75
+1374,Star Trek II: The Wrath of Khan (1982),3.75
+42718,District 13 (Banlieue 13) (2004),3.75
+52462,Aqua Teen Hunger Force Colon Movie Film for Theaters (2007),3.75
+8914,Primer (2004),3.75
+71106,Frequently Asked Questions About Time Travel (2009),3.75
+31150,Wizards (1977),3.75
+7123,Naked Lunch (1991),3.75
+98607,Redline (2009),3.75
+26603,Prince of Darkness (1987),3.75
+84187,Evangelion: 2.0 You Can (Not) Advance (Evangerion shin gekijôban: Ha) (2009),3.75
+7811,Babylon 5: The River of Souls (1998),3.75
+81083,Kaboom (2010),3.75
+135567,Independence Day: Resurgence (2016),3.75
+104841,Gravity (2013),3.74137931034
+1921,Pi (1998),3.7375
+5903,Equilibrium (2002),3.72857142857
+1584,Contact (1997),3.72826086957
+7569,You Only Live Twice (1967),3.72727272727
+94466,Black Mirror (2011),3.71428571429
+480,Jurassic Park (1993),3.70620437956
+60069,WALL·E (2008),3.70394736842
+1965,Repo Man (1984),3.6875
+8633,Last Starfighter. The (1984),3.6875
+6283,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),3.6875
+5445,Minority Report (2002),3.68695652174
+1653,Gattaca (1997),3.67857142857
+2454,Fly. The (1958),3.67857142857
+54995,Planet Terror (2007),3.67857142857
+1527,Fifth Element. The (1997),3.67796610169
+1748,Dark City (1998),3.67647058824
+27660,Animatrix. The (2003),3.67647058824
+3024,Piranha (1978),3.66666666667
+3700,Brother from Another Planet. The (1984),3.66666666667
+87192,Attack the Block (2011),3.66666666667
+52281,Grindhouse (2007),3.66666666667
+5054,Brainstorm (1983),3.66666666667
+7810,Babylon 5: A Call to Arms (1999),3.66666666667
+1580,Men in Black (a.k.a. MIB) (1997),3.66315789474
+1019,20.000 Leagues Under the Sea (1954),3.66216216216
+88140,Captain America: The First Avenger (2011),3.65909090909
+60684,Watchmen (2009),3.65384615385
+93840,Cabin in the Woods. The (2012),3.65384615385
+72998,Avatar (2009),3.64179104478
+5146,Vampire Hunter D: Bloodlust (Banpaia hantâ D) (2000),3.63636363636
+2529,Planet of the Apes (1968),3.63157894737
+33493,Star Wars: Episode III - Revenge of the Sith (2005),3.62903225806
+48774,Children of Men (2006),3.62790697674
+8636,Spider-Man 2 (2004),3.625
+56145,Mist. The (2007),3.625
+66934,Dr. Horrible's Sing-Along Blog (2008),3.625
+6790,Avalon (2001),3.625
+6979,WarGames (1983),3.62121212121
+3033,Spaceballs (1987),3.62068965517
+1396,Sneakers (1992),3.61764705882
+6333,X2: X-Men United (2003),3.61728395062
+1127,Abyss. The (1989),3.61267605634
+2613,Night of the Comet (1984),3.6
+3503,Solaris (Solyaris) (1972),3.6
+3927,Fantastic Voyage (1966),3.6
+2985,RoboCop (1987),3.59482758621
+66297,Futurama: Into the Wild Green Yonder (2009),3.58333333333
+3686,Flatliners (1990),3.575
+122920,Captain America: Civil War (2016),3.57142857143
+3032,Omega Man. The (1971),3.57142857143
+107406,Snowpiercer (2013),3.57142857143
+2968,Time Bandits (1981),3.56976744186
+3527,Predator (1987),3.56603773585
+3638,Moonraker (1979),3.5652173913
+2916,Total Recall (1990),3.5625
+2038,Cat from Outer Space. The (1978),3.5625
+3793,X-Men (2000),3.55905511811
+1924,Plan 9 from Outer Space (1959),3.55555555556
+103341,World's End. The (2013),3.55
+1255,Bad Taste (1987),3.54166666667
+5349,Spider-Man (2002),3.5223880597
+122886,Star Wars: Episode VII - The Force Awakens (2015),3.51724137931
+3175,Galaxy Quest (1999),3.50769230769
+65552,Replicant (2001),3.5
+512,Puppet Masters. The (1994),3.5
+115680,Time Lapse (2014),3.5
+9004,D.A.R.Y.L. (1985),3.5
+1376,Star Trek IV: The Voyage Home (1986),3.5
+8544,Now You See Him. Now You Don't (1972),3.5
+31804,Night Watch (Nochnoy dozor) (2004),3.5
+2656,Tarantula (1955),3.5
+3008,Last Night (1998),3.5
+26492,Twilight Zone: The Movie (1983),3.5
+60760,X-Files: I Want to Believe. The (2008),3.5
+3660,Puppet Master (1989),3.5
+51412,Next (2007),3.5
+5544,Time After Time (1979),3.5
+72380,Box. The (2009),3.5
+7984,From Beyond (1986),3.5
+27800,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003),3.5
+71205,Jennifer's Body (2009),3.5
+90345,Thing. The (2011),3.5
+2173,Navigator: A Mediaeval Odyssey. The (1988),3.5
+2661,It Came from Outer Space (1953),3.5
+4213,Deepstar Six (1989),3.5
+5305,Return of the Killer Tomatoes! (1988),3.5
+68945,Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei) (1997),3.5
+102125,Iron Man 3 (2013),3.5
+44849,Renaissance (2006),3.5
+7001,Invasion of the Body Snatchers (1978),3.5
+93805,Iron Sky (2012),3.5
+80969,Never Let Me Go (2010),3.5
+7817,Zardoz (1974),3.5
+3758,Communion (1989),3.5
+4006,Transformers: The Movie (1986),3.5
+4414,X: The Man with the X-Ray Eyes (1963),3.5
+100450,Battlestar Galactica: Blood & Chrome (2012),3.5
+70282,Aliens in the Attic (2009),3.5
+5046,Impostor (2002),3.5
+5830,Mysterious Island (1961),3.5
+96610,Looper (2012),3.5
+31270,Shivers (They Came from Within) (1975),3.5
+6966,Darkman (1990),3.5
+72630,Sleep Dealer (2008),3.5
+92694,Perfect Sense (2011),3.5
+89470,Contagion (2011),3.5
+8591,Philadelphia Experiment. The (1984),3.5
+2287,Them! (1954),3.5
+59935,Flesh Gordon (1974),3.5
+112623,Dawn of the Planet of the Apes (2014),3.5
+3687,Light Years (Gandahar) (1988),3.5
+80083,Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989),3.5
+103659,Justice League: The Flashpoint Paradox (2013),3.5
+62383,20.000 Leagues Under the Sea (1916),3.5
+111235,Jodorowsky's Dune (2013),3.5
+8147,Charly (1968),3.5
+780,Independence Day (a.k.a. ID4) (1996),3.48394495413
+2011,Back to the Future Part II (1989),3.4797979798
+2105,Tron (1982),3.47872340426
+2009,Soylent Green (1973),3.47058823529
+2393,Star Trek: Insurrection (1998),3.47058823529
+7254,The Butterfly Effect (2004),3.46875
+77561,Iron Man 2 (2010),3.46551724138
+4571,Bill & Ted's Excellent Adventure (1989),3.4625
+49278,Déjà Vu (Deja Vu) (2006),3.46153846154
+4121,Innerspace (1987),3.45454545455
+3699,Starman (1984),3.45454545455
+117529,Jurassic World (2015),3.44444444444
+198,Strange Days (1995),3.44186046512
+3959,Time Machine. The (1960),3.4375
+2640,Superman (1978),3.43333333333
+97752,Cloud Atlas (2012),3.42857142857
+53000,28 Weeks Later (2007),3.42857142857
+27611,Battlestar Galactica (2003),3.42857142857
+6659,Tremors (1990),3.42307692308
+71057,9 (2009),3.41666666667
+134170,Kung Fury (2015),3.41666666667
+52328,Sunshine (2007),3.40909090909
+106002,Ender's Game (2013),3.40909090909
+3930,Creature from the Black Lagoon. The (1954),3.4
+114935,Predestination (2014),3.4
+2455,Fly. The (1986),3.39361702128
+27904,Scanner Darkly. A (2006),3.39285714286
+122904,Deadpool (2016),3.38888888889
+90405,In Time (2011),3.38888888889
+68791,Terminator Salvation (2009),3.38461538462
+2527,Westworld (1973),3.38461538462
+91500,The Hunger Games (2012),3.38157894737
+61248,Death Race (2008),3.375
+7481,Enemy Mine (1985),3.375
+87306,Super 8 (2011),3.375
+27266,2046 (2004),3.375
+316,Stargate (1994),3.36896551724
+2662,War of the Worlds. The (1953),3.36111111111
+329,Star Trek: Generations (1994),3.35087719298
+610,Heavy Metal (1981),3.34848484848
+8644,I. Robot (2004),3.34210526316
+76,Screamers (1995),3.33333333333
+4133,Masters of the Universe (1987),3.33333333333
+2554,Children of the Damned (1963),3.33333333333
+3770,Dreamscape (1984),3.33333333333
+2311,2010: The Year We Make Contact (1984),3.33333333333
+2615,My Science Project (1985),3.33333333333
+6303,Andromeda Strain. The (1971),3.33333333333
+95510,Amazing Spider-Man. The (2012),3.325
+45499,X-Men: The Last Stand (2006),3.31818181818
+3704,Mad Max Beyond Thunderdome (1985),3.31578947368
+1375,Star Trek III: The Search for Spock (1984),3.31481481481
+1129,Escape from New York (1981),3.3125
+3701,Alien Nation (1988),3.3125
+37830,Final Fantasy VII: Advent Children (2004),3.3125
+52287,Meet the Robinsons (2007),3.3125
+292,Outbreak (1995),3.30909090909
+57640,Hellboy II: The Golden Army (2008),3.30555555556
+3745,Titan A.E. (2000),3.30434782609
+2528,Logan's Run (1976),3.30357142857
+67408,Monsters vs. Aliens (2009),3.3
+70533,Evangelion: 1.0 You Are (Not) Alone (Evangerion shin gekijôban: Jo) (2007),3.3
+3994,Unbreakable (2000),3.29838709677
+33004,Hitchhiker's Guide to the Galaxy. The (2005),3.29411764706
+84954,Adjustment Bureau. The (2011),3.29166666667
+106487,The Hunger Games: Catching Fire (2013),3.28846153846
+748,Arrival. The (1996),3.27272727273
+3300,Pitch Black (2000),3.26923076923
+32031,Robots (2005),3.26923076923
+6365,Matrix Reloaded. The (2003),3.26829268293
+1372,Star Trek VI: The Undiscovered Country (1991),3.26595744681
+2012,Back to the Future Part III (1990),3.26595744681
+2094,Rocketeer. The (1991),3.265625
+379,Timecop (1994),3.2619047619
+3932,Invisible Man. The (1933),3.25
+6305,Fahrenheit 451 (1966),3.25
+6078,Firefox (1982),3.25
+7266,Lost Skeleton of Cadavra. The (2002),3.25
+6731,Day of the Dead (1985),3.25
+7743,Explorers (1985),3.25
+53996,Transformers (2007),3.22580645161
+1909,X-Files: Fight the Future. The (1998),3.22340425532
+2034,Black Hole. The (1979),3.22222222222
+27788,Jacket. The (2005),3.21428571429
+57368,Cloverfield (2008),3.21052631579
+2407,Cocoon (1985),3.20930232558
+4874,K-PAX (2001),3.20833333333
+332,Village of the Damned (1995),3.2
+504,No Escape (1994),3.2
+92420,Chronicle (2012),3.2
+101864,Oblivion (2013),3.2
+4713,Altered States (1980),3.2
+96737,Dredd (2012),3.2
+7842,Dune (2000),3.2
+8371,Chronicles of Riddick. The (2004),3.2
+2628,Star Wars: Episode I - The Phantom Menace (1999),3.19927536232
+2641,Superman II (1980),3.19736842105
+94777,Men in Black III (M.III.B.) (M.I.B.³) (2012),3.19230769231
+56174,I Am Legend (2007),3.19047619048
+3698,Running Man. The (1987),3.1875
+1320,Alien³ (a.k.a. Alien 3) (1992),3.18181818182
+60040,Incredible Hulk. The (2008),3.17647058824
+2657,Rocky Horror Picture Show. The (1975),3.1746031746
+109848,Under the Skin (2013),3.16666666667
+3833,Brain That Wouldn't Die. The (1962),3.16666666667
+5853,Scanners (1981),3.16666666667
+79057,Predators (2010),3.16666666667
+74685,Crazies. The (2010),3.16666666667
+426,Body Snatchers (1993),3.16666666667
+5502,Signs (2002),3.16666666667
+65982,Outlander (2008),3.16666666667
+2275,Six-String Samurai (1998),3.16666666667
+140711,American Ultra (2015),3.16666666667
+34319,Island. The (2005),3.15909090909
+1876,Deep Impact (1998),3.14583333333
+2532,Conquest of the Planet of the Apes (1972),3.14285714286
+8169,*batteries not included (1987),3.14285714286
+2134,Weird Science (1985),3.13888888889
+47997,Idiocracy (2006),3.13636363636
+1334,Blob. The (1958),3.13333333333
+273,Mary Shelley's Frankenstein (Frankenstein) (1994),3.12962962963
+2600,eXistenZ (1999),3.125
+103228,Pacific Rim (2013),3.125
+94864,Prometheus (2012),3.125
+1762,Deep Rising (1998),3.125
+80363,Resident Evil: Afterlife (2010),3.125
+5378,Star Wars: Episode II - Attack of the Clones (2002),3.10365853659
+4980,Bill & Ted's Bogus Journey (1991),3.1
+8870,Forgotten. The (2004),3.1
+1676,Starship Troopers (1997),3.09722222222
+2672,Thirteenth Floor. The (1999),3.08333333333
+2021,Dune (1984),3.08333333333
+788,Nutty Professor. The (1996),3.08088235294
+4545,Short Circuit (1986),3.07142857143
+4941,Flash Gordon (1980),3.07142857143
+132046,Tomorrowland (2015),3.07142857143
+2346,Stepford Wives. The (1975),3.07142857143
+71530,Surrogates (2009),3.07142857143
+1479,Saint. The (1997),3.07142857143
+5459,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),3.07142857143
+8361,Day After Tomorrow. The (2004),3.06
+1371,Star Trek: The Motion Picture (1979),3.05319148936
+1917,Armageddon (1998),3.04424778761
+24,Powder (1995),3.04411764706
+6934,Matrix Revolutions. The (2003),3.03703703704
+1690,Alien: Resurrection (1997),3.03333333333
+4446,Final Fantasy: The Spirits Within (2001),3.02631578947
+4975,Vanilla Sky (2001),3.01351351351
+74868,Dorian Gray (2009),3.0
+135536,Suicide Squad (2016),3.0
+2668,Swamp Thing (1982),3.0
+72104,Balance (1989),3.0
+2900,Monkey Shines (1988),3.0
+26480,Raiders of Atlantis. The (1983),3.0
+3664,Puppet Master 5: The Final Chapter (1994),3.0
+112804,I Origins (2014),3.0
+4480,Blob. The (1988),3.0
+4560,Watchers (1988),3.0
+4812,SpaceCamp (1986),3.0
+39052,Star Wreck: In the Pirkinning (2005),3.0
+122924,X-Men: Apocalypse (2016),3.0
+103772,Wolverine. The (2013),3.0
+74668,District 13: Ultimatum (Banlieue 13 - Ultimatum) (2009),3.0
+31156,Abbott and Costello Meet the Invisible Man (1951),3.0
+85780,Family Guy Presents: It's a Trap (2010),3.0
+7236,Boy and His Dog. A (1975),3.0
+98369,Halo 4: Forward Unto Dawn (2012),3.0
+90249,Real Steel (2011),3.0
+1433,The Machine (1994),3.0
+2681,Free Enterprise (1998),3.0
+95165,Dragon Ball Z the Movie: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon bôru Z: Kono yo de ichiban tsuyoi yatsu) (1990),3.0
+2913,The Mating Habits of the Earthbound Human (1999),3.0
+3661,Puppet Master II (1991),3.0
+75985,Repo Men (2010),3.0
+76077,Hot Tub Time Machine (2010),3.0
+6537,Terminator 3: Rise of the Machines (2003),3.0
+7845,Tremors II: Aftershocks (1996),3.0
+6645,THX 1138 (1971),3.0
+80917,Monsters (2010),3.0
+718,Visitors. The (Visiteurs. Les) (1993),3.0
+2322,Soldier (1998),3.0
+2526,Meteor (1979),3.0
+8690,Slaughterhouse-Five (1972),3.0
+3658,Quatermass and the Pit (1967),3.0
+3662,Puppet Master III: Toulon's Revenge (1991),3.0
+3926,Voyage to the Bottom of the Sea (1961),3.0
+4198,Battle Beyond the Stars (1980),3.0
+5018,Motorama (1991),3.0
+5638,Godzilla vs. Mothra (Mosura tai Gojira) (1964),3.0
+95182,Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen) (1990),3.0
+5882,Treasure Planet (2002),3.0
+161594,Kingsglaive: Final Fantasy XV (2016),3.0
+51698,Last Mimzy. The (2007),3.0
+32078,Godzilla vs. Mechagodzilla II (Gojira VS Mekagojira) (1993),3.0
+611,Hellraiser: Bloodline (1996),3.0
+3659,Quatermass 2 (Enemy from Space) (1957),3.0
+3663,Puppet Master 4 (1993),3.0
+2851,Saturn 3 (1980),3.0
+44671,Wild Blue Yonder. The (2005),3.0
+54771,Invasion. The (2007),3.0
+4887,One. The (2001),3.0
+4987,Spacehunter: Adventures in the Forbidden Zone (1983),3.0
+5219,Resident Evil (2002),3.0
+7003,Kafka (1991),3.0
+6239,Journey to the Center of the Earth (1959),3.0
+66171,Push (2009),3.0
+32395,Attack of the Mushroom People (Matango) (1963),3.0
+1391,Mars Attacks! (1996),2.99375
+3156,Bicentennial Man (1999),2.97222222222
+3438,Teenage Mutant Ninja Turtles (1990),2.97222222222
+442,Demolition Man (1993),2.96842105263
+1590,Event Horizon (1997),2.95652173913
+103042,Man of Steel (2013),2.95454545455
+5944,Star Trek: Nemesis (2002),2.95
+7163,Paycheck (2003),2.95
+93363,John Carter (2012),2.9375
+111364,Godzilla (2014),2.92857142857
+120799,Terminator Genisys (2015),2.92857142857
+4370,A.I. Artificial Intelligence (2001),2.92727272727
+68319,X-Men Origins: Wolverine (2009),2.91176470588
+4618,Leviathan (1989),2.9
+116823,The Hunger Games: Mockingjay - Part 1 (2014),2.9
+104243,Riddick (2013),2.9
+103253,Elysium (2013),2.89285714286
+1544,Lost World: Jurassic Park. The (1997),2.88805970149
+82461,Tron: Legacy (2010),2.88461538462
+55232,Resident Evil: Extinction (2007),2.875
+71254,Gamer (2009),2.875
+2530,Beneath the Planet of the Apes (1970),2.875
+6294,Bulletproof Monk (2003),2.875
+4643,Planet of the Apes (2001),2.875
+3697,Predator 2 (1990),2.86842105263
+114180,Maze Runner. The (2014),2.85714285714
+1306,Until the End of the World (Bis ans Ende der Welt) (1991),2.85714285714
+34048,War of the Worlds (2005),2.85
+6541,League of Extraordinary Gentlemen. The (a.k.a. LXG) (2003),2.85
+7841,Children of Dune (2003),2.83333333333
+1037,Lawnmower Man. The (1992),2.83333333333
+135518,Self/less (2015),2.83333333333
+7991,Death Race 2000 (1975),2.83333333333
+84772,Paul (2011),2.8125
+196,Species (1995),2.80909090909
+2365,King Kong vs. Godzilla (Kingukongu tai Gojira) (1962),2.8
+338,Virtuosity (1995),2.8
+4275,Krull (1983),2.78571428571
+1373,Star Trek V: The Final Frontier (1989),2.78
+3986,6th Day. The (2000),2.775
+2986,RoboCop 2 (1990),2.76315789474
+2717,Ghostbusters II (1989),2.75581395349
+208,Waterworld (1995),2.75221238938
+2364,Godzilla 1985: The Legend Is Reborn (Gojira) (Godzilla) (Return of Godzilla. The) (1984),2.75
+8861,Resident Evil: Apocalypse (2004),2.75
+135569,Star Trek 3 (2016),2.75
+72209,Astro Boy (2009),2.75
+72701,Planet 51 (2009),2.75
+135133,The Hunger Games: Mockingjay - Part 2 (2015),2.75
+60514,Journey to the Center of the Earth (2008),2.75
+69278,Land of the Lost (2009),2.75
+327,Tank Girl (1995),2.75
+56003,Southland Tales (2006),2.75
+2054,Honey. I Shrunk the Kids (1989),2.74342105263
+1779,Sphere (1998),2.73684210526
+2533,Escape from the Planet of the Apes (1971),2.73076923077
+8865,Sky Captain and the World of Tomorrow (2004),2.72727272727
+108190,Divergent (2014),2.72727272727
+2367,King Kong (1976),2.72727272727
+4343,Evolution (2001),2.725
+87520,Transformers: Dark of the Moon (2011),2.72222222222
+95875,Total Recall (2012),2.72222222222
+52722,Spider-Man 3 (2007),2.71739130435
+67197,Knowing (2009),2.71428571429
+256,Junior (1994),2.70238095238
+2525,Alligator (1980),2.7
+1591,Spawn (1997),2.7
+849,Escape from L.A. (1996),2.69642857143
+2136,Nutty Professor. The (1963),2.69444444444
+674,Barbarella (1968),2.69047619048
+673,Space Jam (1996),2.68
+61160,Star Wars: The Clone Wars (2008),2.66666666667
+2368,King Kong Lives (1986),2.66666666667
+85056,I Am Number Four (2011),2.66666666667
+3340,Bride of the Monster (1955),2.66666666667
+2531,Battle for the Planet of the Apes (1973),2.66666666667
+3827,Space Cowboys (2000),2.66666666667
+6395,Crazies. The (a.k.a. Code Name: Trixie) (1973),2.66666666667
+4015,Dude. Where's My Car? (2000),2.65909090909
+4587,Earth Girls Are Easy (1988),2.64285714286
+8810,AVP: Alien vs. Predator (2004),2.63888888889
+4492,Critters (1986),2.625
+3269,Forever Young (1992),2.625
+69526,Transformers: Revenge of the Fallen (2009),2.625
+46530,Superman Returns (2006),2.61538461538
+2428,Faculty. The (1998),2.59090909091
+2722,Deep Blue Sea (1999),2.57352941176
+172,Johnny Mnemonic (1995),2.57291666667
+1646,RocketMan (a.k.a. Rocket Man) (1997),2.57142857143
+3054,Pokémon: The First Movie (1998),2.57142857143
+173,Judge Dredd (1995),2.56428571429
+2808,Universal Soldier (1992),2.5625
+59615,Indiana Jones and the Kingdom of the Crystal Skull (2008),2.5625
+37386,Aeon Flux (2005),2.53846153846
+34150,Fantastic Four (2005),2.53333333333
+101076,G.I. Joe: Retaliation (2013),2.5
+127096,Project Almanac (2015),2.5
+95720,Watch. The (2012),2.5
+26320,Flesh for Frankenstein (a.k.a. Andy Warhol's Frankenstein) (1973),2.5
+60516,Meet Dave (2008),2.5
+4092,Cherry 2000 (1987),2.5
+4652,Return of Swamp Thing. The (1989),2.5
+4952,Morons From Outer Space (1985),2.5
+120392,Comet (2014),2.5
+6264,Core. The (2003),2.5
+81660,1990: The Bronx Warriors (1990: I guerrieri del Bronx) (1982),2.5
+71468,Ink (2009),2.5
+9005,Fire in the Sky (1993),2.5
+58297,Doomsday (2008),2.5
+75349,Teenage Caveman (2002),2.5
+59037,Speed Racer (2008),2.5
+2377,Lifeforce (1985),2.5
+92681,Journey 2: The Mysterious Island (2012),2.5
+26513,Ice Pirates. The (1984),2.5
+3937,Runaway (1984),2.5
+110553,The Amazing Spider-Man 2 (2014),2.5
+135137,Pixels (2015),2.5
+85261,Mars Needs Moms (2011),2.5
+5597,Suburban Commando (1991),2.5
+70305,Race to Witch Mountain (2009),2.5
+36509,Cave. The (2005),2.5
+64497,Day the Earth Stood Still. The (2008),2.5
+64997,War of the Worlds (2005),2.5
+113741,Coherence (2013),2.5
+1570,Tetsuo II: Body Hammer (1992),2.5
+71318,Terra (a.k.a. Battle for Terra) (2007),2.5
+3802,Freejack (1992),2.5
+61210,Mutant Chronicles (2008),2.5
+4526,My Stepmother Is an Alien (1988),2.5
+94018,Battleship (2012),2.5
+5478,Eight Legged Freaks (2002),2.5
+5530,Simone (S1m0ne) (2002),2.5
+7846,Tremors 3: Back to Perfection (2001),2.5
+8743,Biggles (1986),2.5
+2807,Universal Soldier: The Return (1999),2.5
+67799,The Butterfly Effect 3: Revelations (2009),2.5
+4691,Def-Con 4 (1985),2.5
+60471,Rogue (2007),2.5
+72043,Monsters vs Aliens: Mutant Pumpkins from Outer Space (2009),2.5
+70599,Time Traveler's Wife. The (2009),2.5
+88879,Gantz (2011),2.5
+4638,Jurassic Park III (2001),2.48387096774
+435,Coneheads (1993),2.46363636364
+2408,Cocoon: The Return (1988),2.4375
+136864,Batman v Superman: Dawn of Justice (2016),2.4375
+5881,Solaris (2002),2.4375
+70336,G.I. Joe: The Rise of Cobra (2009),2.41666666667
+3981,Red Planet (2000),2.41666666667
+72378,2012 (2009),2.41176470588
+2827,Astronaut's Wife. The (1999),2.40909090909
+87430,Green Lantern (2011),2.4
+1603,Mimic (1997),2.4
+519,RoboCop 3 (1993),2.39583333333
+880,Island of Dr. Moreau. The (1996),2.38
+6534,Hulk (2003),2.375
+737,Barb Wire (1996),2.36666666667
+2053,Honey. I Blew Up the Kid (1992),2.35294117647
+160,Congo (1995),2.34126984127
+5072,Metropolis (2001),2.33333333333
+108945,RoboCop (2014),2.33333333333
+60037,Happening. The (2008),2.33333333333
+2498,My Favorite Martian (1999),2.33333333333
+3326,What Planet Are You From? (2000),2.33333333333
+6250,Dreamcatcher (2003),2.33333333333
+6678,Handmaid's Tale. The (1990),2.33333333333
+130490,Insurgent (2015),2.33333333333
+40339,Chicken Little (2005),2.33333333333
+83613,Cowboys & Aliens (2011),2.3125
+1862,Species II (1998),2.3125
+85131,Battle: Los Angeles (2011),2.3125
+111360,Lucy (2014),2.28571428571
+58025,Jumper (2008),2.27272727273
+2642,Superman III (1983),2.27083333333
+3354,Mission to Mars (2000),2.26666666667
+3573,Carnosaur 2 (1995),2.25
+4625,Millennium (1989),2.25
+8830,Anacondas: The Hunt for the Blood Orchid (2004),2.25
+61350,Babylon A.D. (2008),2.25
+2456,Fly II. The (1989),2.21428571429
+2643,Superman IV: The Quest for Peace (1987),2.20833333333
+37380,Doom (2005),2.2
+6996,Highlander II: The Quickening (1991),2.2
+3826,Hollow Man (2000),2.18333333333
+1882,Godzilla (1998),2.17857142857
+113378,Giver. The (2014),2.16666666667
+5171,Time Machine. The (2002),2.16666666667
+43928,Ultraviolet (2006),2.14285714286
+1831,Lost in Space (1998),2.13461538462
+3864,Godzilla 2000 (Gojira ni-sen mireniamu) (1999),2.125
+34334,Stealth (2005),2.125
+59014,Superhero Movie (2008),2.125
+110730,Transcendence (2014),2.11111111111
+112370,Transformers: Age of Extinction (2014),2.1
+2549,Wing Commander (1999),2.05555555556
+2701,Wild Wild West (1999),2.03191489362
+43932,Pulse (2006),2.0
+2448,Virus (1999),2.0
+3780,Rocketship X-M (1950),2.0
+692,Solo (1996),2.0
+4544,Short Circuit 2 (1988),2.0
+27032,Who Am I? (Wo shi shei) (1998),2.0
+130576,Midnight Special (2015),2.0
+99917,Upstream Color (2013),2.0
+3401,Baby... Secret of the Lost Legend (1985),2.0
+160565,The Purge: Election Year (2016),2.0
+8137,Wasp Woman. The (1959),2.0
+66,Lawnmower Man 2: Beyond Cyberspace (1996),2.0
+122902,Fantastic Four (2015),2.0
+1750,Star Kid (1997),2.0
+78266,Splice (2009),2.0
+30894,White Noise (2005),2.0
+86982,Destroy All Monsters (Kaijû sôshingeki) (1968),2.0
+86835,Priest (2011),2.0
+96691,Resident Evil: Retribution (2012),2.0
+4735,Ghosts of Mars (2001),2.0
+5779,Piranha II: The Spawning (1981),2.0
+67867,Dragonball Evolution (2009),2.0
+53464,Fantastic Four: Rise of the Silver Surfer (2007),1.9375
+1726,Postman. The (1997),1.92857142857
+56801,AVPR: Aliens vs. Predator - Requiem (2007),1.875
+5523,Adventures of Pluto Nash. The (2002),1.8
+2450,Howard the Duck (1986),1.79166666667
+44828,Slither (2006),1.75
+27793,Starship Troopers 2: Hero of the Federation (2004),1.75
+8138,Attack of the Giant Leeches (1959),1.75
+109187,Zero Theorem. The (2013),1.75
+546,Super Mario Bros. (1993),1.73529411765
+5323,Jason X (2002),1.625
+91660,Darkest Hour. The (2011),1.5
+3572,Carnosaur (1993),1.5
+136800,Robot Overlords (2014),1.5
+103596,Sharknado (2013),1.5
+133377,Infini (2015),1.5
+113345,Jupiter Ascending (2015),1.5
+5410,Silent Running (1972),1.5
+161918,Sharknado 4: The 4th Awakens (2016),1.5
+143255,Narcopolis (2014),1.5
+93563,Lockout (2012),1.5
+82095,Skyline (2010),1.375
+3593,Battlefield Earth (2000),1.21052631579
+102880,After Earth (2013),1.2
+160080,Ghostbusters (2016),1.0
+64508,Starship Troopers 3: Marauder (2008),1.0
+91505,Clone (Womb) (2010),1.0
+26409,Clonus Horror. The (1979),1.0
+136305,Sharknado 3: Oh Hell No! (2015),1.0
+27482,Cube 2: Hypercube (2002),1.0
+3190,Supernova (2000),1.0
+5042,Forbidden Zone (1980),1.0
+5094,Rollerball (2002),1.0
+6302,Beginning of the End (1957),1.0
+26467,Day After. The (1983),1.0
+8447,This Island Earth (1955),1.0
+2507,Breakfast of Champions (1999),1.0
+5700,The Pumaman (1980),0.75
+3574,Carnosaur 3: Primal Species (1996),0.75
+159972,Approaching the Unknown (2016),0.5
+5356,Giant Spider Invasion. The (1975),0.5
+8136,Indestructible Man (1956),0.5
+3933,Killer Shrews. The (1959),0.5
+108689,I. Frankenstein (2014),0.5
+31290,Beastmaster 2: Through the Portal of Time (1991),0.5
+8963,It's All About Love (2003),0.5
+4051,Horrors of Spider Island (Ein Toter Hing im Netz) (1960),0.5
+161155,Sunspring (2016),0.5

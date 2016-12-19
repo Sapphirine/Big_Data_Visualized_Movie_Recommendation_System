@@ -1,5 +1,5 @@
-action movies average: 1.62019557716
-comedy movies average: 2.91543692264
-drama movies average: 3.37828792129
-docmenentary&adventure movies average: 3.39781029465
-horror&thiller movies average: 2.89414170755
+least popular[action movies average]: 1.62019557716
+popular[comedy movies average]: 2.91543692264
+very popular[drama movies average]: 3.37828792129
+most popular[docmenentary&adventure movies average]: 3.39781029465
+less popular[horror&thiller movies average]: 2.89414170755

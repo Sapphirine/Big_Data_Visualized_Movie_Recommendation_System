@@ -170,7 +170,6 @@ class RecEngine:
 	new_data = new_ratings.map(lambda temp: temp.split(","))\
 		   .map(lambda entry: (int(entry[0]), int(entry[1]), float(entry[2]))).cache()
 	self.ratings = self.ratings.union(new_data)
-	count_total = self.ratings.map(lambda entry:(entry[1], entry[2])).groupByKey().map(counts).map(lambda x: (x[0], x[1][0]))
 	self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
 
     def get_tags(self, final_score, key):

@@ -233,7 +233,7 @@ def newuser():
         if new_user_dict[item] != "I don't know":
             writer.writerow((user_id,item,new_user_dict[item]))
     new_user_file.close()
-    recommendation_engine.ratings_new_user('./datasets/new_user.csv')
+    recommendation_engine.ratings_new_user('file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/new_user.csv')
     return render_template('index.html', **locals())
 
 

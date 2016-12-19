@@ -2,13 +2,15 @@ The spark_content folder contains all Spark’s processed data, and it contains 
 
 1.movie_cluster folder: All the movies are categorized into different genres. For each category, Spark generates 
 	a file which contains all the movies belongs to that genre. All the movies are sorted by their average ratings. 
-	In the front end, customers are able to select their interested genres of movies. And Flask will access the files in the folder and represents the top rated movies of the selected genre.
+	In the front end, customers are able to select their interested genres of movies. And Flask will access the files in
+	the folder and represents the top rated movies of the selected genre.
+	
 2.popularity_ratings_sort: This folder contains the results of KMeans clustering. 
 	All the results are sorted by their average ratings.
 	
 3.user_clusters folder: All users are clustered into five different categories
 
 4.visualization folder: This folder has a sub-folder which is called tag-classification. 
-It contains all tag files for all the movies. Front-end will directly access the files from this folder to build word clouds.
+	It contains all tag files for all the movies. Front-end will directly access the files from this folder to build word clouds.
 
 

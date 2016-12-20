@@ -4,6 +4,7 @@ from pyspark.mllib.linalg.distributed import RowMatrix
 from pyspark.mllib.clustering import KMeans
 import logging
 import sys
+import math
 import numpy as np
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -538,6 +539,26 @@ class RecEngine:
 	fWestern.close()
 	fNone.close()
 		
+    def testALSModel(self, target_user):
+	sample = self.sc.textFile("file:///home/bjt/BigData/Spark/spark-2.0.1-bin-hadoop2.7/bigData/datasets/test_ALS.csv")
+	first_line = sample.first()
+	test = sample.filter(lambda temp: temp != first_line)\
+		.map(lambda temp: temp.split(","))\
+		.map(lambda x: ((int(x[0]), int(x[1])), float(x[2])))
+        raw_movies = self.ratings.filter(lambda rating: not rating[0] == target_user)\
+                                                 .map(lambda x: (target_user, x[1])).distinct()
+	ratings_final = self.model.predictAll(raw_movies).map(lambda item: (item.product, item.rating))\
+						   .join(self.movies)\
+						   .map(lambda m: ((int(target_user), m[0]) ,float(m[1][0]))).cache()
+	#print(ratings_final.first())
+	#print(test.first())
+	combine_list = test.join(ratings_final)
+	print("The List: \n")
+	for x in combine_list.collect():
+		print(str(x) + "\n")
+	RMSE = math.sqrt(combine_list.map(lambda x:((x[1][1]-x[1][0])*(x[1][1]-x[1][0]))).mean())
+	print("The RMSE Value: "+ str(RMSE))
+
 	
     def __init__(self, spark_content):
 	reload(sys)
@@ -576,6 +597,7 @@ class RecEngine:
         logger.info("Train the ALS model ...")
         self.model = ALS.train(self.ratings, 8, seed=5L, iterations=10, lambda_=0.1)
         logger.info("Successfully build ALS model!")
+#	self.testALSModel(15)
 	#list = self.get_similar_item(100, 10)
 	#print(str(list))
 	#uncomment to do the kmeans clusters for movies and users
